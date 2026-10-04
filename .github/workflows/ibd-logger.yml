@@ -1,0 +1,46 @@
+# .github/workflows/ibd-logger.yml
+name: IBD Daily Report Logger Pipeline
+
+on:
+  repository_dispatch:
+    types: [ibd_daily_update]
+  workflow_dispatch:
+    inputs:
+      raw_text:
+        description: 'Paste the raw report text (one or more === -delimited stories)'
+        required: true
+  schedule:
+    - cron: '0 */6 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  log-and-archive:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Run Logger Script
+        env:
+          REBUCKET_ONLY: ${{ github.event_name == 'schedule' && '1' || '0' }}
+          DISPATCH_CLIENT_PAYLOAD: ${{ toJson(github.event.client_payload) }}
+          MANUAL_RAW_TEXT: ${{ github.event.inputs.raw_text }}
+        run: python scripts/logger.py
+
+      - name: Commit Data Update
+        if: always()
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action Bot"
+          git add data/
+          git diff-index --quiet HEAD || git commit -m "🤖 System: Updated IBD Daily Report data [skip ci]"
+          git push origin main
