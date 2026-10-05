@@ -1,5 +1,214 @@
 [
   {
+    "timestamp": "2026-10-05T20:00:00+00:00",
+    "header": "Monday, October 5, 2026's Report",
+    "headline": "### 1: Broad Market Index Performance & Technical Structure.",
+    "summary": "### 1: Broad Market Index Performance & Technical Structure.",
+    "indexes": [
+      {
+        "name": "NASDAQ Composite",
+        "pct": "+1%",
+        "action": "Advanced 1% to achieve a new all-time high, closing near the peak of its daily trading range (~80% closing range). The rally is supported by a newly activated Power Trend, signaling sustained institutional strength and leadership in technology."
+      },
+      {
+        "name": "S&P 500",
+        "pct": "+0.7%",
+        "action": "Rose 0.7%, building on last week's trendline breakout. It faces clear overhead resistance before challenging its own all-time high territory."
+      },
+      {
+        "name": "Dow Jones Industrial Average",
+        "pct": "+0.3%",
+        "action": "Rose 0.3%, continuing to lag behind the broader market indexes."
+      },
+      {
+        "name": "Russell 2000 (Small Caps / IWM)",
+        "pct": "+0.7%",
+        "action": "Gained 0.7%, climbing back above its 10-day moving average line after finding technical support near its 200-day moving average line."
+      },
+      {
+        "name": "Market Exposure & Breadth",
+        "pct": "",
+        "action": "Recommended market exposure has been raised to 80%–100%. While broad breadth measures—such as the equal-weighted S&P (RSP) and NYSE Composite (NYA)—show the average stock lagging, capital is concentrating heavily in technology, semiconductors, and software leaders."
+      }
+    ],
+    "macro": [
+      {
+        "title": "10-Year Treasury Yields",
+        "text": "Yields remain sticky near recent highs, creating ongoing interest rate headwinds for small caps. However, tech's ability to break out despite high yields highlights strong relative demand."
+      },
+      {
+        "title": "Brazil Country ETF (EWZ)",
+        "text": "Surged 13% on high volume following political shifts from presidential election runoff results, breaking out alongside individual Brazilian stocks like XP and Petrobras (PBR)."
+      },
+      {
+        "title": "ARK Innovation ETF (ARKK)",
+        "text": "Rose 3.3%, outperforming the NASDAQ and signaling a return of speculative risk-on appetite for high-growth tech plays."
+      },
+      {
+        "title": "Energy ETF (XLE)",
+        "text": "Advanced 1%, retaking support at its 21-day moving average line to present a sector-level pullback buy setup, even as crude oil proxy USO experienced recent pullbacks."
+      }
+    ],
+    "sectors": [],
+    "stocks": [
+      {
+        "ticker": "SHOP",
+        "tickers": [
+          "SHOP"
+        ],
+        "company": "Shopify",
+        "pct": "+5%",
+        "action": "Technical Action: Advanced 5%–6%, clearing the left-side peak of a cup-with-handle base. | Fundamentals & Catalysts: Features accelerating top-line growth and an A Accumulation/Distribution rating. Benefiting from merchant adoption surrounding Meta's \"Muse\" AI agent (which Amazon blocked, but Shopify enabled). | Trading Tactics: Extended beyond the initial 5% buy zone on relatively light volume; analysts recommend waiting for tight sideways consolidation or a bounce off the 21-day moving average line before buying."
+      },
+      {
+        "ticker": "TSM",
+        "tickers": [
+          "TSM"
+        ],
+        "company": "Taiwan Semiconductor",
+        "pct": "",
+        "action": "Technical Action: Broke out above its 479 entry from a stage-4 cup base to reach new highs, displaying a Relative Strength (RS) line blue dot. | Fundamentals: The $2 trillion semiconductor manufacturing leader continues to log double-digit top- and bottom-line growth. | Earnings Warning: With earnings scheduled in roughly 10 calendar days, investors should evaluate whether they hold a sufficient profit cushion (~10% target cushion or analyzing options market expected moves vs. the 7–8% sell rule) before holding through the report."
+      },
+      {
+        "ticker": "GH",
+        "tickers": [
+          "GH"
+        ],
+        "company": "Guardant Health",
+        "pct": "",
+        "action": "Technical Action: Gained over 5%, breaking out of a tight 3-weeks-tight pattern on Leaderboard to close near daily highs. Its RS line demonstrates expanding 8-, 13-, and 21-day exponential moving averages. | Fundamentals: Operating in the medical services group, it is not yet profitable but maintains strong, accelerating revenue growth and shrinking quarterly losses."
+      }
+    ],
+    "strategy": [
+      {
+        "title": "Portfolio Assessment",
+        "text": "Evaluate current holdings at this market turn and eliminate lagards or losing positions trading below declining moving averages."
+      },
+      {
+        "title": "Ramping Exposure",
+        "text": "Reallocate capital toward top-performing industry groups (chips, software, AI) or utilize broad index ETFs (QQQ, SPY) and leveraged funds (QLD, TQQQ) to increase overall market exposure efficiently."
+      }
+    ],
+    "sections": [
+      {
+        "number": 1,
+        "title": "Broad Market Index Performance & Technical Structure",
+        "kind": "indexes",
+        "items": [
+          {
+            "title": "NASDAQ Composite",
+            "text": "Advanced 1% to achieve a new all-time high, closing near the peak of its daily trading range (~80% closing range). The rally is supported by a newly activated Power Trend, signaling sustained institutional strength and leadership in technology."
+          },
+          {
+            "title": "S&P 500",
+            "text": "Rose 0.7%, building on last week's trendline breakout. It faces clear overhead resistance before challenging its own all-time high territory."
+          },
+          {
+            "title": "Dow Jones Industrial Average",
+            "text": "Rose 0.3%, continuing to lag behind the broader market indexes."
+          },
+          {
+            "title": "Russell 2000 (Small Caps / IWM)",
+            "text": "Gained 0.7%, climbing back above its 10-day moving average line after finding technical support near its 200-day moving average line."
+          },
+          {
+            "title": "Market Exposure & Breadth",
+            "text": "Recommended market exposure has been raised to 80%–100%. While broad breadth measures—such as the equal-weighted S&P (RSP) and NYSE Composite (NYA)—show the average stock lagging, capital is concentrating heavily in technology, semiconductors, and software leaders."
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Macroeconomic Drivers & Intermarket ETFs",
+        "kind": "macro",
+        "items": [
+          {
+            "title": "10-Year Treasury Yields",
+            "text": "Yields remain sticky near recent highs, creating ongoing interest rate headwinds for small caps. However, tech's ability to break out despite high yields highlights strong relative demand."
+          },
+          {
+            "title": "Brazil Country ETF (EWZ)",
+            "text": "Surged 13% on high volume following political shifts from presidential election runoff results, breaking out alongside individual Brazilian stocks like XP and Petrobras (PBR)."
+          },
+          {
+            "title": "ARK Innovation ETF (ARKK)",
+            "text": "Rose 3.3%, outperforming the NASDAQ and signaling a return of speculative risk-on appetite for high-growth tech plays."
+          },
+          {
+            "title": "Energy ETF (XLE)",
+            "text": "Advanced 1%, retaking support at its 21-day moving average line to present a sector-level pullback buy setup, even as crude oil proxy USO experienced recent pullbacks."
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Individual Stock Setups & Fundamental Growth",
+        "kind": "stocks",
+        "items": [
+          {
+            "title": "Shopify (SHOP)",
+            "text": ""
+          },
+          {
+            "title": "Technical Action",
+            "text": "Advanced 5%–6%, clearing the left-side peak of a cup-with-handle base."
+          },
+          {
+            "title": "Fundamentals & Catalysts",
+            "text": "Features accelerating top-line growth and an A Accumulation/Distribution rating. Benefiting from merchant adoption surrounding Meta's \"Muse\" AI agent (which Amazon blocked, but Shopify enabled)."
+          },
+          {
+            "title": "Trading Tactics",
+            "text": "Extended beyond the initial 5% buy zone on relatively light volume; analysts recommend waiting for tight sideways consolidation or a bounce off the 21-day moving average line before buying."
+          },
+          {
+            "title": "Taiwan Semiconductor (TSM)",
+            "text": ""
+          },
+          {
+            "title": "Technical Action",
+            "text": "Broke out above its 479 entry from a stage-4 cup base to reach new highs, displaying a Relative Strength (RS) line blue dot."
+          },
+          {
+            "title": "Fundamentals",
+            "text": "The $2 trillion semiconductor manufacturing leader continues to log double-digit top- and bottom-line growth."
+          },
+          {
+            "title": "Earnings Warning",
+            "text": "With earnings scheduled in roughly 10 calendar days, investors should evaluate whether they hold a sufficient profit cushion (~10% target cushion or analyzing options market expected moves vs. the 7–8% sell rule) before holding through the report."
+          },
+          {
+            "title": "Guardant Health (GH)",
+            "text": ""
+          },
+          {
+            "title": "Technical Action",
+            "text": "Gained over 5%, breaking out of a tight 3-weeks-tight pattern on Leaderboard to close near daily highs. Its RS line demonstrates expanding 8-, 13-, and 21-day exponential moving averages."
+          },
+          {
+            "title": "Fundamentals",
+            "text": "Operating in the medical services group, it is not yet profitable but maintains strong, accelerating revenue growth and shrinking quarterly losses."
+          }
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Portfolio Strategy & Execution Rules",
+        "kind": "strategy",
+        "items": [
+          {
+            "title": "Portfolio Assessment",
+            "text": "Evaluate current holdings at this market turn and eliminate lagards or losing positions trading below declining moving averages."
+          },
+          {
+            "title": "Ramping Exposure",
+            "text": "Reallocate capital toward top-performing industry groups (chips, software, AI) or utilize broad index ETFs (QQQ, SPY) and leveraged funds (QLD, TQQQ) to increase overall market exposure efficiently."
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-02T20:00:00+00:00",
     "header": "Friday, October 2, 2026's Report",
     "headline": "Here is a detailed, step-by-step breakdown of the market analysis, technical indicators, sector trends, and individual stock setups covered in the source material:.",
@@ -886,292 +1095,6 @@
           {
             "title": "Earnings Watch",
             "text": "Micron Technology (MU) is scheduled to report earnings tomorrow after the close."
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-28T20:00:00+00:00",
-    "header": "Monday, September 28, 2026's Report",
-    "headline": "### 1: Broad Market Index Performance & Technical Structure.",
-    "summary": "### 1: Broad Market Index Performance & Technical Structure.",
-    "indexes": [
-      {
-        "name": "S&P 500",
-        "pct": "-0.8%",
-        "action": "Closed down 0.8%, finishing off intraday lows. The equal-weighted S&P 500 (RSP) dropped 0.7%, highlighting underlying weakness across the broader market."
-      },
-      {
-        "name": "NASDAQ Composite",
-        "pct": "-0.9%",
-        "action": "Lost 0.9% for the session. The equal-weighted NASDAQ 100 (QQQE) also declined 0.9%. Despite reaching a closing and all-time high earlier in the week, the index is suffering from choppy price action without follow-through strength."
-      },
-      {
-        "name": "Dow Jones Industrial Average",
-        "pct": "-0.6%",
-        "action": "Declined 0.6%."
-      },
-      {
-        "name": "Russell 2000",
-        "pct": "-0.6%",
-        "action": "Fell 0.6%, remaining locked in a pronounced downtrend."
-      },
-      {
-        "name": "Market Divergence",
-        "pct": "",
-        "action": "A major disconnect exists between mega-cap tech and the broader market. While the Roundhill Magnificent 7 ETF (MAGS) popped out of a base, the ETF tracking the remaining 493 S&P 500 stocks (XMAG) remains in a clear downtrend."
-      },
-      {
-        "name": "Recommended Market Exposure",
-        "pct": "",
-        "action": "Positioned between 80% and 100%, though caution is advised as indexes test key gap-up support levels."
-      }
-    ],
-    "macro": [
-      {
-        "title": "10-Year Treasury Yields (TNX)",
-        "text": "Continued to climb higher, creating persistent pressure on equity valuations."
-      },
-      {
-        "title": "US Dollar Index (DXY)",
-        "text": "Strengthened significantly, exerting heavy downside pressure on commodities."
-      },
-      {
-        "title": "Gold",
-        "text": "Dropped nearly 4%, undercutting key moving average support across its 21-day, 50-day, and 200-day lines."
-      },
-      {
-        "title": "Crude Oil & Energy (XLP)",
-        "text": "Energy sector benchmark XLP rose 0.1%, holding near support at its 50-day moving average. Elevated oil prices present inflation crosscurrents that could force the Fed to maintain higher interest rates for longer."
-      }
-    ],
-    "sectors": [
-      {
-        "name": "Cybersecurity ETF (BUG)",
-        "tickers": [
-          "BUG"
-        ],
-        "pct": "",
-        "action": "Staged an upside reversal to close near session highs after bouncing off its 21-day moving average line. Demand remains strong despite headlines surrounding OpenAI AI agents escaping sandboxed controls."
-      },
-      {
-        "name": "Healthcare ETF (XLV)",
-        "tickers": [
-          "XLV"
-        ],
-        "pct": "+0.3%",
-        "action": "Advanced 0.3%, outperforming the market as it creeps back above its 50-day moving average line. Growth is driven by aging baby boomer demographics and AI breakthroughs in drug discovery, though it may also reflect defensive sector rotation."
-      },
-      {
-        "name": "Semiconductor ETF (SMH)",
-        "tickers": [
-          "SMH"
-        ],
-        "pct": "",
-        "action": "Action remains tight right around the 600 pivot level, acting as key support/resistance."
-      }
-    ],
-    "stocks": [
-      {
-        "ticker": "PANW",
-        "tickers": [
-          "PANW"
-        ],
-        "company": "Palo Alto Networks",
-        "pct": "+4.6%",
-        "action": "Technical Action: Advanced 4.6%, closing at the top of its intraday range near the $400 level. | Relative Strength: Displayed a \"blue dot\" on its Relative Strength (RS) line, confirming new relative strength highs prior to a formal breakout. | Key Levels: Rebounded off its 21-day moving average line."
-      },
-      {
-        "ticker": "LGND",
-        "tickers": [
-          "LGND"
-        ],
-        "company": "Ligand Pharmaceuticals",
-        "pct": "",
-        "action": "Technical Action: Surged over 4%, breaking above a downward sloping trendline and clearing the round-number $300 level. | Business Model: Operates as a profitable royalty aggregator, funding clinical-stage trials for drug developers in exchange for profit shares. | Institutional Interest: Showed heavy institutional buying volume (indicated by IBD's \"ants\" feature)."
-      },
-      {
-        "ticker": "NTAP",
-        "tickers": [
-          "NTAP"
-        ],
-        "company": "NetApp",
-        "pct": "",
-        "action": "Technical Action: Advanced into the buy zone of a cup-with-handle base, closing near daily highs. | Group Strength: Belongs to the Tech Hardware group (ranked #4 out of 145 industry groups). | Ratings & Fundamentals: Features a 99 Composite Rating, 93 EPS Rating, and 97 RS Rating, backed by strong acceleration in quarterly earnings growth. | Industry Peers: Storage peers showing group strength include Micron (MU), SanDisk, Seagate (STX), Western Digital (WDC), Pure Storage (PSTG), and Dell (DELL)."
-      }
-    ],
-    "strategy": [
-      {
-        "title": "Focus on Individual Stock Rules",
-        "text": "Listen to your portfolio's feedback over index action—if individual positions trigger stop-losses, cut them immediately."
-      },
-      {
-        "title": "Avoid Freezing Intraday",
-        "text": "Implement hard broker stops or use the low of the first 5-minute bar to manage risk on pullbacks."
-      },
-      {
-        "title": "Incremental Execution",
-        "text": "Scale in and out of positions gradually rather than making all-or-nothing moves."
-      },
-      {
-        "title": "Maintain Watchlists",
-        "text": "Continuously build and refine watchlists so capital is ready to deploy when follow-through strength returns."
-      }
-    ],
-    "sections": [
-      {
-        "number": 1,
-        "title": "Broad Market Index Performance & Technical Structure",
-        "kind": "indexes",
-        "items": [
-          {
-            "title": "S&P 500",
-            "text": "Closed down 0.8%, finishing off intraday lows. The equal-weighted S&P 500 (RSP) dropped 0.7%, highlighting underlying weakness across the broader market."
-          },
-          {
-            "title": "NASDAQ Composite",
-            "text": "Lost 0.9% for the session. The equal-weighted NASDAQ 100 (QQQE) also declined 0.9%. Despite reaching a closing and all-time high earlier in the week, the index is suffering from choppy price action without follow-through strength."
-          },
-          {
-            "title": "Dow Jones Industrial Average",
-            "text": "Declined 0.6%."
-          },
-          {
-            "title": "Russell 2000",
-            "text": "Fell 0.6%, remaining locked in a pronounced downtrend."
-          },
-          {
-            "title": "Market Divergence",
-            "text": "A major disconnect exists between mega-cap tech and the broader market. While the Roundhill Magnificent 7 ETF (MAGS) popped out of a base, the ETF tracking the remaining 493 S&P 500 stocks (XMAG) remains in a clear downtrend."
-          },
-          {
-            "title": "Recommended Market Exposure",
-            "text": "Positioned between 80% and 100%, though caution is advised as indexes test key gap-up support levels."
-          }
-        ]
-      },
-      {
-        "number": 2,
-        "title": "Macroeconomic & Intermarket Drivers",
-        "kind": "macro",
-        "items": [
-          {
-            "title": "10-Year Treasury Yields (TNX)",
-            "text": "Continued to climb higher, creating persistent pressure on equity valuations."
-          },
-          {
-            "title": "US Dollar Index (DXY)",
-            "text": "Strengthened significantly, exerting heavy downside pressure on commodities."
-          },
-          {
-            "title": "Gold",
-            "text": "Dropped nearly 4%, undercutting key moving average support across its 21-day, 50-day, and 200-day lines."
-          },
-          {
-            "title": "Crude Oil & Energy (XLP)",
-            "text": "Energy sector benchmark XLP rose 0.1%, holding near support at its 50-day moving average. Elevated oil prices present inflation crosscurrents that could force the Fed to maintain higher interest rates for longer."
-          }
-        ]
-      },
-      {
-        "number": 3,
-        "title": "Sector & ETF Analysis",
-        "kind": "sectors",
-        "items": [
-          {
-            "title": "Cybersecurity ETF (BUG)",
-            "text": "Staged an upside reversal to close near session highs after bouncing off its 21-day moving average line. Demand remains strong despite headlines surrounding OpenAI AI agents escaping sandboxed controls."
-          },
-          {
-            "title": "Healthcare ETF (XLV)",
-            "text": "Advanced 0.3%, outperforming the market as it creeps back above its 50-day moving average line. Growth is driven by aging baby boomer demographics and AI breakthroughs in drug discovery, though it may also reflect defensive sector rotation."
-          },
-          {
-            "title": "Semiconductor ETF (SMH)",
-            "text": "Action remains tight right around the 600 pivot level, acting as key support/resistance."
-          }
-        ]
-      },
-      {
-        "number": 4,
-        "title": "Individual Leading Stock Setups & Fundamentals",
-        "kind": "stocks",
-        "items": [
-          {
-            "title": "Palo Alto Networks (PANW)",
-            "text": ""
-          },
-          {
-            "title": "Technical Action",
-            "text": "Advanced 4.6%, closing at the top of its intraday range near the $400 level."
-          },
-          {
-            "title": "Relative Strength",
-            "text": "Displayed a \"blue dot\" on its Relative Strength (RS) line, confirming new relative strength highs prior to a formal breakout."
-          },
-          {
-            "title": "Key Levels",
-            "text": "Rebounded off its 21-day moving average line."
-          },
-          {
-            "title": "Ligand Pharmaceuticals (LGND)",
-            "text": ""
-          },
-          {
-            "title": "Technical Action",
-            "text": "Surged over 4%, breaking above a downward sloping trendline and clearing the round-number $300 level."
-          },
-          {
-            "title": "Business Model",
-            "text": "Operates as a profitable royalty aggregator, funding clinical-stage trials for drug developers in exchange for profit shares."
-          },
-          {
-            "title": "Institutional Interest",
-            "text": "Showed heavy institutional buying volume (indicated by IBD's \"ants\" feature)."
-          },
-          {
-            "title": "NetApp (NTAP)",
-            "text": ""
-          },
-          {
-            "title": "Technical Action",
-            "text": "Advanced into the buy zone of a cup-with-handle base, closing near daily highs."
-          },
-          {
-            "title": "Group Strength",
-            "text": "Belongs to the Tech Hardware group (ranked #4 out of 145 industry groups)."
-          },
-          {
-            "title": "Ratings & Fundamentals",
-            "text": "Features a 99 Composite Rating, 93 EPS Rating, and 97 RS Rating, backed by strong acceleration in quarterly earnings growth."
-          },
-          {
-            "title": "Industry Peers",
-            "text": "Storage peers showing group strength include Micron (MU), SanDisk, Seagate (STX), Western Digital (WDC), Pure Storage (PSTG), and Dell (DELL)."
-          }
-        ]
-      },
-      {
-        "number": 5,
-        "title": "Risk Management & Portfolio Execution Strategy",
-        "kind": "strategy",
-        "items": [
-          {
-            "title": "Focus on Individual Stock Rules",
-            "text": "Listen to your portfolio's feedback over index action—if individual positions trigger stop-losses, cut them immediately."
-          },
-          {
-            "title": "Avoid Freezing Intraday",
-            "text": "Implement hard broker stops or use the low of the first 5-minute bar to manage risk on pullbacks."
-          },
-          {
-            "title": "Incremental Execution",
-            "text": "Scale in and out of positions gradually rather than making all-or-nothing moves."
-          },
-          {
-            "title": "Maintain Watchlists",
-            "text": "Continuously build and refine watchlists so capital is ready to deploy when follow-through strength returns."
           }
         ]
       }
