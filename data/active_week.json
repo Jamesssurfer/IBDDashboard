@@ -1,5 +1,271 @@
 [
   {
+    "timestamp": "2026-10-06T20:00:00+00:00",
+    "header": "Tuesday, October 6, 2026's Report",
+    "headline": "### 1: Broad Market Index Performance & Technical Structure.",
+    "summary": "### 1: Broad Market Index Performance & Technical Structure.",
+    "indexes": [
+      {
+        "name": "NASDAQ Composite",
+        "pct": "",
+        "action": "Advanced nearly 0.5%, though it faded off session highs following an initial morning gap-up. While the daily close ended in the lower portion of the intraday bar, evaluating the true range (factoring in the prior day's close) positions the index near the midpoint of its daily range. The NASDAQ recorded its fifth consecutive winning day and continues to be supported by an active Power Trend."
+      },
+      {
+        "name": "S&P 500",
+        "pct": "+0.6%",
+        "action": "Rose 0.6%, breaking out above its prior marked high to record a new high after bouncing off support at its 50-day moving average line four sessions prior."
+      },
+      {
+        "name": "Dow Jones Industrial Average",
+        "pct": "",
+        "action": "Rebounded 0.5%, though it remains in a technically weaker position relative to tech benchmarks."
+      },
+      {
+        "name": "Russell 2000 (Small Caps)",
+        "pct": "",
+        "action": "Underperformed the major indexes, declining 0.7% on the session."
+      },
+      {
+        "name": "Market Breadth (RSP)",
+        "pct": "+0.6%",
+        "action": "The S&P 500 Equal-Weight ETF (RSP) rose 0.6%, testing its 21-day moving average line and breaking an immediate downward trend, offering an initial sign of expanding participation."
+      }
+    ],
+    "macro": [
+      {
+        "title": "10-Year Treasury Yields (TNX)",
+        "text": "Yields pulled back slightly during the session but remain near sky-high levels."
+      },
+      {
+        "title": "Crude Oil",
+        "text": "Oil prices eased off recent peaks but remain persistently elevated, presenting ongoing economic headwinds."
+      },
+      {
+        "title": "Market Resilience",
+        "text": "Despite persistent pressure from high bond yields and elevated energy costs, the major market indexes demonstrated notable resilience by breaking out to new high ground."
+      }
+    ],
+    "sectors": [
+      {
+        "name": "Heavy Institutional Rotation",
+        "tickers": [],
+        "pct": "",
+        "action": "The medical and biotech sectors experienced severe selling pressure and downside reversals."
+      },
+      {
+        "name": "Key ETF Action",
+        "tickers": [
+          "ARCG",
+          "XBI"
+        ],
+        "pct": "-3.4%",
+        "action": "The ARK Genomic Revolution ETF (ARCG) suffered a 9% downside reversal off intraday highs, while the SPDR S&P Biotech ETF (XBI) fell 3.4%."
+      },
+      {
+        "name": "Individual Stock Reversals",
+        "tickers": [
+          "PCVX",
+          "TWST",
+          "TXG",
+          "NEO"
+        ],
+        "pct": "-7.8%",
+        "action": "Moderna (mRNA) dropped 7.8%, Vaxcyte (PCVX) fell 10%, and names like Twist Bioscience (TWST), 10x Genomics (TXG), and NeoGenomics (NEO) suffered broken technical charts."
+      },
+      {
+        "name": "Risk Management Tactics",
+        "tickers": [],
+        "pct": "",
+        "action": "Portfolio managers reacted to the swift waterfall decline by closing out healthcare and biotech positions to protect capital rather than attempting to fight broken chart patterns."
+      },
+      {
+        "name": "AI-Adjacent Power Plays",
+        "tickers": [
+          "XLU",
+          "NLR",
+          "URA"
+        ],
+        "pct": "",
+        "action": "Capital rotating out of medical stocks flowed into electrical power and utility plays required to fuel AI infrastructure. Key vehicles include the Utilities ETF (XLU), Nuclear ETF (NLR), Uranium ETF (URA), and the AIPO ETF (holding stocks like Bloom Energy [BE], GE Vernova [GEV], and Quanta Services [PWR])."
+      },
+      {
+        "name": "Cybersecurity (CIBR)",
+        "tickers": [
+          "CIBR"
+        ],
+        "pct": "+2%",
+        "action": "Advanced 2%, outperforming the broader market behind gains in Fortinet (FTNT) and CrowdStrike (CRWD)."
+      }
+    ],
+    "stocks": [
+      {
+        "ticker": "ETN",
+        "tickers": [
+          "ETN"
+        ],
+        "company": "Eaton",
+        "pct": "+2.9%",
+        "action": "Group: Electrical Power Equipment. | Technical Setup: Advanced 2.9%, recovering above its 50-day moving average line and approaching a buy point near the 450 round-number level. | Trading Characteristics: Offers a lower Average True Range (ATR) and smoother trend behavior compared to higher-volatility peers like Bloom Energy."
+      },
+      {
+        "ticker": "WCC",
+        "tickers": [
+          "WCC"
+        ],
+        "company": "Wesco International",
+        "pct": "",
+        "action": "Group: Electronic Parts (ranked #14 out of 140+ industry groups). | Technical Setup: Staged a breakout from tight consolidation, displaying a Relative Strength (RS) line blue dot (signaling new relative strength highs before price breakout). | Fundamentals: Turning around with accelerating earnings growth and strong top-line revenue metrics."
+      },
+      {
+        "ticker": "ZBRA",
+        "tickers": [
+          "ZBRA"
+        ],
+        "company": "Zebra Technologies",
+        "pct": "+2.7%",
+        "action": "Technical Setup: Rose 2.7%, forming a tight flat base following a massive quarterly earnings gap-up. | Relative Strength: Its RS line broke a multi-month downtrend and registered a blue dot, holding comfortably above its 10-week and 50-day moving average lines."
+      }
+    ],
+    "strategy": [],
+    "sections": [
+      {
+        "number": 1,
+        "title": "Broad Market Index Performance & Technical Structure",
+        "kind": "indexes",
+        "items": [
+          {
+            "title": "NASDAQ Composite",
+            "text": "Advanced nearly 0.5%, though it faded off session highs following an initial morning gap-up. While the daily close ended in the lower portion of the intraday bar, evaluating the true range (factoring in the prior day's close) positions the index near the midpoint of its daily range. The NASDAQ recorded its fifth consecutive winning day and continues to be supported by an active Power Trend."
+          },
+          {
+            "title": "S&P 500",
+            "text": "Rose 0.6%, breaking out above its prior marked high to record a new high after bouncing off support at its 50-day moving average line four sessions prior."
+          },
+          {
+            "title": "Dow Jones Industrial Average",
+            "text": "Rebounded 0.5%, though it remains in a technically weaker position relative to tech benchmarks."
+          },
+          {
+            "title": "Russell 2000 (Small Caps)",
+            "text": "Underperformed the major indexes, declining 0.7% on the session."
+          },
+          {
+            "title": "Market Breadth (RSP)",
+            "text": "The S&P 500 Equal-Weight ETF (RSP) rose 0.6%, testing its 21-day moving average line and breaking an immediate downward trend, offering an initial sign of expanding participation."
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Macroeconomic & Intermarket Pressures",
+        "kind": "macro",
+        "items": [
+          {
+            "title": "10-Year Treasury Yields (TNX)",
+            "text": "Yields pulled back slightly during the session but remain near sky-high levels."
+          },
+          {
+            "title": "Crude Oil",
+            "text": "Oil prices eased off recent peaks but remain persistently elevated, presenting ongoing economic headwinds."
+          },
+          {
+            "title": "Market Resilience",
+            "text": "Despite persistent pressure from high bond yields and elevated energy costs, the major market indexes demonstrated notable resilience by breaking out to new high ground."
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Medical & Biotech Sector Sell-Off",
+        "kind": "sectors",
+        "items": [
+          {
+            "title": "Heavy Institutional Rotation",
+            "text": "The medical and biotech sectors experienced severe selling pressure and downside reversals."
+          },
+          {
+            "title": "Key ETF Action",
+            "text": "The ARK Genomic Revolution ETF (ARCG) suffered a 9% downside reversal off intraday highs, while the SPDR S&P Biotech ETF (XBI) fell 3.4%."
+          },
+          {
+            "title": "Individual Stock Reversals",
+            "text": "Moderna (mRNA) dropped 7.8%, Vaxcyte (PCVX) fell 10%, and names like Twist Bioscience (TWST), 10x Genomics (TXG), and NeoGenomics (NEO) suffered broken technical charts."
+          },
+          {
+            "title": "Risk Management Tactics",
+            "text": "Portfolio managers reacted to the swift waterfall decline by closing out healthcare and biotech positions to protect capital rather than attempting to fight broken chart patterns."
+          }
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Sector Rotation into AI Power & Cybersecurity",
+        "kind": "sectors",
+        "items": [
+          {
+            "title": "AI-Adjacent Power Plays",
+            "text": "Capital rotating out of medical stocks flowed into electrical power and utility plays required to fuel AI infrastructure. Key vehicles include the Utilities ETF (XLU), Nuclear ETF (NLR), Uranium ETF (URA), and the AIPO ETF (holding stocks like Bloom Energy [BE], GE Vernova [GEV], and Quanta Services [PWR])."
+          },
+          {
+            "title": "Cybersecurity (CIBR)",
+            "text": "Advanced 2%, outperforming the broader market behind gains in Fortinet (FTNT) and CrowdStrike (CRWD)."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "title": "Detailed Individual Stock Breakouts & Setups",
+        "kind": "stocks",
+        "items": [
+          {
+            "title": "Eaton (ETN)",
+            "text": ""
+          },
+          {
+            "title": "Group",
+            "text": "Electrical Power Equipment."
+          },
+          {
+            "title": "Technical Setup",
+            "text": "Advanced 2.9%, recovering above its 50-day moving average line and approaching a buy point near the 450 round-number level."
+          },
+          {
+            "title": "Trading Characteristics",
+            "text": "Offers a lower Average True Range (ATR) and smoother trend behavior compared to higher-volatility peers like Bloom Energy."
+          },
+          {
+            "title": "Wesco International (WCC)",
+            "text": ""
+          },
+          {
+            "title": "Group",
+            "text": "Electronic Parts (ranked #14 out of 140+ industry groups)."
+          },
+          {
+            "title": "Technical Setup",
+            "text": "Staged a breakout from tight consolidation, displaying a Relative Strength (RS) line blue dot (signaling new relative strength highs before price breakout)."
+          },
+          {
+            "title": "Fundamentals",
+            "text": "Turning around with accelerating earnings growth and strong top-line revenue metrics."
+          },
+          {
+            "title": "Zebra Technologies (ZBRA)",
+            "text": ""
+          },
+          {
+            "title": "Technical Setup",
+            "text": "Rose 2.7%, forming a tight flat base following a massive quarterly earnings gap-up."
+          },
+          {
+            "title": "Relative Strength",
+            "text": "Its RS line broke a multi-month downtrend and registered a blue dot, holding comfortably above its 10-week and 50-day moving average lines."
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-05T20:00:00+00:00",
     "header": "Monday, October 5, 2026's Report",
     "headline": "### 1: Broad Market Index Performance & Technical Structure.",
