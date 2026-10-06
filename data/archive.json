@@ -1,6 +1,204 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-09-29T20:00:00+00:00",
+      "header": "Tuesday, September 29, 2026's Report",
+      "headline": "Here is the detailed, step-by-step report based on the Investor's Business Daily market analysis:.",
+      "summary": "Here is the detailed, step-by-step report based on the Investor's Business Daily market analysis:.",
+      "indexes": [
+        {
+          "name": "NASDAQ Composite & NASDAQ 100",
+          "pct": "-0.1%",
+          "action": "The NASDAQ Composite fell 0.1%, while the NASDAQ 100 (QQQ) gained 0.2%. The NASDAQ tested its 10-day moving average line and held the lower boundary of its prior gap-up area without breaking down, though it has yet to make decisive upside progress."
+        },
+        {
+          "name": "S&P 500",
+          "pct": "-0.2%",
+          "action": "Closed down 0.2%. Crucially, it held support above its 50-day moving average line and sits roughly 0.1% below its 21-day moving average line."
+        },
+        {
+          "name": "Dow Jones Industrial Average",
+          "pct": "",
+          "action": "Slipped 0.25% in quiet trading."
+        },
+        {
+          "name": "Russell 2000 (Small Caps)",
+          "pct": "-0.4%",
+          "action": "Dropped 0.4%, showing continued weakness under pressure from rising bond yields as it approaches a test of its 200-day moving average line."
+        }
+      ],
+      "macro": [
+        {
+          "title": "10-Year Treasury Yields",
+          "text": "Surged intraday to 5.29% (up ~5 basis points at the highs) before easing off to settle around 5.24%–5.25%. Equity indexes demonstrated notable resilience in holding near unchanged despite relentless bond market selling."
+        },
+        {
+          "title": "Crude Oil & Energy (XLE)",
+          "text": "Crude oil took a sharp hit, falling ~3.5% below $90 to near $89 a barrel in electronic trading. This weighed heavily on energy equities (XLE), making them among the market's worst-performing sectors for the session."
+        },
+        {
+          "title": "US Dollar & Gold",
+          "text": "The US Dollar Index (DXY) rallied strongly alongside rising bond yields, exerting severe downside pressure on gold (GLD) and gold mining stocks."
+        },
+        {
+          "title": "Upcoming Inflation Data",
+          "text": "Markets are closely watching the upcoming inflation report for clues on monetary policy."
+        },
+        {
+          "title": "Fed Rate Hike Expectations",
+          "text": "Fed funds futures currently price in a 50/50 chance of a rate hike at the October 28 meeting, with expectations for a second hike dropping to roughly 40%."
+        },
+        {
+          "title": "Earnings Watch",
+          "text": "Micron Technology (MU) is scheduled to report earnings tomorrow after the close."
+        }
+      ],
+      "sectors": [
+        {
+          "name": "Semiconductors (SMH)",
+          "tickers": [
+            "SMH"
+          ],
+          "pct": "",
+          "action": "The chip ETF finished off its session highs but successfully held above the key 600 level. The Semiconductor Equipment industry group was the top-performing group overall, gaining 3.5%."
+        },
+        {
+          "name": "Market Divergence",
+          "tickers": [],
+          "pct": "",
+          "action": "A clear \"haves and have-nots\" divide persists. While the \"Magnificent 7\" mega-cap leaders continue to support the major indexes, the equal-weighted S&P 500 shows significant underperformance and technical work ahead."
+        }
+      ],
+      "stocks": [
+        {
+          "ticker": "ATYYY",
+          "tickers": [
+            "ATYYY",
+            "ATEYY"
+          ],
+          "company": "Advantest Corp",
+          "pct": "",
+          "action": "A Japanese semiconductor equipment ADR with a market cap between $100B and $150B. The stock broke above a key trendline, surging 3.4% on volume 40% above its 50-day average, closing near the peak of its daily trading range. Its industry group ranks #27 out of 145."
+        },
+        {
+          "ticker": "ASX",
+          "tickers": [
+            "ASX"
+          ],
+          "company": "ASE Technology",
+          "pct": "",
+          "action": "A Taiwan-based semiconductor manufacturing provider forming a classic cup pattern. It is challenging resistance around the 45.52 area, advancing 3.5% on 12% above-average volume. Its industry group ranks #17 out of 145."
+        },
+        {
+          "ticker": "SN",
+          "tickers": [
+            "SN"
+          ],
+          "company": "Shark Ninja",
+          "pct": "",
+          "action": "A strong non-tech consumer leader. After pulling back below its 50-day moving average line, it recovered strongly, clearing horizontal resistance at 180. Institutional quarter-end/month-end \"window dressing\" may provide additional tailwinds."
+        }
+      ],
+      "strategy": [],
+      "sections": [
+        {
+          "number": 1,
+          "title": "Broad Market Index Performance & Technical Levels",
+          "kind": "indexes",
+          "items": [
+            {
+              "title": "NASDAQ Composite & NASDAQ 100",
+              "text": "The NASDAQ Composite fell 0.1%, while the NASDAQ 100 (QQQ) gained 0.2%. The NASDAQ tested its 10-day moving average line and held the lower boundary of its prior gap-up area without breaking down, though it has yet to make decisive upside progress."
+            },
+            {
+              "title": "S&P 500",
+              "text": "Closed down 0.2%. Crucially, it held support above its 50-day moving average line and sits roughly 0.1% below its 21-day moving average line."
+            },
+            {
+              "title": "Dow Jones Industrial Average",
+              "text": "Slipped 0.25% in quiet trading."
+            },
+            {
+              "title": "Russell 2000 (Small Caps)",
+              "text": "Dropped 0.4%, showing continued weakness under pressure from rising bond yields as it approaches a test of its 200-day moving average line."
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "title": "Macroeconomic Drivers & Intermarket Pressures",
+          "kind": "macro",
+          "items": [
+            {
+              "title": "10-Year Treasury Yields",
+              "text": "Surged intraday to 5.29% (up ~5 basis points at the highs) before easing off to settle around 5.24%–5.25%. Equity indexes demonstrated notable resilience in holding near unchanged despite relentless bond market selling."
+            },
+            {
+              "title": "Crude Oil & Energy (XLE)",
+              "text": "Crude oil took a sharp hit, falling ~3.5% below $90 to near $89 a barrel in electronic trading. This weighed heavily on energy equities (XLE), making them among the market's worst-performing sectors for the session."
+            },
+            {
+              "title": "US Dollar & Gold",
+              "text": "The US Dollar Index (DXY) rallied strongly alongside rising bond yields, exerting severe downside pressure on gold (GLD) and gold mining stocks."
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "title": "Sector ETF Dynamics & Market Breadth",
+          "kind": "sectors",
+          "items": [
+            {
+              "title": "Semiconductors (SMH)",
+              "text": "The chip ETF finished off its session highs but successfully held above the key 600 level. The Semiconductor Equipment industry group was the top-performing group overall, gaining 3.5%."
+            },
+            {
+              "title": "Market Divergence",
+              "text": "A clear \"haves and have-nots\" divide persists. While the \"Magnificent 7\" mega-cap leaders continue to support the major indexes, the equal-weighted S&P 500 shows significant underperformance and technical work ahead."
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "title": "Detailed Stock Technical Setups",
+          "kind": "stocks",
+          "items": [
+            {
+              "title": "Advantest Corp (ATYYY / ATEYY)",
+              "text": "A Japanese semiconductor equipment ADR with a market cap between $100B and $150B. The stock broke above a key trendline, surging 3.4% on volume 40% above its 50-day average, closing near the peak of its daily trading range. Its industry group ranks #27 out of 145."
+            },
+            {
+              "title": "ASE Technology (ASX)",
+              "text": "A Taiwan-based semiconductor manufacturing provider forming a classic cup pattern. It is challenging resistance around the 45.52 area, advancing 3.5% on 12% above-average volume. Its industry group ranks #17 out of 145."
+            },
+            {
+              "title": "Shark Ninja (SN)",
+              "text": "A strong non-tech consumer leader. After pulling back below its 50-day moving average line, it recovered strongly, clearing horizontal resistance at 180. Institutional quarter-end/month-end \"window dressing\" may provide additional tailwinds."
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "title": "Key Catalysts & Fed Expectations",
+          "kind": "macro",
+          "items": [
+            {
+              "title": "Upcoming Inflation Data",
+              "text": "Markets are closely watching the upcoming inflation report for clues on monetary policy."
+            },
+            {
+              "title": "Fed Rate Hike Expectations",
+              "text": "Fed funds futures currently price in a 50/50 chance of a rate hike at the October 28 meeting, with expectations for a second hike dropping to roughly 40%."
+            },
+            {
+              "title": "Earnings Watch",
+              "text": "Micron Technology (MU) is scheduled to report earnings tomorrow after the close."
+            }
+          ]
+        }
+      ]
+    },
+    {
       "timestamp": "2026-09-28T20:00:00+00:00",
       "header": "Monday, September 28, 2026's Report",
       "headline": "### 1: Broad Market Index Performance & Technical Structure.",
