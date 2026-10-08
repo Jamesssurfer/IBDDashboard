@@ -1,5 +1,264 @@
 [
   {
+    "timestamp": "2026-10-07T20:00:00+00:00",
+    "header": "Wednesday, October 7, 2026's Report",
+    "headline": "### 1: Broad Market Index Performance & Technical Action.",
+    "summary": "### 1: Broad Market Index Performance & Technical Action.",
+    "indexes": [
+      {
+        "name": "NASDAQ Composite",
+        "pct": "",
+        "action": "Finished down just 0.2% (2/10ths of a percent), paring significant early-morning losses to close near intraday highs. The session extended an impressive 5-day winning streak—its best continuous run since late May / early June."
+      },
+      {
+        "name": "NASDAQ 100 (QQQ)",
+        "pct": "-0.25%",
+        "action": "Declined 0.25%, maintaining its position in new high territory following a recent breakout. In contrast, the equal-weighted NASDAQ 100 (QQQE) lagged, sitting back near its handle breakout area."
+      },
+      {
+        "name": "S&P 500 (SPY)",
+        "pct": "-0.2%",
+        "action": "Fell 0.2% to close just above the 7,800 level. This followed a 4-day winning streak, representing normal technical consolidation."
+      },
+      {
+        "name": "Dow Jones Industrial Average",
+        "pct": "-0.7%",
+        "action": "Dropped 0.7%, turning lower right near its 21-day moving average line to remain in a weaker technical position."
+      },
+      {
+        "name": "Russell 2000 (Small Caps / IWM)",
+        "pct": "",
+        "action": "Suffered the largest drop among major indexes, falling 1.3%. Small caps retested their 200-day moving average line, reflecting extreme interest rate sensitivity."
+      },
+      {
+        "name": "Market Breadth & Divergence",
+        "pct": "-0.8%",
+        "action": "The S&P 500 Equal-Weight ETF (RSP) dropped 0.8%, getting rejected at key resistance and highlighting a widening performance gap between mega-cap tech leaders and the average stock."
+      }
+    ],
+    "macro": [
+      {
+        "title": "10-Year Treasury Yield Spikes",
+        "text": "Yields surged to a 24-year high amid a global sovereign bond sell-off (including sharp moves in French yields) before retreating following a solid 10-year Treasury auction."
+      },
+      {
+        "title": "Technical Yield Trend",
+        "text": "The 10-year Treasury yield has remained stubbornly above its 10-day moving average line for several months without a closing breakdown."
+      },
+      {
+        "title": "Market Resilience",
+        "text": "Despite the 10-year yield surging roughly 100 basis points over recent months, major technology indexes have shown remarkable resilience rather than entering a broad market correction."
+      }
+    ],
+    "sectors": [
+      {
+        "name": "Medical & Biotech Weakness",
+        "tickers": [
+          "ARKG",
+          "XBI"
+        ],
+        "pct": "",
+        "action": "The ARK Genomic Revolution ETF (ARKG) fell another 3%, extending a violent downside reversal from the prior session. The SPDR S&P Biotech ETF (XBI) continued to weaken below its 50-day moving average line, driven by heavy selling across medical testing firms."
+      },
+      {
+        "name": "Healthcare / Big Pharma (XLV)",
+        "tickers": [
+          "XLV"
+        ],
+        "pct": "",
+        "action": "Outperformed as capital rotated into defensive big pharma names."
+      },
+      {
+        "name": "Semiconductors (SMH)",
+        "tickers": [
+          "SMH"
+        ],
+        "pct": "-1.2%",
+        "action": "Dropped 1.2%, pulling back toward its 8-day exponential moving average line (8 EMA) while keeping its short-term uptrend intact."
+      },
+      {
+        "name": "Software (IGV)",
+        "tickers": [
+          "IGV"
+        ],
+        "pct": "",
+        "action": "Slipped 1.2%, with cybersecurity leaders like CrowdStrike pulling back from recent highs toward their 21-day moving average lines."
+      }
+    ],
+    "stocks": [
+      {
+        "ticker": "ABBV",
+        "tickers": [
+          "ABBV"
+        ],
+        "company": "AbbVie",
+        "pct": "+1.8%",
+        "action": "Technical Action: Advanced 1.8%, breaking out above prior resistance levels. | Fundamentals & Setup: Supported by solid earnings growth and an improving Relative Strength (RS) line, serving as a key driver within the healthcare sector (XLV)."
+      },
+      {
+        "ticker": "AAPL",
+        "tickers": [
+          "AAPL"
+        ],
+        "company": "Apple",
+        "pct": "",
+        "action": "Technical Action: Closed in the upper 66% of its daily range, testing/breaking a trendline out of a high handle / 3-weeks-tight pattern with a 345 buy point. | Catalysts: Upcoming announcements for smart home products and the scheduled release of the foldable \"Apple Duo\" phone, backed by accelerating revenue and earnings growth."
+      },
+      {
+        "ticker": "MU",
+        "tickers": [
+          "MU"
+        ],
+        "company": "Micron Technology",
+        "pct": "",
+        "action": "Technical Action: Staged a 4.1% upside reversal directly off its 21-day moving average line and August/September resistance levels. | Fundamentals & Context: Backed by >1,000% earnings growth; traders are monitoring upcoming preliminary earnings results from Samsung for broader memory sector fallout."
+      }
+    ],
+    "strategy": [
+      {
+        "title": "Incremental Capital Allocation",
+        "text": "Avoid jumping quickly from low cash to high exposure (e.g., 10% to 90% in one day). Buying incrementally prevents entire portfolios from falling underwater on short-term market pullbacks."
+      },
+      {
+        "title": "Focus on Relative Strength",
+        "text": "Concentrate capital strictly on areas demonstrating true relative strength (mega-caps, AI hardware, big pharma) rather than fighting broader market weakness in lagging benchmarks like RSP or IWM."
+      }
+    ],
+    "sections": [
+      {
+        "number": 1,
+        "title": "Broad Market Index Performance & Technical Action",
+        "kind": "indexes",
+        "items": [
+          {
+            "title": "NASDAQ Composite",
+            "text": "Finished down just 0.2% (2/10ths of a percent), paring significant early-morning losses to close near intraday highs. The session extended an impressive 5-day winning streak—its best continuous run since late May / early June."
+          },
+          {
+            "title": "NASDAQ 100 (QQQ)",
+            "text": "Declined 0.25%, maintaining its position in new high territory following a recent breakout. In contrast, the equal-weighted NASDAQ 100 (QQQE) lagged, sitting back near its handle breakout area."
+          },
+          {
+            "title": "S&P 500 (SPY)",
+            "text": "Fell 0.2% to close just above the 7,800 level. This followed a 4-day winning streak, representing normal technical consolidation."
+          },
+          {
+            "title": "Dow Jones Industrial Average",
+            "text": "Dropped 0.7%, turning lower right near its 21-day moving average line to remain in a weaker technical position."
+          },
+          {
+            "title": "Russell 2000 (Small Caps / IWM)",
+            "text": "Suffered the largest drop among major indexes, falling 1.3%. Small caps retested their 200-day moving average line, reflecting extreme interest rate sensitivity."
+          },
+          {
+            "title": "Market Breadth & Divergence",
+            "text": "The S&P 500 Equal-Weight ETF (RSP) dropped 0.8%, getting rejected at key resistance and highlighting a widening performance gap between mega-cap tech leaders and the average stock."
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Macroeconomic Factors & Interest Rate Pressures",
+        "kind": "macro",
+        "items": [
+          {
+            "title": "10-Year Treasury Yield Spikes",
+            "text": "Yields surged to a 24-year high amid a global sovereign bond sell-off (including sharp moves in French yields) before retreating following a solid 10-year Treasury auction."
+          },
+          {
+            "title": "Technical Yield Trend",
+            "text": "The 10-year Treasury yield has remained stubbornly above its 10-day moving average line for several months without a closing breakdown."
+          },
+          {
+            "title": "Market Resilience",
+            "text": "Despite the 10-year yield surging roughly 100 basis points over recent months, major technology indexes have shown remarkable resilience rather than entering a broad market correction."
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Sector & ETF Dynamics",
+        "kind": "sectors",
+        "items": [
+          {
+            "title": "Medical & Biotech Weakness",
+            "text": "The ARK Genomic Revolution ETF (ARKG) fell another 3%, extending a violent downside reversal from the prior session. The SPDR S&P Biotech ETF (XBI) continued to weaken below its 50-day moving average line, driven by heavy selling across medical testing firms."
+          },
+          {
+            "title": "Healthcare / Big Pharma (XLV)",
+            "text": "Outperformed as capital rotated into defensive big pharma names."
+          },
+          {
+            "title": "Semiconductors (SMH)",
+            "text": "Dropped 1.2%, pulling back toward its 8-day exponential moving average line (8 EMA) while keeping its short-term uptrend intact."
+          },
+          {
+            "title": "Software (IGV)",
+            "text": "Slipped 1.2%, with cybersecurity leaders like CrowdStrike pulling back from recent highs toward their 21-day moving average lines."
+          }
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Individual Featured Stock Setups",
+        "kind": "stocks",
+        "items": [
+          {
+            "title": "AbbVie (ABBV)",
+            "text": ""
+          },
+          {
+            "title": "Technical Action",
+            "text": "Advanced 1.8%, breaking out above prior resistance levels."
+          },
+          {
+            "title": "Fundamentals & Setup",
+            "text": "Supported by solid earnings growth and an improving Relative Strength (RS) line, serving as a key driver within the healthcare sector (XLV)."
+          },
+          {
+            "title": "Apple (AAPL)",
+            "text": ""
+          },
+          {
+            "title": "Technical Action",
+            "text": "Closed in the upper 66% of its daily range, testing/breaking a trendline out of a high handle / 3-weeks-tight pattern with a 345 buy point."
+          },
+          {
+            "title": "Catalysts",
+            "text": "Upcoming announcements for smart home products and the scheduled release of the foldable \"Apple Duo\" phone, backed by accelerating revenue and earnings growth."
+          },
+          {
+            "title": "Micron Technology (MU)",
+            "text": ""
+          },
+          {
+            "title": "Technical Action",
+            "text": "Staged a 4.1% upside reversal directly off its 21-day moving average line and August/September resistance levels."
+          },
+          {
+            "title": "Fundamentals & Context",
+            "text": "Backed by >1,000% earnings growth; traders are monitoring upcoming preliminary earnings results from Samsung for broader memory sector fallout."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "title": "Risk Management & Execution Rules",
+        "kind": "strategy",
+        "items": [
+          {
+            "title": "Incremental Capital Allocation",
+            "text": "Avoid jumping quickly from low cash to high exposure (e.g., 10% to 90% in one day). Buying incrementally prevents entire portfolios from falling underwater on short-term market pullbacks."
+          },
+          {
+            "title": "Focus on Relative Strength",
+            "text": "Concentrate capital strictly on areas demonstrating true relative strength (mega-caps, AI hardware, big pharma) rather than fighting broader market weakness in lagging benchmarks like RSP or IWM."
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-06T20:00:00+00:00",
     "header": "Tuesday, October 6, 2026's Report",
     "headline": "### 1: Broad Market Index Performance & Technical Structure.",
