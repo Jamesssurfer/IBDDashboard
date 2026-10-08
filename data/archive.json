@@ -1,6 +1,207 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-10-01T20:00:00+00:00",
+      "header": "Thursday, October 1, 2026's Report",
+      "headline": "### Step 1: Broad Market Index Levels & Technical Structures.",
+      "summary": "### Step 1: Broad Market Index Levels & Technical Structures.",
+      "indexes": [
+        {
+          "name": "S&P 500 Index",
+          "pct": "",
+          "action": "Finished up approximately 0.2% on the day, closing directly at its critical 50-day moving average line. While the index sits only a few percentage points below all-time highs, price action remains choppy and sits on a technical cusp."
+        },
+        {
+          "name": "NASDAQ Composite",
+          "pct": "",
+          "action": "Finished essentially flat to slightly positive, constructively holding support at the lower boundary of its prior gap-up session. The overall index pattern resembles a high handle setup."
+        },
+        {
+          "name": "Dow Jones Industrial Average",
+          "pct": "",
+          "action": "Closed in positive territory, holding just above its 200-day moving average line."
+        },
+        {
+          "name": "Russell 2000 (Small Caps)",
+          "pct": "",
+          "action": "Remains in a relatively weak position, retesting support at its key 200-day moving average line."
+        },
+        {
+          "name": "Market Character",
+          "pct": "",
+          "action": "The broader market continues to display narrow breadth and choppy upward price action reminiscent of the late 1990s, requiring tight stop losses to keep failed breakouts small."
+        }
+      ],
+      "macro": [
+        {
+          "title": "10-Year Treasury Yields",
+          "text": "Experienced an intraday decline, though the near-vertical uptrend in yields remains unbroken. Analysts note that if 10-year yields drift lower towards 5%, equities could experience a renewed momentum rally."
+        },
+        {
+          "title": "Crude Oil",
+          "text": "Despite minor short-term pullbacks, crude oil prices have maintained an upward trend over recent weeks."
+        },
+        {
+          "title": "International Markets (France / EWQ)",
+          "text": "The iShares MSCI France ETF (EWQ) dropped 2%, retesting its March lows due to political election uncertainty and national budget/deficit concerns."
+        }
+      ],
+      "sectors": [
+        {
+          "name": "Software ETF (IGV)",
+          "tickers": [
+            "IGV"
+          ],
+          "pct": "+1.6%",
+          "action": "Advanced 1.6% on the day, with several individual software leaders reaching potential buy points or new highs."
+        },
+        {
+          "name": "Semiconductor ETF (SMH)",
+          "tickers": [
+            "SMH"
+          ],
+          "pct": "+1.5%",
+          "action": "Gained 1.5%, successfully holding above its cleared 600 key level on a closing basis."
+        }
+      ],
+      "stocks": [
+        {
+          "ticker": "LITE",
+          "tickers": [
+            "LITE"
+          ],
+          "company": "Lumentum Holdings",
+          "pct": "+7.7%",
+          "action": "Surged 7.7% to log its first close above $1,000 in a extended period. It offers a handle buy point around $1,026 or near $1,000, supported by triple-digit top- and bottom-line growth over recent quarters, though it trades well above its 50-day line."
+        },
+        {
+          "ticker": "MU",
+          "tickers": [
+            "MU"
+          ],
+          "company": "Micron Technology",
+          "pct": "",
+          "action": "Staged a 3% upside reversal after temporarily undercutting its 21-day line and August/September lows. Micron features 1,000%+ earnings growth over the past two quarters, with 75% of fiscal 2027 sales already budgeted due to sustained AI memory demand."
+        },
+        {
+          "ticker": "META",
+          "tickers": [
+            "META"
+          ],
+          "company": "Meta Platforms",
+          "pct": "",
+          "action": "Forming a potential handle on its weekly chart after clearing a major trendline. Positive sentiment is building around its consumer AI tool \"Muse\", though heavy capital expenditure and a tax item could affect upcoming quarterly earnings results."
+        }
+      ],
+      "strategy": [
+        {
+          "title": "Execution Tactics",
+          "text": "In a choppy market with narrow breadth, investors should focus on disciplined early entries and strictly cut losing trades early to preserve capital."
+        },
+        {
+          "title": "Upcoming Catalysts",
+          "text": "Earnings season approaches, with early earnings releases expected from Taiwan Semiconductor and major financial institutions."
+        }
+      ],
+      "sections": [
+        {
+          "number": 1,
+          "title": "Broad Market Index Levels & Technical Structures",
+          "kind": "indexes",
+          "items": [
+            {
+              "title": "S&P 500 Index",
+              "text": "Finished up approximately 0.2% on the day, closing directly at its critical 50-day moving average line. While the index sits only a few percentage points below all-time highs, price action remains choppy and sits on a technical cusp."
+            },
+            {
+              "title": "NASDAQ Composite",
+              "text": "Finished essentially flat to slightly positive, constructively holding support at the lower boundary of its prior gap-up session. The overall index pattern resembles a high handle setup."
+            },
+            {
+              "title": "Dow Jones Industrial Average",
+              "text": "Closed in positive territory, holding just above its 200-day moving average line."
+            },
+            {
+              "title": "Russell 2000 (Small Caps)",
+              "text": "Remains in a relatively weak position, retesting support at its key 200-day moving average line."
+            },
+            {
+              "title": "Market Character",
+              "text": "The broader market continues to display narrow breadth and choppy upward price action reminiscent of the late 1990s, requiring tight stop losses to keep failed breakouts small."
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "title": "Macroeconomic & Intermarket Drivers",
+          "kind": "macro",
+          "items": [
+            {
+              "title": "10-Year Treasury Yields",
+              "text": "Experienced an intraday decline, though the near-vertical uptrend in yields remains unbroken. Analysts note that if 10-year yields drift lower towards 5%, equities could experience a renewed momentum rally."
+            },
+            {
+              "title": "Crude Oil",
+              "text": "Despite minor short-term pullbacks, crude oil prices have maintained an upward trend over recent weeks."
+            },
+            {
+              "title": "International Markets (France / EWQ)",
+              "text": "The iShares MSCI France ETF (EWQ) dropped 2%, retesting its March lows due to political election uncertainty and national budget/deficit concerns."
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "title": "Sector ETF Dynamics",
+          "kind": "sectors",
+          "items": [
+            {
+              "title": "Software ETF (IGV)",
+              "text": "Advanced 1.6% on the day, with several individual software leaders reaching potential buy points or new highs."
+            },
+            {
+              "title": "Semiconductor ETF (SMH)",
+              "text": "Gained 1.5%, successfully holding above its cleared 600 key level on a closing basis."
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "title": "Individual Stock Technical Setups & Fundamental Growth",
+          "kind": "stocks",
+          "items": [
+            {
+              "title": "Lumentum Holdings (LITE)",
+              "text": "Surged 7.7% to log its first close above $1,000 in a extended period. It offers a handle buy point around $1,026 or near $1,000, supported by triple-digit top- and bottom-line growth over recent quarters, though it trades well above its 50-day line."
+            },
+            {
+              "title": "Micron Technology (MU)",
+              "text": "Staged a 3% upside reversal after temporarily undercutting its 21-day line and August/September lows. Micron features 1,000%+ earnings growth over the past two quarters, with 75% of fiscal 2027 sales already budgeted due to sustained AI memory demand."
+            },
+            {
+              "title": "Meta Platforms (META)",
+              "text": "Forming a potential handle on its weekly chart after clearing a major trendline. Positive sentiment is building around its consumer AI tool \"Muse\", though heavy capital expenditure and a tax item could affect upcoming quarterly earnings results."
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "title": "Risk Management & Portfolio Strategy",
+          "kind": "strategy",
+          "items": [
+            {
+              "title": "Execution Tactics",
+              "text": "In a choppy market with narrow breadth, investors should focus on disciplined early entries and strictly cut losing trades early to preserve capital."
+            },
+            {
+              "title": "Upcoming Catalysts",
+              "text": "Earnings season approaches, with early earnings releases expected from Taiwan Semiconductor and major financial institutions."
+            }
+          ]
+        }
+      ]
+    },
+    {
       "timestamp": "2026-09-30T20:00:00+00:00",
       "header": "Wednesday, September 30, 2026's Report",
       "headline": "### 1: Broad Market Index Performance & Technical Divergence.",

@@ -1,5 +1,242 @@
 [
   {
+    "timestamp": "2026-10-08T20:00:00+00:00",
+    "header": "Thursday, October 8, 2026's Report",
+    "headline": "### 1: Broad Market Index Performance & Technical Action.",
+    "summary": "### 1: Broad Market Index Performance & Technical Action.",
+    "indexes": [
+      {
+        "name": "NASDAQ Composite",
+        "pct": "-1.25%",
+        "action": "Declined 1.25% (after reaching intraday losses as deep as 1.7%), closing in the lower third (~30%) of its daily trading range. The pullback snapped a 5-day winning streak—the index's longest continuous positive stretch since late May / early June."
+      },
+      {
+        "name": "S&P 500",
+        "pct": "",
+        "action": "Fared relatively better, dropping 0.5% and closing near the midpoint of its daily span."
+      },
+      {
+        "name": "Dow Jones Industrial Average",
+        "pct": "",
+        "action": "Outperformed the tech-heavy benchmarks by advancing 0.1%, closing near session highs, though it remains below its 21-day moving average line."
+      },
+      {
+        "name": "Russell 2000 (Small Caps)",
+        "pct": "-0.05%",
+        "action": "Finished essentially flat (down 0.05%), rebounding off morning lows as bond yields eased."
+      },
+      {
+        "name": "Market Character & Breadth",
+        "pct": "",
+        "action": "A sharp divergence occurred between AI/tech hardware and the broader market. While equal-weight measures (RSP) and small caps stabilized, overall market breadth remains weak and reliant on lower interest rates to spark broad participation."
+      }
+    ],
+    "macro": [
+      {
+        "title": "OpenAI Revenue Headlines",
+        "text": "A report indicated OpenAI's annualized revenue stands around $50 billion. While showing strong growth, this fell short of market assumptions that had modeled a $70 billion pace based on improper peer comparisons. The news raised fresh questions regarding whether massive multi-trillion-dollar AI capital expenditures are justified, triggering a sharp sell-off across AI chips and infrastructure."
+      },
+      {
+        "title": "10-Year Treasury Yields",
+        "text": "Reversed lower following a strong Treasury auction, marking its first daily close below the 10-day moving average line in nearly two months."
+      },
+      {
+        "title": "Crude Oil & Refiners",
+        "text": "Crude oil spiked 5% early on geopolitical escalation reports before paring gains after statements indicated no immediate fighting prior to the elections. High crack spreads driven by diesel constraints boosted oil refining ETFs (CRA) and crude shipping transportation stocks (INSW, FRO)."
+      }
+    ],
+    "sectors": [
+      {
+        "name": "Semiconductors (SMH) & QQQE",
+        "tickers": [
+          "SMH"
+        ],
+        "pct": "",
+        "action": "The semiconductor ETF (SMH) suffered heavy selling, wiping out multi-day gains. The equal-weighted NASDAQ 100 (QQQE) broke below short-term highs to test its 50-day moving average line."
+      },
+      {
+        "name": "Software (IGV) & Cybersecurity",
+        "tickers": [
+          "IGV"
+        ],
+        "pct": "",
+        "action": "Held up remarkably well compared to hardware, as software businesses are less exposed to immediate AI infrastructure capital expenditure concerns."
+      }
+    ],
+    "stocks": [
+      {
+        "ticker": "GCT",
+        "tickers": [
+          "GCT"
+        ],
+        "company": "GigaCloud Technology",
+        "pct": "",
+        "action": "Technical Action: Highlighted as the \"Stock of the Day\" after forming a tight secondary consolidation above a deep base. It found technical support at its 10-week and 21-day moving average lines. | Relative Strength: Its Relative Strength (RS) line reached a 10-month high."
+      },
+      {
+        "ticker": "SNOW",
+        "tickers": [
+          "SNOW"
+        ],
+        "company": "Snowflake",
+        "pct": "",
+        "action": "Technical Action: Displayed tight daily and weekly price action, holding above its 21-day and 50-day moving average lines. | Trigger Level: Approaching a potential base breakout trigger around the 349–350 level. | Fundamentals: Backed by accelerating top-line revenue and bottom-line earnings growth."
+      },
+      {
+        "ticker": "GEV",
+        "tickers": [
+          "GEV"
+        ],
+        "company": "GE Vernova",
+        "pct": "",
+        "action": "Technical Action: Holding above a trendline out of a double-bottom base setup, with an early entry opportunity near recent high levels. | Context: Benefiting as an AI-adjacent power/infrastructure provider, though traders note its tendency to experience post-earnings pullbacks."
+      }
+    ],
+    "strategy": [
+      {
+        "title": "Incremental Scaling",
+        "text": "Avoid deploying large blocks of capital at once; scale into positions incrementally to prevent portfolio underwater drag when sector pullbacks occur."
+      },
+      {
+        "title": "Respecting Sell Rules",
+        "text": "With recent market gains erased in hardware, enforce strict stop-loss rules on recent purchases rather than holding failing trades."
+      },
+      {
+        "title": "Upcoming Earnings Catalyst Window",
+        "text": "Prepare for heightened volatility as major quarterly earnings reports begin next week with Taiwan Semiconductor (TSM), ASML, and major financial institutions."
+      }
+    ],
+    "sections": [
+      {
+        "number": 1,
+        "title": "Broad Market Index Performance & Technical Action",
+        "kind": "indexes",
+        "items": [
+          {
+            "title": "NASDAQ Composite",
+            "text": "Declined 1.25% (after reaching intraday losses as deep as 1.7%), closing in the lower third (~30%) of its daily trading range. The pullback snapped a 5-day winning streak—the index's longest continuous positive stretch since late May / early June."
+          },
+          {
+            "title": "S&P 500",
+            "text": "Fared relatively better, dropping 0.5% and closing near the midpoint of its daily span."
+          },
+          {
+            "title": "Dow Jones Industrial Average",
+            "text": "Outperformed the tech-heavy benchmarks by advancing 0.1%, closing near session highs, though it remains below its 21-day moving average line."
+          },
+          {
+            "title": "Russell 2000 (Small Caps)",
+            "text": "Finished essentially flat (down 0.05%), rebounding off morning lows as bond yields eased."
+          },
+          {
+            "title": "Market Character & Breadth",
+            "text": "A sharp divergence occurred between AI/tech hardware and the broader market. While equal-weight measures (RSP) and small caps stabilized, overall market breadth remains weak and reliant on lower interest rates to spark broad participation."
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Macroeconomic Factors & OpenAI Revenue Catalyst",
+        "kind": "macro",
+        "items": [
+          {
+            "title": "OpenAI Revenue Headlines",
+            "text": "A report indicated OpenAI's annualized revenue stands around $50 billion. While showing strong growth, this fell short of market assumptions that had modeled a $70 billion pace based on improper peer comparisons. The news raised fresh questions regarding whether massive multi-trillion-dollar AI capital expenditures are justified, triggering a sharp sell-off across AI chips and infrastructure."
+          },
+          {
+            "title": "10-Year Treasury Yields",
+            "text": "Reversed lower following a strong Treasury auction, marking its first daily close below the 10-day moving average line in nearly two months."
+          },
+          {
+            "title": "Crude Oil & Refiners",
+            "text": "Crude oil spiked 5% early on geopolitical escalation reports before paring gains after statements indicated no immediate fighting prior to the elections. High crack spreads driven by diesel constraints boosted oil refining ETFs (CRA) and crude shipping transportation stocks (INSW, FRO)."
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Sector & ETF Dynamics",
+        "kind": "sectors",
+        "items": [
+          {
+            "title": "Semiconductors (SMH) & QQQE",
+            "text": "The semiconductor ETF (SMH) suffered heavy selling, wiping out multi-day gains. The equal-weighted NASDAQ 100 (QQQE) broke below short-term highs to test its 50-day moving average line."
+          },
+          {
+            "title": "Software (IGV) & Cybersecurity",
+            "text": "Held up remarkably well compared to hardware, as software businesses are less exposed to immediate AI infrastructure capital expenditure concerns."
+          }
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Individual Stock Technical Setups & Fundamentals",
+        "kind": "stocks",
+        "items": [
+          {
+            "title": "GigaCloud Technology (GCT)",
+            "text": ""
+          },
+          {
+            "title": "Technical Action",
+            "text": "Highlighted as the \"Stock of the Day\" after forming a tight secondary consolidation above a deep base. It found technical support at its 10-week and 21-day moving average lines."
+          },
+          {
+            "title": "Relative Strength",
+            "text": "Its Relative Strength (RS) line reached a 10-month high."
+          },
+          {
+            "title": "Snowflake (SNOW)",
+            "text": ""
+          },
+          {
+            "title": "Technical Action",
+            "text": "Displayed tight daily and weekly price action, holding above its 21-day and 50-day moving average lines."
+          },
+          {
+            "title": "Trigger Level",
+            "text": "Approaching a potential base breakout trigger around the 349–350 level."
+          },
+          {
+            "title": "Fundamentals",
+            "text": "Backed by accelerating top-line revenue and bottom-line earnings growth."
+          },
+          {
+            "title": "GE Vernova (GEV)",
+            "text": ""
+          },
+          {
+            "title": "Technical Action",
+            "text": "Holding above a trendline out of a double-bottom base setup, with an early entry opportunity near recent high levels."
+          },
+          {
+            "title": "Context",
+            "text": "Benefiting as an AI-adjacent power/infrastructure provider, though traders note its tendency to experience post-earnings pullbacks."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "title": "Risk Management & Portfolio Execution",
+        "kind": "strategy",
+        "items": [
+          {
+            "title": "Incremental Scaling",
+            "text": "Avoid deploying large blocks of capital at once; scale into positions incrementally to prevent portfolio underwater drag when sector pullbacks occur."
+          },
+          {
+            "title": "Respecting Sell Rules",
+            "text": "With recent market gains erased in hardware, enforce strict stop-loss rules on recent purchases rather than holding failing trades."
+          },
+          {
+            "title": "Upcoming Earnings Catalyst Window",
+            "text": "Prepare for heightened volatility as major quarterly earnings reports begin next week with Taiwan Semiconductor (TSM), ASML, and major financial institutions."
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-07T20:00:00+00:00",
     "header": "Wednesday, October 7, 2026's Report",
     "headline": "### 1: Broad Market Index Performance & Technical Action.",
@@ -946,207 +1183,6 @@
           {
             "title": "Weekend Preparation",
             "text": "Investors are encouraged to update watchlists, monitor sector-level breadth (such as equal-weight tech ETF RSPT), set automated price alerts at key technical levels, and clearly map out both bullish and bearish inflection rules to avoid emotional decision-making during market hours."
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-10-01T20:00:00+00:00",
-    "header": "Thursday, October 1, 2026's Report",
-    "headline": "### Step 1: Broad Market Index Levels & Technical Structures.",
-    "summary": "### Step 1: Broad Market Index Levels & Technical Structures.",
-    "indexes": [
-      {
-        "name": "S&P 500 Index",
-        "pct": "",
-        "action": "Finished up approximately 0.2% on the day, closing directly at its critical 50-day moving average line. While the index sits only a few percentage points below all-time highs, price action remains choppy and sits on a technical cusp."
-      },
-      {
-        "name": "NASDAQ Composite",
-        "pct": "",
-        "action": "Finished essentially flat to slightly positive, constructively holding support at the lower boundary of its prior gap-up session. The overall index pattern resembles a high handle setup."
-      },
-      {
-        "name": "Dow Jones Industrial Average",
-        "pct": "",
-        "action": "Closed in positive territory, holding just above its 200-day moving average line."
-      },
-      {
-        "name": "Russell 2000 (Small Caps)",
-        "pct": "",
-        "action": "Remains in a relatively weak position, retesting support at its key 200-day moving average line."
-      },
-      {
-        "name": "Market Character",
-        "pct": "",
-        "action": "The broader market continues to display narrow breadth and choppy upward price action reminiscent of the late 1990s, requiring tight stop losses to keep failed breakouts small."
-      }
-    ],
-    "macro": [
-      {
-        "title": "10-Year Treasury Yields",
-        "text": "Experienced an intraday decline, though the near-vertical uptrend in yields remains unbroken. Analysts note that if 10-year yields drift lower towards 5%, equities could experience a renewed momentum rally."
-      },
-      {
-        "title": "Crude Oil",
-        "text": "Despite minor short-term pullbacks, crude oil prices have maintained an upward trend over recent weeks."
-      },
-      {
-        "title": "International Markets (France / EWQ)",
-        "text": "The iShares MSCI France ETF (EWQ) dropped 2%, retesting its March lows due to political election uncertainty and national budget/deficit concerns."
-      }
-    ],
-    "sectors": [
-      {
-        "name": "Software ETF (IGV)",
-        "tickers": [
-          "IGV"
-        ],
-        "pct": "+1.6%",
-        "action": "Advanced 1.6% on the day, with several individual software leaders reaching potential buy points or new highs."
-      },
-      {
-        "name": "Semiconductor ETF (SMH)",
-        "tickers": [
-          "SMH"
-        ],
-        "pct": "+1.5%",
-        "action": "Gained 1.5%, successfully holding above its cleared 600 key level on a closing basis."
-      }
-    ],
-    "stocks": [
-      {
-        "ticker": "LITE",
-        "tickers": [
-          "LITE"
-        ],
-        "company": "Lumentum Holdings",
-        "pct": "+7.7%",
-        "action": "Surged 7.7% to log its first close above $1,000 in a extended period. It offers a handle buy point around $1,026 or near $1,000, supported by triple-digit top- and bottom-line growth over recent quarters, though it trades well above its 50-day line."
-      },
-      {
-        "ticker": "MU",
-        "tickers": [
-          "MU"
-        ],
-        "company": "Micron Technology",
-        "pct": "",
-        "action": "Staged a 3% upside reversal after temporarily undercutting its 21-day line and August/September lows. Micron features 1,000%+ earnings growth over the past two quarters, with 75% of fiscal 2027 sales already budgeted due to sustained AI memory demand."
-      },
-      {
-        "ticker": "META",
-        "tickers": [
-          "META"
-        ],
-        "company": "Meta Platforms",
-        "pct": "",
-        "action": "Forming a potential handle on its weekly chart after clearing a major trendline. Positive sentiment is building around its consumer AI tool \"Muse\", though heavy capital expenditure and a tax item could affect upcoming quarterly earnings results."
-      }
-    ],
-    "strategy": [
-      {
-        "title": "Execution Tactics",
-        "text": "In a choppy market with narrow breadth, investors should focus on disciplined early entries and strictly cut losing trades early to preserve capital."
-      },
-      {
-        "title": "Upcoming Catalysts",
-        "text": "Earnings season approaches, with early earnings releases expected from Taiwan Semiconductor and major financial institutions."
-      }
-    ],
-    "sections": [
-      {
-        "number": 1,
-        "title": "Broad Market Index Levels & Technical Structures",
-        "kind": "indexes",
-        "items": [
-          {
-            "title": "S&P 500 Index",
-            "text": "Finished up approximately 0.2% on the day, closing directly at its critical 50-day moving average line. While the index sits only a few percentage points below all-time highs, price action remains choppy and sits on a technical cusp."
-          },
-          {
-            "title": "NASDAQ Composite",
-            "text": "Finished essentially flat to slightly positive, constructively holding support at the lower boundary of its prior gap-up session. The overall index pattern resembles a high handle setup."
-          },
-          {
-            "title": "Dow Jones Industrial Average",
-            "text": "Closed in positive territory, holding just above its 200-day moving average line."
-          },
-          {
-            "title": "Russell 2000 (Small Caps)",
-            "text": "Remains in a relatively weak position, retesting support at its key 200-day moving average line."
-          },
-          {
-            "title": "Market Character",
-            "text": "The broader market continues to display narrow breadth and choppy upward price action reminiscent of the late 1990s, requiring tight stop losses to keep failed breakouts small."
-          }
-        ]
-      },
-      {
-        "number": 2,
-        "title": "Macroeconomic & Intermarket Drivers",
-        "kind": "macro",
-        "items": [
-          {
-            "title": "10-Year Treasury Yields",
-            "text": "Experienced an intraday decline, though the near-vertical uptrend in yields remains unbroken. Analysts note that if 10-year yields drift lower towards 5%, equities could experience a renewed momentum rally."
-          },
-          {
-            "title": "Crude Oil",
-            "text": "Despite minor short-term pullbacks, crude oil prices have maintained an upward trend over recent weeks."
-          },
-          {
-            "title": "International Markets (France / EWQ)",
-            "text": "The iShares MSCI France ETF (EWQ) dropped 2%, retesting its March lows due to political election uncertainty and national budget/deficit concerns."
-          }
-        ]
-      },
-      {
-        "number": 3,
-        "title": "Sector ETF Dynamics",
-        "kind": "sectors",
-        "items": [
-          {
-            "title": "Software ETF (IGV)",
-            "text": "Advanced 1.6% on the day, with several individual software leaders reaching potential buy points or new highs."
-          },
-          {
-            "title": "Semiconductor ETF (SMH)",
-            "text": "Gained 1.5%, successfully holding above its cleared 600 key level on a closing basis."
-          }
-        ]
-      },
-      {
-        "number": 4,
-        "title": "Individual Stock Technical Setups & Fundamental Growth",
-        "kind": "stocks",
-        "items": [
-          {
-            "title": "Lumentum Holdings (LITE)",
-            "text": "Surged 7.7% to log its first close above $1,000 in a extended period. It offers a handle buy point around $1,026 or near $1,000, supported by triple-digit top- and bottom-line growth over recent quarters, though it trades well above its 50-day line."
-          },
-          {
-            "title": "Micron Technology (MU)",
-            "text": "Staged a 3% upside reversal after temporarily undercutting its 21-day line and August/September lows. Micron features 1,000%+ earnings growth over the past two quarters, with 75% of fiscal 2027 sales already budgeted due to sustained AI memory demand."
-          },
-          {
-            "title": "Meta Platforms (META)",
-            "text": "Forming a potential handle on its weekly chart after clearing a major trendline. Positive sentiment is building around its consumer AI tool \"Muse\", though heavy capital expenditure and a tax item could affect upcoming quarterly earnings results."
-          }
-        ]
-      },
-      {
-        "number": 5,
-        "title": "Risk Management & Portfolio Strategy",
-        "kind": "strategy",
-        "items": [
-          {
-            "title": "Execution Tactics",
-            "text": "In a choppy market with narrow breadth, investors should focus on disciplined early entries and strictly cut losing trades early to preserve capital."
-          },
-          {
-            "title": "Upcoming Catalysts",
-            "text": "Earnings season approaches, with early earnings releases expected from Taiwan Semiconductor and major financial institutions."
           }
         ]
       }
