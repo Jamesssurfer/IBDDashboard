@@ -1,6 +1,224 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-10-02T20:00:00+00:00",
+      "header": "Friday, October 2, 2026's Report",
+      "headline": "Here is a detailed, step-by-step breakdown of the market analysis, technical indicators, sector trends, and individual stock setups covered in the source material:.",
+      "summary": "Here is a detailed, step-by-step breakdown of the market analysis, technical indicators, sector trends, and individual stock setups covered in the source material:.",
+      "indexes": [
+        {
+          "name": "Index Summary",
+          "pct": "+1%",
+          "action": "The NASDAQ Composite led Friday's advance with a 1.2% gain following the jobs report. The NASDAQ 100 (QQQ) gained 1%, the S&P 500 rose 0.7%, small caps (Russell 2000) added 0.8%, and the Dow Jones Industrial Average rose 0.5%."
+        },
+        {
+          "name": "True Range Analysis",
+          "pct": "",
+          "action": "Although the NASDAQ's standard closing range ended near the lower third (~33%) of its daily span, evaluating the true range (factoring in the initial gap-up from the prior day's close) lifts the closing measure to roughly 66%. On the weekly chart, the NASDAQ remains positioned near the upper end of its range and holds near new high territory."
+        },
+        {
+          "name": "NASDAQ Levels",
+          "pct": "",
+          "action": "The index closed just above its previous marked high. Analysts highlight the September 22 high as a potential short-term magnet/resistance target to confirm full bullish control, while the lower gap-up zone serves as key downside support."
+        },
+        {
+          "name": "S&P 500 Levels",
+          "pct": "",
+          "action": "The S&P 500 successfully bounced off support at its 50-day moving average line. Upside resistance sits around the 7,800 level and the September 21–22 highs, whereas a break below the September 16 March low would signal heightened technical concern."
+        }
+      ],
+      "macro": [
+        {
+          "title": "10-Year Treasury Yields",
+          "text": "Yields reversed higher after the jobs report was released. Despite this pressure from rising yields, the equities market demonstrated notable resilience by retaining the majority of its daily gains."
+        },
+        {
+          "title": "Late-1990s Analog vs. Modern Earnings",
+          "text": "Analysts compared current market conditions to the late-1990s NASDAQ rally, where market breadth was narrow and concentrated in a small group of leaders. However, unlike the late-1990s—when companies were valued on \"eyeballs rather than earnings\"—today's technology and semiconductor leaders display phenomenal earnings growth rather than speculative valuations alone."
+        },
+        {
+          "title": "Power Trend Activation",
+          "text": "The NASDAQ triggered a Power Trend, satisfying four strict criteria: 1. The 21-day moving average line has remained above the 50-day moving average line for more than five days. 2. The daily lows have held above the 21-day moving average line for ten consecutive days. 3. The 50-day moving average line is trending upwards. 4. The index recorded a positive trading session."
+        }
+      ],
+      "sectors": [
+        {
+          "name": "Semiconductors (SMH)",
+          "tickers": [
+            "SMH"
+          ],
+          "pct": "",
+          "action": "Gained nearly 4% for the week, breaking back above its 10-week moving average line. Leader NVIDIA reached new highs, with its market cap climbing past $5 trillion."
+        },
+        {
+          "name": "Bitcoin (IBIT)",
+          "tickers": [
+            "IBIT"
+          ],
+          "pct": "",
+          "action": "Logged an intraday downside reversal off its session highs, but continues to hold constructively above its 200-day moving average line."
+        },
+        {
+          "name": "Steel & Metals (SLX)",
+          "tickers": [
+            "SLX"
+          ],
+          "pct": "",
+          "action": "Broke its immediate downtrend and finished near intraday highs, reflecting emerging momentum in metals and mining."
+        },
+        {
+          "name": "Oil & Energy (USO / RSPG)",
+          "tickers": [
+            "USO",
+            "RSPG"
+          ],
+          "pct": "",
+          "action": "Crude oil proxy USO recorded a 1.8% daily drop, marking its third consecutive weekly decline. The equal-weighted energy ETF (RSPG) rallied over two sessions to test its 50-day moving average line as potential overhead resistance."
+        }
+      ],
+      "stocks": [
+        {
+          "ticker": "ARW",
+          "tickers": [
+            "ARW"
+          ],
+          "company": "Arrow Electronics",
+          "pct": "+4.5%",
+          "action": "Advanced 4.5% on heavy volume, breaking out of a consolidation pattern. It displayed a \"blue dot\" on its chart, signifying that its relative strength (RS) line achieved a new high at the point of breakout."
+        },
+        {
+          "ticker": "MTRN",
+          "tickers": [
+            "MTRN"
+          ],
+          "company": "Materion",
+          "pct": "+10%",
+          "action": "Surged 10% on Friday following a 6% upside reversal on Thursday, putting the metal products stock up nearly 18% for the week."
+        },
+        {
+          "ticker": "ATEYY",
+          "tickers": [
+            "ATEYY",
+            "ATYYY"
+          ],
+          "company": "Advantest",
+          "pct": "+8.4%",
+          "action": "The Japanese semiconductor equipment provider (a $100B+ market cap ADR) jumped 8.4% on a strong breakout with an RS line blue dot. Its gappy price action reflects overnight trading adjustments on foreign exchanges."
+        }
+      ],
+      "strategy": [
+        {
+          "title": "Position Sizing & Risk Management",
+          "text": "For traders holding cash, analysts advise incremental purchases rather than aggressive all-in allocations. Starting with smaller position sizes allows wider stop-loss margins without taking excessive portfolio risk, permitting traders to add capital as individual positions confirm strength."
+        },
+        {
+          "title": "Weekend Preparation",
+          "text": "Investors are encouraged to update watchlists, monitor sector-level breadth (such as equal-weight tech ETF RSPT), set automated price alerts at key technical levels, and clearly map out both bullish and bearish inflection rules to avoid emotional decision-making during market hours."
+        }
+      ],
+      "sections": [
+        {
+          "number": 1,
+          "title": "Major Index Performance & Key Technical Levels",
+          "kind": "indexes",
+          "items": [
+            {
+              "title": "Index Summary",
+              "text": "The NASDAQ Composite led Friday's advance with a 1.2% gain following the jobs report. The NASDAQ 100 (QQQ) gained 1%, the S&P 500 rose 0.7%, small caps (Russell 2000) added 0.8%, and the Dow Jones Industrial Average rose 0.5%."
+            },
+            {
+              "title": "True Range Analysis",
+              "text": "Although the NASDAQ's standard closing range ended near the lower third (~33%) of its daily span, evaluating the true range (factoring in the initial gap-up from the prior day's close) lifts the closing measure to roughly 66%. On the weekly chart, the NASDAQ remains positioned near the upper end of its range and holds near new high territory."
+            },
+            {
+              "title": "NASDAQ Levels",
+              "text": "The index closed just above its previous marked high. Analysts highlight the September 22 high as a potential short-term magnet/resistance target to confirm full bullish control, while the lower gap-up zone serves as key downside support."
+            },
+            {
+              "title": "S&P 500 Levels",
+              "text": "The S&P 500 successfully bounced off support at its 50-day moving average line. Upside resistance sits around the 7,800 level and the September 21–22 highs, whereas a break below the September 16 March low would signal heightened technical concern."
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "title": "Macroeconomic Backdrop & Market Structure",
+          "kind": "macro",
+          "items": [
+            {
+              "title": "10-Year Treasury Yields",
+              "text": "Yields reversed higher after the jobs report was released. Despite this pressure from rising yields, the equities market demonstrated notable resilience by retaining the majority of its daily gains."
+            },
+            {
+              "title": "Late-1990s Analog vs. Modern Earnings",
+              "text": "Analysts compared current market conditions to the late-1990s NASDAQ rally, where market breadth was narrow and concentrated in a small group of leaders. However, unlike the late-1990s—when companies were valued on \"eyeballs rather than earnings\"—today's technology and semiconductor leaders display phenomenal earnings growth rather than speculative valuations alone."
+            },
+            {
+              "title": "Power Trend Activation",
+              "text": "The NASDAQ triggered a Power Trend, satisfying four strict criteria: 1. The 21-day moving average line has remained above the 50-day moving average line for more than five days. 2. The daily lows have held above the 21-day moving average line for ten consecutive days. 3. The 50-day moving average line is trending upwards. 4. The index recorded a positive trading session."
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "title": "Sector & ETF Highlights",
+          "kind": "sectors",
+          "items": [
+            {
+              "title": "Semiconductors (SMH)",
+              "text": "Gained nearly 4% for the week, breaking back above its 10-week moving average line. Leader NVIDIA reached new highs, with its market cap climbing past $5 trillion."
+            },
+            {
+              "title": "Bitcoin (IBIT)",
+              "text": "Logged an intraday downside reversal off its session highs, but continues to hold constructively above its 200-day moving average line."
+            },
+            {
+              "title": "Steel & Metals (SLX)",
+              "text": "Broke its immediate downtrend and finished near intraday highs, reflecting emerging momentum in metals and mining."
+            },
+            {
+              "title": "Oil & Energy (USO / RSPG)",
+              "text": "Crude oil proxy USO recorded a 1.8% daily drop, marking its third consecutive weekly decline. The equal-weighted energy ETF (RSPG) rallied over two sessions to test its 50-day moving average line as potential overhead resistance."
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "title": "Featured Stock Breakouts",
+          "kind": "stocks",
+          "items": [
+            {
+              "title": "Arrow Electronics (ARW)",
+              "text": "Advanced 4.5% on heavy volume, breaking out of a consolidation pattern. It displayed a \"blue dot\" on its chart, signifying that its relative strength (RS) line achieved a new high at the point of breakout."
+            },
+            {
+              "title": "Materion (MTRN)",
+              "text": "Surged 10% on Friday following a 6% upside reversal on Thursday, putting the metal products stock up nearly 18% for the week."
+            },
+            {
+              "title": "Advantest (ATEYY / ATYYY)",
+              "text": "The Japanese semiconductor equipment provider (a $100B+ market cap ADR) jumped 8.4% on a strong breakout with an RS line blue dot. Its gappy price action reflects overnight trading adjustments on foreign exchanges."
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "title": "Portfolio Strategy & Weekend Execution",
+          "kind": "strategy",
+          "items": [
+            {
+              "title": "Position Sizing & Risk Management",
+              "text": "For traders holding cash, analysts advise incremental purchases rather than aggressive all-in allocations. Starting with smaller position sizes allows wider stop-loss margins without taking excessive portfolio risk, permitting traders to add capital as individual positions confirm strength."
+            },
+            {
+              "title": "Weekend Preparation",
+              "text": "Investors are encouraged to update watchlists, monitor sector-level breadth (such as equal-weight tech ETF RSPT), set automated price alerts at key technical levels, and clearly map out both bullish and bearish inflection rules to avoid emotional decision-making during market hours."
+            }
+          ]
+        }
+      ]
+    },
+    {
       "timestamp": "2026-10-01T20:00:00+00:00",
       "header": "Thursday, October 1, 2026's Report",
       "headline": "### Step 1: Broad Market Index Levels & Technical Structures.",
