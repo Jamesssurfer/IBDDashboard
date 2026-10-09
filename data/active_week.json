@@ -1,5 +1,266 @@
 [
   {
+    "timestamp": "2026-10-09T20:00:00+00:00",
+    "header": "Friday, October 9, 2026's Report",
+    "headline": "### 1: Broad Market Index Performance & Technical Action.",
+    "summary": "### 1: Broad Market Index Performance & Technical Action.",
+    "indexes": [
+      {
+        "name": "NASDAQ Composite & QQQ",
+        "pct": "+0.5%",
+        "action": "The QQQ ETF advanced 0.5%, while the NASDAQ Composite trades in an active Power Trend, though its weekly candle displayed a stalling pattern with a smaller real body and upper wick."
+      },
+      {
+        "name": "S&P 500 (SPY)",
+        "pct": "+0.6%",
+        "action": "Advanced 0.6%, breaking above the prior day's high and closing with a strong weekly candle that cleared prior-month highs."
+      },
+      {
+        "name": "Russell 2000 (IWM)",
+        "pct": "",
+        "action": "Rebounded to around 280, holding technical support near its 200-day moving average line."
+      },
+      {
+        "name": "Dow Jones Industrial Average",
+        "pct": "",
+        "action": "Reclaimed its 21-day moving average line."
+      },
+      {
+        "name": "Equal-Weight S&P 500 (RSP)",
+        "pct": "+0.6%",
+        "action": "Gained 0.6%, crossing and holding above its 21-day moving average line as it rounds out a potential base bottom."
+      }
+    ],
+    "macro": [
+      {
+        "title": "10-Year Treasury Yields & Stocks",
+        "text": "Strategist Mike Webster emphasizes that interest rates and bond yield movements are already fully reflected in S&P 500 and NASDAQ price action, following Bill O'Neil's principle of focusing strictly on index price/volume rather than macro bond noise."
+      },
+      {
+        "title": "Small Cap Sensitivity",
+        "text": "Higher yields hit small-cap stocks (IWM) significantly harder due to debt financing dependencies, whereas mega-cap tech leaders maintain massive cash reserves that insulate them from elevated interest rates."
+      }
+    ],
+    "sectors": [
+      {
+        "name": "Semiconductors (SMH)",
+        "tickers": [
+          "SMH"
+        ],
+        "pct": "",
+        "action": "Experienced a pullback down to its 21-day moving average line, with leaders like TSM, Nvidia, and AMD pulling back to test 21-day support."
+      },
+      {
+        "name": "Software (IGV) & Cybersecurity (CIBR)",
+        "tickers": [
+          "IGV",
+          "CIBR"
+        ],
+        "pct": "",
+        "action": "IGV reached new high territory powered by Microsoft, while CIBR jumped out of a tight consolidation around its 50-day line."
+      },
+      {
+        "name": "Cloud Computing (SKYY)",
+        "tickers": [
+          "SKYY"
+        ],
+        "pct": "",
+        "action": "Added to SwingTrader following tight price action hugging key moving averages."
+      },
+      {
+        "name": "International Opportunities (EWZ)",
+        "tickers": [
+          "EWZ"
+        ],
+        "pct": "",
+        "action": "The Brazil ETF gapped up on election catalyst news and presented a tactical pullback entry above prior-day highs, using the prior-day low as a strict stop-loss level."
+      }
+    ],
+    "stocks": [
+      {
+        "ticker": "DDOG",
+        "tickers": [
+          "DDOG"
+        ],
+        "company": "Datadog",
+        "pct": "",
+        "action": "Technical Setup: Displayed an RS line \"blue dot\", signaling that its Relative Strength line reached new 52-week highs prior to a price breakout. | Fundamentals: Supported by accelerating quarterly top- and bottom-line growth and \"fresh merchandise\" IPO status (public within the last 7 years)."
+      },
+      {
+        "ticker": "SNOW",
+        "tickers": [
+          "SNOW"
+        ],
+        "company": "Snowflake",
+        "pct": "",
+        "action": "Technical Setup: Cleared resistance near 350 on strong volume to trigger a SwingTrader addition. | Risk Note: Position sizing should stay controlled due to heavy volume selling on its prior earnings session."
+      },
+      {
+        "ticker": "DELL",
+        "tickers": [
+          "DELL"
+        ],
+        "company": "Dell Technologies",
+        "pct": "",
+        "action": "Technical Setup: Forming a high-tight flag pattern with tight weekly closes that reflect institutional accumulation, approaching the 600 Livermore key level. | Fundamentals: Backed by accelerating quarterly and annual earnings growth."
+      }
+    ],
+    "strategy": [
+      {
+        "title": "Screening Parameters",
+        "text": "Run a weekend screen for stocks trading above their 21-day, 50-day, and 200-day moving averages, priced over $10, with average daily dollar volume exceeding $25 million."
+      },
+      {
+        "title": "Sorting Hierarchy",
+        "text": "Sort the resulting watchlist by Broad Sector → Industry Group Rank → Composite Rating (descending) to isolate leading industry groups and identify the highest-rated individual stocks first."
+      }
+    ],
+    "sections": [
+      {
+        "number": 1,
+        "title": "Broad Market Index Performance & Technical Action",
+        "kind": "indexes",
+        "items": [
+          {
+            "title": "NASDAQ Composite & QQQ",
+            "text": "The QQQ ETF advanced 0.5%, while the NASDAQ Composite trades in an active Power Trend, though its weekly candle displayed a stalling pattern with a smaller real body and upper wick."
+          },
+          {
+            "title": "S&P 500 (SPY)",
+            "text": "Advanced 0.6%, breaking above the prior day's high and closing with a strong weekly candle that cleared prior-month highs."
+          },
+          {
+            "title": "Russell 2000 (IWM)",
+            "text": "Rebounded to around 280, holding technical support near its 200-day moving average line."
+          },
+          {
+            "title": "Dow Jones Industrial Average",
+            "text": "Reclaimed its 21-day moving average line."
+          },
+          {
+            "title": "Equal-Weight S&P 500 (RSP)",
+            "text": "Gained 0.6%, crossing and holding above its 21-day moving average line as it rounds out a potential base bottom."
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Power Trend Criteria & Market \"Chopfest\" Context",
+        "kind": "other",
+        "items": [
+          {
+            "title": "Power Trend Activation",
+            "text": "The NASDAQ Composite remains in a valid Power Trend, satisfying two strict technical requirements: 1. The daily low has held above the 21-day moving average line for 10 consecutive days. 2. The 21-day line has stayed above the 50-day line for at least 5 consecutive days, with the 50-day line trending higher."
+          },
+          {
+            "title": "Market Character",
+            "text": "While index-level performance remains structurally healthy, individual active stock trading since June has been an extremely difficult \"chopfest\" characterized by failed breakouts and frequent shakeouts."
+          },
+          {
+            "title": "ETF Execution Strategy",
+            "text": "Strategists recommend leaning more heavily on broad index ETFs (such as QQQ or SPY) or sector ETFs rather than forcing individual equity trades until breakout follow-through improves."
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Sector ETF Highlights",
+        "kind": "sectors",
+        "items": [
+          {
+            "title": "Semiconductors (SMH)",
+            "text": "Experienced a pullback down to its 21-day moving average line, with leaders like TSM, Nvidia, and AMD pulling back to test 21-day support."
+          },
+          {
+            "title": "Software (IGV) & Cybersecurity (CIBR)",
+            "text": "IGV reached new high territory powered by Microsoft, while CIBR jumped out of a tight consolidation around its 50-day line."
+          },
+          {
+            "title": "Cloud Computing (SKYY)",
+            "text": "Added to SwingTrader following tight price action hugging key moving averages."
+          },
+          {
+            "title": "International Opportunities (EWZ)",
+            "text": "The Brazil ETF gapped up on election catalyst news and presented a tactical pullback entry above prior-day highs, using the prior-day low as a strict stop-loss level."
+          }
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Featured Individual Stock Setups & Fundamentals",
+        "kind": "stocks",
+        "items": [
+          {
+            "title": "Datadog (DDOG)",
+            "text": ""
+          },
+          {
+            "title": "Technical Setup",
+            "text": "Displayed an RS line \"blue dot\", signaling that its Relative Strength line reached new 52-week highs prior to a price breakout."
+          },
+          {
+            "title": "Fundamentals",
+            "text": "Supported by accelerating quarterly top- and bottom-line growth and \"fresh merchandise\" IPO status (public within the last 7 years)."
+          },
+          {
+            "title": "Snowflake (SNOW)",
+            "text": ""
+          },
+          {
+            "title": "Technical Setup",
+            "text": "Cleared resistance near 350 on strong volume to trigger a SwingTrader addition."
+          },
+          {
+            "title": "Risk Note",
+            "text": "Position sizing should stay controlled due to heavy volume selling on its prior earnings session."
+          },
+          {
+            "title": "Dell Technologies (DELL)",
+            "text": ""
+          },
+          {
+            "title": "Technical Setup",
+            "text": "Forming a high-tight flag pattern with tight weekly closes that reflect institutional accumulation, approaching the 600 Livermore key level."
+          },
+          {
+            "title": "Fundamentals",
+            "text": "Backed by accelerating quarterly and annual earnings growth."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "title": "Macro Intermarket Analysis & Bond Market / Yield Insights",
+        "kind": "macro",
+        "items": [
+          {
+            "title": "10-Year Treasury Yields & Stocks",
+            "text": "Strategist Mike Webster emphasizes that interest rates and bond yield movements are already fully reflected in S&P 500 and NASDAQ price action, following Bill O'Neil's principle of focusing strictly on index price/volume rather than macro bond noise."
+          },
+          {
+            "title": "Small Cap Sensitivity",
+            "text": "Higher yields hit small-cap stocks (IWM) significantly harder due to debt financing dependencies, whereas mega-cap tech leaders maintain massive cash reserves that insulate them from elevated interest rates."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "title": "Weekend Screening Routine & Execution Strategy",
+        "kind": "strategy",
+        "items": [
+          {
+            "title": "Screening Parameters",
+            "text": "Run a weekend screen for stocks trading above their 21-day, 50-day, and 200-day moving averages, priced over $10, with average daily dollar volume exceeding $25 million."
+          },
+          {
+            "title": "Sorting Hierarchy",
+            "text": "Sort the resulting watchlist by Broad Sector → Industry Group Rank → Composite Rating (descending) to isolate leading industry groups and identify the highest-rated individual stocks first."
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-08T20:00:00+00:00",
     "header": "Thursday, October 8, 2026's Report",
     "headline": "### 1: Broad Market Index Performance & Technical Action.",
