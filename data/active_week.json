@@ -1,5 +1,222 @@
 [
   {
+    "timestamp": "2026-10-19T20:00:00+00:00",
+    "header": "Monday, October 19, 2026's Report",
+    "headline": "### 1. Broad Market Index Performance & Technical Context.",
+    "summary": "### 1. Broad Market Index Performance & Technical Context.",
+    "indexes": [
+      {
+        "name": "NASDAQ Composite",
+        "pct": "",
+        "action": "Led Monday’s tech bounce with a 1.1% gain, but closed below its 50-day moving average line."
+      },
+      {
+        "name": "S&P 500",
+        "pct": "+0.4%",
+        "action": "Advanced 0.4%, encountering technical resistance directly at its 50-day moving average line."
+      },
+      {
+        "name": "Dow Jones Industrial Average",
+        "pct": "",
+        "action": "Slipped fractionally, dropping less than 0.1%."
+      },
+      {
+        "name": "Russell 2000 (Small Caps)",
+        "pct": "",
+        "action": "Added 0.25%, remaining in a structurally weak position below its 200-day moving average line."
+      },
+      {
+        "name": "Context of the Bounce",
+        "pct": "",
+        "action": "The advance followed a severe prior week where indexes sliced through their 10-week moving average lines. Analysts emphasize that a 1% bounce is insufficient to repair the technical damage, recommending patience and further evidence before declaring a definitive market bottom."
+      }
+    ],
+    "macro": [],
+    "sectors": [
+      {
+        "name": "Semiconductors (SMH)",
+        "tickers": [
+          "SMH"
+        ],
+        "pct": "",
+        "action": "Posted a daily percentage gain but closed in the lower portion of its intraday range, indicating substantial repair work remains ahead for the chip group."
+      },
+      {
+        "name": "Equal-Weighted S&P 500 (RSP)",
+        "tickers": [
+          "RSP"
+        ],
+        "pct": "",
+        "action": "Rebounded to test its 50-day moving average line after conquering its 21-day line, but was turned away lower. Leadership in RSP was heavily concentrated in defensive staples like Coca-Cola rather than growth names."
+      },
+      {
+        "name": "Magnificent 7 ETF (MAGS)",
+        "tickers": [
+          "MAGS"
+        ],
+        "pct": "",
+        "action": "Showed relative strength compared to broader tech, holding support above its 50-day moving average line and near the top of its prior base."
+      },
+      {
+        "name": "Consumer Discretionary (XLY)",
+        "tickers": [
+          "XLY"
+        ],
+        "pct": "",
+        "action": "Closed at the top of its daily range above its 50-day line, though it remains below its 200-day line. The sector was primarily driven by Tesla and Amazon."
+      },
+      {
+        "name": "Energy (XLE / XOP / CRAK)",
+        "tickers": [],
+        "pct": "",
+        "action": "Explorers, producers, and refiners continue to display constructive chart setups despite geopolitical and headline risks."
+      }
+    ],
+    "stocks": [],
+    "strategy": [
+      {
+        "title": "Patience Over Aggression",
+        "text": "Refrain from aggressive buying on single-day bounces following severe market distribution."
+      },
+      {
+        "title": "Cyclical Position Sizing",
+        "text": "When trading cyclical or insurance stocks that lack high fundamental growth, use smaller initial position sizes to manage portfolio risk effectively. 📊 Would you like to create an interactive quiz or study flashcards based on these stock breakout setups and moving average rules?"
+      }
+    ],
+    "sections": [
+      {
+        "number": 1,
+        "title": "Broad Market Index Performance & Technical Context",
+        "kind": "indexes",
+        "items": [
+          {
+            "title": "NASDAQ Composite",
+            "text": "Led Monday’s tech bounce with a 1.1% gain, but closed below its 50-day moving average line."
+          },
+          {
+            "title": "S&P 500",
+            "text": "Advanced 0.4%, encountering technical resistance directly at its 50-day moving average line."
+          },
+          {
+            "title": "Dow Jones Industrial Average",
+            "text": "Slipped fractionally, dropping less than 0.1%."
+          },
+          {
+            "title": "Russell 2000 (Small Caps)",
+            "text": "Added 0.25%, remaining in a structurally weak position below its 200-day moving average line."
+          },
+          {
+            "title": "Context of the Bounce",
+            "text": "The advance followed a severe prior week where indexes sliced through their 10-week moving average lines. Analysts emphasize that a 1% bounce is insufficient to repair the technical damage, recommending patience and further evidence before declaring a definitive market bottom."
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Sector ETF Dynamics & Market Breadth",
+        "kind": "sectors",
+        "items": [
+          {
+            "title": "Semiconductors (SMH)",
+            "text": "Posted a daily percentage gain but closed in the lower portion of its intraday range, indicating substantial repair work remains ahead for the chip group."
+          },
+          {
+            "title": "Equal-Weighted S&P 500 (RSP)",
+            "text": "Rebounded to test its 50-day moving average line after conquering its 21-day line, but was turned away lower. Leadership in RSP was heavily concentrated in defensive staples like Coca-Cola rather than growth names."
+          },
+          {
+            "title": "Magnificent 7 ETF (MAGS)",
+            "text": "Showed relative strength compared to broader tech, holding support above its 50-day moving average line and near the top of its prior base."
+          },
+          {
+            "title": "Consumer Discretionary (XLY)",
+            "text": "Closed at the top of its daily range above its 50-day line, though it remains below its 200-day line. The sector was primarily driven by Tesla and Amazon."
+          },
+          {
+            "title": "Energy (XLE / XOP / CRAK)",
+            "text": "Explorers, producers, and refiners continue to display constructive chart setups despite geopolitical and headline risks."
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Amazon (AMZN) Breakdown",
+        "kind": "other",
+        "items": [
+          {
+            "title": "Technical Setup",
+            "text": "Surged 5% on heavy volume, retaking its 50-day moving average line while trading above its 200-day line to offer an early entry point. It was added to the SwingTrader model portfolio."
+          },
+          {
+            "title": "Business & Fundamental Diversification",
+            "text": "Combines consumer retail strength, Magnificent 7 market-cap leadership, and AWS cloud/AI exposure."
+          },
+          {
+            "title": "Earnings Growth",
+            "text": "Displays an annualized EPS growth rate of 78% despite operating at massive multi-billion-dollar annual sales volumes."
+          },
+          {
+            "title": "Earnings Risk Strategy",
+            "text": "Heading into its upcoming earnings report, investors can evaluate the sum of the at-the-money call and put option premiums to gauge the implied volatility and expected post-earnings move."
+          }
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Heartflow (HTFL) & Medical Software Leadership",
+        "kind": "other",
+        "items": [
+          {
+            "title": "Technical Setup",
+            "text": "Formed an extended sideways consolidation around the $50 level following an August earnings gap-up, allowing its rising 50-day moving average line to catch up to price. Added to SwingTrader."
+          },
+          {
+            "title": "Industry Group Strength",
+            "text": "Operates in Computer Software - Medical, which ranks as the #1 industry group overall (holding a top 10–15 ranking consistently since mid-August). The group is heavily weighted by Veeva Systems (VEEV)."
+          },
+          {
+            "title": "Software Peers",
+            "text": "Other enterprise software names holding near short-term moving averages (8 EMA) include Atlassian (TEAM) and Appian (APN)."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "title": "Ethos (LIFE) & Insurance Group Analysis",
+        "kind": "other",
+        "items": [
+          {
+            "title": "Technical Setup",
+            "text": "Formed a base supported at its 50-day moving average line following an August advance that featured IBD \"ants\" (high volume and price momentum). Key technical resistance sits around the $40 pivot level."
+          },
+          {
+            "title": "Group Representation",
+            "text": "Insurance stocks have expanded their representation in the IBD Growth 250 list to 7.7%, benefiting from defensive sector rotation alongside Dow component Travelers (TRV)."
+          },
+          {
+            "title": "Short Report Impact",
+            "text": "The stock has held its technical structure despite a short report published by Hunterbrook."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "title": "Portfolio & Risk Management Guidelines",
+        "kind": "strategy",
+        "items": [
+          {
+            "title": "Patience Over Aggression",
+            "text": "Refrain from aggressive buying on single-day bounces following severe market distribution."
+          },
+          {
+            "title": "Cyclical Position Sizing",
+            "text": "When trading cyclical or insurance stocks that lack high fundamental growth, use smaller initial position sizes to manage portfolio risk effectively. 📊 Would you like to create an interactive quiz or study flashcards based on these stock breakout setups and moving average rules?"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-16T20:00:00+00:00",
     "header": "Friday, October 16, 2026's Report",
     "headline": "### 1. Broad Market Index Performance & Technical Action.",
@@ -1042,278 +1259,6 @@
           {
             "title": "Earnings Season Expansion",
             "text": "Traders are closely monitoring the upcoming CPI report and key quarterly reports from chip equipment giant ASML, alongside major financial reports from Bank of America and Morgan Stanley."
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-10-12T20:00:00+00:00",
-    "header": "Monday, October 12, 2026's Report",
-    "headline": "### 1. Broad Market Index Performance & Technical Action.",
-    "summary": "### 1. Broad Market Index Performance & Technical Action.",
-    "indexes": [
-      {
-        "name": "NASDAQ Composite",
-        "pct": "-0.4%",
-        "action": "Declined 0.4% to kick off the week, but remains structurally constructive as it holds above its 21-day moving average line in a sideways consolidation pattern."
-      },
-      {
-        "name": "NASDAQ 100 (QQQ)",
-        "pct": "",
-        "action": "Struggling to stay decisively above the 750 level, though it continues to hold support near its recent intraday lows."
-      },
-      {
-        "name": "S&P 500",
-        "pct": "",
-        "action": "Finished essentially flat, down less than 0.1% for the session. The Equal-Weighted S&P 500 (RSP) held above its 21-day moving average line, showing initial signs of broadening participation."
-      },
-      {
-        "name": "Dow Jones Industrial Average",
-        "pct": "",
-        "action": "Rebounded 0.4%, successfully reclaiming its 21-day moving average line."
-      },
-      {
-        "name": "Russell 2000 (Small Caps / IWM)",
-        "pct": "-0.4%",
-        "action": "Dropped 0.4%, finding technical support at its 200-day moving average line while remaining restricted below its declining 21-day moving average."
-      },
-      {
-        "name": "Treasury Market Notice",
-        "pct": "",
-        "action": "Bond markets were closed for Columbus Day, leaving 10-year Treasury yields (TNX) unchanged for the day."
-      }
-    ],
-    "macro": [],
-    "sectors": [
-      {
-        "name": "Semiconductors (SMH)",
-        "tickers": [
-          "SMH"
-        ],
-        "pct": "",
-        "action": "Decisively broke below its 21-day moving average line, signaling clear short-term tech distribution despite remaining above its 50-day line."
-      },
-      {
-        "name": "Software (IGV)",
-        "tickers": [
-          "IGV"
-        ],
-        "pct": "",
-        "action": "Experienced a harsh downside reversal, giving up early gains to close near session lows."
-      },
-      {
-        "name": "Magnificent 7 ETF (MAGS)",
-        "tickers": [
-          "MAGS"
-        ],
-        "pct": "",
-        "action": "Supported the broader index behind a 3.4% gain in Meta Platforms and steady technical strength in Microsoft, which continues to hold above its 8-day exponential moving average (8 EMA). Apple remains constructive, while Amazon sits on shakier ground."
-      },
-      {
-        "name": "S&P 493 (X-MAG)",
-        "tickers": [],
-        "pct": "",
-        "action": "The ETF tracking the non-mega-cap S&P 500 constituents is testing resistance at its 50-day moving average line after reclaiming its 21-day line."
-      },
-      {
-        "name": "Defensive Sector Rotation",
-        "tickers": [
-          "XLP",
-          "RSPF"
-        ],
-        "pct": "",
-        "action": "Sector gains concentrated in defensive groups, including Consumer Staples (XLP), Insurance, and Equal-Weighted Financials (RSPF)."
-      }
-    ],
-    "stocks": [
-      {
-        "ticker": "FIGS",
-        "tickers": [
-          "FIGS"
-        ],
-        "company": "Figs",
-        "pct": "+12.4%",
-        "action": "Technical Action: Surged 12.4% on a high-volume breakout, clearing prior weekly highs. The stock boasts an impressive 95 Relative Strength (RS) rating. | Level to Watch: Chart analysts are looking for price action to hold tight above the 16.36 breakout level prior to its upcoming earnings report. | Fundamentals: Displays strong, triple-digit quarterly growth as it recovers off a multi-year cyclical bottom."
-      },
-      {
-        "ticker": "KSS",
-        "tickers": [
-          "KSS"
-        ],
-        "company": "Kohl's",
-        "pct": "+4%",
-        "action": "Technical Action: Advanced 4% on a breakout, bouncing off support at its 200-day / 40-week moving average line to challenge its 10-week line. | Fundamentals: Generated triple-digit earnings growth in its most recent quarter despite lumpy top-line revenue."
-      },
-      {
-        "ticker": "VSCO",
-        "tickers": [
-          "VSCO"
-        ],
-        "company": "Victoria's Secret",
-        "pct": "+7%",
-        "action": "Technical Action: Rose 7% out of a cup-with-handle pattern, offering an early trendline entry roughly 4% below its traditional handle pivot. | Fundamentals & Recovery: Demonstrated solid double-digit revenue growth and recovered quickly above its 50-day moving average line following a brief post-earnings pullback. | Broad Retail Watchlist: Additional non-tech retail names setting up include Target (holding its 10-week line in a flat base) and Shark Ninja."
-      }
-    ],
-    "strategy": [
-      {
-        "title": "Strict Stop-Loss Rules",
-        "text": "Investors should strictly enforce 7% to 8% stop-loss limits regardless of index-level power trend signals."
-      },
-      {
-        "title": "Earnings Season Expansion",
-        "text": "Approximately 25 S&P 500 companies report earnings this week, with volume expanding to over 100 companies per week shortly after."
-      },
-      {
-        "title": "Evaluating Relative Strength",
-        "text": "Focus on stocks displaying rising Relative Strength lines that close near the upper boundary of their daily range on general market down days. 🛍️ Would you like to create a set of study flashcards or an interactive quiz focusing on these retail breakout setups and technical risk management rules?"
-      }
-    ],
-    "sections": [
-      {
-        "number": 1,
-        "title": "Broad Market Index Performance & Technical Action",
-        "kind": "indexes",
-        "items": [
-          {
-            "title": "NASDAQ Composite",
-            "text": "Declined 0.4% to kick off the week, but remains structurally constructive as it holds above its 21-day moving average line in a sideways consolidation pattern."
-          },
-          {
-            "title": "NASDAQ 100 (QQQ)",
-            "text": "Struggling to stay decisively above the 750 level, though it continues to hold support near its recent intraday lows."
-          },
-          {
-            "title": "S&P 500",
-            "text": "Finished essentially flat, down less than 0.1% for the session. The Equal-Weighted S&P 500 (RSP) held above its 21-day moving average line, showing initial signs of broadening participation."
-          },
-          {
-            "title": "Dow Jones Industrial Average",
-            "text": "Rebounded 0.4%, successfully reclaiming its 21-day moving average line."
-          },
-          {
-            "title": "Russell 2000 (Small Caps / IWM)",
-            "text": "Dropped 0.4%, finding technical support at its 200-day moving average line while remaining restricted below its declining 21-day moving average."
-          },
-          {
-            "title": "Treasury Market Notice",
-            "text": "Bond markets were closed for Columbus Day, leaving 10-year Treasury yields (TNX) unchanged for the day."
-          }
-        ]
-      },
-      {
-        "number": 2,
-        "title": "Sector & ETF Dynamics",
-        "kind": "sectors",
-        "items": [
-          {
-            "title": "Semiconductors (SMH)",
-            "text": "Decisively broke below its 21-day moving average line, signaling clear short-term tech distribution despite remaining above its 50-day line."
-          },
-          {
-            "title": "Software (IGV)",
-            "text": "Experienced a harsh downside reversal, giving up early gains to close near session lows."
-          },
-          {
-            "title": "Magnificent 7 ETF (MAGS)",
-            "text": "Supported the broader index behind a 3.4% gain in Meta Platforms and steady technical strength in Microsoft, which continues to hold above its 8-day exponential moving average (8 EMA). Apple remains constructive, while Amazon sits on shakier ground."
-          },
-          {
-            "title": "S&P 493 (X-MAG)",
-            "text": "The ETF tracking the non-mega-cap S&P 500 constituents is testing resistance at its 50-day moving average line after reclaiming its 21-day line."
-          },
-          {
-            "title": "Defensive Sector Rotation",
-            "text": "Sector gains concentrated in defensive groups, including Consumer Staples (XLP), Insurance, and Equal-Weighted Financials (RSPF)."
-          }
-        ]
-      },
-      {
-        "number": 3,
-        "title": "Non-Tech Apparel & Retail Breakouts",
-        "kind": "stocks",
-        "items": [
-          {
-            "title": "Figs (FIGS)",
-            "text": ""
-          },
-          {
-            "title": "Technical Action",
-            "text": "Surged 12.4% on a high-volume breakout, clearing prior weekly highs. The stock boasts an impressive 95 Relative Strength (RS) rating."
-          },
-          {
-            "title": "Level to Watch",
-            "text": "Chart analysts are looking for price action to hold tight above the 16.36 breakout level prior to its upcoming earnings report."
-          },
-          {
-            "title": "Fundamentals",
-            "text": "Displays strong, triple-digit quarterly growth as it recovers off a multi-year cyclical bottom."
-          },
-          {
-            "title": "Kohl's (KSS)",
-            "text": ""
-          },
-          {
-            "title": "Technical Action",
-            "text": "Advanced 4% on a breakout, bouncing off support at its 200-day / 40-week moving average line to challenge its 10-week line."
-          },
-          {
-            "title": "Fundamentals",
-            "text": "Generated triple-digit earnings growth in its most recent quarter despite lumpy top-line revenue."
-          },
-          {
-            "title": "Victoria's Secret (VSCO)",
-            "text": ""
-          },
-          {
-            "title": "Technical Action",
-            "text": "Rose 7% out of a cup-with-handle pattern, offering an early trendline entry roughly 4% below its traditional handle pivot."
-          },
-          {
-            "title": "Fundamentals & Recovery",
-            "text": "Demonstrated solid double-digit revenue growth and recovered quickly above its 50-day moving average line following a brief post-earnings pullback."
-          },
-          {
-            "title": "Broad Retail Watchlist",
-            "text": "Additional non-tech retail names setting up include Target (holding its 10-week line in a flat base) and Shark Ninja."
-          }
-        ]
-      },
-      {
-        "number": 4,
-        "title": "Power Trend Context & Market Breadth",
-        "kind": "other",
-        "items": [
-          {
-            "title": "Power Trend Status",
-            "text": "The NASDAQ Composite remains in an active Power Trend. However, analysts emphasize that a Power Trend does not guarantee individual stock breakout success."
-          },
-          {
-            "title": "Quality of Breadth",
-            "text": "Because recent market breadth has leaned into defensive groups (staples, insurance) rather than broad-based tech participation, overall market health requires careful monitoring."
-          },
-          {
-            "title": "Index & ETF Strategy",
-            "text": "Due to choppiness in individual equity breakouts, strategies have shifted toward broader index ETFs (QQQ, SPY) to participate in overall trend strength while mitigating single-stock risk."
-          }
-        ]
-      },
-      {
-        "number": 5,
-        "title": "Risk Management & Upcoming Earnings Catalysts",
-        "kind": "strategy",
-        "items": [
-          {
-            "title": "Strict Stop-Loss Rules",
-            "text": "Investors should strictly enforce 7% to 8% stop-loss limits regardless of index-level power trend signals."
-          },
-          {
-            "title": "Earnings Season Expansion",
-            "text": "Approximately 25 S&P 500 companies report earnings this week, with volume expanding to over 100 companies per week shortly after."
-          },
-          {
-            "title": "Evaluating Relative Strength",
-            "text": "Focus on stocks displaying rising Relative Strength lines that close near the upper boundary of their daily range on general market down days. 🛍️ Would you like to create a set of study flashcards or an interactive quiz focusing on these retail breakout setups and technical risk management rules?"
           }
         ]
       }
