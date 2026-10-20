@@ -7,31 +7,44 @@
     "indexes": [
       {
         "name": "NASDAQ Composite",
-        "pct": "",
-        "action": "Led Monday’s tech bounce with a 1.1% gain, but closed below its 50-day moving average line."
+        "pct": "+1.1%",
+        "action": "Advanced 1.1% to lead Monday's tech bounce, but encountered overhead resistance and remains below its 50-day moving average line."
       },
       {
         "name": "S&P 500",
         "pct": "+0.4%",
-        "action": "Advanced 0.4%, encountering technical resistance directly at its 50-day moving average line."
+        "action": "Advanced 0.4%, also meeting resistance directly at its 50-day moving average line."
       },
       {
         "name": "Dow Jones Industrial Average",
         "pct": "",
-        "action": "Slipped fractionally, dropping less than 0.1%."
+        "action": "Slipped fractionally, dropping less than 0.1% (less than one-tenth of 1%)."
       },
       {
         "name": "Russell 2000 (Small Caps)",
         "pct": "",
-        "action": "Added 0.25%, remaining in a structurally weak position below its 200-day moving average line."
+        "action": "Added 0.25%, remaining in a structurally weak technical position below its 200-day moving average line."
       },
       {
         "name": "Context of the Bounce",
         "pct": "",
-        "action": "The advance followed a severe prior week where indexes sliced through their 10-week moving average lines. Analysts emphasize that a 1% bounce is insufficient to repair the technical damage, recommending patience and further evidence before declaring a definitive market bottom."
+        "action": "The single-day rally follows a severe prior week where indexes sliced down through their 10-week moving average lines. Analysts emphasize that a 1% gain is insufficient to repair the technical damage, requiring more time, volume evidence, and price traction before declaring a victory in the market recovery."
       }
     ],
-    "macro": [],
+    "macro": [
+      {
+        "title": "Energy & Cyclical Characteristics",
+        "text": "Cyclical stocks like energy producers and refiners often present compelling chart patterns before traditional revenue and earnings growth numbers fully reflect the turn."
+      },
+      {
+        "title": "Insurance Group Acceleration",
+        "text": "The Insurance group climbed in industry rankings to #39, demonstrating institutional capital inflows into defensive growth plays."
+      },
+      {
+        "title": "Options Market Implied Move for Earnings",
+        "text": "To evaluate post-earnings risk heading into report dates, traders can add the near-term at-the-money call and put option premiums together to calculate the market's expected move."
+      }
+    ],
     "sectors": [
       {
         "name": "Semiconductors (SMH)",
@@ -39,7 +52,7 @@
           "SMH"
         ],
         "pct": "",
-        "action": "Posted a daily percentage gain but closed in the lower portion of its intraday range, indicating substantial repair work remains ahead for the chip group."
+        "action": "Logged a positive daily percentage gain, but closed in the lower portion of its daily trading range, signaling that substantial technical repair work remains ahead for chip stocks."
       },
       {
         "name": "Equal-Weighted S&P 500 (RSP)",
@@ -47,7 +60,7 @@
           "RSP"
         ],
         "pct": "",
-        "action": "Rebounded to test its 50-day moving average line after conquering its 21-day line, but was turned away lower. Leadership in RSP was heavily concentrated in defensive staples like Coca-Cola rather than growth names."
+        "action": "Rebound attempt toward its 50-day moving average line was turned away lower; market breadth in the ETF was dominated by defensive staples like Coca-Cola rather than growth names."
       },
       {
         "name": "Magnificent 7 ETF (MAGS)",
@@ -55,7 +68,7 @@
           "MAGS"
         ],
         "pct": "",
-        "action": "Showed relative strength compared to broader tech, holding support above its 50-day moving average line and near the top of its prior base."
+        "action": "Demonstrated relative strength compared to broader tech, holding support at the top of its prior base above its 50-day moving average line."
       },
       {
         "name": "Consumer Discretionary (XLY)",
@@ -63,7 +76,7 @@
           "XLY"
         ],
         "pct": "",
-        "action": "Closed at the top of its daily range above its 50-day line, though it remains below its 200-day line. The sector was primarily driven by Tesla and Amazon."
+        "action": "Closed at the top of its daily range above its 50-day moving average line, though it remains below its 200-day moving average line. Sector performance was driven heavily by Tesla and Amazon."
       },
       {
         "name": "Energy (XLE / XOP / CRAK)",
@@ -72,15 +85,47 @@
         "action": "Explorers, producers, and refiners continue to display constructive chart setups despite geopolitical and headline risks."
       }
     ],
-    "stocks": [],
-    "strategy": [
+    "stocks": [
       {
-        "title": "Patience Over Aggression",
-        "text": "Refrain from aggressive buying on single-day bounces following severe market distribution."
+        "ticker": "AMZN",
+        "tickers": [
+          "AMZN"
+        ],
+        "company": "Amazon",
+        "pct": "+5%",
+        "action": "Technical Action: Surged 5% on heavy volume, retaking its 50-day moving average line while trading above its 200-day line to offer an early entry point; added to the SwingTrader model portfolio. | Business & Fundamental Strength: Combines consumer discretionary retail strength, Magnificent 7 market-cap leadership, and AWS cloud/AI exposure. Displays an annualized EPS growth rate of 78% despite operating at a $200B+ quarterly revenue scale."
       },
       {
-        "title": "Cyclical Position Sizing",
-        "text": "When trading cyclical or insurance stocks that lack high fundamental growth, use smaller initial position sizes to manage portfolio risk effectively. 📊 Would you like to create an interactive quiz or study flashcards based on these stock breakout setups and moving average rules?"
+        "ticker": "HTFL",
+        "tickers": [
+          "HTFL"
+        ],
+        "company": "Heartflow",
+        "pct": "",
+        "action": "Technical Setup: Formed a sideways consolidation around the 50 level following an August earnings gap-up, allowing its rising 50-day moving average line to catch up to price; added to SwingTrader. | Industry Group Strength: Operates in Computer Software - Medical, which ranks as the #1 industry group overall (holding a top 10–15 ranking consistently since mid-August), weighted heavily by Veeva Systems (VEEV). Enterprise software peers like Atlassian (TEAM) and Appian (APN) also held above short-term moving averages (8 EMA)."
+      },
+      {
+        "ticker": "LIFE",
+        "tickers": [
+          "LIFE"
+        ],
+        "company": "Ethos",
+        "pct": "",
+        "action": "Technical Setup: Formed a base supported at its 50-day moving average line following an August advance that featured IBD \"ants\" (high volume and price momentum), with key technical resistance near the 40 level. | Group Trend: Insurance stocks expanded representation in the IBD Growth 250 list to 7.7%, benefiting from defensive rotation alongside Travelers (TRV). The stock held up despite a short report published by Hunterbrook."
+      }
+    ],
+    "strategy": [
+      {
+        "title": "Exercising Patience on Bounces",
+        "text": "Refrain from aggressive buying or celebrating single-day market bounces following severe multi-day distribution."
+      },
+      {
+        "title": "Early Entries Over Breakouts",
+        "text": "In choppy market environments, prioritize early entry tactics (such as retaking a 50-day line) over buying extended breakouts at new highs."
+      },
+      {
+        "title": "Position Sizing in Cyclicals",
+        "text": "When taking positions in cyclical or insurance names that lack high fundamental growth metrics, utilize smaller initial position sizes to control portfolio risk."
       }
     ],
     "sections": [
@@ -91,46 +136,46 @@
         "items": [
           {
             "title": "NASDAQ Composite",
-            "text": "Led Monday’s tech bounce with a 1.1% gain, but closed below its 50-day moving average line."
+            "text": "Advanced 1.1% to lead Monday's tech bounce, but encountered overhead resistance and remains below its 50-day moving average line."
           },
           {
             "title": "S&P 500",
-            "text": "Advanced 0.4%, encountering technical resistance directly at its 50-day moving average line."
+            "text": "Advanced 0.4%, also meeting resistance directly at its 50-day moving average line."
           },
           {
             "title": "Dow Jones Industrial Average",
-            "text": "Slipped fractionally, dropping less than 0.1%."
+            "text": "Slipped fractionally, dropping less than 0.1% (less than one-tenth of 1%)."
           },
           {
             "title": "Russell 2000 (Small Caps)",
-            "text": "Added 0.25%, remaining in a structurally weak position below its 200-day moving average line."
+            "text": "Added 0.25%, remaining in a structurally weak technical position below its 200-day moving average line."
           },
           {
             "title": "Context of the Bounce",
-            "text": "The advance followed a severe prior week where indexes sliced through their 10-week moving average lines. Analysts emphasize that a 1% bounce is insufficient to repair the technical damage, recommending patience and further evidence before declaring a definitive market bottom."
+            "text": "The single-day rally follows a severe prior week where indexes sliced down through their 10-week moving average lines. Analysts emphasize that a 1% gain is insufficient to repair the technical damage, requiring more time, volume evidence, and price traction before declaring a victory in the market recovery."
           }
         ]
       },
       {
         "number": 2,
-        "title": "Sector ETF Dynamics & Market Breadth",
+        "title": "Sector & ETF Dynamics",
         "kind": "sectors",
         "items": [
           {
             "title": "Semiconductors (SMH)",
-            "text": "Posted a daily percentage gain but closed in the lower portion of its intraday range, indicating substantial repair work remains ahead for the chip group."
+            "text": "Logged a positive daily percentage gain, but closed in the lower portion of its daily trading range, signaling that substantial technical repair work remains ahead for chip stocks."
           },
           {
             "title": "Equal-Weighted S&P 500 (RSP)",
-            "text": "Rebounded to test its 50-day moving average line after conquering its 21-day line, but was turned away lower. Leadership in RSP was heavily concentrated in defensive staples like Coca-Cola rather than growth names."
+            "text": "Rebound attempt toward its 50-day moving average line was turned away lower; market breadth in the ETF was dominated by defensive staples like Coca-Cola rather than growth names."
           },
           {
             "title": "Magnificent 7 ETF (MAGS)",
-            "text": "Showed relative strength compared to broader tech, holding support above its 50-day moving average line and near the top of its prior base."
+            "text": "Demonstrated relative strength compared to broader tech, holding support at the top of its prior base above its 50-day moving average line."
           },
           {
             "title": "Consumer Discretionary (XLY)",
-            "text": "Closed at the top of its daily range above its 50-day line, though it remains below its 200-day line. The sector was primarily driven by Tesla and Amazon."
+            "text": "Closed at the top of its daily range above its 50-day moving average line, though it remains below its 200-day moving average line. Sector performance was driven heavily by Tesla and Amazon."
           },
           {
             "title": "Energy (XLE / XOP / CRAK)",
@@ -140,77 +185,82 @@
       },
       {
         "number": 3,
-        "title": "Amazon (AMZN) Breakdown",
-        "kind": "other",
+        "title": "Individual Featured Stock Setups & Fundamentals",
+        "kind": "stocks",
         "items": [
           {
+            "title": "Amazon (AMZN)",
+            "text": ""
+          },
+          {
+            "title": "Technical Action",
+            "text": "Surged 5% on heavy volume, retaking its 50-day moving average line while trading above its 200-day line to offer an early entry point; added to the SwingTrader model portfolio."
+          },
+          {
+            "title": "Business & Fundamental Strength",
+            "text": "Combines consumer discretionary retail strength, Magnificent 7 market-cap leadership, and AWS cloud/AI exposure. Displays an annualized EPS growth rate of 78% despite operating at a $200B+ quarterly revenue scale."
+          },
+          {
+            "title": "Heartflow (HTFL)",
+            "text": ""
+          },
+          {
             "title": "Technical Setup",
-            "text": "Surged 5% on heavy volume, retaking its 50-day moving average line while trading above its 200-day line to offer an early entry point. It was added to the SwingTrader model portfolio."
+            "text": "Formed a sideways consolidation around the 50 level following an August earnings gap-up, allowing its rising 50-day moving average line to catch up to price; added to SwingTrader."
           },
           {
-            "title": "Business & Fundamental Diversification",
-            "text": "Combines consumer retail strength, Magnificent 7 market-cap leadership, and AWS cloud/AI exposure."
+            "title": "Industry Group Strength",
+            "text": "Operates in Computer Software - Medical, which ranks as the #1 industry group overall (holding a top 10–15 ranking consistently since mid-August), weighted heavily by Veeva Systems (VEEV). Enterprise software peers like Atlassian (TEAM) and Appian (APN) also held above short-term moving averages (8 EMA)."
           },
           {
-            "title": "Earnings Growth",
-            "text": "Displays an annualized EPS growth rate of 78% despite operating at massive multi-billion-dollar annual sales volumes."
+            "title": "Ethos (LIFE)",
+            "text": ""
           },
           {
-            "title": "Earnings Risk Strategy",
-            "text": "Heading into its upcoming earnings report, investors can evaluate the sum of the at-the-money call and put option premiums to gauge the implied volatility and expected post-earnings move."
+            "title": "Technical Setup",
+            "text": "Formed a base supported at its 50-day moving average line following an August advance that featured IBD \"ants\" (high volume and price momentum), with key technical resistance near the 40 level."
+          },
+          {
+            "title": "Group Trend",
+            "text": "Insurance stocks expanded representation in the IBD Growth 250 list to 7.7%, benefiting from defensive rotation alongside Travelers (TRV). The stock held up despite a short report published by Hunterbrook."
           }
         ]
       },
       {
         "number": 4,
-        "title": "Heartflow (HTFL) & Medical Software Leadership",
-        "kind": "other",
+        "title": "Macro, Cyclical & Group Context",
+        "kind": "macro",
         "items": [
           {
-            "title": "Technical Setup",
-            "text": "Formed an extended sideways consolidation around the $50 level following an August earnings gap-up, allowing its rising 50-day moving average line to catch up to price. Added to SwingTrader."
+            "title": "Energy & Cyclical Characteristics",
+            "text": "Cyclical stocks like energy producers and refiners often present compelling chart patterns before traditional revenue and earnings growth numbers fully reflect the turn."
           },
           {
-            "title": "Industry Group Strength",
-            "text": "Operates in Computer Software - Medical, which ranks as the #1 industry group overall (holding a top 10–15 ranking consistently since mid-August). The group is heavily weighted by Veeva Systems (VEEV)."
+            "title": "Insurance Group Acceleration",
+            "text": "The Insurance group climbed in industry rankings to #39, demonstrating institutional capital inflows into defensive growth plays."
           },
           {
-            "title": "Software Peers",
-            "text": "Other enterprise software names holding near short-term moving averages (8 EMA) include Atlassian (TEAM) and Appian (APN)."
+            "title": "Options Market Implied Move for Earnings",
+            "text": "To evaluate post-earnings risk heading into report dates, traders can add the near-term at-the-money call and put option premiums together to calculate the market's expected move."
           }
         ]
       },
       {
         "number": 5,
-        "title": "Ethos (LIFE) & Insurance Group Analysis",
-        "kind": "other",
-        "items": [
-          {
-            "title": "Technical Setup",
-            "text": "Formed a base supported at its 50-day moving average line following an August advance that featured IBD \"ants\" (high volume and price momentum). Key technical resistance sits around the $40 pivot level."
-          },
-          {
-            "title": "Group Representation",
-            "text": "Insurance stocks have expanded their representation in the IBD Growth 250 list to 7.7%, benefiting from defensive sector rotation alongside Dow component Travelers (TRV)."
-          },
-          {
-            "title": "Short Report Impact",
-            "text": "The stock has held its technical structure despite a short report published by Hunterbrook."
-          }
-        ]
-      },
-      {
-        "number": 6,
-        "title": "Portfolio & Risk Management Guidelines",
+        "title": "Portfolio Strategy & Risk Management Guidelines",
         "kind": "strategy",
         "items": [
           {
-            "title": "Patience Over Aggression",
-            "text": "Refrain from aggressive buying on single-day bounces following severe market distribution."
+            "title": "Exercising Patience on Bounces",
+            "text": "Refrain from aggressive buying or celebrating single-day market bounces following severe multi-day distribution."
           },
           {
-            "title": "Cyclical Position Sizing",
-            "text": "When trading cyclical or insurance stocks that lack high fundamental growth, use smaller initial position sizes to manage portfolio risk effectively. 📊 Would you like to create an interactive quiz or study flashcards based on these stock breakout setups and moving average rules?"
+            "title": "Early Entries Over Breakouts",
+            "text": "In choppy market environments, prioritize early entry tactics (such as retaking a 50-day line) over buying extended breakouts at new highs."
+          },
+          {
+            "title": "Position Sizing in Cyclicals",
+            "text": "When taking positions in cyclical or insurance names that lack high fundamental growth metrics, utilize smaller initial position sizes to control portfolio risk."
           }
         ]
       }
