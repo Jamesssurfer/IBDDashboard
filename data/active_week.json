@@ -1,5 +1,280 @@
 [
   {
+    "timestamp": "2026-10-23T20:00:00+00:00",
+    "header": "Friday, October 23, 2026's Report",
+    "headline": "### 1. Major Index Performance & Technical Action.",
+    "summary": "### 1. Major Index Performance & Technical Action.",
+    "indexes": [
+      {
+        "name": "NASDAQ Composite",
+        "pct": "-0.2%",
+        "action": "Declined 0.2% on Friday and fell 0.7% for the week following a sharp Thursday sell-off, finishing near its weekly lows."
+      },
+      {
+        "name": "S&P 500 (SPY)",
+        "pct": "",
+        "action": "Dropped roughly 0.5% for the week, testing critical technical support around $759.99 near its October 1st low of $758.79 as its 21-day and 50-day moving average lines converge."
+      },
+      {
+        "name": "Dow Jones Industrial Average",
+        "pct": "",
+        "action": "Experienced the heaviest daily drop among major benchmarks, falling 1.2% on Friday to close directly back at its 50-day moving average line."
+      },
+      {
+        "name": "Russell 2000 (Small Caps)",
+        "pct": "",
+        "action": "Slipped 0.25% for the session, remaining in the weakest structural position below its 200-day moving average line."
+      },
+      {
+        "name": "Equal-Weighted S&P 500 (RSP)",
+        "pct": "+1.1%",
+        "action": "Rose 1.1% on the week, closing above its 50-day moving average line and directly at its 10-week moving average line, reflecting relative strength outside of major mega-cap tech."
+      }
+    ],
+    "macro": [
+      {
+        "title": "Crude Oil & Energy Volatility",
+        "text": "Crude oil ETF proxies broke out with a 4.3% surge back toward highs, raising risks of higher pump prices and increased logistics/transportation costs for consumer businesses."
+      },
+      {
+        "title": "10-Year Treasury Yield Pullback",
+        "text": "Yields declined across the week, but the drop was driven primarily by mounting AI debt and capital spending concerns rather than constructive economic tailwinds."
+      },
+      {
+        "title": "Upcoming Market Catalysts",
+        "text": "Investors face significant headline risk over the next two weeks with an upcoming Fed policy meeting, major hyperscaler earnings releases, and the U.S. presidential election."
+      }
+    ],
+    "sectors": [
+      {
+        "name": "Consumer Staples (XLP)",
+        "tickers": [
+          "XLP"
+        ],
+        "pct": "",
+        "action": "Logged a rapid multi-week advance as institutional capital executed a defensive flight to safety during a risk-off environment."
+      },
+      {
+        "name": "Software ETF (IGV)",
+        "tickers": [
+          "IGV"
+        ],
+        "pct": "",
+        "action": "Rebounded 1.7% on Friday, recovering from a sharp prior sell-off to trade near the top of its range as market participation expanded beyond a few mega-caps."
+      },
+      {
+        "name": "Semiconductor ETF (SMH)",
+        "tickers": [
+          "SMH"
+        ],
+        "pct": "-2.3%",
+        "action": "Dropped 2.3% on the week for its third consecutive weekly decline, falling to its 40-week moving average line amid growing concerns over AI capital expenditure returns and 2027–2028 financing."
+      },
+      {
+        "name": "Healthcare & Biotech (XLV / IBB)",
+        "tickers": [
+          "XLV",
+          "IBB"
+        ],
+        "pct": "+1.5%",
+        "action": "XLV rose 1.5% on the week after clearing a trendline, while the IBB ETF offered broader biotech growth exposure without single-stock clinical risk."
+      },
+      {
+        "name": "Financials & Insurance (KIE)",
+        "tickers": [
+          "KIE"
+        ],
+        "pct": "",
+        "action": "Financials held stable, with insurance ETFs like KIE breaking out or holding near actionable buy zones."
+      }
+    ],
+    "stocks": [
+      {
+        "ticker": "CRWD",
+        "tickers": [
+          "CRWD"
+        ],
+        "company": "CrowdStrike",
+        "pct": "+8.3%",
+        "action": "Technical Action: Surged 8.3% on Friday to reclaim its 21-day moving average line at $250 after bouncing directly off support at its 50-day / 10-week moving average lines."
+      },
+      {
+        "ticker": "LIFE",
+        "tickers": [
+          "LIFE"
+        ],
+        "company": "Ethos",
+        "pct": "+15%",
+        "action": "Technical Action: Advanced 15% on the week, breaking out of a tight base above its 21-day and 50-day moving average lines following high-volume \"ants\" momentum signals."
+      },
+      {
+        "ticker": "CSX",
+        "tickers": [
+          "CSX"
+        ],
+        "company": "CSX Corp",
+        "pct": "+7%",
+        "action": "Technical Action: Rose 7% on earnings, clearing a downward trendline and its 50-day moving average line as quarterly earnings growth accelerated to 30%."
+      },
+      {
+        "ticker": "MSFT",
+        "tickers": [
+          "MSFT"
+        ],
+        "company": "Microsoft",
+        "pct": "",
+        "action": "Technical Action: Hovering just above its 10-week moving average line ahead of earnings, supported by robust cash flow generation (~$10 billion in free cash flow) compared to cash-burning hyperscale peers."
+      }
+    ],
+    "strategy": [
+      {
+        "title": "Navigating Market Divergence",
+        "text": "The market presents sharp \"mixed signals,\" where underlying strength in software, medical, and insurance contrasts with technical breakdown in AI chips and index-level pressure."
+      },
+      {
+        "title": "Incremental Capital Deployment",
+        "text": "Avoid aggressive buying; scale into positions incrementally and maintain a higher cash buffer during periods of elevated volatility and upcoming earnings reports."
+      },
+      {
+        "title": "Active Screening Routine",
+        "text": "Maintain updated stock screens over the weekend to identify emerging sector leadership and remain nimble as quarterly earnings unfold. 📊 Would you like to explore an interactive mind map or a set of flashcards covering these technical chart patterns and moving average support levels?"
+      }
+    ],
+    "sections": [
+      {
+        "number": 1,
+        "title": "Major Index Performance & Technical Action",
+        "kind": "indexes",
+        "items": [
+          {
+            "title": "NASDAQ Composite",
+            "text": "Declined 0.2% on Friday and fell 0.7% for the week following a sharp Thursday sell-off, finishing near its weekly lows."
+          },
+          {
+            "title": "S&P 500 (SPY)",
+            "text": "Dropped roughly 0.5% for the week, testing critical technical support around $759.99 near its October 1st low of $758.79 as its 21-day and 50-day moving average lines converge."
+          },
+          {
+            "title": "Dow Jones Industrial Average",
+            "text": "Experienced the heaviest daily drop among major benchmarks, falling 1.2% on Friday to close directly back at its 50-day moving average line."
+          },
+          {
+            "title": "Russell 2000 (Small Caps)",
+            "text": "Slipped 0.25% for the session, remaining in the weakest structural position below its 200-day moving average line."
+          },
+          {
+            "title": "Equal-Weighted S&P 500 (RSP)",
+            "text": "Rose 1.1% on the week, closing above its 50-day moving average line and directly at its 10-week moving average line, reflecting relative strength outside of major mega-cap tech."
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Macroeconomic & Intermarket Drivers",
+        "kind": "macro",
+        "items": [
+          {
+            "title": "Crude Oil & Energy Volatility",
+            "text": "Crude oil ETF proxies broke out with a 4.3% surge back toward highs, raising risks of higher pump prices and increased logistics/transportation costs for consumer businesses."
+          },
+          {
+            "title": "10-Year Treasury Yield Pullback",
+            "text": "Yields declined across the week, but the drop was driven primarily by mounting AI debt and capital spending concerns rather than constructive economic tailwinds."
+          },
+          {
+            "title": "Upcoming Market Catalysts",
+            "text": "Investors face significant headline risk over the next two weeks with an upcoming Fed policy meeting, major hyperscaler earnings releases, and the U.S. presidential election."
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Sector ETF Dynamics",
+        "kind": "sectors",
+        "items": [
+          {
+            "title": "Consumer Staples (XLP)",
+            "text": "Logged a rapid multi-week advance as institutional capital executed a defensive flight to safety during a risk-off environment."
+          },
+          {
+            "title": "Software ETF (IGV)",
+            "text": "Rebounded 1.7% on Friday, recovering from a sharp prior sell-off to trade near the top of its range as market participation expanded beyond a few mega-caps."
+          },
+          {
+            "title": "Semiconductor ETF (SMH)",
+            "text": "Dropped 2.3% on the week for its third consecutive weekly decline, falling to its 40-week moving average line amid growing concerns over AI capital expenditure returns and 2027–2028 financing."
+          },
+          {
+            "title": "Healthcare & Biotech (XLV / IBB)",
+            "text": "XLV rose 1.5% on the week after clearing a trendline, while the IBB ETF offered broader biotech growth exposure without single-stock clinical risk."
+          },
+          {
+            "title": "Financials & Insurance (KIE)",
+            "text": "Financials held stable, with insurance ETFs like KIE breaking out or holding near actionable buy zones."
+          }
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Individual Stock Technical Setups & Fundamentals",
+        "kind": "stocks",
+        "items": [
+          {
+            "title": "CrowdStrike (CRWD)",
+            "text": ""
+          },
+          {
+            "title": "Technical Action",
+            "text": "Surged 8.3% on Friday to reclaim its 21-day moving average line at $250 after bouncing directly off support at its 50-day / 10-week moving average lines."
+          },
+          {
+            "title": "Ethos (LIFE)",
+            "text": ""
+          },
+          {
+            "title": "Technical Action",
+            "text": "Advanced 15% on the week, breaking out of a tight base above its 21-day and 50-day moving average lines following high-volume \"ants\" momentum signals."
+          },
+          {
+            "title": "CSX Corp (CSX)",
+            "text": ""
+          },
+          {
+            "title": "Technical Action",
+            "text": "Rose 7% on earnings, clearing a downward trendline and its 50-day moving average line as quarterly earnings growth accelerated to 30%."
+          },
+          {
+            "title": "Microsoft (MSFT)",
+            "text": ""
+          },
+          {
+            "title": "Technical Action",
+            "text": "Hovering just above its 10-week moving average line ahead of earnings, supported by robust cash flow generation (~$10 billion in free cash flow) compared to cash-burning hyperscale peers."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "title": "Risk Management & Execution Strategy",
+        "kind": "strategy",
+        "items": [
+          {
+            "title": "Navigating Market Divergence",
+            "text": "The market presents sharp \"mixed signals,\" where underlying strength in software, medical, and insurance contrasts with technical breakdown in AI chips and index-level pressure."
+          },
+          {
+            "title": "Incremental Capital Deployment",
+            "text": "Avoid aggressive buying; scale into positions incrementally and maintain a higher cash buffer during periods of elevated volatility and upcoming earnings reports."
+          },
+          {
+            "title": "Active Screening Routine",
+            "text": "Maintain updated stock screens over the weekend to identify emerging sector leadership and remain nimble as quarterly earnings unfold. 📊 Would you like to explore an interactive mind map or a set of flashcards covering these technical chart patterns and moving average support levels?"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-22T20:00:00+00:00",
     "header": "Thursday, October 22, 2026's Report",
     "headline": "### 1. Broad Market Index Performance & Technical Action.",
