@@ -1,5 +1,264 @@
 [
   {
+    "timestamp": "2026-10-26T20:00:00+00:00",
+    "header": "Monday, October 26, 2026's Report",
+    "headline": "### 1. Broad Market Index Performance & Technical Structure.",
+    "summary": "### 1. Broad Market Index Performance & Technical Structure.",
+    "indexes": [
+      {
+        "name": "NASDAQ Composite",
+        "pct": "+0.8%",
+        "action": "Gained 0.8% on the session, closing off its intraday highs but remaining in the upper half of its daily trading range. The index held technical support near the 26,000 level after closing slightly below it on Friday. However, the Composite remains in a weaker technical position below its 50-day and 21-day moving average lines, which appear set for a bearish cross."
+      },
+      {
+        "name": "S&P 500",
+        "pct": "+0.7%",
+        "action": "Advanced 0.7%, encountering overhead technical resistance at converging moving average lines, including its 8-day, 21-day, and 50-day lines."
+      },
+      {
+        "name": "Dow Jones Industrial Average",
+        "pct": "+0.3%",
+        "action": "Rose 0.3%, fading off session highs."
+      },
+      {
+        "name": "Russell 2000 (IWM)",
+        "pct": "",
+        "action": "Added 0.3%, meeting technical resistance near its 200-day and 21-day moving average lines."
+      },
+      {
+        "name": "Market Breadth & Setup Count",
+        "pct": "",
+        "action": "Beneath the surface, internal screening in the Market Surge Growth 250 shows an expanding count of technical chart setups appearing across growth stocks following recent market weakness."
+      }
+    ],
+    "macro": [
+      {
+        "title": "10-Year Treasury Yields",
+        "text": "The 10-year Treasury yield pulled back to test its 50-day moving average line ahead of the Federal Reserve policy meeting, where no benchmark rate change is currently expected."
+      },
+      {
+        "title": "Crude Oil & Energy Equities (USO / XOP)",
+        "text": "Crude oil proxy USO fell roughly 2% following a Friday breakout. Despite the decline in crude, energy equities—including oil exploration and production stocks (XOP) and oil shipping transportation names—held firm."
+      },
+      {
+        "title": "Yield & Equity Disconnect",
+        "text": "Expected intermarket correlations between falling bond yields and rising equity valuations have not played out consistently, reflecting ongoing market choppiness."
+      }
+    ],
+    "sectors": [
+      {
+        "name": "Semiconductors (SMH)",
+        "tickers": [
+          "SMH"
+        ],
+        "pct": "",
+        "action": "The VanEck Semiconductor ETF attempted a technical rebound after falling 20% off its recent highs, attempting to climb back above undercut support levels and short-term moving average lines."
+      },
+      {
+        "name": "Software & Cybersecurity (IGV / BUG)",
+        "tickers": [
+          "IGV",
+          "BUG"
+        ],
+        "pct": "",
+        "action": "The Software ETF (IGV) displayed notable relative strength without rotation out of the group. The Cybersecurity ETF (BUG) advanced back toward new highs off support at its 50-day moving average line."
+      },
+      {
+        "name": "Defensive Rotation (XLP / XLU / XLV)",
+        "tickers": [
+          "XLP",
+          "PBJ"
+        ],
+        "pct": "",
+        "action": "The Consumer Staples ETF (XLP) pulled back slightly after breaking out of a double-bottom base, reflecting a temporary pause in institutional \"fear\" flows into defensive havens like Coca-Cola, Colgate, Procter & Gamble, and food/beverage funds (PBJ). Medical ETFs (XLV, XBI) took a breather following recent outperformance."
+      },
+      {
+        "name": "Aerospace & Defense (ITA)",
+        "tickers": [
+          "ITA"
+        ],
+        "pct": "",
+        "action": "Logged percentage gains, though major component Lockheed Martin (LMT) remains constrained well below its 200-day moving average line."
+      }
+    ],
+    "stocks": [
+      {
+        "ticker": "ESTC",
+        "tickers": [
+          "ESTC"
+        ],
+        "company": "Elastic",
+        "pct": "",
+        "action": "Technical Action: Highlighted as the \"Stock of the Day\" after breaking out above the $100 psychological round number on Friday and advancing another 3.8%. | Fundamentals: Represents actionable strength in enterprise database software, though top-line revenue growth showed deceleration in its most recent quarterly report."
+      },
+      {
+        "ticker": "ADI",
+        "tickers": [
+          "ADI"
+        ],
+        "company": "Analog Devices",
+        "pct": "+4.3%",
+        "action": "Technical Action: Surged 4.3%, clearing a handle trendline and reclaiming the $400 round number off support at its 50-day moving average line. | Group Action: Added to the SwingTrader portfolio alongside peer Texas Instruments (TXN), which also cleared a handle downtrend following its earnings report. Action coincides with news of Anthropic's official IPO filing and ongoing market scrutiny of AI data center buildout capital expenditures."
+      },
+      {
+        "ticker": "VSXY",
+        "tickers": [
+          "VSXY"
+        ],
+        "company": "Victoria's Secret",
+        "pct": "+4.6%",
+        "action": "Technical Action: Advanced 4.6% on above-average volume, executing a breakout above a handle area in a 30%-deep cup base. | Fundamentals & Setup: Added to both SwingTrader and Leaderboard due to strong annual EPS growth acceleration and rising Relative Strength, with $100 serving as the next psychological level."
+      }
+    ],
+    "strategy": [
+      {
+        "title": "Navigating Sector Rotations",
+        "text": "Rapid capital movement between tech, healthcare, energy, and consumer staples requires avoiding extended breakouts and focusing on pullbacks to support."
+      },
+      {
+        "title": "Managing High Volatility",
+        "text": "Leading growth stocks have suffered sharp 17% to 20% weekly pullbacks before rebounding to new highs within four sessions, reinforcing the need for strict position sizing and stop-loss discipline."
+      },
+      {
+        "title": "Waiting for Technical Confirmation",
+        "text": "Investors should wait for major indexes to reclaim and decisively hold key moving average lines (such as the 50-day line) before aggressively scaling up market exposure. 📊 Would you like to create an interactive mind map or a set of study flashcards covering these technical breakout levels and moving average support rules?"
+      }
+    ],
+    "sections": [
+      {
+        "number": 1,
+        "title": "Broad Market Index Performance & Technical Structure",
+        "kind": "indexes",
+        "items": [
+          {
+            "title": "NASDAQ Composite",
+            "text": "Gained 0.8% on the session, closing off its intraday highs but remaining in the upper half of its daily trading range. The index held technical support near the 26,000 level after closing slightly below it on Friday. However, the Composite remains in a weaker technical position below its 50-day and 21-day moving average lines, which appear set for a bearish cross."
+          },
+          {
+            "title": "S&P 500",
+            "text": "Advanced 0.7%, encountering overhead technical resistance at converging moving average lines, including its 8-day, 21-day, and 50-day lines."
+          },
+          {
+            "title": "Dow Jones Industrial Average",
+            "text": "Rose 0.3%, fading off session highs."
+          },
+          {
+            "title": "Russell 2000 (IWM)",
+            "text": "Added 0.3%, meeting technical resistance near its 200-day and 21-day moving average lines."
+          },
+          {
+            "title": "Market Breadth & Setup Count",
+            "text": "Beneath the surface, internal screening in the Market Surge Growth 250 shows an expanding count of technical chart setups appearing across growth stocks following recent market weakness."
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Macroeconomic Drivers & Intermarket Dynamics",
+        "kind": "macro",
+        "items": [
+          {
+            "title": "10-Year Treasury Yields",
+            "text": "The 10-year Treasury yield pulled back to test its 50-day moving average line ahead of the Federal Reserve policy meeting, where no benchmark rate change is currently expected."
+          },
+          {
+            "title": "Crude Oil & Energy Equities (USO / XOP)",
+            "text": "Crude oil proxy USO fell roughly 2% following a Friday breakout. Despite the decline in crude, energy equities—including oil exploration and production stocks (XOP) and oil shipping transportation names—held firm."
+          },
+          {
+            "title": "Yield & Equity Disconnect",
+            "text": "Expected intermarket correlations between falling bond yields and rising equity valuations have not played out consistently, reflecting ongoing market choppiness."
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Sector ETF Dynamics & Rotational Trends",
+        "kind": "sectors",
+        "items": [
+          {
+            "title": "Semiconductors (SMH)",
+            "text": "The VanEck Semiconductor ETF attempted a technical rebound after falling 20% off its recent highs, attempting to climb back above undercut support levels and short-term moving average lines."
+          },
+          {
+            "title": "Software & Cybersecurity (IGV / BUG)",
+            "text": "The Software ETF (IGV) displayed notable relative strength without rotation out of the group. The Cybersecurity ETF (BUG) advanced back toward new highs off support at its 50-day moving average line."
+          },
+          {
+            "title": "Defensive Rotation (XLP / XLU / XLV)",
+            "text": "The Consumer Staples ETF (XLP) pulled back slightly after breaking out of a double-bottom base, reflecting a temporary pause in institutional \"fear\" flows into defensive havens like Coca-Cola, Colgate, Procter & Gamble, and food/beverage funds (PBJ). Medical ETFs (XLV, XBI) took a breather following recent outperformance."
+          },
+          {
+            "title": "Aerospace & Defense (ITA)",
+            "text": "Logged percentage gains, though major component Lockheed Martin (LMT) remains constrained well below its 200-day moving average line."
+          }
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Individual Stock Technical Setups & Fundamentals",
+        "kind": "stocks",
+        "items": [
+          {
+            "title": "Elastic (ESTC)",
+            "text": ""
+          },
+          {
+            "title": "Technical Action",
+            "text": "Highlighted as the \"Stock of the Day\" after breaking out above the $100 psychological round number on Friday and advancing another 3.8%."
+          },
+          {
+            "title": "Fundamentals",
+            "text": "Represents actionable strength in enterprise database software, though top-line revenue growth showed deceleration in its most recent quarterly report."
+          },
+          {
+            "title": "Analog Devices (ADI)",
+            "text": ""
+          },
+          {
+            "title": "Technical Action",
+            "text": "Surged 4.3%, clearing a handle trendline and reclaiming the $400 round number off support at its 50-day moving average line."
+          },
+          {
+            "title": "Group Action",
+            "text": "Added to the SwingTrader portfolio alongside peer Texas Instruments (TXN), which also cleared a handle downtrend following its earnings report. Action coincides with news of Anthropic's official IPO filing and ongoing market scrutiny of AI data center buildout capital expenditures."
+          },
+          {
+            "title": "Victoria's Secret (VSXY)",
+            "text": ""
+          },
+          {
+            "title": "Technical Action",
+            "text": "Advanced 4.6% on above-average volume, executing a breakout above a handle area in a 30%-deep cup base."
+          },
+          {
+            "title": "Fundamentals & Setup",
+            "text": "Added to both SwingTrader and Leaderboard due to strong annual EPS growth acceleration and rising Relative Strength, with $100 serving as the next psychological level."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "title": "Risk Management & Portfolio Execution Strategy",
+        "kind": "strategy",
+        "items": [
+          {
+            "title": "Navigating Sector Rotations",
+            "text": "Rapid capital movement between tech, healthcare, energy, and consumer staples requires avoiding extended breakouts and focusing on pullbacks to support."
+          },
+          {
+            "title": "Managing High Volatility",
+            "text": "Leading growth stocks have suffered sharp 17% to 20% weekly pullbacks before rebounding to new highs within four sessions, reinforcing the need for strict position sizing and stop-loss discipline."
+          },
+          {
+            "title": "Waiting for Technical Confirmation",
+            "text": "Investors should wait for major indexes to reclaim and decisively hold key moving average lines (such as the 50-day line) before aggressively scaling up market exposure. 📊 Would you like to create an interactive mind map or a set of study flashcards covering these technical breakout levels and moving average support rules?"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-23T20:00:00+00:00",
     "header": "Friday, October 23, 2026's Report",
     "headline": "### 1. Major Index Performance & Technical Action.",
