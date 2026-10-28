@@ -1,5 +1,269 @@
 [
   {
+    "timestamp": "2026-10-27T20:00:00+00:00",
+    "header": "Tuesday, October 27, 2026's Report",
+    "headline": "### 1. Broad Market Index Performance & Technical Action.",
+    "summary": "### 1. Broad Market Index Performance & Technical Action.",
+    "indexes": [
+      {
+        "name": "S&P 500 (SPY)",
+        "pct": "+0.6%",
+        "action": "Advanced 0.6%, breaking above converging moving averages and closing right above its 50-day moving average line,. The benchmark sits approximately 1.5% below all-time record highs, with the next key technical resistance level situated at the October 21 highs,."
+      },
+      {
+        "name": "NASDAQ Composite",
+        "pct": "+1.2%",
+        "action": "Gained 1.2% on the session, while the NASDAQ 100 rose 1.3%. Despite the strong percentage gain, the Composite remains in a structurally weaker position below its 50-day and 21-day moving average lines, having completed a potential shakeout around the 26,000 level."
+      },
+      {
+        "name": "Dow Jones Industrial Average",
+        "pct": "",
+        "action": "Finished slightly in positive territory with a fractional gain, hovering around its 50-day moving average line despite a down session in Boeing,."
+      },
+      {
+        "name": "Russell 2000 (Small Caps)",
+        "pct": "",
+        "action": "Logged a notable technical move by climbing back above its 200-day moving average line,."
+      },
+      {
+        "name": "Equal-Weight S&P 500 (RSP)",
+        "pct": "",
+        "action": "Reclaimed its 50-day moving average line, reflecting constructive underlying breadth with numerous stocks forming proto-handle consolidation setups."
+      }
+    ],
+    "macro": [
+      {
+        "title": "Crude Oil (USO) & Refiners (CRAK)",
+        "text": "Oil proxy USO pulled back following a significant Friday advance. However, the Oil Refiners ETF (CRAK) fell 3.7%, breaking below its 50-day moving average line as crack spreads between crude, gasoline, and diesel narrowed."
+      },
+      {
+        "title": "Consumer Staples (XLP) & Retail",
+        "text": "Consumer Staples (XLP) declined as recent risk-off flight-to-safety flows eased. The broad retail sector held up relatively well, supported by recent strength in individual names like Victoria's Secret and Urban Outfitters,."
+      },
+      {
+        "title": "Semiconductor ETF (SMH)",
+        "text": "Advanced 3.0% following a 2.4% gain to open the week, led by sharp bounces in beaten-down AI hardware stocks attempting to repair out-of-position chart structures."
+      },
+      {
+        "title": "Software (IGV) & Cybersecurity (BUG)",
+        "text": "Software (IGV) gained 0.4% to mark three consecutive up days near recent highs while holding 50-day line support,. Cybersecurity (BUG) exhibited strong relative strength, bouncing back sharply after a prior shakeout ahead of Fortinet's earnings."
+      },
+      {
+        "title": "Healthcare & Biotech (XLV / XBI / IBB / ARKG)",
+        "text": "XLV maintained its breakout from the prior week. XBI rose 2.9% to clear a downward trendline beneath its 50-day line. IBB added 1.7% around its 50-day line on an outside-day upside reversal. The Genomic Revolution ETF (ARKG) surged 6.0%, propelled by diagnostic and testing firms,."
+      }
+    ],
+    "sectors": [],
+    "stocks": [
+      {
+        "ticker": "TSLA",
+        "tickers": [
+          "TSLA"
+        ],
+        "company": "Tesla",
+        "pct": "+4.0%",
+        "action": "Technical Action: Surged 4.0%, clearing a long-term downward trendline extending back to December 2025 and reclaiming the $400 psychological level along with its 200-day / 40-week moving average line,,. | Catalysts & Risks: Driven in part by SpaceX merger speculation; analysts note that merger-driven moves carry execution risk and overhead base resistance,."
+      },
+      {
+        "ticker": "NUE",
+        "tickers": [
+          "NUE"
+        ],
+        "company": "Nucor",
+        "pct": "+5.0%",
+        "action": "Technical Action: Advanced 5.0% on an earnings breakout, clearing an early trendline entry roughly 6.5% above its 10-week moving average line,. | Fundamentals: Delivered triple-digit bottom-line EPS acceleration and accelerating top-line revenue growth. Guided higher for the current quarter despite a 1-cent EPS miss, supported by 4-year high steel prices,."
+      },
+      {
+        "ticker": "THC",
+        "tickers": [
+          "THC"
+        ],
+        "company": "Tenet Healthcare",
+        "pct": "-2.6%",
+        "action": "Technical Action: Dropped 2.6%, closing just beneath key moving averages ahead of its earnings report. | Industry Drag: Weakness was triggered by rival hospital operator HCA, which guided 2027 lower due to reduced bonus payments and higher uninsured patient counts,."
+      }
+    ],
+    "strategy": [
+      {
+        "title": "Cheesecake Factory (CAKE)",
+        "text": "Bounced modestly in after-hours trading after finding support at its 50-day moving average line following a modest quarterly beat."
+      },
+      {
+        "title": "Visa (V)",
+        "text": "Slipped modestly in extended trading despite topping quarterly expectations."
+      },
+      {
+        "title": "F5 (FFIV)",
+        "text": "Retreating near its 21-day moving average line post-earnings despite beating views."
+      },
+      {
+        "title": "Seagate Technology (STX)",
+        "text": "Experienced a negative post-earnings reaction despite beating estimates and raising guidance, highlighting volatility across memory plays."
+      },
+      {
+        "title": "Adjusting Position Sizes & Stops",
+        "text": "In the absence of a confirmed Power Trend and ahead of major catalysts (Fed policy rate decision, mega-cap tech earnings, and US elections), implement smaller position sizes and wider stop-loss levels to manage whipsaws,,,."
+      },
+      {
+        "title": "Locking In Partial Profits",
+        "text": "Consider taking partial profits into short-term strength (e.g., locking in gains around 5%) to lock in progress during choppy, rotational market environments."
+      },
+      {
+        "title": "Utilising Sector ETFs",
+        "text": "Broad sector and index ETFs (such as TQQQ during uptrends) offer lower Average True Range (ATR) and single-stock risk compared to individual growth equities while capturing market upside,."
+      },
+      {
+        "title": "Focusing on Price Action Over Headlines",
+        "text": "Focus strictly on portfolio feedback, individual stock technical rules, and major index moving averages rather than attempting to predict headline events. 💡 Would you like to create an interactive study quiz or flashcards based on these moving average levels and risk management principles?"
+      }
+    ],
+    "sections": [
+      {
+        "number": 1,
+        "title": "Broad Market Index Performance & Technical Action",
+        "kind": "indexes",
+        "items": [
+          {
+            "title": "S&P 500 (SPY)",
+            "text": "Advanced 0.6%, breaking above converging moving averages and closing right above its 50-day moving average line,. The benchmark sits approximately 1.5% below all-time record highs, with the next key technical resistance level situated at the October 21 highs,."
+          },
+          {
+            "title": "NASDAQ Composite",
+            "text": "Gained 1.2% on the session, while the NASDAQ 100 rose 1.3%. Despite the strong percentage gain, the Composite remains in a structurally weaker position below its 50-day and 21-day moving average lines, having completed a potential shakeout around the 26,000 level."
+          },
+          {
+            "title": "Dow Jones Industrial Average",
+            "text": "Finished slightly in positive territory with a fractional gain, hovering around its 50-day moving average line despite a down session in Boeing,."
+          },
+          {
+            "title": "Russell 2000 (Small Caps)",
+            "text": "Logged a notable technical move by climbing back above its 200-day moving average line,."
+          },
+          {
+            "title": "Equal-Weight S&P 500 (RSP)",
+            "text": "Reclaimed its 50-day moving average line, reflecting constructive underlying breadth with numerous stocks forming proto-handle consolidation setups."
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Macroeconomic Drivers, Commodities & Sector ETFs",
+        "kind": "macro",
+        "items": [
+          {
+            "title": "Crude Oil (USO) & Refiners (CRAK)",
+            "text": "Oil proxy USO pulled back following a significant Friday advance. However, the Oil Refiners ETF (CRAK) fell 3.7%, breaking below its 50-day moving average line as crack spreads between crude, gasoline, and diesel narrowed."
+          },
+          {
+            "title": "Consumer Staples (XLP) & Retail",
+            "text": "Consumer Staples (XLP) declined as recent risk-off flight-to-safety flows eased. The broad retail sector held up relatively well, supported by recent strength in individual names like Victoria's Secret and Urban Outfitters,."
+          },
+          {
+            "title": "Semiconductor ETF (SMH)",
+            "text": "Advanced 3.0% following a 2.4% gain to open the week, led by sharp bounces in beaten-down AI hardware stocks attempting to repair out-of-position chart structures."
+          },
+          {
+            "title": "Software (IGV) & Cybersecurity (BUG)",
+            "text": "Software (IGV) gained 0.4% to mark three consecutive up days near recent highs while holding 50-day line support,. Cybersecurity (BUG) exhibited strong relative strength, bouncing back sharply after a prior shakeout ahead of Fortinet's earnings."
+          },
+          {
+            "title": "Healthcare & Biotech (XLV / XBI / IBB / ARKG)",
+            "text": "XLV maintained its breakout from the prior week. XBI rose 2.9% to clear a downward trendline beneath its 50-day line. IBB added 1.7% around its 50-day line on an outside-day upside reversal. The Genomic Revolution ETF (ARKG) surged 6.0%, propelled by diagnostic and testing firms,."
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Individual Stock Technical Setups & Fundamental Growth",
+        "kind": "stocks",
+        "items": [
+          {
+            "title": "Tesla (TSLA)",
+            "text": ""
+          },
+          {
+            "title": "Technical Action",
+            "text": "Surged 4.0%, clearing a long-term downward trendline extending back to December 2025 and reclaiming the $400 psychological level along with its 200-day / 40-week moving average line,,."
+          },
+          {
+            "title": "Catalysts & Risks",
+            "text": "Driven in part by SpaceX merger speculation; analysts note that merger-driven moves carry execution risk and overhead base resistance,."
+          },
+          {
+            "title": "Nucor (NUE)",
+            "text": ""
+          },
+          {
+            "title": "Technical Action",
+            "text": "Advanced 5.0% on an earnings breakout, clearing an early trendline entry roughly 6.5% above its 10-week moving average line,."
+          },
+          {
+            "title": "Fundamentals",
+            "text": "Delivered triple-digit bottom-line EPS acceleration and accelerating top-line revenue growth. Guided higher for the current quarter despite a 1-cent EPS miss, supported by 4-year high steel prices,."
+          },
+          {
+            "title": "Tenet Healthcare (THC)",
+            "text": ""
+          },
+          {
+            "title": "Technical Action",
+            "text": "Dropped 2.6%, closing just beneath key moving averages ahead of its earnings report."
+          },
+          {
+            "title": "Industry Drag",
+            "text": "Weakness was triggered by rival hospital operator HCA, which guided 2027 lower due to reduced bonus payments and higher uninsured patient counts,."
+          }
+        ]
+      },
+      {
+        "number": 4,
+        "title": "After-Hours Earnings Movers & Catalysts",
+        "kind": "strategy",
+        "items": [
+          {
+            "title": "Cheesecake Factory (CAKE)",
+            "text": "Bounced modestly in after-hours trading after finding support at its 50-day moving average line following a modest quarterly beat."
+          },
+          {
+            "title": "Visa (V)",
+            "text": "Slipped modestly in extended trading despite topping quarterly expectations."
+          },
+          {
+            "title": "F5 (FFIV)",
+            "text": "Retreating near its 21-day moving average line post-earnings despite beating views."
+          },
+          {
+            "title": "Seagate Technology (STX)",
+            "text": "Experienced a negative post-earnings reaction despite beating estimates and raising guidance, highlighting volatility across memory plays."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "title": "Risk Management & Execution Strategy",
+        "kind": "strategy",
+        "items": [
+          {
+            "title": "Adjusting Position Sizes & Stops",
+            "text": "In the absence of a confirmed Power Trend and ahead of major catalysts (Fed policy rate decision, mega-cap tech earnings, and US elections), implement smaller position sizes and wider stop-loss levels to manage whipsaws,,,."
+          },
+          {
+            "title": "Locking In Partial Profits",
+            "text": "Consider taking partial profits into short-term strength (e.g., locking in gains around 5%) to lock in progress during choppy, rotational market environments."
+          },
+          {
+            "title": "Utilising Sector ETFs",
+            "text": "Broad sector and index ETFs (such as TQQQ during uptrends) offer lower Average True Range (ATR) and single-stock risk compared to individual growth equities while capturing market upside,."
+          },
+          {
+            "title": "Focusing on Price Action Over Headlines",
+            "text": "Focus strictly on portfolio feedback, individual stock technical rules, and major index moving averages rather than attempting to predict headline events. 💡 Would you like to create an interactive study quiz or flashcards based on these moving average levels and risk management principles?"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-26T20:00:00+00:00",
     "header": "Monday, October 26, 2026's Report",
     "headline": "### 1. Broad Market Index Performance & Technical Structure.",
