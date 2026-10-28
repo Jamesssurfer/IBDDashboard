@@ -1,6 +1,226 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-10-21T20:00:00+00:00",
+      "header": "Wednesday, October 21, 2026's Report",
+      "headline": "### 1. Broad Market Index Performance & Technical Action.",
+      "summary": "### 1. Broad Market Index Performance & Technical Action.",
+      "indexes": [
+        {
+          "name": "NASDAQ Composite",
+          "pct": "+1.1%",
+          "action": "Finished up 1.1%, retaking its key 50-day moving average line. The index closed in the upper half of its intraday trading range, though it faced initial technical resistance at its short-term 10-day and 21-day moving average lines. Trading volume was relatively flat compared to the prior session, and advance-decline breadth was modest at roughly 7 to 5 positive."
+        },
+        {
+          "name": "S&P 500",
+          "pct": "+0.6%",
+          "action": "Advanced 0.6%, registering its third consecutive positive session and closing above its short-term moving averages (including its 10-day line) directly near trendline resistance."
+        },
+        {
+          "name": "Dow Jones Industrial Average",
+          "pct": "+0.7%",
+          "action": "Rose 0.7%, building momentum above its 50-day moving average line to close near session highs."
+        },
+        {
+          "name": "Russell 2000 (Small Caps)",
+          "pct": "",
+          "action": "Added 0.3%, but remains constrained beneath a technical wall at its 200-day moving average line."
+        },
+        {
+          "name": "Equal-Weight S&P 500 (RSP)",
+          "pct": "",
+          "action": "Extended gains above its recently reclaimed 50-day moving average line, continuing to round out the right side of a consolidation structure."
+        }
+      ],
+      "macro": [
+        {
+          "title": "SpaceX Earnings Catalyst",
+          "text": "Served as a major market focal point following an extraordinary quarterly report highlighted by data center revenue surging over 800% year-over-year to $7.5 billion."
+        },
+        {
+          "title": "10-Year Treasury Yields",
+          "text": "Stood stubbornly high around 5.10%, maintaining a persistent headwind for small-cap equities locked below long-term moving averages."
+        },
+        {
+          "title": "Crude Oil (USO)",
+          "text": "The oil proxy USO held tight consolidation near highs around the $100 level and its 10-day moving average line, reflecting ongoing geopolitical uncertainty and potential consumer fuel price pressures."
+        }
+      ],
+      "sectors": [
+        {
+          "name": "Semiconductor ETF (SMH)",
+          "tickers": [
+            "SMH"
+          ],
+          "pct": "",
+          "action": "Rebounded 1.9% on the session, but did little to repair significant technical damage from recent multi-week pullbacks driven by AI capital expenditure concerns."
+        },
+        {
+          "name": "Software ETF (IGV)",
+          "tickers": [
+            "IGV"
+          ],
+          "pct": "+1.8%",
+          "action": "Advanced 1.8%, maintaining a constructive technical setup supported at its 50-day moving average line and short-term moving averages. Enterprise software remains one of the primary areas of relative strength across technology."
+        }
+      ],
+      "stocks": [
+        {
+          "ticker": "CRM",
+          "tickers": [
+            "CRM"
+          ],
+          "company": "Salesforce",
+          "pct": "",
+          "action": "Technical Action: Resting and finding support at its 10-week moving average line on the weekly chart following a strong post-earnings surge several weeks ago. | Fundamentals: Dow component exhibiting strong top- and bottom-line growth within a top-ranked enterprise software group."
+        },
+        {
+          "ticker": "ADI",
+          "tickers": [
+            "ADI"
+          ],
+          "company": "Analog Devices",
+          "pct": "+2.2%",
+          "action": "Technical Action: Advanced 2.2%, clearing a trendline entry within a handle pattern to reclaim the 400 price level. | Setup & Fundamentals: Holding comfortably above its 50-day and 200-day moving average lines with a Relative Strength (RS) line near highs, sharing a similar setup to peer Texas Instruments."
+        },
+        {
+          "ticker": "QLYS",
+          "tickers": [
+            "QLYS"
+          ],
+          "company": "Qualys",
+          "pct": "+3.3%",
+          "action": "Technical Action: Rose 3.3% on above-average volume, clearing a trendline entry off 50-day moving average support. | Key Levels: Trading less than 5% off 52-week highs near a 200–201 pivot resistance area ahead of earnings in two weeks."
+        }
+      ],
+      "strategy": [],
+      "sections": [
+        {
+          "number": 1,
+          "title": "Broad Market Index Performance & Technical Action",
+          "kind": "indexes",
+          "items": [
+            {
+              "title": "NASDAQ Composite",
+              "text": "Finished up 1.1%, retaking its key 50-day moving average line. The index closed in the upper half of its intraday trading range, though it faced initial technical resistance at its short-term 10-day and 21-day moving average lines. Trading volume was relatively flat compared to the prior session, and advance-decline breadth was modest at roughly 7 to 5 positive."
+            },
+            {
+              "title": "S&P 500",
+              "text": "Advanced 0.6%, registering its third consecutive positive session and closing above its short-term moving averages (including its 10-day line) directly near trendline resistance."
+            },
+            {
+              "title": "Dow Jones Industrial Average",
+              "text": "Rose 0.7%, building momentum above its 50-day moving average line to close near session highs."
+            },
+            {
+              "title": "Russell 2000 (Small Caps)",
+              "text": "Added 0.3%, but remains constrained beneath a technical wall at its 200-day moving average line."
+            },
+            {
+              "title": "Equal-Weight S&P 500 (RSP)",
+              "text": "Extended gains above its recently reclaimed 50-day moving average line, continuing to round out the right side of a consolidation structure."
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "title": "Macroeconomic Drivers, Bond Yields & SpaceX Catalyst",
+          "kind": "macro",
+          "items": [
+            {
+              "title": "SpaceX Earnings Catalyst",
+              "text": "Served as a major market focal point following an extraordinary quarterly report highlighted by data center revenue surging over 800% year-over-year to $7.5 billion."
+            },
+            {
+              "title": "10-Year Treasury Yields",
+              "text": "Stood stubbornly high around 5.10%, maintaining a persistent headwind for small-cap equities locked below long-term moving averages."
+            },
+            {
+              "title": "Crude Oil (USO)",
+              "text": "The oil proxy USO held tight consolidation near highs around the $100 level and its 10-day moving average line, reflecting ongoing geopolitical uncertainty and potential consumer fuel price pressures."
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "title": "Sector ETF Dynamics: Software (IGV) vs. Semiconductors (SMH)",
+          "kind": "sectors",
+          "items": [
+            {
+              "title": "Semiconductor ETF (SMH)",
+              "text": "Rebounded 1.9% on the session, but did little to repair significant technical damage from recent multi-week pullbacks driven by AI capital expenditure concerns."
+            },
+            {
+              "title": "Software ETF (IGV)",
+              "text": "Advanced 1.8%, maintaining a constructive technical setup supported at its 50-day moving average line and short-term moving averages. Enterprise software remains one of the primary areas of relative strength across technology."
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "title": "Individual Featured Stock Technical Setups & Fundamentals",
+          "kind": "stocks",
+          "items": [
+            {
+              "title": "Salesforce (CRM)",
+              "text": ""
+            },
+            {
+              "title": "Technical Action",
+              "text": "Resting and finding support at its 10-week moving average line on the weekly chart following a strong post-earnings surge several weeks ago."
+            },
+            {
+              "title": "Fundamentals",
+              "text": "Dow component exhibiting strong top- and bottom-line growth within a top-ranked enterprise software group."
+            },
+            {
+              "title": "Analog Devices (ADI)",
+              "text": ""
+            },
+            {
+              "title": "Technical Action",
+              "text": "Advanced 2.2%, clearing a trendline entry within a handle pattern to reclaim the 400 price level."
+            },
+            {
+              "title": "Setup & Fundamentals",
+              "text": "Holding comfortably above its 50-day and 200-day moving average lines with a Relative Strength (RS) line near highs, sharing a similar setup to peer Texas Instruments."
+            },
+            {
+              "title": "Qualys (QLYS)",
+              "text": ""
+            },
+            {
+              "title": "Technical Action",
+              "text": "Rose 3.3% on above-average volume, clearing a trendline entry off 50-day moving average support."
+            },
+            {
+              "title": "Key Levels",
+              "text": "Trading less than 5% off 52-week highs near a 200–201 pivot resistance area ahead of earnings in two weeks."
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "title": "After-Hours Earnings Reactions & Key Takeaways",
+          "kind": "other",
+          "items": [
+            {
+              "title": "Meta Platforms (META)",
+              "text": "Surged 5% to 6% in after-hours trading (around 740) after raising the lower bound of its 2026 capital expenditure guidance range."
+            },
+            {
+              "title": "Additional Post-Close Movers",
+              "text": "IBM jumped 5% and Tesla rose 1.3%, while Lam Research (LRCX) dropped 6% following its report."
+            },
+            {
+              "title": "Execution Focus",
+              "text": "Respect persistent relative strength in software leaders, monitor semiconductor earnings for data center capital spending trends, and maintain strict discipline around moving average support levels. 📊 Would you like me to generate a set of interactive flashcards or a practice quiz based on these technical setup levels and moving average rules?"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "timestamp": "2026-10-20T20:00:00+00:00",
       "header": "Tuesday, October 20, 2026's Report",
       "headline": "### 1. Broad Market Index Performance & Technical Levels.",
@@ -1076,7 +1296,9 @@
           ]
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-10-14T20:00:00+00:00",
       "header": "Wednesday, October 14, 2026's Report",
@@ -1358,9 +1580,7 @@
           ]
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-10-13T20:00:00+00:00",
       "header": "Tuesday, October 13, 2026's Report",
@@ -3994,7 +4214,9 @@
           ]
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-09-28T20:00:00+00:00",
       "header": "Monday, September 28, 2026's Report",
@@ -4282,7 +4504,6 @@
       ]
     }
   ],
-  "past_3_months": [],
   "past_6_months": [],
   "past_1_year": [],
   "historical": []
