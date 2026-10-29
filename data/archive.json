@@ -1,6 +1,244 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-10-22T20:00:00+00:00",
+      "header": "Thursday, October 22, 2026's Report",
+      "headline": "### 1. Broad Market Index Performance & Technical Action.",
+      "summary": "### 1. Broad Market Index Performance & Technical Action.",
+      "indexes": [
+        {
+          "name": "NASDAQ Composite",
+          "pct": "",
+          "action": "Plunged 2.6% to return to the 26,000 level, breaking below its low from four trading sessions prior after encountering resistance at short-term moving averages."
+        },
+        {
+          "name": "S&P 500",
+          "pct": "-1.2%",
+          "action": "Fell 1.2%, representing an expectation breaker following the prior session's setup day, though it maintained support above its low from four days prior and above the 7,000 round-number level."
+        },
+        {
+          "name": "Dow Jones Industrial Average",
+          "pct": "",
+          "action": "Erased earlier losses to close fractionally positive."
+        },
+        {
+          "name": "Russell 2000 (Small Caps)",
+          "pct": "",
+          "action": "Logged a fractional gain for the session, holding up better than tech-heavy benchmarks."
+        },
+        {
+          "name": "Market Breadth Resilience",
+          "pct": "+0.7%",
+          "action": "Despite the heavy index drop in tech, breadth was relatively stable; NASDAQ declining stocks were less than 2:1 negative, NYSE breadth turned positive late in the day, and the Equal-Weighted S&P 500 (RSP) rose 0.7%."
+        }
+      ],
+      "macro": [
+        {
+          "title": "Plunge in Bond Yields",
+          "text": "A sharp drop in the 10-Year Treasury yield was fueled by an intense flight-to-safety trade into government bonds."
+        },
+        {
+          "title": "AI Debt & Spending Fears",
+          "text": "Investor anxiety mounted over massive multi-billion-dollar AI capital expenditures and high debt levels across specialized operators, sending CoreWeave down another 10%."
+        },
+        {
+          "title": "Flight to Defensive Havens",
+          "text": "Capital rotated rapidly out of high-beta tech into safe-haven sectors, driving the Consumer Staples ETF (XLP) up 3.3% (led by Procter & Gamble +5.6%, Colgate +4.3%, and Coca-Cola +2.9%) and the Utilities ETF (XLU) up over 2%."
+        }
+      ],
+      "sectors": [
+        {
+          "name": "Semiconductor ETF (SMH)",
+          "tickers": [
+            "SMH"
+          ],
+          "pct": "",
+          "action": "Suffered a severe 6% sell-off, undercutting multi-month lows and testing its critical long-term 200-day moving average line."
+        },
+        {
+          "name": "Meta Platforms (META)",
+          "tickers": [
+            "META"
+          ],
+          "pct": "",
+          "action": "Ended the day lower despite reporting a solid quarterly report featuring revenue guidance above expectations and positive traction for its Muse digital assistant."
+        },
+        {
+          "name": "Broad Tech Weakness",
+          "tickers": [
+            "AMD",
+            "MXL"
+          ],
+          "pct": "+14%",
+          "action": "Advanced Micro Devices (AMD) gave up support at its 50-day moving average line on its heaviest down-day volume in months, while MaxLinear (MXL) gapped down 14%."
+        }
+      ],
+      "stocks": [
+        {
+          "ticker": "NTAP",
+          "tickers": [
+            "NTAP"
+          ],
+          "company": "NetApp",
+          "pct": "-2.2%",
+          "action": "Technical Action: Showed notable relative strength in tech hardware, finishing down 2.2% but closing in the upper 70% of its daily range. | Key Levels: Successfully held above its 50-day moving average line, the round-number 200 level, and its prior cup-with-handle buy point, outperforming hardware peers like Dell and HPE."
+        },
+        {
+          "ticker": "AMGN",
+          "tickers": [
+            "AMGN"
+          ],
+          "company": "Amgen",
+          "pct": "",
+          "action": "Technical Action: Staged a breakout above its 50-day moving average line and a downward trendline, accompanied by a Relative Strength (RS) line \"blue dot\". | Fundamentals: Holds an A Accumulation/Distribution rating, a low Average True Range (~2.5% ATR) reflecting orderly trading, and a Phase 3 weight-loss treatment in development ahead of earnings in 12 calendar days."
+        },
+        {
+          "ticker": "NDAQ",
+          "tickers": [
+            "NDAQ"
+          ],
+          "company": "Nasdaq Inc.",
+          "pct": "+7.5%",
+          "action": "Technical Action: Surged 7.5% on an earnings breakout, closing near session highs within its 5% buy zone above long-term resistance at the 100 level. | Fundamentals & Group Strength: Backed by 18% EPS growth and 13% top-line revenue growth, benefiting from strong industry group participation alongside exchanges like CBOE, CME, and ICE."
+        }
+      ],
+      "strategy": [
+        {
+          "title": "After-Hours Movers",
+          "text": "Bloom Energy (BE) dropped over 5% down toward its 200-day moving average line due to high valuation multiple pressures despite strong fuel cell demand in data centers. Memory leaders Western Digital (WDC) and Seagate (STX) continued to struggle following Samsung's entry into the hard disk drive market."
+        },
+        {
+          "title": "Portfolio Risk Management",
+          "text": "Focus capital strictly on resilient stocks demonstrating relative strength during market pullbacks. Utilize position sizing to control risk around upcoming earnings releases, and allow broad tech selling to resolve before aggressively deploying capital. 📊 Would you like to turn these stock technical levels and risk management rules into an interactive quiz or study flashcards?"
+        }
+      ],
+      "sections": [
+        {
+          "number": 1,
+          "title": "Broad Market Index Performance & Technical Action",
+          "kind": "indexes",
+          "items": [
+            {
+              "title": "NASDAQ Composite",
+              "text": "Plunged 2.6% to return to the 26,000 level, breaking below its low from four trading sessions prior after encountering resistance at short-term moving averages."
+            },
+            {
+              "title": "S&P 500",
+              "text": "Fell 1.2%, representing an expectation breaker following the prior session's setup day, though it maintained support above its low from four days prior and above the 7,000 round-number level."
+            },
+            {
+              "title": "Dow Jones Industrial Average",
+              "text": "Erased earlier losses to close fractionally positive."
+            },
+            {
+              "title": "Russell 2000 (Small Caps)",
+              "text": "Logged a fractional gain for the session, holding up better than tech-heavy benchmarks."
+            },
+            {
+              "title": "Market Breadth Resilience",
+              "text": "Despite the heavy index drop in tech, breadth was relatively stable; NASDAQ declining stocks were less than 2:1 negative, NYSE breadth turned positive late in the day, and the Equal-Weighted S&P 500 (RSP) rose 0.7%."
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "title": "Macroeconomic Drivers & Intermarket Dynamics",
+          "kind": "macro",
+          "items": [
+            {
+              "title": "Plunge in Bond Yields",
+              "text": "A sharp drop in the 10-Year Treasury yield was fueled by an intense flight-to-safety trade into government bonds."
+            },
+            {
+              "title": "AI Debt & Spending Fears",
+              "text": "Investor anxiety mounted over massive multi-billion-dollar AI capital expenditures and high debt levels across specialized operators, sending CoreWeave down another 10%."
+            },
+            {
+              "title": "Flight to Defensive Havens",
+              "text": "Capital rotated rapidly out of high-beta tech into safe-haven sectors, driving the Consumer Staples ETF (XLP) up 3.3% (led by Procter & Gamble +5.6%, Colgate +4.3%, and Coca-Cola +2.9%) and the Utilities ETF (XLU) up over 2%."
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "title": "Sector ETF & Tech Breakdown",
+          "kind": "sectors",
+          "items": [
+            {
+              "title": "Semiconductor ETF (SMH)",
+              "text": "Suffered a severe 6% sell-off, undercutting multi-month lows and testing its critical long-term 200-day moving average line."
+            },
+            {
+              "title": "Meta Platforms (META)",
+              "text": "Ended the day lower despite reporting a solid quarterly report featuring revenue guidance above expectations and positive traction for its Muse digital assistant."
+            },
+            {
+              "title": "Broad Tech Weakness",
+              "text": "Advanced Micro Devices (AMD) gave up support at its 50-day moving average line on its heaviest down-day volume in months, while MaxLinear (MXL) gapped down 14%."
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "title": "Individual Featured Stock Setups & Fundamentals",
+          "kind": "stocks",
+          "items": [
+            {
+              "title": "NetApp (NTAP)",
+              "text": ""
+            },
+            {
+              "title": "Technical Action",
+              "text": "Showed notable relative strength in tech hardware, finishing down 2.2% but closing in the upper 70% of its daily range."
+            },
+            {
+              "title": "Key Levels",
+              "text": "Successfully held above its 50-day moving average line, the round-number 200 level, and its prior cup-with-handle buy point, outperforming hardware peers like Dell and HPE."
+            },
+            {
+              "title": "Amgen (AMGN)",
+              "text": ""
+            },
+            {
+              "title": "Technical Action",
+              "text": "Staged a breakout above its 50-day moving average line and a downward trendline, accompanied by a Relative Strength (RS) line \"blue dot\"."
+            },
+            {
+              "title": "Fundamentals",
+              "text": "Holds an A Accumulation/Distribution rating, a low Average True Range (~2.5% ATR) reflecting orderly trading, and a Phase 3 weight-loss treatment in development ahead of earnings in 12 calendar days."
+            },
+            {
+              "title": "Nasdaq Inc. (NDAQ)",
+              "text": ""
+            },
+            {
+              "title": "Technical Action",
+              "text": "Surged 7.5% on an earnings breakout, closing near session highs within its 5% buy zone above long-term resistance at the 100 level."
+            },
+            {
+              "title": "Fundamentals & Group Strength",
+              "text": "Backed by 18% EPS growth and 13% top-line revenue growth, benefiting from strong industry group participation alongside exchanges like CBOE, CME, and ICE."
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "title": "After-Hours Earnings & Portfolio Strategy",
+          "kind": "strategy",
+          "items": [
+            {
+              "title": "After-Hours Movers",
+              "text": "Bloom Energy (BE) dropped over 5% down toward its 200-day moving average line due to high valuation multiple pressures despite strong fuel cell demand in data centers. Memory leaders Western Digital (WDC) and Seagate (STX) continued to struggle following Samsung's entry into the hard disk drive market."
+            },
+            {
+              "title": "Portfolio Risk Management",
+              "text": "Focus capital strictly on resilient stocks demonstrating relative strength during market pullbacks. Utilize position sizing to control risk around upcoming earnings releases, and allow broad tech selling to resolve before aggressively deploying capital. 📊 Would you like to turn these stock technical levels and risk management rules into an interactive quiz or study flashcards?"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "timestamp": "2026-10-21T20:00:00+00:00",
       "header": "Wednesday, October 21, 2026's Report",
       "headline": "### 1. Broad Market Index Performance & Technical Action.",
@@ -1015,7 +1253,9 @@
           ]
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-10-15T20:00:00+00:00",
       "header": "Thursday, October 15, 2026's Report",
@@ -1296,9 +1536,7 @@
           ]
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-10-14T20:00:00+00:00",
       "header": "Wednesday, October 14, 2026's Report",
@@ -4016,7 +4254,9 @@
           ]
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-09-29T20:00:00+00:00",
       "header": "Tuesday, September 29, 2026's Report",
@@ -4214,9 +4454,7 @@
           ]
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-09-28T20:00:00+00:00",
       "header": "Monday, September 28, 2026's Report",
