@@ -1,5 +1,281 @@
 [
   {
+    "timestamp": "2026-10-29T20:00:00+00:00",
+    "header": "Thursday, October 29, 2026's Report",
+    "headline": "### 1. Broad Market Index Performance & Technical Structure.",
+    "summary": "### 1. Broad Market Index Performance & Technical Structure.",
+    "indexes": [
+      {
+        "name": "NASDAQ Composite",
+        "pct": "-1.4%",
+        "action": "Declined 1.4%, getting turned away with conviction after rallying directly into its 50-day moving average line. Heavy software earnings reactions sparked a morning gap-down, though trading volume did not spike dramatically above average (a minor silver lining). The index remains stuck beneath its key moving averages and requires further repair time. Key technical levels to watch include the 26,000 round-number level and recent daily lows; an undercut of these lows could set up a potential shakeout and rally attempt."
+      },
+      {
+        "name": "S&P 500",
+        "pct": "",
+        "action": "Fared significantly better, dipping just 0.3% (3/10ths of a percent) to make a firm stand directly at its 50-day moving average line."
+      },
+      {
+        "name": "Dow Jones Industrial Average",
+        "pct": "",
+        "action": "Slipped 0.25% (a quarter of a percent), holding right around its 50-day moving average line."
+      },
+      {
+        "name": "Russell 2000 (Small Caps)",
+        "pct": "",
+        "action": "Outperformed the major technology benchmarks, advancing 0.9% on the session to test its 50-day moving average line."
+      },
+      {
+        "name": "Equal-Weight S&P 500 (RSP) & Breadth",
+        "pct": "+1.2%",
+        "action": "RSP surged 1.2% despite the decline in the market-cap weighted S&P 500. Advance-decline breadth on the New York Stock Exchange was nearly 2-to-1 positive, with 8 out of 11 S&P sectors closing higher on the session."
+      }
+    ],
+    "macro": [],
+    "sectors": [
+      {
+        "name": "Software ETF (IGV)",
+        "tickers": [
+          "IGV"
+        ],
+        "pct": "-3.5%",
+        "action": "Dropped 3.5% on the day, but closed off its lows in the middle-to-upper portion of its daily range while finding technical support at its 50-day moving average line. While software saw sharp individual earnings pullbacks, enterprise software leaders like Shopify (SHOP) experienced normal pullbacks to their 21-day moving average lines. Conversely, Fortinet (FTNT) suffered severe damage down to its 200-day line, and ServiceNow (NOW) sliced straight through its 200-day line."
+      },
+      {
+        "name": "Cybersecurity ETFs (HACK & BUG)",
+        "tickers": [
+          "QLYS",
+          "TNB",
+          "PANW"
+        ],
+        "pct": "",
+        "action": "The HACK ETF dipped 1.3%, bouncing off its 21-day moving average line. Individual cybersecurity stocks displayed notable relative strength: Qualys (QLYS) held near its 10-day line near all-time highs, Tenable (TNB) reversed off its 10-day line to reach an all-time high, and Palo Alto Networks (PANW) held support at its 50-day line."
+      },
+      {
+        "name": "Semiconductor ETF (SMH)",
+        "tickers": [
+          "SMH"
+        ],
+        "pct": "",
+        "action": "Tested its 50-day moving average line and got swatted away, displaying an almost identical technical rejection to the NASDAQ Composite despite solid earnings from chip equipment makers."
+      }
+    ],
+    "stocks": [
+      {
+        "ticker": "LLY",
+        "tickers": [
+          "LLY"
+        ],
+        "company": "Eli Lilly",
+        "pct": "+6.6%",
+        "action": "Technical Action: Surged 6.6% on earnings, extending momentum off an ideal entry around 1,200 near its 50-day moving average line. Analysts view a pullback toward the 1,300 level or its 10-day line as a palatable entry point. | Fundamentals: Top-line revenue accelerated 39% to $24.44 billion (nearly $2 billion above consensus estimates). Mounjaro revenue jumped 65% to $10.7 billion, while Zepbound rose 49% to $5.35 billion. CEO David Ricks cited \"room for dramatic expansion\" in the obesity treatment market."
+      },
+      {
+        "ticker": "EBAY",
+        "tickers": [
+          "EBAY"
+        ],
+        "company": "eBay",
+        "pct": "+2.7%",
+        "action": "Technical Action: Advanced 2.7% on an earnings rebound off its 21-day line and $120 breakout area, closing in the upper 46% of its daily range. | Fundamentals: Rejuvenated under CEO Jamie Iannone through strategic expansions in luxury resale (including the $1.2B Depop acquisition), AI user tools, collectibles, and used automotive parts."
+      },
+      {
+        "ticker": "DLTR",
+        "tickers": [
+          "DLTR"
+        ],
+        "company": "Dollar Tree",
+        "pct": "",
+        "action": "Technical Action: Passed a handle buy point just above the 130 level following a multi-day shakeout. | Setup & Sector Trend: Holds a Relative Strength (RS) rating of 70 as institutional capital rotates into retail ahead of its late-November earnings report."
+      },
+      {
+        "ticker": "GOOGL",
+        "tickers": [
+          "GOOGL"
+        ],
+        "company": "Alphabet / Google",
+        "pct": "",
+        "action": "Technical Breakdown: Suffered a 13% gap-down (its worst earnings reaction in company history) due to negative cash flow (-$9 billion vs. -$3 billion expected) and fears of search cannibalization from AI competition."
+      },
+      {
+        "ticker": "MSFT",
+        "tickers": [
+          "MSFT"
+        ],
+        "company": "Microsoft",
+        "pct": "",
+        "action": "Technical Action: Closed essentially flat, holding support at its 21-day moving average line on a difficult day for tech. Fundamentals remain solid with strong Azure cloud growth and free cash flow generation."
+      }
+    ],
+    "strategy": [
+      {
+        "title": "Respecting Moving Average Resistance",
+        "text": "With the NASDAQ Composite and SMH turned away at their 50-day moving average lines, technology indices remain vulnerable and require further technical repair time."
+      },
+      {
+        "title": "Capitalizing on Market Breadth & Shakeouts",
+        "text": "Robust equal-weight performance (RSP +1.2%, NYSE 2:1 positive) highlights underlying market participation outside mega-cap tech. Monitor potential undercuts of recent lows near 26,000 for shakeout and rally attempt setups."
+      },
+      {
+        "title": "Favorable Seasonality",
+        "text": "The market is entering November and the Thanksgiving holiday period, which historically delivers low-volume seasonal strength."
+      },
+      {
+        "title": "Disciplined Position Sizing",
+        "text": "Concentrate capital strictly on stocks displaying true relative strength (Eli Lilly, Qualys, retail, medical services) and enforce strict risk rules around key moving average support levels. 📊 Would you like to turn these earnings technical setups and moving average rules into an interactive study quiz or flashcards?"
+      }
+    ],
+    "sections": [
+      {
+        "number": 1,
+        "title": "Broad Market Index Performance & Technical Structure",
+        "kind": "indexes",
+        "items": [
+          {
+            "title": "NASDAQ Composite",
+            "text": "Declined 1.4%, getting turned away with conviction after rallying directly into its 50-day moving average line. Heavy software earnings reactions sparked a morning gap-down, though trading volume did not spike dramatically above average (a minor silver lining). The index remains stuck beneath its key moving averages and requires further repair time. Key technical levels to watch include the 26,000 round-number level and recent daily lows; an undercut of these lows could set up a potential shakeout and rally attempt."
+          },
+          {
+            "title": "S&P 500",
+            "text": "Fared significantly better, dipping just 0.3% (3/10ths of a percent) to make a firm stand directly at its 50-day moving average line."
+          },
+          {
+            "title": "Dow Jones Industrial Average",
+            "text": "Slipped 0.25% (a quarter of a percent), holding right around its 50-day moving average line."
+          },
+          {
+            "title": "Russell 2000 (Small Caps)",
+            "text": "Outperformed the major technology benchmarks, advancing 0.9% on the session to test its 50-day moving average line."
+          },
+          {
+            "title": "Equal-Weight S&P 500 (RSP) & Breadth",
+            "text": "RSP surged 1.2% despite the decline in the market-cap weighted S&P 500. Advance-decline breadth on the New York Stock Exchange was nearly 2-to-1 positive, with 8 out of 11 S&P sectors closing higher on the session."
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Sector ETF Dynamics & Software Divergence",
+        "kind": "sectors",
+        "items": [
+          {
+            "title": "Software ETF (IGV)",
+            "text": "Dropped 3.5% on the day, but closed off its lows in the middle-to-upper portion of its daily range while finding technical support at its 50-day moving average line. While software saw sharp individual earnings pullbacks, enterprise software leaders like Shopify (SHOP) experienced normal pullbacks to their 21-day moving average lines. Conversely, Fortinet (FTNT) suffered severe damage down to its 200-day line, and ServiceNow (NOW) sliced straight through its 200-day line."
+          },
+          {
+            "title": "Cybersecurity ETFs (HACK & BUG)",
+            "text": "The HACK ETF dipped 1.3%, bouncing off its 21-day moving average line. Individual cybersecurity stocks displayed notable relative strength: Qualys (QLYS) held near its 10-day line near all-time highs, Tenable (TNB) reversed off its 10-day line to reach an all-time high, and Palo Alto Networks (PANW) held support at its 50-day line."
+          },
+          {
+            "title": "Semiconductor ETF (SMH)",
+            "text": "Tested its 50-day moving average line and got swatted away, displaying an almost identical technical rejection to the NASDAQ Composite despite solid earnings from chip equipment makers."
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Individual Stock Technical Setups & Fundamental Growth",
+        "kind": "stocks",
+        "items": [
+          {
+            "title": "Eli Lilly (LLY)",
+            "text": ""
+          },
+          {
+            "title": "Technical Action",
+            "text": "Surged 6.6% on earnings, extending momentum off an ideal entry around 1,200 near its 50-day moving average line. Analysts view a pullback toward the 1,300 level or its 10-day line as a palatable entry point."
+          },
+          {
+            "title": "Fundamentals",
+            "text": "Top-line revenue accelerated 39% to $24.44 billion (nearly $2 billion above consensus estimates). Mounjaro revenue jumped 65% to $10.7 billion, while Zepbound rose 49% to $5.35 billion. CEO David Ricks cited \"room for dramatic expansion\" in the obesity treatment market."
+          },
+          {
+            "title": "eBay (EBAY)",
+            "text": ""
+          },
+          {
+            "title": "Technical Action",
+            "text": "Advanced 2.7% on an earnings rebound off its 21-day line and $120 breakout area, closing in the upper 46% of its daily range."
+          },
+          {
+            "title": "Fundamentals",
+            "text": "Rejuvenated under CEO Jamie Iannone through strategic expansions in luxury resale (including the $1.2B Depop acquisition), AI user tools, collectibles, and used automotive parts."
+          },
+          {
+            "title": "Dollar Tree (DLTR)",
+            "text": ""
+          },
+          {
+            "title": "Technical Action",
+            "text": "Passed a handle buy point just above the 130 level following a multi-day shakeout."
+          },
+          {
+            "title": "Setup & Sector Trend",
+            "text": "Holds a Relative Strength (RS) rating of 70 as institutional capital rotates into retail ahead of its late-November earnings report."
+          },
+          {
+            "title": "Alphabet / Google (GOOGL)",
+            "text": ""
+          },
+          {
+            "title": "Technical Breakdown",
+            "text": "Suffered a 13% gap-down (its worst earnings reaction in company history) due to negative cash flow (-$9 billion vs. -$3 billion expected) and fears of search cannibalization from AI competition."
+          },
+          {
+            "title": "Microsoft (MSFT)",
+            "text": ""
+          },
+          {
+            "title": "Technical Action",
+            "text": "Closed essentially flat, holding support at its 21-day moving average line on a difficult day for tech. Fundamentals remain solid with strong Azure cloud growth and free cash flow generation."
+          }
+        ]
+      },
+      {
+        "number": 4,
+        "title": "After-Hours Earnings Movers & Tech Pressure",
+        "kind": "other",
+        "items": [
+          {
+            "title": "Amazon (AMZN)",
+            "text": "Fell 4% in regular trading in sympathy with Google, and dropped another 5% after-hours following its earnings report to test/break its 200-day moving average line amid market scrutiny over AWS cloud growth and AI capex."
+          },
+          {
+            "title": "Intel (INTC)",
+            "text": "Plunged 16% in extended trading following its earnings release, weighing heavily on the QQQ ETF (down 1.1% after-hours) as costs for its foundry transformation hit sentiment."
+          },
+          {
+            "title": "Additional Extended-Hours Movers",
+            "text": "Twilio (TWLO) dropped 15%, SanDisk gained 3% but remains ~7% below its 21-day line in a downtrend, while CareDX (CDNA) jumped 15% in the medical services group."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "title": "Portfolio Strategy, Seasonality & Risk Management",
+        "kind": "strategy",
+        "items": [
+          {
+            "title": "Respecting Moving Average Resistance",
+            "text": "With the NASDAQ Composite and SMH turned away at their 50-day moving average lines, technology indices remain vulnerable and require further technical repair time."
+          },
+          {
+            "title": "Capitalizing on Market Breadth & Shakeouts",
+            "text": "Robust equal-weight performance (RSP +1.2%, NYSE 2:1 positive) highlights underlying market participation outside mega-cap tech. Monitor potential undercuts of recent lows near 26,000 for shakeout and rally attempt setups."
+          },
+          {
+            "title": "Favorable Seasonality",
+            "text": "The market is entering November and the Thanksgiving holiday period, which historically delivers low-volume seasonal strength."
+          },
+          {
+            "title": "Disciplined Position Sizing",
+            "text": "Concentrate capital strictly on stocks displaying true relative strength (Eli Lilly, Qualys, retail, medical services) and enforce strict risk rules around key moving average support levels. 📊 Would you like to turn these earnings technical setups and moving average rules into an interactive study quiz or flashcards?"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-28T20:00:00+00:00",
     "header": "Wednesday, October 28, 2026's Report",
     "headline": "### 1. Major Index Performance & Key Technical Levels.",
