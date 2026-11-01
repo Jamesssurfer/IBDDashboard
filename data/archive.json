@@ -3835,7 +3835,9 @@
           ]
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-10-02T20:00:00+00:00",
       "header": "Friday, October 2, 2026's Report",
@@ -4053,9 +4055,7 @@
           ]
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-10-01T20:00:00+00:00",
       "header": "Thursday, October 1, 2026's Report",
