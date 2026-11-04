@@ -1,6 +1,312 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-10-28T20:00:00+00:00",
+      "header": "Wednesday, October 28, 2026's Report",
+      "headline": "### 1. Major Index Performance & Key Technical Levels.",
+      "summary": "### 1. Major Index Performance & Key Technical Levels.",
+      "indexes": [
+        {
+          "name": "NASDAQ Composite",
+          "pct": "+0.3%",
+          "action": "Gained 0.3% on the day to close at a key inflection point directly at its converged 21-day and 50-day moving average lines. During the final 30 minutes of trading, the index came within one point of its 21-day and 50-day moving averages before being turned away by overhead technical resistance."
+        },
+        {
+          "name": "S&P 500",
+          "pct": "+0.3%",
+          "action": "Advanced 0.3%, holding above its recently retaken 21-day and 50-day moving average lines while clearing a downward trendline."
+        },
+        {
+          "name": "Dow Jones Industrial Average",
+          "pct": "+0.2%",
+          "action": "Rose 0.2%, continuing to hold technical support above its 50-day moving average line."
+        },
+        {
+          "name": "Russell 2000 (Small Caps)",
+          "pct": "",
+          "action": "Added 0.25%, building on prior-session gains above its 200-day moving average line."
+        },
+        {
+          "name": "Equal-Weight S&P 500 (RSP)",
+          "pct": "",
+          "action": "Finished flat on the session but remains in a recovery pattern above its 50-day moving average line, reflecting expanding participation across non-tech sectors."
+        }
+      ],
+      "macro": [
+        {
+          "title": "Federal Reserve Rate Decision",
+          "text": "The Federal Reserve left the federal funds rate unchanged at 3.75% to 4.0% (3 and 3/4 to 4%), pointing to ongoing economic stability without introducing market surprises."
+        },
+        {
+          "title": "Inflation & Rate Outlook",
+          "text": "The upcoming September Personal Consumption Expenditures (PCE) price index reading is expected to tick slightly higher compared to August. Markets are currently anticipating a potential quarter-point (0.25%) rate increase at the December Fed meeting."
+        },
+        {
+          "title": "Treasury Yield Action",
+          "text": "The 10-year Treasury yield rebounded off its 50-day moving average line during the session."
+        },
+        {
+          "title": "Upcoming Market Catalysts",
+          "text": "Investors are balancing third-quarter corporate earnings, inflation metrics, and potential volatility ahead of the upcoming midterm elections."
+        }
+      ],
+      "sectors": [
+        {
+          "name": "Semiconductor ETF (SMH)",
+          "tickers": [
+            "SMH"
+          ],
+          "pct": "+1.7%",
+          "action": "Advanced 1.7%, logging its third or fourth consecutive positive session despite long-term technical damage across chip stocks. Advanced Micro Devices (AMD) reclaimed its 50-day moving average line ahead of earnings next week, while Intel and KLA faced near-term earnings reports."
+        },
+        {
+          "name": "Software & Cybersecurity",
+          "tickers": [
+            "BUG"
+          ],
+          "pct": "-4.6%",
+          "action": "Software stocks continue to show market leadership as capital rotates away from semiconductors. However, late-session earnings drops pushed the Cybersecurity ETF (BUG) down 4.6% in extended trading following heavy selling in Fortinet."
+        },
+        {
+          "name": "Biotech ETFs",
+          "tickers": [
+            "FBT"
+          ],
+          "pct": "",
+          "action": "The IBB Biotech ETF logged a technical breakout, while the First Trust Biotechnology ETF (FBT) completed a clean breakout as institutional flows moved into medical groups."
+        }
+      ],
+      "stocks": [
+        {
+          "ticker": "EAT",
+          "tickers": [
+            "EAT"
+          ],
+          "company": "Brinker International",
+          "pct": "",
+          "action": "Technical Action: Surged over 12% on heavy volume, reclaiming its 50-day moving average line to begin repairing its chart structure. | Fundamentals: Parent company of Chili's generated 44% earnings growth, 9% top-line revenue growth, and 10.1% same-store sales growth at Chili's alongside 6.4% customer traffic growth."
+        },
+        {
+          "ticker": "MEDP",
+          "tickers": [
+            "MEDP"
+          ],
+          "company": "Medpace",
+          "pct": "",
+          "action": "Technical Action: Cleared multi-month resistance around the 600 level to approach 700, remaining within a 5% buy zone with a strong Relative Strength (RS) line. | Fundamentals: Contract research organization (CRO) serving biotech and pharma clinical trials, delivering 25% earnings growth and 9% revenue growth."
+        },
+        {
+          "ticker": "IOVA",
+          "tickers": [
+            "IOVA"
+          ],
+          "company": "Iovance Biotherapeutics",
+          "pct": "",
+          "action": "Technical Action: Constructing a tight flag pattern just beneath 15 following a sharp advance from the 5 level. | Fundamentals: A $6.6 billion market-cap biotech with $172 million in daily dollar volume, generating growing revenue from its 1-time TIL cancer immunotherapy treatment for solid tumors."
+        },
+        {
+          "ticker": "ORCL",
+          "tickers": [
+            "ORCL"
+          ],
+          "company": "Oracle",
+          "pct": "",
+          "action": "Technical Action: Rose over 10% following its investor day, though it faced immediate resistance at a moving average after a sharp multi-month decline. | Fundamentals: Issued a long-term revenue outlook of $225 billion out to 2030, despite persistent market concerns surrounding debt load and heavy AI infrastructure spending."
+        }
+      ],
+      "strategy": [
+        {
+          "title": "Microsoft (MSFT)",
+          "text": "Surged 4% in extended trading, supported by 48% Azure cloud growth (beating the 44% estimate) and $19 billion in free cash flow, forming a potential ascending base setup near the 550 level."
+        },
+        {
+          "title": "Alphabet (GOOGL)",
+          "text": "Dropped nearly 9% after-hours due to negative quarterly free cash flow and a miss on Q3 capital expenditure expectations."
+        },
+        {
+          "title": "Additional After-Hours Movers",
+          "text": ""
+        },
+        {
+          "title": "Glaukos (GKOS)",
+          "text": "Gapped up 14% in a breakaway gap above a 19.16 cup buy point to trade near 205."
+        },
+        {
+          "title": "eBay (EBAY)",
+          "text": "Advanced 5% post-close after bouncing off its 21-day moving average line."
+        },
+        {
+          "title": "Downside Reactions",
+          "text": "Fortinet (FTNT) dropped 22% and ServiceNow (NOW) fell 17% following their respective earnings releases."
+        },
+        {
+          "title": "Portfolio Risk Management",
+          "text": "Given contrasting post-earnings moves between cash-flow-rich leaders (Microsoft) and heavy capital expenditure tech names (Alphabet), traders should prioritize strict moving average stop losses, observe post-earnings chart holding, and focus on groups displaying relative strength (CROs, software, and biotechs). 📈 Would you like to turn these earnings technical breakouts and moving average rules into an interactive quiz or flashcard study deck?"
+        }
+      ],
+      "sections": [
+        {
+          "number": 1,
+          "title": "Major Index Performance & Key Technical Levels",
+          "kind": "indexes",
+          "items": [
+            {
+              "title": "NASDAQ Composite",
+              "text": "Gained 0.3% on the day to close at a key inflection point directly at its converged 21-day and 50-day moving average lines. During the final 30 minutes of trading, the index came within one point of its 21-day and 50-day moving averages before being turned away by overhead technical resistance."
+            },
+            {
+              "title": "S&P 500",
+              "text": "Advanced 0.3%, holding above its recently retaken 21-day and 50-day moving average lines while clearing a downward trendline."
+            },
+            {
+              "title": "Dow Jones Industrial Average",
+              "text": "Rose 0.2%, continuing to hold technical support above its 50-day moving average line."
+            },
+            {
+              "title": "Russell 2000 (Small Caps)",
+              "text": "Added 0.25%, building on prior-session gains above its 200-day moving average line."
+            },
+            {
+              "title": "Equal-Weight S&P 500 (RSP)",
+              "text": "Finished flat on the session but remains in a recovery pattern above its 50-day moving average line, reflecting expanding participation across non-tech sectors."
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "title": "Macroeconomic Drivers & Interest Rate Policy",
+          "kind": "macro",
+          "items": [
+            {
+              "title": "Federal Reserve Rate Decision",
+              "text": "The Federal Reserve left the federal funds rate unchanged at 3.75% to 4.0% (3 and 3/4 to 4%), pointing to ongoing economic stability without introducing market surprises."
+            },
+            {
+              "title": "Inflation & Rate Outlook",
+              "text": "The upcoming September Personal Consumption Expenditures (PCE) price index reading is expected to tick slightly higher compared to August. Markets are currently anticipating a potential quarter-point (0.25%) rate increase at the December Fed meeting."
+            },
+            {
+              "title": "Treasury Yield Action",
+              "text": "The 10-year Treasury yield rebounded off its 50-day moving average line during the session."
+            },
+            {
+              "title": "Upcoming Market Catalysts",
+              "text": "Investors are balancing third-quarter corporate earnings, inflation metrics, and potential volatility ahead of the upcoming midterm elections."
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "title": "Sector ETF Movements & Group Leadership",
+          "kind": "sectors",
+          "items": [
+            {
+              "title": "Semiconductor ETF (SMH)",
+              "text": "Advanced 1.7%, logging its third or fourth consecutive positive session despite long-term technical damage across chip stocks. Advanced Micro Devices (AMD) reclaimed its 50-day moving average line ahead of earnings next week, while Intel and KLA faced near-term earnings reports."
+            },
+            {
+              "title": "Software & Cybersecurity",
+              "text": "Software stocks continue to show market leadership as capital rotates away from semiconductors. However, late-session earnings drops pushed the Cybersecurity ETF (BUG) down 4.6% in extended trading following heavy selling in Fortinet."
+            },
+            {
+              "title": "Biotech ETFs",
+              "text": "The IBB Biotech ETF logged a technical breakout, while the First Trust Biotechnology ETF (FBT) completed a clean breakout as institutional flows moved into medical groups."
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "title": "Individual Stock Technical Setups & Fundamental Growth",
+          "kind": "stocks",
+          "items": [
+            {
+              "title": "Brinker International (EAT)",
+              "text": ""
+            },
+            {
+              "title": "Technical Action",
+              "text": "Surged over 12% on heavy volume, reclaiming its 50-day moving average line to begin repairing its chart structure."
+            },
+            {
+              "title": "Fundamentals",
+              "text": "Parent company of Chili's generated 44% earnings growth, 9% top-line revenue growth, and 10.1% same-store sales growth at Chili's alongside 6.4% customer traffic growth."
+            },
+            {
+              "title": "Medpace (MEDP)",
+              "text": ""
+            },
+            {
+              "title": "Technical Action",
+              "text": "Cleared multi-month resistance around the 600 level to approach 700, remaining within a 5% buy zone with a strong Relative Strength (RS) line."
+            },
+            {
+              "title": "Fundamentals",
+              "text": "Contract research organization (CRO) serving biotech and pharma clinical trials, delivering 25% earnings growth and 9% revenue growth."
+            },
+            {
+              "title": "Iovance Biotherapeutics (IOVA)",
+              "text": ""
+            },
+            {
+              "title": "Technical Action",
+              "text": "Constructing a tight flag pattern just beneath 15 following a sharp advance from the 5 level."
+            },
+            {
+              "title": "Fundamentals",
+              "text": "A $6.6 billion market-cap biotech with $172 million in daily dollar volume, generating growing revenue from its 1-time TIL cancer immunotherapy treatment for solid tumors."
+            },
+            {
+              "title": "Oracle (ORCL)",
+              "text": ""
+            },
+            {
+              "title": "Technical Action",
+              "text": "Rose over 10% following its investor day, though it faced immediate resistance at a moving average after a sharp multi-month decline."
+            },
+            {
+              "title": "Fundamentals",
+              "text": "Issued a long-term revenue outlook of $225 billion out to 2030, despite persistent market concerns surrounding debt load and heavy AI infrastructure spending."
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "title": "Extended Hours Earnings Reactions & Risk Management",
+          "kind": "strategy",
+          "items": [
+            {
+              "title": "Microsoft (MSFT)",
+              "text": "Surged 4% in extended trading, supported by 48% Azure cloud growth (beating the 44% estimate) and $19 billion in free cash flow, forming a potential ascending base setup near the 550 level."
+            },
+            {
+              "title": "Alphabet (GOOGL)",
+              "text": "Dropped nearly 9% after-hours due to negative quarterly free cash flow and a miss on Q3 capital expenditure expectations."
+            },
+            {
+              "title": "Additional After-Hours Movers",
+              "text": ""
+            },
+            {
+              "title": "Glaukos (GKOS)",
+              "text": "Gapped up 14% in a breakaway gap above a 19.16 cup buy point to trade near 205."
+            },
+            {
+              "title": "eBay (EBAY)",
+              "text": "Advanced 5% post-close after bouncing off its 21-day moving average line."
+            },
+            {
+              "title": "Downside Reactions",
+              "text": "Fortinet (FTNT) dropped 22% and ServiceNow (NOW) fell 17% following their respective earnings releases."
+            },
+            {
+              "title": "Portfolio Risk Management",
+              "text": "Given contrasting post-earnings moves between cash-flow-rich leaders (Microsoft) and heavy capital expenditure tech names (Alphabet), traders should prioritize strict moving average stop losses, observe post-earnings chart holding, and focus on groups displaying relative strength (CROs, software, and biotechs). 📈 Would you like to turn these earnings technical breakouts and moving average rules into an interactive quiz or flashcard study deck?"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "timestamp": "2026-10-27T20:00:00+00:00",
       "header": "Tuesday, October 27, 2026's Report",
       "headline": "### 1. Broad Market Index Performance & Technical Action.",
@@ -1035,7 +1341,9 @@
           ]
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-10-21T20:00:00+00:00",
       "header": "Wednesday, October 21, 2026's Report",
@@ -1255,9 +1563,7 @@
           ]
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-10-20T20:00:00+00:00",
       "header": "Tuesday, October 20, 2026's Report",
@@ -4149,7 +4455,9 @@
           ]
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-10-05T20:00:00+00:00",
       "header": "Monday, October 5, 2026's Report",
@@ -4358,9 +4666,7 @@
           ]
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-10-02T20:00:00+00:00",
       "header": "Friday, October 2, 2026's Report",
