@@ -1,6 +1,327 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-10-30T20:00:00+00:00",
+      "header": "Friday, October 30, 2026's Report",
+      "headline": "### 1. Broad Market Index Performance & Technical Action.",
+      "summary": "### 1. Broad Market Index Performance & Technical Action.",
+      "indexes": [
+        {
+          "name": "NASDAQ Composite",
+          "pct": "",
+          "action": "Tumbled 2.9%, suffering severe damage as it broke decisively below the 26,000 support level. The tech-heavy NASDAQ 100 led declines, plunging 3.5%. Both indexes are magnetizing toward their critical 200-day moving average lines, placing the market in a precarious technical state."
+        },
+        {
+          "name": "S&P 500",
+          "pct": "-1.8%",
+          "action": "Fell 1.8%, undercutting key technical support levels. It tested horizontal support around 7,496 (its September 16 low), with the 200-day moving average line (~7,290) serving as the next major line in the sand."
+        },
+        {
+          "name": "Dow Jones Industrial Average",
+          "pct": "-1.1%",
+          "action": "Dropped 1.1%, exhibiting relatively milder downside compared to tech benchmarks."
+        },
+        {
+          "name": "Russell 2000 (Small Caps)",
+          "pct": "-1.7%",
+          "action": "Declined 1.7%, getting rejected at its 50-day moving average line as mid-cap (MDY) and small-cap indexes failed to hold technical breakouts."
+        },
+        {
+          "name": "Equal-Weight S&P 500 (RSP) & Market Breadth",
+          "pct": "",
+          "action": "The RSP fell only 0.8%, holding up significantly better than market-cap-weighted indexes. The RSP maintains a healthy cup-with-handle breakout structure and stacked short-term moving averages (\"rainbow order\"), indicating that the average stock is faring better than mega-cap technology leaders."
+        }
+      ],
+      "macro": [
+        {
+          "title": "Post-Regulation FD Earnings Volatility",
+          "text": "Under Regulation FD, corporate earnings surprises produce extreme quarterly price gaps (both up and down) across institutional stocks because selective information is no longer leaked to major players ahead of time."
+        },
+        {
+          "title": "Upcoming Catalysts & Federal Reserve Context",
+          "text": "Markets face high uncertainty heading into key corporate earnings releases, the U.S. elections, and upcoming economic data. The recent Federal Reserve policy decision acted as a non-event by matching market expectations."
+        },
+        {
+          "title": "Bitcoin (IBIT) & Risk-Off Liquidation",
+          "text": "Bitcoin (IBIT) dropped 5%, testing its 50-day moving average line following news of a $6 billion Binance hack/exploit. Because crypto and growth equity traders overlap, forced crypto liquidations sparked broader \"risk-off\" selling across speculative tech and growth holdings to raise capital."
+        }
+      ],
+      "sectors": [
+        {
+          "name": "Semiconductor ETF (SMH)",
+          "tickers": [
+            "SMH"
+          ],
+          "pct": "",
+          "action": "Suffered a severe 7% single-day crash, breaking down to test its 200-day moving average line amid massive double-digit post-earnings declines in chip makers."
+        },
+        {
+          "name": "Software ETF (IGV)",
+          "tickers": [
+            "IGV"
+          ],
+          "pct": "+34%",
+          "action": "Slipped back below its 50-day moving average line. The group was dragged down by severe weekly breakdowns in ServiceNow (down 34% for the week) and Twilio (down 15%)."
+        },
+        {
+          "name": "Cybersecurity (HACK)",
+          "tickers": [
+            "HACK"
+          ],
+          "pct": "",
+          "action": "Pulled back alongside software, but maintains a structurally stronger chart pattern than broader tech groups."
+        },
+        {
+          "name": "Healthcare & Medical Leadership (XLV)",
+          "tickers": [
+            "XLV"
+          ],
+          "pct": "",
+          "action": "Stands out as a primary area of institutional relative strength. Large-cap growth leaders like Eli Lilly (LLY) continue to exhibit constructive, normal chart behavior."
+        },
+        {
+          "name": "Retail (XRT) & Defensive Rotation",
+          "tickers": [
+            "XRT"
+          ],
+          "pct": "",
+          "action": "Capital is rotating steadily into retail (XRT), consumer staples, and large-cap defensive names (Costco, Johnson & Johnson, Amgen). Because mutual funds cannot easily hold 100% cash, institutions are reallocating capital out of broken tech names into large, liquid defensive havens."
+        }
+      ],
+      "stocks": [
+        {
+          "ticker": "SNDK",
+          "tickers": [
+            "SNDK"
+          ],
+          "company": "Sandisk",
+          "pct": "+400%",
+          "action": "Technical Action: Suffered a massive post-earnings collapse despite posting extraordinary fundamental growth (+4,000% YoY quarterly EPS, +400% sales). It sliced through its 200-day moving average line. | Model-Book Top Warning: Historical research reveals that top-performing model-book market leaders decline an average of 72% from their peak once they put in definitive top structures. | Exit Strategy: Investors should utilize Relative Strength (RS) line moving averages (8, 13, 21-period on weekly; 5, 8, 13-period on monthly) to exit topping leaders before riding pullbacks all the way down."
+        },
+        {
+          "ticker": "GOOGL",
+          "tickers": [
+            "GOOGL"
+          ],
+          "company": "Alphabet / Google",
+          "pct": "",
+          "action": "Undercut its 200-day moving average line and broke below its monthly RS line moving averages, signaling caution."
+        },
+        {
+          "ticker": "AMZN",
+          "tickers": [
+            "AMZN"
+          ],
+          "company": "Amazon",
+          "pct": "",
+          "action": "Troubled but not technically broken; attempting to build support around its 40-week / 200-day moving average line."
+        },
+        {
+          "ticker": "INTC",
+          "tickers": [
+            "INTC",
+            "NOW"
+          ],
+          "company": "Intel (INTC) & ServiceNow",
+          "pct": "",
+          "action": "Classified as \"broken\" institutional charts that will require substantial time (often a year or more) to form new consolidation bases."
+        },
+        {
+          "ticker": "EBAY",
+          "tickers": [
+            "EBAY"
+          ],
+          "company": "eBay",
+          "pct": "",
+          "action": "Technical Action: Highlighted as the \"Stock of the Day,\" displaying strong relative strength by bouncing off its 21-day moving average line post-earnings. It is forming a 3-weeks-tight pattern / mini double-bottom. | Execution: Traders should wait for a break above Friday's intraday high before entry, using Friday's low as an initial stop-loss."
+        },
+        {
+          "ticker": "REGN",
+          "tickers": [
+            "REGN"
+          ],
+          "company": "Regeneron",
+          "pct": "+13%",
+          "action": "Technical Action: Surged 13% on an earnings breakout, displaying an RS line \"blue dot\" (signaling new 52-week relative strength highs during a base breakout). | Fundamentals: Bottom-line quarterly earnings accelerated 70% YoY (up from 11% prior), with top-line sales up 36%. Currently extended; traders should wait for a 3- to 5-day tight consolidation before buying."
+        }
+      ],
+      "strategy": [
+        {
+          "title": "Preserving Cash",
+          "text": "Entering a 100% cash position during severe distribution removes market noise, protects capital, and allows investors to evaluate setups with fresh eyes."
+        },
+        {
+          "title": "Waiting for a Follow-Through Day (FTD)",
+          "text": "Before aggressively committing capital, wait for a distinct rally day followed four or more days later by a confirmed Follow-Through Day (a sharp index gain on higher volume)."
+        },
+        {
+          "title": "Respecting the 200-Day Line",
+          "text": "Treat the 200-day moving average as the single most critical baseline for index and individual stock health—historically, healthy advances occur above it, while major damage happens below it."
+        },
+        {
+          "title": "Quicksand RS Line Exit Rules",
+          "text": "Monitor the RS line against Fibonacci moving averages (8, 13, 21 on weekly charts). When the RS line drops below the final moving average, treat it as an objective signal to sell and protect capital. 💡 Would you like to turn these market index support levels and RS line exit rules into an interactive study quiz or flashcards?"
+        }
+      ],
+      "sections": [
+        {
+          "number": 1,
+          "title": "Broad Market Index Performance & Technical Action",
+          "kind": "indexes",
+          "items": [
+            {
+              "title": "NASDAQ Composite",
+              "text": "Tumbled 2.9%, suffering severe damage as it broke decisively below the 26,000 support level. The tech-heavy NASDAQ 100 led declines, plunging 3.5%. Both indexes are magnetizing toward their critical 200-day moving average lines, placing the market in a precarious technical state."
+            },
+            {
+              "title": "S&P 500",
+              "text": "Fell 1.8%, undercutting key technical support levels. It tested horizontal support around 7,496 (its September 16 low), with the 200-day moving average line (~7,290) serving as the next major line in the sand."
+            },
+            {
+              "title": "Dow Jones Industrial Average",
+              "text": "Dropped 1.1%, exhibiting relatively milder downside compared to tech benchmarks."
+            },
+            {
+              "title": "Russell 2000 (Small Caps)",
+              "text": "Declined 1.7%, getting rejected at its 50-day moving average line as mid-cap (MDY) and small-cap indexes failed to hold technical breakouts."
+            },
+            {
+              "title": "Equal-Weight S&P 500 (RSP) & Market Breadth",
+              "text": "The RSP fell only 0.8%, holding up significantly better than market-cap-weighted indexes. The RSP maintains a healthy cup-with-handle breakout structure and stacked short-term moving averages (\"rainbow order\"), indicating that the average stock is faring better than mega-cap technology leaders."
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "title": "Macroeconomic Drivers & Intermarket Dynamics",
+          "kind": "macro",
+          "items": [
+            {
+              "title": "Post-Regulation FD Earnings Volatility",
+              "text": "Under Regulation FD, corporate earnings surprises produce extreme quarterly price gaps (both up and down) across institutional stocks because selective information is no longer leaked to major players ahead of time."
+            },
+            {
+              "title": "Upcoming Catalysts & Federal Reserve Context",
+              "text": "Markets face high uncertainty heading into key corporate earnings releases, the U.S. elections, and upcoming economic data. The recent Federal Reserve policy decision acted as a non-event by matching market expectations."
+            },
+            {
+              "title": "Bitcoin (IBIT) & Risk-Off Liquidation",
+              "text": "Bitcoin (IBIT) dropped 5%, testing its 50-day moving average line following news of a $6 billion Binance hack/exploit. Because crypto and growth equity traders overlap, forced crypto liquidations sparked broader \"risk-off\" selling across speculative tech and growth holdings to raise capital."
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "title": "Sector ETF Movements & Group Rotations",
+          "kind": "sectors",
+          "items": [
+            {
+              "title": "Semiconductor ETF (SMH)",
+              "text": "Suffered a severe 7% single-day crash, breaking down to test its 200-day moving average line amid massive double-digit post-earnings declines in chip makers."
+            },
+            {
+              "title": "Software ETF (IGV)",
+              "text": "Slipped back below its 50-day moving average line. The group was dragged down by severe weekly breakdowns in ServiceNow (down 34% for the week) and Twilio (down 15%)."
+            },
+            {
+              "title": "Cybersecurity (HACK)",
+              "text": "Pulled back alongside software, but maintains a structurally stronger chart pattern than broader tech groups."
+            },
+            {
+              "title": "Healthcare & Medical Leadership (XLV)",
+              "text": "Stands out as a primary area of institutional relative strength. Large-cap growth leaders like Eli Lilly (LLY) continue to exhibit constructive, normal chart behavior."
+            },
+            {
+              "title": "Retail (XRT) & Defensive Rotation",
+              "text": "Capital is rotating steadily into retail (XRT), consumer staples, and large-cap defensive names (Costco, Johnson & Johnson, Amgen). Because mutual funds cannot easily hold 100% cash, institutions are reallocating capital out of broken tech names into large, liquid defensive havens."
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "title": "Featured Individual Stock Technical Setups & Fundamentals",
+          "kind": "stocks",
+          "items": [
+            {
+              "title": "Sandisk (SNDK)",
+              "text": ""
+            },
+            {
+              "title": "Technical Action",
+              "text": "Suffered a massive post-earnings collapse despite posting extraordinary fundamental growth (+4,000% YoY quarterly EPS, +400% sales). It sliced through its 200-day moving average line."
+            },
+            {
+              "title": "Model-Book Top Warning",
+              "text": "Historical research reveals that top-performing model-book market leaders decline an average of 72% from their peak once they put in definitive top structures."
+            },
+            {
+              "title": "Exit Strategy",
+              "text": "Investors should utilize Relative Strength (RS) line moving averages (8, 13, 21-period on weekly; 5, 8, 13-period on monthly) to exit topping leaders before riding pullbacks all the way down."
+            },
+            {
+              "title": "Alphabet / Google (GOOGL)",
+              "text": "Undercut its 200-day moving average line and broke below its monthly RS line moving averages, signaling caution."
+            },
+            {
+              "title": "Amazon (AMZN)",
+              "text": "Troubled but not technically broken; attempting to build support around its 40-week / 200-day moving average line."
+            },
+            {
+              "title": "Intel (INTC) & ServiceNow (NOW)",
+              "text": "Classified as \"broken\" institutional charts that will require substantial time (often a year or more) to form new consolidation bases."
+            },
+            {
+              "title": "eBay (EBAY)",
+              "text": ""
+            },
+            {
+              "title": "Technical Action",
+              "text": "Highlighted as the \"Stock of the Day,\" displaying strong relative strength by bouncing off its 21-day moving average line post-earnings. It is forming a 3-weeks-tight pattern / mini double-bottom."
+            },
+            {
+              "title": "Execution",
+              "text": "Traders should wait for a break above Friday's intraday high before entry, using Friday's low as an initial stop-loss."
+            },
+            {
+              "title": "Regeneron (REGN)",
+              "text": ""
+            },
+            {
+              "title": "Technical Action",
+              "text": "Surged 13% on an earnings breakout, displaying an RS line \"blue dot\" (signaling new 52-week relative strength highs during a base breakout)."
+            },
+            {
+              "title": "Fundamentals",
+              "text": "Bottom-line quarterly earnings accelerated 70% YoY (up from 11% prior), with top-line sales up 36%. Currently extended; traders should wait for a 3- to 5-day tight consolidation before buying."
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "title": "Portfolio Strategy & Risk Management Framework",
+          "kind": "strategy",
+          "items": [
+            {
+              "title": "Preserving Cash",
+              "text": "Entering a 100% cash position during severe distribution removes market noise, protects capital, and allows investors to evaluate setups with fresh eyes."
+            },
+            {
+              "title": "Waiting for a Follow-Through Day (FTD)",
+              "text": "Before aggressively committing capital, wait for a distinct rally day followed four or more days later by a confirmed Follow-Through Day (a sharp index gain on higher volume)."
+            },
+            {
+              "title": "Respecting the 200-Day Line",
+              "text": "Treat the 200-day moving average as the single most critical baseline for index and individual stock health—historically, healthy advances occur above it, while major damage happens below it."
+            },
+            {
+              "title": "Quicksand RS Line Exit Rules",
+              "text": "Monitor the RS line against Fibonacci moving averages (8, 13, 21 on weekly charts). When the RS line drops below the final moving average, treat it as an objective signal to sell and protect capital. 💡 Would you like to turn these market index support levels and RS line exit rules into an interactive study quiz or flashcards?"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "timestamp": "2026-10-29T20:00:00+00:00",
       "header": "Thursday, October 29, 2026's Report",
       "headline": "### 1. Broad Market Index Performance & Technical Structure.",
@@ -1104,7 +1425,9 @@
           ]
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-10-23T20:00:00+00:00",
       "header": "Friday, October 23, 2026's Report",
@@ -1379,9 +1702,7 @@
           ]
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-10-22T20:00:00+00:00",
       "header": "Thursday, October 22, 2026's Report",
@@ -4206,7 +4527,9 @@
           ]
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-10-07T20:00:00+00:00",
       "header": "Wednesday, October 7, 2026's Report",
@@ -4465,9 +4788,7 @@
           ]
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-10-06T20:00:00+00:00",
       "header": "Tuesday, October 6, 2026's Report",
