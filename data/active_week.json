@@ -1,5 +1,285 @@
 [
   {
+    "timestamp": "2026-11-09T20:00:00+00:00",
+    "header": "Monday, November 9, 2026's Report",
+    "headline": "### 1. Broad Market Index Performance & Technical Action.",
+    "summary": "### 1. Broad Market Index Performance & Technical Action.",
+    "indexes": [
+      {
+        "name": "NASDAQ Composite",
+        "pct": "+2.7%",
+        "action": "Surged 2.7%, retaking its critical 200-day moving average line on Day 2 of a new rally attempt following Friday's Day 1 bounce. While the index recovered key ground, it suffered a 10%+ correction off its peak during recent tech distribution, leaving significant technical damage to repair."
+      },
+      {
+        "name": "NASDAQ 100 (QQQ)",
+        "pct": "",
+        "action": "Outperformed tech benchmarks with a 3.4% gain, closing directly at its 200-day moving average line and testing Thursday's intraday high."
+      },
+      {
+        "name": "S&P 500",
+        "pct": "+2.4%",
+        "action": "Advanced 2.4%, holding strong gains despite backing off intraday highs slightly into the close."
+      },
+      {
+        "name": "Dow Jones Industrial Average",
+        "pct": "+2.2%",
+        "action": "Rose 2.2%, demonstrating broad-based participation."
+      },
+      {
+        "name": "Russell 2000 (Small Caps)",
+        "pct": "+3.2%",
+        "action": "Jumped 3.2%, reflecting strong small-cap buying interest."
+      },
+      {
+        "name": "Equal-Weight S&P 500 (RSP)",
+        "pct": "",
+        "action": "Rebounded 2.2%, recovering from Thursday's air-pocket drop to test technical support at its 50-day moving average line."
+      },
+      {
+        "name": "Technical Milestone Checklist (NASDAQ)",
+        "pct": "",
+        "action": "1. Reclaim the 200-day moving average line. 2. Hold above the 200-day moving average line. 3. Keep daily lows above the 200-day line for three consecutive sessions. 4. Decisively clear Thursday's high and Wednesday's high near the critical 26,000 resistance level (a key horizontal benchmark tested in August, September, and October)."
+      }
+    ],
+    "macro": [
+      {
+        "title": "10-Year Treasury Yield (TNX)",
+        "text": "Experienced a sharp downward reversal from October highs, driving capital rotation into interest-rate-sensitive sectors."
+      },
+      {
+        "title": "Homebuilders (ITB / XHB)",
+        "text": "Benefited directly from lower yields, retaking their 200-day moving average line, testing it on a pullback, and holding support."
+      },
+      {
+        "title": "Crude Oil & Energy (USO / XLE)",
+        "text": "Crude oil proxy USO and the Energy ETF (XLE) lagged the broader market rally, providing cost relief to transport and consumer industries."
+      },
+      {
+        "title": "Airlines & Transportation (JETS / IYT)",
+        "text": "Benefited from lower fuel costs, jumping back above their 200-day moving average lines."
+      },
+      {
+        "title": "Gold & Gold Miners (GLD / GDX)",
+        "text": "Staged a strong resurgence, with the Gold Miners ETF (GDX) clearing its 200-day moving average line off bottom levels."
+      }
+    ],
+    "sectors": [
+      {
+        "name": "Tech Select Sector (XLK)",
+        "tickers": [
+          "XLK"
+        ],
+        "pct": "",
+        "action": "Led sector performance with a 3.6% surge, but closed directly at its 200-day moving average line beneath Thursday's gap-down high."
+      },
+      {
+        "name": "Semiconductor ETF (SMH)",
+        "tickers": [
+          "SMH"
+        ],
+        "pct": "",
+        "action": "Rebounded to fill a recent price gap, but remains the primary lagging area (\"canary in the coal mine\") with substantial work required before conquering its 200-day and 50-day moving average lines."
+      },
+      {
+        "name": "Defensive Rotation (XLP)",
+        "tickers": [
+          "XLP"
+        ],
+        "pct": "",
+        "action": "Consumer Staples (XLP) lagged the market advance, signaling potential capital rotation back into growth and technology as major indexes stabilize."
+      },
+      {
+        "name": "Medical & Financial Leadership",
+        "tickers": [],
+        "pct": "",
+        "action": "Displayed broad-based relative strength across medical services, hospitals, biotechs, credit card payments, and investment management names that remained largely untouched by recent tech selling."
+      }
+    ],
+    "stocks": [
+      {
+        "ticker": "BTSG",
+        "tickers": [
+          "BTSG"
+        ],
+        "company": "BrightSpring Health Services",
+        "pct": "",
+        "action": "Technical Setup: Constructing the right side of a cup-with-handle base following a strong post-earnings gap-up, trending smoothly along its 10-week moving average line. | Relative Strength & Fundamentals: Relative Strength (RS) line is climbing up the right side of its base toward new 52-week highs. Supported by a steady 4-quarter EPS line and strong institutional fund growth. | Block (XYZ / formerly SQ):  | Technical Action: Advanced back into its buy zone out of a cup base following an earnings gap-up that held key low levels without filling. | Fundamentals & Group Action: RS line is reaching multi-month highs. Displays a fundamental turnaround on its weekly earnings line, participating in a broad payment group breakout alongside Visa and Mastercard."
+      },
+      {
+        "ticker": "VCTR",
+        "tickers": [
+          "VCTR"
+        ],
+        "company": "Victory Capital",
+        "pct": "",
+        "action": "Technical Action: Surged over 6% on an actionable base breakout, triggering a Market Surge alert accompanied by an RS line \"blue dot\" (new relative strength highs). | Fundamentals: Generated quarterly EPS growth of 34%, 41%, and 21% across recent quarters, backed by high-90s IBD Composite Ratings within the top-performing Finance - Investment Management group."
+      }
+    ],
+    "strategy": [
+      {
+        "title": "Rally Attempt Tracking (Day 2)",
+        "text": "Friday marked Day 1 and Monday marked Day 2 of a new rally attempt. A confirmed Follow-Through Day (FTD) requires a strong price gain on above-average volume, occurring no earlier than Day 4 (Wednesday/Thursday timeline, though Veterans Day holiday volume may impact timing)."
+      },
+      {
+        "title": "Incremental Position Sizing",
+        "text": "Avoid FOMO (\"fear of missing out\") buying on single-day bounces. Limit initial buying to small pilot positions in resilient, non-damaged leaders until individual positions show profit traction."
+      },
+      {
+        "title": "Sector Rotation Vigilance",
+        "text": "Monitor capital movement out of defensive staples (XLP) back into growth sectors, enforcing strict stop-loss rules to guard against potential multi-week market volatility. 📊 Would you like to create an interactive quiz or study flashcards based on these moving average checklists and stock breakout setups?"
+      }
+    ],
+    "sections": [
+      {
+        "number": 1,
+        "title": "Broad Market Index Performance & Technical Action",
+        "kind": "indexes",
+        "items": [
+          {
+            "title": "NASDAQ Composite",
+            "text": "Surged 2.7%, retaking its critical 200-day moving average line on Day 2 of a new rally attempt following Friday's Day 1 bounce. While the index recovered key ground, it suffered a 10%+ correction off its peak during recent tech distribution, leaving significant technical damage to repair."
+          },
+          {
+            "title": "NASDAQ 100 (QQQ)",
+            "text": "Outperformed tech benchmarks with a 3.4% gain, closing directly at its 200-day moving average line and testing Thursday's intraday high."
+          },
+          {
+            "title": "S&P 500",
+            "text": "Advanced 2.4%, holding strong gains despite backing off intraday highs slightly into the close."
+          },
+          {
+            "title": "Dow Jones Industrial Average",
+            "text": "Rose 2.2%, demonstrating broad-based participation."
+          },
+          {
+            "title": "Russell 2000 (Small Caps)",
+            "text": "Jumped 3.2%, reflecting strong small-cap buying interest."
+          },
+          {
+            "title": "Equal-Weight S&P 500 (RSP)",
+            "text": "Rebounded 2.2%, recovering from Thursday's air-pocket drop to test technical support at its 50-day moving average line."
+          },
+          {
+            "title": "Technical Milestone Checklist (NASDAQ)",
+            "text": "1. Reclaim the 200-day moving average line. 2. Hold above the 200-day moving average line. 3. Keep daily lows above the 200-day line for three consecutive sessions. 4. Decisively clear Thursday's high and Wednesday's high near the critical 26,000 resistance level (a key horizontal benchmark tested in August, September, and October)."
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Macroeconomic Drivers, Treasury Yields & Commodity Action",
+        "kind": "macro",
+        "items": [
+          {
+            "title": "10-Year Treasury Yield (TNX)",
+            "text": "Experienced a sharp downward reversal from October highs, driving capital rotation into interest-rate-sensitive sectors."
+          },
+          {
+            "title": "Homebuilders (ITB / XHB)",
+            "text": "Benefited directly from lower yields, retaking their 200-day moving average line, testing it on a pullback, and holding support."
+          },
+          {
+            "title": "Crude Oil & Energy (USO / XLE)",
+            "text": "Crude oil proxy USO and the Energy ETF (XLE) lagged the broader market rally, providing cost relief to transport and consumer industries."
+          },
+          {
+            "title": "Airlines & Transportation (JETS / IYT)",
+            "text": "Benefited from lower fuel costs, jumping back above their 200-day moving average lines."
+          },
+          {
+            "title": "Gold & Gold Miners (GLD / GDX)",
+            "text": "Staged a strong resurgence, with the Gold Miners ETF (GDX) clearing its 200-day moving average line off bottom levels."
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Sector ETF Dynamics & Group Rotations",
+        "kind": "sectors",
+        "items": [
+          {
+            "title": "Tech Select Sector (XLK)",
+            "text": "Led sector performance with a 3.6% surge, but closed directly at its 200-day moving average line beneath Thursday's gap-down high."
+          },
+          {
+            "title": "Semiconductor ETF (SMH)",
+            "text": "Rebounded to fill a recent price gap, but remains the primary lagging area (\"canary in the coal mine\") with substantial work required before conquering its 200-day and 50-day moving average lines."
+          },
+          {
+            "title": "Defensive Rotation (XLP)",
+            "text": "Consumer Staples (XLP) lagged the market advance, signaling potential capital rotation back into growth and technology as major indexes stabilize."
+          },
+          {
+            "title": "Medical & Financial Leadership",
+            "text": "Displayed broad-based relative strength across medical services, hospitals, biotechs, credit card payments, and investment management names that remained largely untouched by recent tech selling."
+          }
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Featured Individual Stock Technical Analysis & Fundamentals",
+        "kind": "stocks",
+        "items": [
+          {
+            "title": "BrightSpring Health Services (BTSG)",
+            "text": ""
+          },
+          {
+            "title": "Technical Setup",
+            "text": "Constructing the right side of a cup-with-handle base following a strong post-earnings gap-up, trending smoothly along its 10-week moving average line."
+          },
+          {
+            "title": "Relative Strength & Fundamentals",
+            "text": "Relative Strength (RS) line is climbing up the right side of its base toward new 52-week highs. Supported by a steady 4-quarter EPS line and strong institutional fund growth."
+          },
+          {
+            "title": "Block (XYZ / formerly SQ)",
+            "text": ""
+          },
+          {
+            "title": "Technical Action",
+            "text": "Advanced back into its buy zone out of a cup base following an earnings gap-up that held key low levels without filling."
+          },
+          {
+            "title": "Fundamentals & Group Action",
+            "text": "RS line is reaching multi-month highs. Displays a fundamental turnaround on its weekly earnings line, participating in a broad payment group breakout alongside Visa and Mastercard."
+          },
+          {
+            "title": "Victory Capital (VCTR)",
+            "text": ""
+          },
+          {
+            "title": "Technical Action",
+            "text": "Surged over 6% on an actionable base breakout, triggering a Market Surge alert accompanied by an RS line \"blue dot\" (new relative strength highs)."
+          },
+          {
+            "title": "Fundamentals",
+            "text": "Generated quarterly EPS growth of 34%, 41%, and 21% across recent quarters, backed by high-90s IBD Composite Ratings within the top-performing Finance - Investment Management group."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "title": "Portfolio Strategy & Risk Management Guidelines",
+        "kind": "strategy",
+        "items": [
+          {
+            "title": "Rally Attempt Tracking (Day 2)",
+            "text": "Friday marked Day 1 and Monday marked Day 2 of a new rally attempt. A confirmed Follow-Through Day (FTD) requires a strong price gain on above-average volume, occurring no earlier than Day 4 (Wednesday/Thursday timeline, though Veterans Day holiday volume may impact timing)."
+          },
+          {
+            "title": "Incremental Position Sizing",
+            "text": "Avoid FOMO (\"fear of missing out\") buying on single-day bounces. Limit initial buying to small pilot positions in resilient, non-damaged leaders until individual positions show profit traction."
+          },
+          {
+            "title": "Sector Rotation Vigilance",
+            "text": "Monitor capital movement out of defensive staples (XLP) back into growth sectors, enforcing strict stop-loss rules to guard against potential multi-week market volatility. 📊 Would you like to create an interactive quiz or study flashcards based on these moving average checklists and stock breakout setups?"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-06T20:00:00+00:00",
     "header": "Friday, November 6, 2026's Report",
     "headline": "Technical Market Analysis: Index Support Levels, Macro Catalysts, and Growth Equity Setups.",
@@ -953,271 +1233,6 @@
           {
             "title": "Risk Control",
             "text": "Maintain strict stop-loss rules on all open positions to protect capital during election- and earnings-driven volatility. 📊 Would you like to turn these technical chart setups and market rules into an interactive study quiz or flashcard set?"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-11-02T20:00:00+00:00",
-    "header": "Monday, November 2, 2026's Report",
-    "headline": "### 1. Broad Market Index Performance & Technical Action.",
-    "summary": "### 1. Broad Market Index Performance & Technical Action.",
-    "indexes": [
-      {
-        "name": "NASDAQ Composite",
-        "pct": "",
-        "action": "Hardest hit among the main indexes, falling 1.1% in a bearish outside day that closed at the bottom of its daily range. The Composite is now down more than 9% from its highs, nearing a 10% mid-range correction and coming down to test its critical 200-day moving average line after breaking prior support levels."
-      },
-      {
-        "name": "NASDAQ 100 (QQQ)",
-        "pct": "",
-        "action": "Plunged 1.4%, taking out earlier support near the 700 level and reaching the 10% correction mark, with its 200-day line serving as the next logical floor."
-      },
-      {
-        "name": "S&P 500",
-        "pct": "-0.5%",
-        "action": "Closed down 0.5%, dropping back below its 50-day moving average line. While support at the 750 level held for the session and the index maintains cushion above its 200-day line, it has failed to sustain higher technical support levels."
-      },
-      {
-        "name": "Russell 2000 (Small Caps)",
-        "pct": "",
-        "action": "Ended down fractionally after failing a bounce attempt off its 200-day moving average line. Small caps remain in a \"ping-pong\" range between their 50-day and 200-day moving average lines awaiting a decisive directional breakout."
-      },
-      {
-        "name": "Dow Jones Industrial Average",
-        "pct": "+0.4%",
-        "action": "Outperformed other major benchmarks by closing up 0.4%, though it finished well below its session highs."
-      },
-      {
-        "name": "Equal-Weight S&P 500 (RSP) & Midcaps (MDY)",
-        "pct": "+0.75%",
-        "action": "Midcaps (MDY) rose 0.75%. The equal-weight RSP closed stable, highlighting that the average stock is holding up far better than market-cap-weighted indexes dragged down by mega-cap technology."
-      }
-    ],
-    "macro": [
-      {
-        "title": "Crude Oil & Treasury Yield Pullback",
-        "text": "Crude oil proxy USO fell 7%, while the 10-year Treasury yield pulled back noticeably from recent peaks."
-      },
-      {
-        "title": "Intermarket Disconnect",
-        "text": "Falling bond yields and declining oil prices typically fuel equity rallies, but broader market sentiment was overridden by AI spending concerns, potential technology regulatory risks, and caution surrounding upcoming midterm elections."
-      },
-      {
-        "title": "Home Construction & Transportation Response",
-        "text": "Lower interest rates boosted homebuilders (ITB), which reclaimed its 200-day moving average line. Lower fuel costs supported transportation and leisure names, driving the airline ETF (JETS) up 4% to test its 200-day line behind strength in Delta Air Lines (DAL)."
-      }
-    ],
-    "sectors": [
-      {
-        "name": "Magnificent 7 Drag (MAGS)",
-        "tickers": [
-          "MAGS"
-        ],
-        "pct": "",
-        "action": "The Magnificent 7 ETF (MAGS) suffered heavy selling, acting as the primary weight pulling down major market-cap weighted indexes."
-      },
-      {
-        "name": "Software & Cybersecurity Reversals",
-        "tickers": [],
-        "pct": "",
-        "action": "Growth areas that had recently made progress—including cybersecurity ETFs (HACK and BUG)—faced sharp rug-pull reversals, with HACK pulling back directly to test its 50-day moving average line."
-      },
-      {
-        "name": "Defensive Flight to Safety",
-        "tickers": [
-          "PBJ",
-          "PEJ"
-        ],
-        "pct": "",
-        "action": "Institutional capital rotated into defensive groups, including Utilities, Food & Beverage (PBJ), Consumer Staples, and Leisure/Entertainment (PEJ)."
-      },
-      {
-        "name": "Medical Growth Instability",
-        "tickers": [
-          "LLY"
-        ],
-        "pct": "",
-        "action": "While large-cap growth names like Eli Lilly (LLY) continue to hold up constructively, several medical research and services stocks (such as Natera, Grail, and Guardant Health) suffered sharp downside breaks."
-      }
-    ],
-    "stocks": [
-      {
-        "ticker": "REAL",
-        "tickers": [
-          "REAL"
-        ],
-        "company": "The RealReal",
-        "pct": "",
-        "action": "Technical & Setup Action: Forming the right side of a bottoming base as the business transitions toward its first expected year of profitability. Its Relative Strength (RS) line broke a multi-month downtrend, backed by a 3-month RS rating of 92 and a 6-month RS rating of 85. | Fundamentals: Generated 150% bottom-line earnings growth in its most recent quarterly report."
-      },
-      {
-        "ticker": "QTWO",
-        "tickers": [
-          "QTWO"
-        ],
-        "company": "Q2 Holdings",
-        "pct": "+5%",
-        "action": "Technical Action: Advanced 5% post-earnings, displaying strong relative strength (3-month RS of 87, 6-month RS of 92). | Catalyst & Resistance: Driven by the appointment of a new CEO. Traders are monitoring overhead supply and resistance levels around 75 and 80 on the weekly chart."
-      },
-      {
-        "ticker": "APPF",
-        "tickers": [
-          "APPF"
-        ],
-        "company": "AppFolio",
-        "pct": "+5.4%",
-        "action": "Technical Action: Advanced 5.4%, building the right side of a base above a flattening 200-day moving average line following a mild 20% correction. | Fundamentals: Posted accelerating quarterly EPS growth over four quarters (2%, 51%, 33%, 24%, and 39%) accompanied by solid double-digit top-line revenue growth. Key overhead resistance lies just ahead."
-      }
-    ],
-    "strategy": [
-      {
-        "title": "Prudent Cash Preservation",
-        "text": "Raising cash levels and taking a defensive posture is warranted when drawdowns expand and broad market support levels break, especially given upcoming midterm election and earnings catalysts."
-      },
-      {
-        "title": "Waiting for Market Traction",
-        "text": "Avoid forcing trades during severe market pullbacks; wait for individual holdings to show traction or for a confirmed follow-through day (which can occur in as few as 4 days) before aggressively deploying capital."
-      },
-      {
-        "title": "Screening Short-Term Relative Strength",
-        "text": "During rotational markets, evaluate short-term 3-month and 6-month RS ratings to spot emerging sector leaders, while mapping out overhead supply on weekly charts to identify potential resistance zones. 📈 Would you like to turn these chart setups and market risk rules into an interactive quiz or study flashcards?"
-      }
-    ],
-    "sections": [
-      {
-        "number": 1,
-        "title": "Broad Market Index Performance & Technical Action",
-        "kind": "indexes",
-        "items": [
-          {
-            "title": "NASDAQ Composite",
-            "text": "Hardest hit among the main indexes, falling 1.1% in a bearish outside day that closed at the bottom of its daily range. The Composite is now down more than 9% from its highs, nearing a 10% mid-range correction and coming down to test its critical 200-day moving average line after breaking prior support levels."
-          },
-          {
-            "title": "NASDAQ 100 (QQQ)",
-            "text": "Plunged 1.4%, taking out earlier support near the 700 level and reaching the 10% correction mark, with its 200-day line serving as the next logical floor."
-          },
-          {
-            "title": "S&P 500",
-            "text": "Closed down 0.5%, dropping back below its 50-day moving average line. While support at the 750 level held for the session and the index maintains cushion above its 200-day line, it has failed to sustain higher technical support levels."
-          },
-          {
-            "title": "Russell 2000 (Small Caps)",
-            "text": "Ended down fractionally after failing a bounce attempt off its 200-day moving average line. Small caps remain in a \"ping-pong\" range between their 50-day and 200-day moving average lines awaiting a decisive directional breakout."
-          },
-          {
-            "title": "Dow Jones Industrial Average",
-            "text": "Outperformed other major benchmarks by closing up 0.4%, though it finished well below its session highs."
-          },
-          {
-            "title": "Equal-Weight S&P 500 (RSP) & Midcaps (MDY)",
-            "text": "Midcaps (MDY) rose 0.75%. The equal-weight RSP closed stable, highlighting that the average stock is holding up far better than market-cap-weighted indexes dragged down by mega-cap technology."
-          }
-        ]
-      },
-      {
-        "number": 2,
-        "title": "Macroeconomic Factors, Energy & Intermarket Signals",
-        "kind": "macro",
-        "items": [
-          {
-            "title": "Crude Oil & Treasury Yield Pullback",
-            "text": "Crude oil proxy USO fell 7%, while the 10-year Treasury yield pulled back noticeably from recent peaks."
-          },
-          {
-            "title": "Intermarket Disconnect",
-            "text": "Falling bond yields and declining oil prices typically fuel equity rallies, but broader market sentiment was overridden by AI spending concerns, potential technology regulatory risks, and caution surrounding upcoming midterm elections."
-          },
-          {
-            "title": "Home Construction & Transportation Response",
-            "text": "Lower interest rates boosted homebuilders (ITB), which reclaimed its 200-day moving average line. Lower fuel costs supported transportation and leisure names, driving the airline ETF (JETS) up 4% to test its 200-day line behind strength in Delta Air Lines (DAL)."
-          }
-        ]
-      },
-      {
-        "number": 3,
-        "title": "Sector Dynamics & Defensive Shift",
-        "kind": "sectors",
-        "items": [
-          {
-            "title": "Magnificent 7 Drag (MAGS)",
-            "text": "The Magnificent 7 ETF (MAGS) suffered heavy selling, acting as the primary weight pulling down major market-cap weighted indexes."
-          },
-          {
-            "title": "Software & Cybersecurity Reversals",
-            "text": "Growth areas that had recently made progress—including cybersecurity ETFs (HACK and BUG)—faced sharp rug-pull reversals, with HACK pulling back directly to test its 50-day moving average line."
-          },
-          {
-            "title": "Defensive Flight to Safety",
-            "text": "Institutional capital rotated into defensive groups, including Utilities, Food & Beverage (PBJ), Consumer Staples, and Leisure/Entertainment (PEJ)."
-          },
-          {
-            "title": "Medical Growth Instability",
-            "text": "While large-cap growth names like Eli Lilly (LLY) continue to hold up constructively, several medical research and services stocks (such as Natera, Grail, and Guardant Health) suffered sharp downside breaks."
-          }
-        ]
-      },
-      {
-        "number": 4,
-        "title": "Individual Stock Technical Setups & Fundamentals",
-        "kind": "stocks",
-        "items": [
-          {
-            "title": "The RealReal (REAL)",
-            "text": ""
-          },
-          {
-            "title": "Technical & Setup Action",
-            "text": "Forming the right side of a bottoming base as the business transitions toward its first expected year of profitability. Its Relative Strength (RS) line broke a multi-month downtrend, backed by a 3-month RS rating of 92 and a 6-month RS rating of 85."
-          },
-          {
-            "title": "Fundamentals",
-            "text": "Generated 150% bottom-line earnings growth in its most recent quarterly report."
-          },
-          {
-            "title": "Q2 Holdings (QTWO)",
-            "text": ""
-          },
-          {
-            "title": "Technical Action",
-            "text": "Advanced 5% post-earnings, displaying strong relative strength (3-month RS of 87, 6-month RS of 92)."
-          },
-          {
-            "title": "Catalyst & Resistance",
-            "text": "Driven by the appointment of a new CEO. Traders are monitoring overhead supply and resistance levels around 75 and 80 on the weekly chart."
-          },
-          {
-            "title": "AppFolio (APPF)",
-            "text": ""
-          },
-          {
-            "title": "Technical Action",
-            "text": "Advanced 5.4%, building the right side of a base above a flattening 200-day moving average line following a mild 20% correction."
-          },
-          {
-            "title": "Fundamentals",
-            "text": "Posted accelerating quarterly EPS growth over four quarters (2%, 51%, 33%, 24%, and 39%) accompanied by solid double-digit top-line revenue growth. Key overhead resistance lies just ahead."
-          }
-        ]
-      },
-      {
-        "number": 5,
-        "title": "Portfolio Strategy & Risk Management Rules",
-        "kind": "strategy",
-        "items": [
-          {
-            "title": "Prudent Cash Preservation",
-            "text": "Raising cash levels and taking a defensive posture is warranted when drawdowns expand and broad market support levels break, especially given upcoming midterm election and earnings catalysts."
-          },
-          {
-            "title": "Waiting for Market Traction",
-            "text": "Avoid forcing trades during severe market pullbacks; wait for individual holdings to show traction or for a confirmed follow-through day (which can occur in as few as 4 days) before aggressively deploying capital."
-          },
-          {
-            "title": "Screening Short-Term Relative Strength",
-            "text": "During rotational markets, evaluate short-term 3-month and 6-month RS ratings to spot emerging sector leaders, while mapping out overhead supply on weekly charts to identify potential resistance zones. 📈 Would you like to turn these chart setups and market risk rules into an interactive quiz or study flashcards?"
           }
         ]
       }
