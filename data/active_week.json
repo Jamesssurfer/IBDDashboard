@@ -1,5 +1,239 @@
 [
   {
+    "timestamp": "2026-11-10T20:00:00+00:00",
+    "header": "Tuesday, November 10, 2026's Report",
+    "headline": "### 1. Broad Market Index Performance & Technical Action.",
+    "summary": "### 1. Broad Market Index Performance & Technical Action.",
+    "indexes": [
+      {
+        "name": "NASDAQ Composite",
+        "pct": "-0.75%",
+        "action": "Finished down 0.75% (3/4%), attempting to hold support sticky around its 200-day moving average line. The index has pulled back 12% from its recent peak to trough and is currently on Day 3 of a rally attempt."
+      },
+      {
+        "name": "S&P 500",
+        "pct": "-0.4%",
+        "action": "Closed down 0.4% (4/10%), finishing off its intraday lows. It remains in superior technical condition relative to tech benchmarks, holding above its 200-day moving average line. The index faces immediate minor resistance at the 750 round number, followed by short-term moving average resistance and its 50-day moving average line. It is also on Day 3 of a rally attempt."
+      },
+      {
+        "name": "Dow Jones Industrial Average",
+        "pct": "-0.3%",
+        "action": "Fell 0.3% (3/10%), holding above its converged short-term moving averages around the 52,000 (520) level."
+      },
+      {
+        "name": "Russell 2000 (Small Caps)",
+        "pct": "-0.6%",
+        "action": "Declined 0.6% to 0.7%. It attempted to recover its 50-day moving average line, which remains an active resistance barrier, but stays close to a potential downtrend breakout."
+      }
+    ],
+    "macro": [
+      {
+        "title": "CPI Inflation Report",
+        "text": "Released prior to the market open, month-over-month Consumer Price Index (CPI) figures came in 0.1% above expectations for both core and headline numbers. Year-over-year metrics were unavailable due to the previous government shutdown around October 25."
+      },
+      {
+        "title": "10-Year Treasury Yield Surge",
+        "text": "The slightly hotter CPI reading triggered an immediate market sell-off and a steep rise in the 10-year Treasury yield, which jumped over 14 basis points from its prior close of 4.86% to cross above 5.00%."
+      },
+      {
+        "title": "Seasonal Market Tailwinds",
+        "text": "Equities are entering a historically favorable seasonal period in November and December leading into the Thanksgiving holiday."
+      }
+    ],
+    "sectors": [
+      {
+        "name": "Semiconductor ETF (SMH)",
+        "tickers": [
+          "SMH"
+        ],
+        "pct": "",
+        "action": "Slipped only 0.8%, demonstrating surprising stability given that Nvidia comprises 21% of the ETF weighting. Nvidia suffered another heavy-volume decline ahead of its earnings report next week, but outperformance from chip peers like Broadcom (AVGO), AMD, and Texas Instruments (TXN) cushioned the overall sector."
+      },
+      {
+        "name": "Biotech ETF (IBB)",
+        "tickers": [
+          "IBB"
+        ],
+        "pct": "",
+        "action": "Slipped 1.1% on the day while exhibiting strong relative strength. The ETF remains inside an actionable buy zone, holding above short-term moving averages following a base breakout and offering diversified exposure without single-stock clinical trial risk."
+      },
+      {
+        "name": "Defensive Sector Rotation",
+        "tickers": [],
+        "pct": "",
+        "action": "Institutional capital is flowing into defensive market leaders such as Clorox (climbing up the right side of a base), alongside non-tech growth areas in medical, medtech, and retail."
+      }
+    ],
+    "stocks": [
+      {
+        "ticker": "SEIC",
+        "tickers": [
+          "SEIC"
+        ],
+        "company": "SEI Investments",
+        "pct": "+1.7%",
+        "action": "Technical Action: Advanced 1.7%, consolidating near its 110 pivot point within a cup-with-handle base as its Relative Strength (RS) line reaches new high ground. It demonstrated notable relative strength by resisting last Thursday's broad downdraft. | Fundamentals: Belongs to the Investment Management group, providing asset management as well as outsourced financial infrastructure and digital platforms. Features an IBD Composite Rating of 97, a 30% Return on Equity (ROE), and a clean track record of unblemished top- and bottom-line quarterly growth."
+      },
+      {
+        "ticker": "FAST",
+        "tickers": [
+          "FAST"
+        ],
+        "company": "Fastenal",
+        "pct": "",
+        "action": "Technical Action: Industrial wholesale distributor of construction and industrial supplies in the retail sector. Rebounded off its 21-day moving average line near all-time highs following a cup-with-handle breakout, accompanied by a rising RS line. | Fundamentals: Holds a top A+ Accumulation/Distribution rating and a rare Earnings Stability rating of 4 out of 99 (where lower scores reflect greater stability)."
+      },
+      {
+        "ticker": "FIVE",
+        "tickers": [
+          "FIVE"
+        ],
+        "company": "Five Below",
+        "pct": "",
+        "action": "Technical Action: Closed flat after paring intraday losses, displaying bullish closing action near all-time highs as it forms the right side of a cup base and builds a potential handle. | Fundamentals: Discount retailer backed by triple-digit quarterly earnings growth over the prior two quarters ahead of its earnings report in three weeks, supported by an A or A- Accumulation/Distribution rating."
+      }
+    ],
+    "strategy": [
+      {
+        "title": "Recommended Market Exposure",
+        "text": "General market exposure guidance sits at 0% to 20% due to broad technical damage (NASDAQ down 12% from peak to trough and struggling at its 200-day line). The Leaderboard portfolio sits at roughly 50% invested due to unrealized profit cushions on longer-term positions that have not hit sell signals."
+      },
+      {
+        "title": "Position Sizing Rules",
+        "text": "Traders taking advantage of breakouts in resilient sectors (medical, retail) should restrict initial purchases to small pilot positions of 2% to 3% rather than full bull-market sizes (5% to 7%) to limit risk if setups fail."
+      },
+      {
+        "title": "Follow-Through Day (FTD) Confirmation",
+        "text": "Both the NASDAQ Composite and S&P 500 remain on Day 3 of a rally attempt. Investors should wait for a confirmed Follow-Through Day (a strong index gain on higher volume) before aggressively expanding portfolio exposure. 💡 Would you like to create an interactive quiz or a set of study flashcards based on these market support levels and stock breakout setups?"
+      }
+    ],
+    "sections": [
+      {
+        "number": 1,
+        "title": "Broad Market Index Performance & Technical Action",
+        "kind": "indexes",
+        "items": [
+          {
+            "title": "NASDAQ Composite",
+            "text": "Finished down 0.75% (3/4%), attempting to hold support sticky around its 200-day moving average line. The index has pulled back 12% from its recent peak to trough and is currently on Day 3 of a rally attempt."
+          },
+          {
+            "title": "S&P 500",
+            "text": "Closed down 0.4% (4/10%), finishing off its intraday lows. It remains in superior technical condition relative to tech benchmarks, holding above its 200-day moving average line. The index faces immediate minor resistance at the 750 round number, followed by short-term moving average resistance and its 50-day moving average line. It is also on Day 3 of a rally attempt."
+          },
+          {
+            "title": "Dow Jones Industrial Average",
+            "text": "Fell 0.3% (3/10%), holding above its converged short-term moving averages around the 52,000 (520) level."
+          },
+          {
+            "title": "Russell 2000 (Small Caps)",
+            "text": "Declined 0.6% to 0.7%. It attempted to recover its 50-day moving average line, which remains an active resistance barrier, but stays close to a potential downtrend breakout."
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Macroeconomic Drivers & Bond Yield Spike",
+        "kind": "macro",
+        "items": [
+          {
+            "title": "CPI Inflation Report",
+            "text": "Released prior to the market open, month-over-month Consumer Price Index (CPI) figures came in 0.1% above expectations for both core and headline numbers. Year-over-year metrics were unavailable due to the previous government shutdown around October 25."
+          },
+          {
+            "title": "10-Year Treasury Yield Surge",
+            "text": "The slightly hotter CPI reading triggered an immediate market sell-off and a steep rise in the 10-year Treasury yield, which jumped over 14 basis points from its prior close of 4.86% to cross above 5.00%."
+          },
+          {
+            "title": "Seasonal Market Tailwinds",
+            "text": "Equities are entering a historically favorable seasonal period in November and December leading into the Thanksgiving holiday."
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Sector & ETF Dynamics",
+        "kind": "sectors",
+        "items": [
+          {
+            "title": "Semiconductor ETF (SMH)",
+            "text": "Slipped only 0.8%, demonstrating surprising stability given that Nvidia comprises 21% of the ETF weighting. Nvidia suffered another heavy-volume decline ahead of its earnings report next week, but outperformance from chip peers like Broadcom (AVGO), AMD, and Texas Instruments (TXN) cushioned the overall sector."
+          },
+          {
+            "title": "Biotech ETF (IBB)",
+            "text": "Slipped 1.1% on the day while exhibiting strong relative strength. The ETF remains inside an actionable buy zone, holding above short-term moving averages following a base breakout and offering diversified exposure without single-stock clinical trial risk."
+          },
+          {
+            "title": "Defensive Sector Rotation",
+            "text": "Institutional capital is flowing into defensive market leaders such as Clorox (climbing up the right side of a base), alongside non-tech growth areas in medical, medtech, and retail."
+          }
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Individual Featured Stock Technical Setups & Fundamentals",
+        "kind": "stocks",
+        "items": [
+          {
+            "title": "SEI Investments (SEIC)",
+            "text": ""
+          },
+          {
+            "title": "Technical Action",
+            "text": "Advanced 1.7%, consolidating near its 110 pivot point within a cup-with-handle base as its Relative Strength (RS) line reaches new high ground. It demonstrated notable relative strength by resisting last Thursday's broad downdraft."
+          },
+          {
+            "title": "Fundamentals",
+            "text": "Belongs to the Investment Management group, providing asset management as well as outsourced financial infrastructure and digital platforms. Features an IBD Composite Rating of 97, a 30% Return on Equity (ROE), and a clean track record of unblemished top- and bottom-line quarterly growth."
+          },
+          {
+            "title": "Fastenal (FAST)",
+            "text": ""
+          },
+          {
+            "title": "Technical Action",
+            "text": "Industrial wholesale distributor of construction and industrial supplies in the retail sector. Rebounded off its 21-day moving average line near all-time highs following a cup-with-handle breakout, accompanied by a rising RS line."
+          },
+          {
+            "title": "Fundamentals",
+            "text": "Holds a top A+ Accumulation/Distribution rating and a rare Earnings Stability rating of 4 out of 99 (where lower scores reflect greater stability)."
+          },
+          {
+            "title": "Five Below (FIVE)",
+            "text": ""
+          },
+          {
+            "title": "Technical Action",
+            "text": "Closed flat after paring intraday losses, displaying bullish closing action near all-time highs as it forms the right side of a cup base and builds a potential handle."
+          },
+          {
+            "title": "Fundamentals",
+            "text": "Discount retailer backed by triple-digit quarterly earnings growth over the prior two quarters ahead of its earnings report in three weeks, supported by an A or A- Accumulation/Distribution rating."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "title": "Portfolio Strategy & Risk Management Guidelines",
+        "kind": "strategy",
+        "items": [
+          {
+            "title": "Recommended Market Exposure",
+            "text": "General market exposure guidance sits at 0% to 20% due to broad technical damage (NASDAQ down 12% from peak to trough and struggling at its 200-day line). The Leaderboard portfolio sits at roughly 50% invested due to unrealized profit cushions on longer-term positions that have not hit sell signals."
+          },
+          {
+            "title": "Position Sizing Rules",
+            "text": "Traders taking advantage of breakouts in resilient sectors (medical, retail) should restrict initial purchases to small pilot positions of 2% to 3% rather than full bull-market sizes (5% to 7%) to limit risk if setups fail."
+          },
+          {
+            "title": "Follow-Through Day (FTD) Confirmation",
+            "text": "Both the NASDAQ Composite and S&P 500 remain on Day 3 of a rally attempt. Investors should wait for a confirmed Follow-Through Day (a strong index gain on higher volume) before aggressively expanding portfolio exposure. 💡 Would you like to create an interactive quiz or a set of study flashcards based on these market support levels and stock breakout setups?"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-09T20:00:00+00:00",
     "header": "Monday, November 9, 2026's Report",
     "headline": "### 1. Broad Market Index Performance & Technical Action.",
