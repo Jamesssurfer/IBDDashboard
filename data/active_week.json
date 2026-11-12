@@ -1,5 +1,248 @@
 [
   {
+    "timestamp": "2026-11-11T20:00:00+00:00",
+    "header": "Wednesday, November 11, 2026's Report",
+    "headline": "### 1. Broad Market Index Performance & Technical Action.",
+    "summary": "### 1. Broad Market Index Performance & Technical Action.",
+    "indexes": [
+      {
+        "name": "NASDAQ Composite",
+        "pct": "+1.6%",
+        "action": "Surged 1.6% on Day 4 of a rally attempt, though it closed off its intraday highs and remains below its 21-day moving average line as well as last Thursday's high. Reported NASDAQ volume spiked significantly, but the increase was heavily distorted by SHF Holdings (SHF)—a $0.02 penny stock that traded 2 billion shares (compared to its 86 million average). Market breadth on the NASDAQ was relatively weak, failing to reach a 2-to-1 positive ratio."
+      },
+      {
+        "name": "S&P 500",
+        "pct": "+1.3%",
+        "action": "Advanced 1.3%, closing at session highs and retaking its 21-day moving average line. However, New York Stock Exchange volume came in lower than Tuesday's session, failing the volume-expansion requirement for a Follow-Through Day (FTD) on the NYSE."
+      },
+      {
+        "name": "Dow Jones Industrial Average",
+        "pct": "+0.5%",
+        "action": "Rose 0.5%, finishing near its session highs."
+      },
+      {
+        "name": "Russell 2000 (Small Caps)",
+        "pct": "+0.8%",
+        "action": "Advanced 0.8%, reclaiming its 50-day moving average line."
+      },
+      {
+        "name": "Market Character",
+        "pct": "",
+        "action": "Rally participation was heavily driven by beaten-down, laggered industry groups (ranking near the bottom of 6-month performance databases) rather than fresh breakouts in high-quality growth leaders."
+      }
+    ],
+    "macro": [
+      {
+        "title": "Veterans Day Bond Market Closure",
+        "text": "U.S. bond markets were closed for Veterans Day (Wednesday, November 11th), but equity markets continued to digest Tuesday's hot Consumer Price Index (CPI) inflation report."
+      },
+      {
+        "title": "10-Year Treasury Yields & Interest Rate Outlook",
+        "text": "The 10-year Treasury yield surged back near 5.00% on Tuesday, leading futures markets to fully price in a quarter-point (0.25%) interest rate hike at the December Federal Reserve meeting. Wholesale Producer Price Index (PPI) inflation data is scheduled for release on Thursday."
+      },
+      {
+        "title": "AI Debt Financing Link",
+        "text": "Bond yields remain closely tied to investor concerns over massive AI debt loads and capital expenditure financing requirements across tech operators."
+      }
+    ],
+    "sectors": [
+      {
+        "name": "DRAM & Storage/Memory ETF",
+        "tickers": [],
+        "pct": "+10%",
+        "action": "Jumped 10% on the day, led by sharp bounces in memory and storage plays like SanDisk, Micron, Seagate, and Western Digital. However, the group remains in a severely damaged technical state after falling 48% to 55% off highs, leaving heavy overhead supply to digest on any rally attempt."
+      },
+      {
+        "name": "Semiconductor ETF (SMH)",
+        "tickers": [
+          "SMH"
+        ],
+        "pct": "+4.8%",
+        "action": "Gained 4.8%, but continues to contend with overhead technical resistance at its 21-day and 200-day moving average lines."
+      },
+      {
+        "name": "Software ETF (IGV)",
+        "tickers": [
+          "IGV"
+        ],
+        "pct": "+1.9%",
+        "action": "Rose 1.9%, underperforming memory and semiconductor ETFs as software stocks continue working to repair chart damage."
+      }
+    ],
+    "stocks": [
+      {
+        "ticker": "CRWV",
+        "tickers": [
+          "CRWV"
+        ],
+        "company": "CoreWeave",
+        "pct": "+25%",
+        "action": "Technical Action: Surged 25% following its quarterly report, holding a strong gain all session to close above its 21-day moving average line. | Fundamentals & Guidance: Reported a smaller-than-expected non-GAAP loss (50¢) and a top-line revenue beat. Revenue backlog accelerated from $104 billion in Q2 to $132.5 billion, with Q4 revenue guidance set at $4.8 billion. Target computing capacity is projected to expand from 1.7 GW to 8 GW by 2030. Nvidia holds an 11% to 11.5% equity stake in CoreWeave."
+      },
+      {
+        "ticker": "AMD",
+        "tickers": [
+          "AMD"
+        ],
+        "company": "Advanced Micro Devices",
+        "pct": "+7.3%",
+        "action": "Technical Action: Surged 7.3%, attempting a trendline breakout above its 50-day moving average line before backing off highs to close near the 50-day line. A small position was added to the IBD Leaderboard model portfolio. | Relative Strength & Industry Focus: Outperforming most chip peers by challenging its 50-day line, though traders are monitoring potential sympathy moves surrounding Nvidia's upcoming earnings report next Tuesday."
+      },
+      {
+        "ticker": "TXN",
+        "tickers": [
+          "TXN"
+        ],
+        "company": "Texas Instruments",
+        "pct": "+3.1%",
+        "action": "Technical Action: Advanced 3.1%, retaking the key 300 round-number level to trade above all major moving averages near 52-week highs. | Fundamentals: Demonstrates strong relative strength and high Composite Ratings alongside analog peer Analog Devices (ADI), standing out with minimal overhead supply resistance."
+      }
+    ],
+    "strategy": [
+      {
+        "title": "Evaluating Follow-Through Day Validity",
+        "text": "Wednesday represented Day 4 of a rally attempt for the NASDAQ Composite. However, total NASDAQ volume was heavily distorted by penny stock volume (SHF Holdings), and NYSE volume was lower session-over-session, keeping a formal Follow-Through Day unconfirmed."
+      },
+      {
+        "title": "Using Index ETFs for Exposure",
+        "text": "Because high-quality individual stock growth setups remain sparse, traders looking to scale exposure during market turnarounds can utilize single or leveraged index ETFs as flexible placeholders while waiting for actionable chart patterns to form."
+      },
+      {
+        "title": "Filtering Laggered Bottom Bounces",
+        "text": "Avoid buying deeply damaged bottom-bouncers with low proprietary ratings (such as CoreWeave's low Relative Strength and Composite ratings), prioritizing resilient leaders holding near high ground (such as TXN and AMD). 📊 I can turn these technical chart levels, memory stock rebounds, and follow-through day rules into a set of interactive flashcards or a practice quiz for your weekend routine."
+      }
+    ],
+    "sections": [
+      {
+        "number": 1,
+        "title": "Broad Market Index Performance & Technical Action",
+        "kind": "indexes",
+        "items": [
+          {
+            "title": "NASDAQ Composite",
+            "text": "Surged 1.6% on Day 4 of a rally attempt, though it closed off its intraday highs and remains below its 21-day moving average line as well as last Thursday's high. Reported NASDAQ volume spiked significantly, but the increase was heavily distorted by SHF Holdings (SHF)—a $0.02 penny stock that traded 2 billion shares (compared to its 86 million average). Market breadth on the NASDAQ was relatively weak, failing to reach a 2-to-1 positive ratio."
+          },
+          {
+            "title": "S&P 500",
+            "text": "Advanced 1.3%, closing at session highs and retaking its 21-day moving average line. However, New York Stock Exchange volume came in lower than Tuesday's session, failing the volume-expansion requirement for a Follow-Through Day (FTD) on the NYSE."
+          },
+          {
+            "title": "Dow Jones Industrial Average",
+            "text": "Rose 0.5%, finishing near its session highs."
+          },
+          {
+            "title": "Russell 2000 (Small Caps)",
+            "text": "Advanced 0.8%, reclaiming its 50-day moving average line."
+          },
+          {
+            "title": "Market Character",
+            "text": "Rally participation was heavily driven by beaten-down, laggered industry groups (ranking near the bottom of 6-month performance databases) rather than fresh breakouts in high-quality growth leaders."
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Macroeconomic Factors, Bond Yields & Intermarket Signals",
+        "kind": "macro",
+        "items": [
+          {
+            "title": "Veterans Day Bond Market Closure",
+            "text": "U.S. bond markets were closed for Veterans Day (Wednesday, November 11th), but equity markets continued to digest Tuesday's hot Consumer Price Index (CPI) inflation report."
+          },
+          {
+            "title": "10-Year Treasury Yields & Interest Rate Outlook",
+            "text": "The 10-year Treasury yield surged back near 5.00% on Tuesday, leading futures markets to fully price in a quarter-point (0.25%) interest rate hike at the December Federal Reserve meeting. Wholesale Producer Price Index (PPI) inflation data is scheduled for release on Thursday."
+          },
+          {
+            "title": "AI Debt Financing Link",
+            "text": "Bond yields remain closely tied to investor concerns over massive AI debt loads and capital expenditure financing requirements across tech operators."
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Sector & ETF Dynamics",
+        "kind": "sectors",
+        "items": [
+          {
+            "title": "DRAM & Storage/Memory ETF",
+            "text": "Jumped 10% on the day, led by sharp bounces in memory and storage plays like SanDisk, Micron, Seagate, and Western Digital. However, the group remains in a severely damaged technical state after falling 48% to 55% off highs, leaving heavy overhead supply to digest on any rally attempt."
+          },
+          {
+            "title": "Semiconductor ETF (SMH)",
+            "text": "Gained 4.8%, but continues to contend with overhead technical resistance at its 21-day and 200-day moving average lines."
+          },
+          {
+            "title": "Software ETF (IGV)",
+            "text": "Rose 1.9%, underperforming memory and semiconductor ETFs as software stocks continue working to repair chart damage."
+          }
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Individual Featured Stock Technical Setups & Fundamentals",
+        "kind": "stocks",
+        "items": [
+          {
+            "title": "CoreWeave (CRWV)",
+            "text": ""
+          },
+          {
+            "title": "Technical Action",
+            "text": "Surged 25% following its quarterly report, holding a strong gain all session to close above its 21-day moving average line."
+          },
+          {
+            "title": "Fundamentals & Guidance",
+            "text": "Reported a smaller-than-expected non-GAAP loss (50¢) and a top-line revenue beat. Revenue backlog accelerated from $104 billion in Q2 to $132.5 billion, with Q4 revenue guidance set at $4.8 billion. Target computing capacity is projected to expand from 1.7 GW to 8 GW by 2030. Nvidia holds an 11% to 11.5% equity stake in CoreWeave."
+          },
+          {
+            "title": "Advanced Micro Devices (AMD)",
+            "text": ""
+          },
+          {
+            "title": "Technical Action",
+            "text": "Surged 7.3%, attempting a trendline breakout above its 50-day moving average line before backing off highs to close near the 50-day line. A small position was added to the IBD Leaderboard model portfolio."
+          },
+          {
+            "title": "Relative Strength & Industry Focus",
+            "text": "Outperforming most chip peers by challenging its 50-day line, though traders are monitoring potential sympathy moves surrounding Nvidia's upcoming earnings report next Tuesday."
+          },
+          {
+            "title": "Texas Instruments (TXN)",
+            "text": ""
+          },
+          {
+            "title": "Technical Action",
+            "text": "Advanced 3.1%, retaking the key 300 round-number level to trade above all major moving averages near 52-week highs."
+          },
+          {
+            "title": "Fundamentals",
+            "text": "Demonstrates strong relative strength and high Composite Ratings alongside analog peer Analog Devices (ADI), standing out with minimal overhead supply resistance."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "title": "Risk Management & Portfolio Strategy",
+        "kind": "strategy",
+        "items": [
+          {
+            "title": "Evaluating Follow-Through Day Validity",
+            "text": "Wednesday represented Day 4 of a rally attempt for the NASDAQ Composite. However, total NASDAQ volume was heavily distorted by penny stock volume (SHF Holdings), and NYSE volume was lower session-over-session, keeping a formal Follow-Through Day unconfirmed."
+          },
+          {
+            "title": "Using Index ETFs for Exposure",
+            "text": "Because high-quality individual stock growth setups remain sparse, traders looking to scale exposure during market turnarounds can utilize single or leveraged index ETFs as flexible placeholders while waiting for actionable chart patterns to form."
+          },
+          {
+            "title": "Filtering Laggered Bottom Bounces",
+            "text": "Avoid buying deeply damaged bottom-bouncers with low proprietary ratings (such as CoreWeave's low Relative Strength and Composite ratings), prioritizing resilient leaders holding near high ground (such as TXN and AMD). 📊 I can turn these technical chart levels, memory stock rebounds, and follow-through day rules into a set of interactive flashcards or a practice quiz for your weekend routine."
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-10T20:00:00+00:00",
     "header": "Tuesday, November 10, 2026's Report",
     "headline": "### 1. Broad Market Index Performance & Technical Action.",
