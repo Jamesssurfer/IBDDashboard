@@ -1,5 +1,281 @@
 [
   {
+    "timestamp": "2026-11-12T20:00:00+00:00",
+    "header": "Thursday, November 12, 2026's Report",
+    "headline": "### 1. Broad Market Index Performance & Technical Action.",
+    "summary": "### 1. Broad Market Index Performance & Technical Action.",
+    "indexes": [
+      {
+        "name": "NASDAQ Composite",
+        "pct": "-0.4%",
+        "action": "Declined 0.4% on the session, holding above its 40-week moving average line. The index survived a key test of its 200-day moving average line and intraday lows, demonstrating resilience by rebounding off morning lows a day after confirming a follow-through day rally."
+      },
+      {
+        "name": "S&P 500",
+        "pct": "-0.4%",
+        "action": "Dropped 0.4%, remaining locked inside an inside week structure directly beneath technical resistance at its 50-day moving average line. Key overhead resistance includes a downward-sloping trendline, the 50-day line, and last Thursday's high (November 5th)."
+      },
+      {
+        "name": "Dow Jones Industrial Average",
+        "pct": "",
+        "action": "Reversed lower for the session but continues to hold technical support above its 8-day, 21-day, and 50-day moving average lines while trading above the 52,000 round-number level."
+      },
+      {
+        "name": "Russell 2000 (Small Caps)",
+        "pct": "",
+        "action": "Experienced the heaviest selling among major benchmarks, falling 1.6% to drop back below its 50-day moving average line under pressure from rising bond yields."
+      },
+      {
+        "name": "Equal-Weight S&P 500 (RSP)",
+        "pct": "",
+        "action": "Dropped more than the market-cap weighted index, reflecting negative market breadth despite many individual stocks remaining close to actionable buy points."
+      }
+    ],
+    "macro": [
+      {
+        "title": "Surging 10-Year Treasury Yields",
+        "text": "A sharp uptick in the 10-year Treasury yield acted as the primary catalyst weighing on small caps, retail equities, and rate-sensitive sectors."
+      },
+      {
+        "title": "Nvidia Executive Departure & Sentiment",
+        "text": "Market sentiment digested news of Nvidia's CEO resignation following recent disclosures. While short-to-medium term earnings expectations remain intact ahead of next week's Q3 report, the lack of succession planning raises long-term strategy questions."
+      },
+      {
+        "title": "AI Catalyst Friction",
+        "text": "Negative updates regarding Nebius created additional friction following the prior session's CoreWeave-driven rally. The market's ability to bounce off lows rather than sell off 3% was viewed as an encouraging sign of underlying support."
+      }
+    ],
+    "sectors": [
+      {
+        "name": "Semiconductor ETF (SMH)",
+        "tickers": [
+          "SMH"
+        ],
+        "pct": "",
+        "action": "Monitoring its 200-day moving average line; reclaiming this critical level is required before re-engaging broader semiconductor and AI leadership."
+      },
+      {
+        "name": "Software ETF (IGV)",
+        "tickers": [
+          "IGV"
+        ],
+        "pct": "",
+        "action": "Remains in a technical repair phase, needing to climb back above its 50-day moving average line with its Relative Strength (RS) line crossing above moving averages."
+      },
+      {
+        "name": "Retail ETF (XRT)",
+        "tickers": [
+          "XRT"
+        ],
+        "pct": "",
+        "action": "Retreated as higher Treasury yields pressured consumer names, bringing leading stocks like Victoria's Secret down toward prospective buy zones."
+      },
+      {
+        "name": "Financials (XLF) & Consumer Staples (XOV)",
+        "tickers": [
+          "XLF",
+          "XOV"
+        ],
+        "pct": "",
+        "action": "Financials (XLF) continue to trade near high ground, while Consumer Staples (XOV) maintains steady multi-month progress."
+      },
+      {
+        "name": "Biotech ETFs (XBI / IBB / ARKG)",
+        "tickers": [
+          "XBI",
+          "IBB",
+          "ARKG"
+        ],
+        "pct": "-3.3%",
+        "action": "The SPDR Biotech ETF (XBI) dropped 3.3% and the iShares Biotechnology ETF (IBB) fell 2.2%. Speculative genomic biotech (ARKG) hit steeper weakness, reinforcing the need for strict stop losses in speculative funds."
+      }
+    ],
+    "stocks": [
+      {
+        "ticker": "ANET",
+        "tickers": [
+          "ANET"
+        ],
+        "company": "Arista Networks",
+        "pct": "",
+        "action": "Technical Action: Staged an outside-day upside reversal with a 5.0% gain after reclaiming its 50-day moving average line. | Fundamentals & RS: Backed by accelerating quarterly top- and bottom-line growth, with an RS line sitting near all-time highs as one of the few AI hardware names above its 50-day line. | Strategy: Trading roughly 7% above its 10-week moving average line; buying near the 50-day or 10-week line offers an optimal entry point using small initial position sizes."
+      },
+      {
+        "ticker": "FIVE",
+        "tickers": [
+          "FIVE"
+        ],
+        "company": "Five Below",
+        "pct": "",
+        "action": "Technical Action: Slipped 1.4%, developing a handle on the right side of a consolidation base across daily and weekly charts following a major multi-month advance. | Fundamentals & Group Context: Demonstrates strong recent earnings as a defensive growth play within retail, with its RS line holding near consolidation highs ahead of peer discount retail earnings."
+      },
+      {
+        "ticker": "NET",
+        "tickers": [
+          "NET"
+        ],
+        "company": "Cloudflare",
+        "pct": "+18.5%",
+        "action": "Technical Action: Surged 18.5% on the week, testing technical resistance at its 50-day and 10-week moving average lines after finding support at its 200-day line. | Setup Comparison: Forms a double-bottom / shakeout-plus-three pattern resembling AMD's recent chart structure near the 332 pivot area."
+      }
+    ],
+    "strategy": [
+      {
+        "title": "Incremental Capital Deployment",
+        "text": "Despite the recent follow-through day, crosscurrents in market leadership require investors to add capital gradually only as open positions demonstrate profit traction."
+      },
+      {
+        "title": "Managing AI Sector Exposure",
+        "text": "Restrict total capital allocated to AI stocks; a broader sector rollover can pull down even top-performing leaders like ANET and AMD."
+      },
+      {
+        "title": "Proactive Watchlist Preparation",
+        "text": "Build and refine watchlists during market consolidations to execute trades decisively without emotional interference when breakout buy signals trigger. 📊 Would you like me to convert these technical setup levels and risk management guidelines into a set of interactive flashcards or a practice study quiz?"
+      }
+    ],
+    "sections": [
+      {
+        "number": 1,
+        "title": "Broad Market Index Performance & Technical Action",
+        "kind": "indexes",
+        "items": [
+          {
+            "title": "NASDAQ Composite",
+            "text": "Declined 0.4% on the session, holding above its 40-week moving average line. The index survived a key test of its 200-day moving average line and intraday lows, demonstrating resilience by rebounding off morning lows a day after confirming a follow-through day rally."
+          },
+          {
+            "title": "S&P 500",
+            "text": "Dropped 0.4%, remaining locked inside an inside week structure directly beneath technical resistance at its 50-day moving average line. Key overhead resistance includes a downward-sloping trendline, the 50-day line, and last Thursday's high (November 5th)."
+          },
+          {
+            "title": "Dow Jones Industrial Average",
+            "text": "Reversed lower for the session but continues to hold technical support above its 8-day, 21-day, and 50-day moving average lines while trading above the 52,000 round-number level."
+          },
+          {
+            "title": "Russell 2000 (Small Caps)",
+            "text": "Experienced the heaviest selling among major benchmarks, falling 1.6% to drop back below its 50-day moving average line under pressure from rising bond yields."
+          },
+          {
+            "title": "Equal-Weight S&P 500 (RSP)",
+            "text": "Dropped more than the market-cap weighted index, reflecting negative market breadth despite many individual stocks remaining close to actionable buy points."
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Macroeconomic Drivers & Intermarket Action",
+        "kind": "macro",
+        "items": [
+          {
+            "title": "Surging 10-Year Treasury Yields",
+            "text": "A sharp uptick in the 10-year Treasury yield acted as the primary catalyst weighing on small caps, retail equities, and rate-sensitive sectors."
+          },
+          {
+            "title": "Nvidia Executive Departure & Sentiment",
+            "text": "Market sentiment digested news of Nvidia's CEO resignation following recent disclosures. While short-to-medium term earnings expectations remain intact ahead of next week's Q3 report, the lack of succession planning raises long-term strategy questions."
+          },
+          {
+            "title": "AI Catalyst Friction",
+            "text": "Negative updates regarding Nebius created additional friction following the prior session's CoreWeave-driven rally. The market's ability to bounce off lows rather than sell off 3% was viewed as an encouraging sign of underlying support."
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Sector ETF Dynamics",
+        "kind": "sectors",
+        "items": [
+          {
+            "title": "Semiconductor ETF (SMH)",
+            "text": "Monitoring its 200-day moving average line; reclaiming this critical level is required before re-engaging broader semiconductor and AI leadership."
+          },
+          {
+            "title": "Software ETF (IGV)",
+            "text": "Remains in a technical repair phase, needing to climb back above its 50-day moving average line with its Relative Strength (RS) line crossing above moving averages."
+          },
+          {
+            "title": "Retail ETF (XRT)",
+            "text": "Retreated as higher Treasury yields pressured consumer names, bringing leading stocks like Victoria's Secret down toward prospective buy zones."
+          },
+          {
+            "title": "Financials (XLF) & Consumer Staples (XOV)",
+            "text": "Financials (XLF) continue to trade near high ground, while Consumer Staples (XOV) maintains steady multi-month progress."
+          },
+          {
+            "title": "Biotech ETFs (XBI / IBB / ARKG)",
+            "text": "The SPDR Biotech ETF (XBI) dropped 3.3% and the iShares Biotechnology ETF (IBB) fell 2.2%. Speculative genomic biotech (ARKG) hit steeper weakness, reinforcing the need for strict stop losses in speculative funds."
+          }
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Featured Individual Stock Technical Setups & Fundamentals",
+        "kind": "stocks",
+        "items": [
+          {
+            "title": "Arista Networks (ANET)",
+            "text": ""
+          },
+          {
+            "title": "Technical Action",
+            "text": "Staged an outside-day upside reversal with a 5.0% gain after reclaiming its 50-day moving average line."
+          },
+          {
+            "title": "Fundamentals & RS",
+            "text": "Backed by accelerating quarterly top- and bottom-line growth, with an RS line sitting near all-time highs as one of the few AI hardware names above its 50-day line."
+          },
+          {
+            "title": "Strategy",
+            "text": "Trading roughly 7% above its 10-week moving average line; buying near the 50-day or 10-week line offers an optimal entry point using small initial position sizes."
+          },
+          {
+            "title": "Five Below (FIVE)",
+            "text": ""
+          },
+          {
+            "title": "Technical Action",
+            "text": "Slipped 1.4%, developing a handle on the right side of a consolidation base across daily and weekly charts following a major multi-month advance."
+          },
+          {
+            "title": "Fundamentals & Group Context",
+            "text": "Demonstrates strong recent earnings as a defensive growth play within retail, with its RS line holding near consolidation highs ahead of peer discount retail earnings."
+          },
+          {
+            "title": "Cloudflare (NET)",
+            "text": ""
+          },
+          {
+            "title": "Technical Action",
+            "text": "Surged 18.5% on the week, testing technical resistance at its 50-day and 10-week moving average lines after finding support at its 200-day line."
+          },
+          {
+            "title": "Setup Comparison",
+            "text": "Forms a double-bottom / shakeout-plus-three pattern resembling AMD's recent chart structure near the 332 pivot area."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "title": "Risk Management & Portfolio Strategy",
+        "kind": "strategy",
+        "items": [
+          {
+            "title": "Incremental Capital Deployment",
+            "text": "Despite the recent follow-through day, crosscurrents in market leadership require investors to add capital gradually only as open positions demonstrate profit traction."
+          },
+          {
+            "title": "Managing AI Sector Exposure",
+            "text": "Restrict total capital allocated to AI stocks; a broader sector rollover can pull down even top-performing leaders like ANET and AMD."
+          },
+          {
+            "title": "Proactive Watchlist Preparation",
+            "text": "Build and refine watchlists during market consolidations to execute trades decisively without emotional interference when breakout buy signals trigger. 📊 Would you like me to convert these technical setup levels and risk management guidelines into a set of interactive flashcards or a practice study quiz?"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-11T20:00:00+00:00",
     "header": "Wednesday, November 11, 2026's Report",
     "headline": "### 1. Broad Market Index Performance & Technical Action.",
