@@ -1,6 +1,96 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-11-06T20:00:00+00:00",
+      "header": "Friday, November 6, 2026's Report",
+      "headline": "Technical Market Analysis: Index Support Levels, Macro Catalysts, and Growth Equity Setups.",
+      "summary": "Technical Market Analysis: Index Support Levels, Macro Catalysts, and Growth Equity Setups.",
+      "indexes": [
+        {
+          "name": "Index note",
+          "pct": "+0.2%",
+          "action": "S&P 500 Index: The S&P 500 advanced 0.2% during the session, finishing directly at its 50-day moving average. The 50-day line serves as a crucial technical guardrail for both broad benchmarks and individual equities. Although holding this moving average is constructively necessary to prevent a deeper retracement, the index's underlying performance was ultimately disappointing given the intraday tailwind provided by falling Treasury yields. Equities failed to generate meaningful upside momentum despite reduced discount-rate pressure. While the index sits just a few percentage points off all-time highs, a decisive, high-volume rebound above this threshold is required to confirm broad-based structural health. NASDAQ Composite: The NASDAQ Composite closed virtually flat, holding marginally in positive territory. From a structural standpoint, the index exhibits a constructive setup by successfully holding above the low of its recent gap-up session. This price action resembles a \"high handle\" consolidation pattern. Should the broader market deliver sustained upside momentum, this consolidation structure across tech equities could swiftly generate actionable buy signals. Dow Jones Industrial Average: The Dow Jones Industrial Average managed to erase earlier intraday losses to finish in positive territory, though it remains in a technically precarious position. The index is holding just above its 200-day moving average, reflecting a lack of structural momentum compared to market leaders. Russell 2000 & Equal-Weight Dynamics: Small-cap equities represented by the Russell 2000 remain severely constrained, actively touching longer-term support at its 200-day moving average. This divergence is reinforced by the weak performance of the Invesco S&P 500 Equal Weight ETF (RSP), which continues to display structural softness. Stripping away mega-cap technology exposure reveals severe underlying weakness across the broader market. The failure of equal-weight indices and small-cap benchmarks to establish firm bottoms underscores the ongoing fragility of broad market health and highlights extreme breadth dispersion. Structural Comparison: The Late-1990s Regime Current market conditions closely mirror the late-1990s structural environment, where major benchmarks experienced choppy, non-linear advances while underlying market breadth remained exceptionally narrow. Strip away the mega-cap technology stalwarts, and broad domestic benchmarks begin to resemble declining international indices. Investors must reframe performance expectations away from smooth power trends and adapt to a regime characterized by higher marked lows amidst significant index-level friction. Within such a backdrop, broad index performance can appear directionally constrained or unstable; however, high-quality individual growth stocks with superior relative strength can decouple from broader market noise and deliver substantial outperformance. Summary of Major Benchmark Technical Indicators Index / Benchmark\tPrimary Support Level Tested\tTechnical Status\tAnalytical Takeaway S&P 500\t50-day Moving Average\tHolding immediately at support (+0.2%)\tCritical guardrail test; muted gain represents disappointing responsiveness to lower yields. NASDAQ Composite\tLow of Recent Gap-Up Session\tHigh handle consolidation (Flat)\tConstructive base holding above gap low; poised to trigger buy signals upon market confirmation. Dow Jones Industrial Average\t200-day Moving Average\tHolding barely above support\tWeak structural position; rebound merely erased intraday losses without building momentum. Russell 2000\t200-day Moving Average\tTouching longer-term support\tHighlights ongoing small-cap vulnerability and severe market breadth dispersion. RSP (S&P 500 Equal Weight)\tMulti-month Consolidation Lows\tStructural softness / Relentless friction\tConfirms broad market fragility once mega-cap technology weightings are stripped away. The ultimate resolution of these index-level support tests remains heavily dependent on upcoming macroeconomic catalysts and fixed-income dynamics."
+        }
+      ],
+      "macro": [
+        {
+          "title": "",
+          "text": "Treasury Yield Trajectory: Raw Context: Benchmark 10-year Treasury yields experienced a notable intraday drop during the session. However, this pull-back has not yet disrupted the broader, near-vertical yield uptrend that has dominated recent weeks. Portfolio Implications: The recent surge in yields has acted as a primary discount-rate headwind for equity valuations. The fact that major indices failed to rally aggressively during today's yield decline underscores underlying market hesitation. However, if 10-year yields decisively break their upward trajectory and drift lower toward or below the 5% threshold, the reduction in discount-rate pressure could serve as a powerful tailwind, sparking broader participation and equity multiple expansion. Crude Oil Dynamics: Raw Context: Crude oil prices posted modest daily gains, continuing a persistent upward trend established over recent weeks despite minor short-term pullbacks. Portfolio Implications: Sustained elevated energy costs maintain persistent inflationary pressures across the economy. Until crude oil breaks its upward trajectory, energy prices will continue to act as an economic tax, constraining equity multiple expansion and broader market rally attempts. Economic Data Catalysts: Raw Context: The upcoming macroeconomic calendar is anchored by the impending release of the official Jobs report. Portfolio Implications: Labour market data serves as an immediate catalyst capable of re-pricing rate expectations, dictating whether sovereign yields resume their relentless ascent or initiate a broader technical breakdown. Earnings Season Horizon: Raw Context: The corporate earnings calendar is set to accelerate sharply, marked by the return of earnings tracking reports, upcoming earnings announcements from major financial sector institutions, and pivotal semiconductor reports such as Taiwan Semiconductor Manufacturing Co. Portfolio Implications: The approaching earnings season introduces a surge of single-stock and sector volatility, forcing investors to enforce rigorous risk protocols and audit portfolio exposure ahead of high-impact corporate updates. The transmission of these broad macroeconomic pressures and sector-specific catalysts is directly observable across industry sector ETFs and international markets."
+        }
+      ],
+      "sectors": [
+        {
+          "name": "",
+          "tickers": [
+            "IGV",
+            "SMH",
+            "EWQ"
+          ],
+          "pct": "+1.6%",
+          "action": "iShares Expanded Tech-Software Sector ETF (IGV): IGV advanced 1.6% in the latest session, demonstrating superior relative strength. The software ETF is actively trading near multi-week highs and key buy points, with select underlying constituent stocks advancing toward new high ground. While navigating entry points within software has proven tricky due to periodic pullbacks, the sector's technical positioning offers some of the most actionable setups in the current market environment. VanEck Semiconductor ETF (SMH): SMH gained 1.5%, achieving a key technical milestone by clearing and holding above the 600 level on a closing basis. The semiconductor cohort continues to show constructive participation, driven by strength in high-volume industry leaders. iShares MSCI France ETF (EWQ): In stark contrast to domestic technology strength, international equities suffered severe declines, highlighted by a 2.0% drop in EWQ. France's primary ETF closed near its March lows, burdened by expanding budget deficit concerns, elevated interest rates, and upcoming political elections. Furthermore, EWQ suffers from a structural lack of mega-cap technology exposure—a gap that exposes non-US indices to severe technical breakdowns similar to domestic equal-weight benchmarks when broad market conditions deteriorate. Comparative Sector & International ETF Analysis ETF Ticker & Name\tPerformance / Price Action\tTechnical Support / Resistance Levels\tStrategic Outlook IGV (iShares Expanded Tech-Software)\tAdvanced +1.6%\tConsolidating near multi-week highs and key resistance levels\tStrong relative strength; presenting actionable entry points within software leadership. SMH (VanEck Semiconductor)\tAdvanced +1.5%\tSuccessfully holding above the 600 level on a closing basis\tRe-establishing upward momentum; semiconductor participation remains a primary market pillar. EWQ (iShares MSCI France)\tDeclined -2.0%\tRe-testing key low support levels from March\tHigh structural risk; impacted by fiscal deficit issues, election uncertainty, and lack of mega-cap tech. This clear sector leadership provides a strategic framework for targeting individual high-growth equities displaying exceptional relative strength and underlying fundamental acceleration."
+        }
+      ],
+      "stocks": [],
+      "strategy": [
+        {
+          "title": "",
+          "text": "Tactical Rule: Avoid committing full capital tranches to initial buy signals. Utilize minimal position sizing—such as the \"one-share buy\" entry tactic demonstrated in Micron (MU)—to test underlying market friction during intraday shakeouts without exposing capital to severe drawdown. Execution: Build position size incrementally only after a stock demonstrates real traction and holds above its initial buy point (e.g., scaling into Micron following its upside reversal and handle clearance above 1827). 2. Strict Loss Containment & Capital Preservation Tactical Rule: Enforce strict, smaller-than-average stop-loss thresholds to counteract lower market win rates. Execution: Immediately back out of failed early entries. If a breakout equity decisively breaks below its underlying support ceiling—such as Lumentum falling back below the 1,000 level—close the position immediately to contain capital losses. 3. Relative Strength Validation Tactical Rule: Prioritise equities that decouple from broad index weakness by holding key moving averages or breaking out on heavy volume while the S&P 500 or NASDAQ test support. Execution: Focus capital exclusively on equities trading near all-time highs with multi-quarter triple-digit or quadruple-digit fundamental growth (e.g., LITE, MU), while strictly avoiding laggards trading near their 200-day moving averages (e.g., GLW, EWQ). 4. Pre-Earnings Portfolio Defense Tactical Rule: Actively adjust portfolio risk exposure ahead of high-volatility binary events, specifically corporate earnings releases and critical macroeconomic data points. Execution: Audit all portfolio holdings ahead of the upcoming earnings cycle (including reports from major financial institutions and key tech leaders like Taiwan Semiconductor). Trim extended, unprofitable positions and take partial profits on rapidly extended momentum holdings to insulate total equity against unexpected gap-downs."
+        }
+      ],
+      "sections": [
+        {
+          "number": 1,
+          "title": "Broad Market Index Performance & Technical Action",
+          "kind": "indexes",
+          "items": [
+            {
+              "title": "",
+              "text": "S&P 500 Index: The S&P 500 advanced 0.2% during the session, finishing directly at its 50-day moving average. The 50-day line serves as a crucial technical guardrail for both broad benchmarks and individual equities. Although holding this moving average is constructively necessary to prevent a deeper retracement, the index's underlying performance was ultimately disappointing given the intraday tailwind provided by falling Treasury yields. Equities failed to generate meaningful upside momentum despite reduced discount-rate pressure. While the index sits just a few percentage points off all-time highs, a decisive, high-volume rebound above this threshold is required to confirm broad-based structural health. NASDAQ Composite: The NASDAQ Composite closed virtually flat, holding marginally in positive territory. From a structural standpoint, the index exhibits a constructive setup by successfully holding above the low of its recent gap-up session. This price action resembles a \"high handle\" consolidation pattern. Should the broader market deliver sustained upside momentum, this consolidation structure across tech equities could swiftly generate actionable buy signals. Dow Jones Industrial Average: The Dow Jones Industrial Average managed to erase earlier intraday losses to finish in positive territory, though it remains in a technically precarious position. The index is holding just above its 200-day moving average, reflecting a lack of structural momentum compared to market leaders. Russell 2000 & Equal-Weight Dynamics: Small-cap equities represented by the Russell 2000 remain severely constrained, actively touching longer-term support at its 200-day moving average. This divergence is reinforced by the weak performance of the Invesco S&P 500 Equal Weight ETF (RSP), which continues to display structural softness. Stripping away mega-cap technology exposure reveals severe underlying weakness across the broader market. The failure of equal-weight indices and small-cap benchmarks to establish firm bottoms underscores the ongoing fragility of broad market health and highlights extreme breadth dispersion. Structural Comparison: The Late-1990s Regime Current market conditions closely mirror the late-1990s structural environment, where major benchmarks experienced choppy, non-linear advances while underlying market breadth remained exceptionally narrow. Strip away the mega-cap technology stalwarts, and broad domestic benchmarks begin to resemble declining international indices. Investors must reframe performance expectations away from smooth power trends and adapt to a regime characterized by higher marked lows amidst significant index-level friction. Within such a backdrop, broad index performance can appear directionally constrained or unstable; however, high-quality individual growth stocks with superior relative strength can decouple from broader market noise and deliver substantial outperformance. Summary of Major Benchmark Technical Indicators Index / Benchmark\tPrimary Support Level Tested\tTechnical Status\tAnalytical Takeaway S&P 500\t50-day Moving Average\tHolding immediately at support (+0.2%)\tCritical guardrail test; muted gain represents disappointing responsiveness to lower yields. NASDAQ Composite\tLow of Recent Gap-Up Session\tHigh handle consolidation (Flat)\tConstructive base holding above gap low; poised to trigger buy signals upon market confirmation. Dow Jones Industrial Average\t200-day Moving Average\tHolding barely above support\tWeak structural position; rebound merely erased intraday losses without building momentum. Russell 2000\t200-day Moving Average\tTouching longer-term support\tHighlights ongoing small-cap vulnerability and severe market breadth dispersion. RSP (S&P 500 Equal Weight)\tMulti-month Consolidation Lows\tStructural softness / Relentless friction\tConfirms broad market fragility once mega-cap technology weightings are stripped away. The ultimate resolution of these index-level support tests remains heavily dependent on upcoming macroeconomic catalysts and fixed-income dynamics."
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "title": "Macroeconomic Drivers & Market Volatility",
+          "kind": "macro",
+          "items": [
+            {
+              "title": "",
+              "text": "Treasury Yield Trajectory: Raw Context: Benchmark 10-year Treasury yields experienced a notable intraday drop during the session. However, this pull-back has not yet disrupted the broader, near-vertical yield uptrend that has dominated recent weeks. Portfolio Implications: The recent surge in yields has acted as a primary discount-rate headwind for equity valuations. The fact that major indices failed to rally aggressively during today's yield decline underscores underlying market hesitation. However, if 10-year yields decisively break their upward trajectory and drift lower toward or below the 5% threshold, the reduction in discount-rate pressure could serve as a powerful tailwind, sparking broader participation and equity multiple expansion. Crude Oil Dynamics: Raw Context: Crude oil prices posted modest daily gains, continuing a persistent upward trend established over recent weeks despite minor short-term pullbacks. Portfolio Implications: Sustained elevated energy costs maintain persistent inflationary pressures across the economy. Until crude oil breaks its upward trajectory, energy prices will continue to act as an economic tax, constraining equity multiple expansion and broader market rally attempts. Economic Data Catalysts: Raw Context: The upcoming macroeconomic calendar is anchored by the impending release of the official Jobs report. Portfolio Implications: Labour market data serves as an immediate catalyst capable of re-pricing rate expectations, dictating whether sovereign yields resume their relentless ascent or initiate a broader technical breakdown. Earnings Season Horizon: Raw Context: The corporate earnings calendar is set to accelerate sharply, marked by the return of earnings tracking reports, upcoming earnings announcements from major financial sector institutions, and pivotal semiconductor reports such as Taiwan Semiconductor Manufacturing Co. Portfolio Implications: The approaching earnings season introduces a surge of single-stock and sector volatility, forcing investors to enforce rigorous risk protocols and audit portfolio exposure ahead of high-impact corporate updates. The transmission of these broad macroeconomic pressures and sector-specific catalysts is directly observable across industry sector ETFs and international markets."
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "title": "Sector ETF Dynamics & Market Rotations",
+          "kind": "sectors",
+          "items": [
+            {
+              "title": "",
+              "text": "iShares Expanded Tech-Software Sector ETF (IGV): IGV advanced 1.6% in the latest session, demonstrating superior relative strength. The software ETF is actively trading near multi-week highs and key buy points, with select underlying constituent stocks advancing toward new high ground. While navigating entry points within software has proven tricky due to periodic pullbacks, the sector's technical positioning offers some of the most actionable setups in the current market environment. VanEck Semiconductor ETF (SMH): SMH gained 1.5%, achieving a key technical milestone by clearing and holding above the 600 level on a closing basis. The semiconductor cohort continues to show constructive participation, driven by strength in high-volume industry leaders. iShares MSCI France ETF (EWQ): In stark contrast to domestic technology strength, international equities suffered severe declines, highlighted by a 2.0% drop in EWQ. France's primary ETF closed near its March lows, burdened by expanding budget deficit concerns, elevated interest rates, and upcoming political elections. Furthermore, EWQ suffers from a structural lack of mega-cap technology exposure—a gap that exposes non-US indices to severe technical breakdowns similar to domestic equal-weight benchmarks when broad market conditions deteriorate. Comparative Sector & International ETF Analysis ETF Ticker & Name\tPerformance / Price Action\tTechnical Support / Resistance Levels\tStrategic Outlook IGV (iShares Expanded Tech-Software)\tAdvanced +1.6%\tConsolidating near multi-week highs and key resistance levels\tStrong relative strength; presenting actionable entry points within software leadership. SMH (VanEck Semiconductor)\tAdvanced +1.5%\tSuccessfully holding above the 600 level on a closing basis\tRe-establishing upward momentum; semiconductor participation remains a primary market pillar. EWQ (iShares MSCI France)\tDeclined -2.0%\tRe-testing key low support levels from March\tHigh structural risk; impacted by fiscal deficit issues, election uncertainty, and lack of mega-cap tech. This clear sector leadership provides a strategic framework for targeting individual high-growth equities displaying exceptional relative strength and underlying fundamental acceleration."
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "title": "Individual Featured Stock Setups & Fundamentals",
+          "kind": "stocks",
+          "items": []
+        },
+        {
+          "number": 5,
+          "title": "Risk Management & Portfolio Strategy",
+          "kind": "strategy",
+          "items": [
+            {
+              "title": "",
+              "text": "Tactical Rule: Avoid committing full capital tranches to initial buy signals. Utilize minimal position sizing—such as the \"one-share buy\" entry tactic demonstrated in Micron (MU)—to test underlying market friction during intraday shakeouts without exposing capital to severe drawdown. Execution: Build position size incrementally only after a stock demonstrates real traction and holds above its initial buy point (e.g., scaling into Micron following its upside reversal and handle clearance above 1827). 2. Strict Loss Containment & Capital Preservation Tactical Rule: Enforce strict, smaller-than-average stop-loss thresholds to counteract lower market win rates. Execution: Immediately back out of failed early entries. If a breakout equity decisively breaks below its underlying support ceiling—such as Lumentum falling back below the 1,000 level—close the position immediately to contain capital losses. 3. Relative Strength Validation Tactical Rule: Prioritise equities that decouple from broad index weakness by holding key moving averages or breaking out on heavy volume while the S&P 500 or NASDAQ test support. Execution: Focus capital exclusively on equities trading near all-time highs with multi-quarter triple-digit or quadruple-digit fundamental growth (e.g., LITE, MU), while strictly avoiding laggards trading near their 200-day moving averages (e.g., GLW, EWQ). 4. Pre-Earnings Portfolio Defense Tactical Rule: Actively adjust portfolio risk exposure ahead of high-volatility binary events, specifically corporate earnings releases and critical macroeconomic data points. Execution: Audit all portfolio holdings ahead of the upcoming earnings cycle (including reports from major financial institutions and key tech leaders like Taiwan Semiconductor). Trim extended, unprofitable positions and take partial profits on rapidly extended momentum holdings to insulate total equity against unexpected gap-downs."
+            }
+          ]
+        }
+      ]
+    },
+    {
       "timestamp": "2026-11-05T20:00:00+00:00",
       "header": "Thursday, November 5, 2026's Report",
       "headline": "### 1. Broad Market Index Performance & Technical Action.",
@@ -1133,7 +1223,9 @@
           ]
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-10-30T20:00:00+00:00",
       "header": "Friday, October 30, 2026's Report",
@@ -1454,9 +1546,7 @@
           ]
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-10-29T20:00:00+00:00",
       "header": "Thursday, October 29, 2026's Report",
@@ -4371,7 +4461,9 @@
           ]
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-10-14T20:00:00+00:00",
       "header": "Wednesday, October 14, 2026's Report",
@@ -4653,9 +4745,7 @@
           ]
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-10-13T20:00:00+00:00",
       "header": "Tuesday, October 13, 2026's Report",
