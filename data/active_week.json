@@ -1,5 +1,322 @@
 [
   {
+    "timestamp": "2026-11-13T20:00:00+00:00",
+    "header": "Friday, November 13, 2026's Report",
+    "headline": "### 1. Broad Market Index Performance & Technical Context.",
+    "summary": "### 1. Broad Market Index Performance & Technical Context.",
+    "indexes": [
+      {
+        "name": "NASDAQ Composite",
+        "pct": "-0.9%",
+        "action": "Declined 0.9% on Friday, closing just a fraction underneath its 200-day moving average line."
+      },
+      {
+        "name": "S&P 500 (SPY)",
+        "pct": "",
+        "action": "Slipped 0.4%, holding in superior technical health above its 200-day moving average line after reclaiming its 21-day exponential moving average (EMA) line. Key overhead technical magnets include a downward trendline and its 50-day moving average line."
+      },
+      {
+        "name": "Russell 2000 (Small Caps)",
+        "pct": "-0.25%",
+        "action": "Dropped 0.25%, recovering off session lows but maintaining a structurally vulnerable setup below key moving averages."
+      },
+      {
+        "name": "NASDAQ 100 (QQQ)",
+        "pct": "",
+        "action": "Faced heavier selling than the broader Composite, falling 1.2% to close back below its 200-day moving average line."
+      },
+      {
+        "name": "Equal-Weight S&P 500 (RSP)",
+        "pct": "",
+        "action": "Rebounded into the northern hemisphere above the 50% retracement level of its high-low move, displaying stacked moving averages in a healthy \"rainbow\" alignment."
+      },
+      {
+        "name": "New York Composite & Midcaps (MDY)",
+        "pct": "",
+        "action": "The New York Composite continues to outperform the NASDAQ Composite. Midcaps (MDY) are attempting to hold technical support directly at the 200-day moving average line."
+      }
+    ],
+    "macro": [],
+    "sectors": [
+      {
+        "name": "Bifurcated Sector Rotation",
+        "tickers": [],
+        "pct": "",
+        "action": "The current market environment mirrors March–October 2000, characterized by sharp tech/AI distribution alongside capital rotation into non-tech areas such as medical, retail, building construction, and select energy names."
+      },
+      {
+        "name": "Mega-Cap Technology Action",
+        "tickers": [],
+        "pct": "",
+        "action": ""
+      },
+      {
+        "name": "Google (GOOGL)",
+        "tickers": [
+          "GOOGL"
+        ],
+        "pct": "",
+        "action": "Wedging along lows with multiple closes near daily lows, reflecting technical vulnerability."
+      },
+      {
+        "name": "Microsoft (MSFT)",
+        "tickers": [
+          "MSFT"
+        ],
+        "pct": "",
+        "action": "Firming up around its 50-day moving average line after digesting Anthropic competitive news and service outages."
+      },
+      {
+        "name": "Apple (AAPL)",
+        "tickers": [
+          "AAPL"
+        ],
+        "pct": "",
+        "action": "Demonstrating relative stability above key technical moving average levels."
+      },
+      {
+        "name": "Meta (META)",
+        "tickers": [
+          "META"
+        ],
+        "pct": "",
+        "action": "Trading beneath its 50-day line while forming the left side of a potential consolidation base."
+      },
+      {
+        "name": "CoreWeave (CRWV)",
+        "tickers": [
+          "CRWV"
+        ],
+        "pct": "",
+        "action": "Locked below its 50-day and 200-day moving averages as an example of AI capital expenditure friction."
+      }
+    ],
+    "stocks": [
+      {
+        "ticker": "TOST",
+        "tickers": [
+          "TOST"
+        ],
+        "company": "Toast",
+        "pct": "",
+        "action": "Technical Action: Cleared a handle trendline while bouncing off support at its 21-day EMA line, constructing a valid cup-with-handle pattern. | Fundamentals & Setup: Backed by accelerating sales and earnings growth on Market Surge. Operates a Lynch-style consumer story in restaurant point-of-sale handheld technology, though it faces overhead supply resistance between the $40 and $50 levels."
+      },
+      {
+        "ticker": "DOCU",
+        "tickers": [
+          "DOCU"
+        ],
+        "company": "DocuSign",
+        "pct": "",
+        "action": "Technical Action: Finding support at its 21-day EMA line with a rising Relative Strength (RS) line above moving averages, breaking through a short-term declining trendline. | Fundamentals & Execution: Benefiting from digital workflow adoption over physical courier delivery, though long-term overhead resistance requires smaller position sizing."
+      },
+      {
+        "ticker": "CROX",
+        "tickers": [
+          "CROX"
+        ],
+        "company": "Crocs",
+        "pct": "+4.4%",
+        "action": "Technical Action: Advanced 4.4% in a strong post-earnings breakout reaction, holding support at its 8-day EMA line. | Fundamentals & Setup: Non-AI retail growth play supported by medical staff adoption and positive post-earnings price reaction, using recent daily lows as a strict exit point."
+      }
+    ],
+    "strategy": [
+      {
+        "title": "Tactical Position Sizing",
+        "text": "Reduce standard position sizes down to 1%, 2%, or 3% pilot positions (rather than 10% or 25%) to test market traction while limiting drawdown risk."
+      },
+      {
+        "title": "Rule Against Freezing Up",
+        "text": "Avoid freezing up when a winning trade round-trips gains; execute incremental selling (such as 5% or 6% per day/week) to break emotional inertia and preserve capital."
+      },
+      {
+        "title": "Establishing Written Speed Limits",
+        "text": "Set explicit portfolio exposure \"speed limits\" and email weekend game plans (both defensive and offensive) to maintain disciplined execution."
+      },
+      {
+        "title": "Technical Indicator Signals",
+        "text": ""
+      },
+      {
+        "title": "Webby RSI",
+        "text": "Tracks the daily low versus the 21-day EMA in Average True Ranges (ATRs); wait for a \"wall of blue\" (lows holding above the 21-day line) before aggressively deploying capital."
+      },
+      {
+        "title": "Bob Marley Off-High Indicator",
+        "text": "Evaluates pullback depth in ATRs; current pullbacks reaching 8 ATRs on the RSP signal expanded volatility that requires cautious risk control. 📊 Would you like to create an interactive study quiz or flashcards based on these moving average rules and non-AI stock breakout setups?"
+      }
+    ],
+    "sections": [
+      {
+        "number": 1,
+        "title": "Broad Market Index Performance & Technical Context",
+        "kind": "indexes",
+        "items": [
+          {
+            "title": "NASDAQ Composite",
+            "text": "Declined 0.9% on Friday, closing just a fraction underneath its 200-day moving average line."
+          },
+          {
+            "title": "S&P 500 (SPY)",
+            "text": "Slipped 0.4%, holding in superior technical health above its 200-day moving average line after reclaiming its 21-day exponential moving average (EMA) line. Key overhead technical magnets include a downward trendline and its 50-day moving average line."
+          },
+          {
+            "title": "Russell 2000 (Small Caps)",
+            "text": "Dropped 0.25%, recovering off session lows but maintaining a structurally vulnerable setup below key moving averages."
+          },
+          {
+            "title": "NASDAQ 100 (QQQ)",
+            "text": "Faced heavier selling than the broader Composite, falling 1.2% to close back below its 200-day moving average line."
+          },
+          {
+            "title": "Equal-Weight S&P 500 (RSP)",
+            "text": "Rebounded into the northern hemisphere above the 50% retracement level of its high-low move, displaying stacked moving averages in a healthy \"rainbow\" alignment."
+          },
+          {
+            "title": "New York Composite & Midcaps (MDY)",
+            "text": "The New York Composite continues to outperform the NASDAQ Composite. Midcaps (MDY) are attempting to hold technical support directly at the 200-day moving average line."
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Market Precedents & Moving Average Rules",
+        "kind": "other",
+        "items": [
+          {
+            "title": "Follow-Through Day (FTD) Status",
+            "text": "A formal Follow-Through Day occurred recently, but it remains under pressure. The critical \"line in the sand\" to preserve the FTD buy signal is the prior day's close/true low before the FTD; a close below this level triggers the formal FTD failure signal."
+          },
+          {
+            "title": "The 200-Day Guardrail",
+            "text": "The 200-day moving average line acts as the primary market guardrail—trading above it mandates an optimistic stance, while closing below it requires a defensive posture."
+          },
+          {
+            "title": "Webby's Trend Change Checklist",
+            "text": "1. A close above the target moving average (21-day, 50-day, or 200-day). 2. A daily low above the moving average while closing positive on the day. 3. A daily low remaining above the moving average while closing positive for three consecutive trading sessions."
+          },
+          {
+            "title": "Power Trend Mechanics",
+            "text": "A modified Power Trend requires the 21-day EMA to remain above the 50-day SMA for 5 days, and the daily low to hold above the 21-day EMA for 10 days. The Power Trend is a market condition designed to prevent prematurely acting on sell signals, rather than a standalone buy signal."
+          },
+          {
+            "title": "Historical Bad Break Precedents",
+            "text": "Historical precedent analysis of 200-day moving average breakdowns (including 1985/1986, 1994, 1995, 2018, and 2019) illustrates mass psychological shifts (fear, greed, and hope), reinforcing the need for flexible portfolio management during market transitions."
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Sector ETF Dynamics & Mega-Cap Breakdown",
+        "kind": "sectors",
+        "items": [
+          {
+            "title": "Bifurcated Sector Rotation",
+            "text": "The current market environment mirrors March–October 2000, characterized by sharp tech/AI distribution alongside capital rotation into non-tech areas such as medical, retail, building construction, and select energy names."
+          },
+          {
+            "title": "Mega-Cap Technology Action",
+            "text": ""
+          },
+          {
+            "title": "Google (GOOGL)",
+            "text": "Wedging along lows with multiple closes near daily lows, reflecting technical vulnerability."
+          },
+          {
+            "title": "Microsoft (MSFT)",
+            "text": "Firming up around its 50-day moving average line after digesting Anthropic competitive news and service outages."
+          },
+          {
+            "title": "Apple (AAPL)",
+            "text": "Demonstrating relative stability above key technical moving average levels."
+          },
+          {
+            "title": "Meta (META)",
+            "text": "Trading beneath its 50-day line while forming the left side of a potential consolidation base."
+          },
+          {
+            "title": "CoreWeave (CRWV)",
+            "text": "Locked below its 50-day and 200-day moving averages as an example of AI capital expenditure friction."
+          }
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Individual Featured Stock Technical Setups & Fundamentals",
+        "kind": "stocks",
+        "items": [
+          {
+            "title": "Toast (TOST)",
+            "text": ""
+          },
+          {
+            "title": "Technical Action",
+            "text": "Cleared a handle trendline while bouncing off support at its 21-day EMA line, constructing a valid cup-with-handle pattern."
+          },
+          {
+            "title": "Fundamentals & Setup",
+            "text": "Backed by accelerating sales and earnings growth on Market Surge. Operates a Lynch-style consumer story in restaurant point-of-sale handheld technology, though it faces overhead supply resistance between the $40 and $50 levels."
+          },
+          {
+            "title": "DocuSign (DOCU)",
+            "text": ""
+          },
+          {
+            "title": "Technical Action",
+            "text": "Finding support at its 21-day EMA line with a rising Relative Strength (RS) line above moving averages, breaking through a short-term declining trendline."
+          },
+          {
+            "title": "Fundamentals & Execution",
+            "text": "Benefiting from digital workflow adoption over physical courier delivery, though long-term overhead resistance requires smaller position sizing."
+          },
+          {
+            "title": "Crocs (CROX)",
+            "text": ""
+          },
+          {
+            "title": "Technical Action",
+            "text": "Advanced 4.4% in a strong post-earnings breakout reaction, holding support at its 8-day EMA line."
+          },
+          {
+            "title": "Fundamentals & Setup",
+            "text": "Non-AI retail growth play supported by medical staff adoption and positive post-earnings price reaction, using recent daily lows as a strict exit point."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "title": "Risk Management & Portfolio Strategy",
+        "kind": "strategy",
+        "items": [
+          {
+            "title": "Tactical Position Sizing",
+            "text": "Reduce standard position sizes down to 1%, 2%, or 3% pilot positions (rather than 10% or 25%) to test market traction while limiting drawdown risk."
+          },
+          {
+            "title": "Rule Against Freezing Up",
+            "text": "Avoid freezing up when a winning trade round-trips gains; execute incremental selling (such as 5% or 6% per day/week) to break emotional inertia and preserve capital."
+          },
+          {
+            "title": "Establishing Written Speed Limits",
+            "text": "Set explicit portfolio exposure \"speed limits\" and email weekend game plans (both defensive and offensive) to maintain disciplined execution."
+          },
+          {
+            "title": "Technical Indicator Signals",
+            "text": ""
+          },
+          {
+            "title": "Webby RSI",
+            "text": "Tracks the daily low versus the 21-day EMA in Average True Ranges (ATRs); wait for a \"wall of blue\" (lows holding above the 21-day line) before aggressively deploying capital."
+          },
+          {
+            "title": "Bob Marley Off-High Indicator",
+            "text": "Evaluates pullback depth in ATRs; current pullbacks reaching 8 ATRs on the RSP signal expanded volatility that requires cautious risk control. 📊 Would you like to create an interactive study quiz or flashcards based on these moving average rules and non-AI stock breakout setups?"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-12T20:00:00+00:00",
     "header": "Thursday, November 12, 2026's Report",
     "headline": "### 1. Broad Market Index Performance & Technical Action.",
