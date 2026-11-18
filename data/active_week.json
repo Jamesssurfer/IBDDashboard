@@ -1,5 +1,78 @@
 [
   {
+    "timestamp": "2026-11-17T20:00:00+00:00",
+    "header": "Tuesday, November 17, 2026's Report",
+    "headline": "Market Breakdown & Technical Analysis: Navigating Index Undercuts, Software Carnage, and Biotech Leadership.",
+    "summary": "Market Breakdown & Technical Analysis: Navigating Index Undercuts, Software Carnage, and Biotech Leadership.",
+    "indexes": [],
+    "macro": [
+      {
+        "title": "",
+        "text": "Software (IGV): Plunged 3.3%, marking the primary epicenter of equity market damage as enterprise software components experienced aggressive liquidations. Semiconductors (SMH): Finished significantly higher on a relative basis, logging a decline roughly half that of the software sector as chipmakers held up better ahead of major earnings. Financials (XLF): Ranked as the worst-performing S&P 500 sector with a 1.9% decline, pressured by falling Treasury yields and pre-Fed minutes risk reduction. Healthcare (XLV): Dropped 1.4%, dragged down by health insurance providers following federal regulatory initiatives aimed at curtailing fraudulent practices within Medicare Advantage programs."
+      }
+    ],
+    "sectors": [],
+    "stocks": [
+      {
+        "ticker": "UNH",
+        "tickers": [
+          "UNH",
+          "HD",
+          "NKE",
+          "PAYC",
+          "ASND",
+          "TGTX"
+        ],
+        "company": "",
+        "pct": "",
+        "action": "UnitedHealth Group (UNH): Suffered heavy selling alongside managed care peers Centene and Humana due to Medicare Advantage regulatory oversight. Humana managed to close in the middle of its daily range, holding support at its 10-day moving average line. Home Depot (HD): Reported quarterly earnings and experienced a post-earnings sell-off, pulling back directly to test technical support at its 21-day moving average line. Nike (NKE) & IBM: Logged substantial downside pressure, contributing directly to the Dow's 1.6% single-day breach. Paycom Software (PAYC): Enterprise Software Resilience Paycom Software demonstrated notable relative strength on a day of severe group distribution. Despite Salesforce's 9% drop bleeding into software equities, Paycom declined just 2.7%, holding comfortably inside its buy zone and above its 50-day moving average line. Paycom operates within the human capital management and payroll software group—an industry niche exhibiting broad-based strength alongside peers like Paylocity. Following a volatile post-earnings initial reaction that undercut support, Paycom staged a strong recovery to reclaim its 50-day moving average line. The stock's ability to digest broad sector selling while remaining in a valid base buy zone highlights strong institutional sponsorship. Ascendis Pharma (ASND): Double-Bottom Base in Profitable Biotech Ascendis Pharma represents a highly liquid, $16 billion to $17 billion market capitalization biotechnology firm exhibiting robust technical and fundamental characteristics. The stock is constructing a double-bottom base on its weekly chart following multiple consecutive up weeks. Metric / Attribute\tCompany Specification Market Capitalization\t$16 Billion – $17 Billion (High Liquidity) Core Proprietary Technology\tTransCon (Sustained-release drug delivery platform) Primary Commercial Focus\tPediatric Growth Hormone Deficiencies & Oncology Institutional Sponsorship\tHigh-quality mutual fund index and growth fund ownership Chart Structure\tDouble-bottom base structure; holding tight near highs Ascendis utilizes its proprietary TransCon (Transient Conjugation) technology platform to extend the active duration of therapeutic molecules in the human body. The company generates consistent top-line revenue growth and established annual profitability, setting it apart from speculative clinical-stage biotechs. TG Therapeutics (TGTX): Orderly Pullback to Moving Average Support TG Therapeutics features exceptional relative strength, supported by commercial momentum behind its flagship multiple sclerosis treatment, Briumvi. Briumvi, an oral therapeutic for adults with relapsing forms of multiple sclerosis, is approaching $1 billion in annualized commercial revenue. Following a high-volume earnings breakout, TGTX has executed a low-volume, orderly pullback to test its 10-day moving average line. If broader market weakness persists, analysts are monitoring for a potential test of its 21-day moving average line, which aligns with its prior base breakout buy point, offering an alternate low-risk entry opportunity."
+      }
+    ],
+    "strategy": [],
+    "sections": [
+      {
+        "number": 1,
+        "title": "Broad Market Index Performance & Critical Technical Support Levels",
+        "kind": "indexes",
+        "items": []
+      },
+      {
+        "number": 2,
+        "title": "Macroeconomic Pressures, Interest Rate Dynamics & Sector ETF Rotations",
+        "kind": "macro",
+        "items": [
+          {
+            "title": "",
+            "text": "Software (IGV): Plunged 3.3%, marking the primary epicenter of equity market damage as enterprise software components experienced aggressive liquidations. Semiconductors (SMH): Finished significantly higher on a relative basis, logging a decline roughly half that of the software sector as chipmakers held up better ahead of major earnings. Financials (XLF): Ranked as the worst-performing S&P 500 sector with a 1.9% decline, pressured by falling Treasury yields and pre-Fed minutes risk reduction. Healthcare (XLV): Dropped 1.4%, dragged down by health insurance providers following federal regulatory initiatives aimed at curtailing fraudulent practices within Medicare Advantage programs."
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Featured Individual Stock Technical Setups & Fundamental Growth",
+        "kind": "stocks",
+        "items": [
+          {
+            "title": "",
+            "text": "UnitedHealth Group (UNH): Suffered heavy selling alongside managed care peers Centene and Humana due to Medicare Advantage regulatory oversight. Humana managed to close in the middle of its daily range, holding support at its 10-day moving average line. Home Depot (HD): Reported quarterly earnings and experienced a post-earnings sell-off, pulling back directly to test technical support at its 21-day moving average line. Nike (NKE) & IBM: Logged substantial downside pressure, contributing directly to the Dow's 1.6% single-day breach. Paycom Software (PAYC): Enterprise Software Resilience Paycom Software demonstrated notable relative strength on a day of severe group distribution. Despite Salesforce's 9% drop bleeding into software equities, Paycom declined just 2.7%, holding comfortably inside its buy zone and above its 50-day moving average line. Paycom operates within the human capital management and payroll software group—an industry niche exhibiting broad-based strength alongside peers like Paylocity. Following a volatile post-earnings initial reaction that undercut support, Paycom staged a strong recovery to reclaim its 50-day moving average line. The stock's ability to digest broad sector selling while remaining in a valid base buy zone highlights strong institutional sponsorship. Ascendis Pharma (ASND): Double-Bottom Base in Profitable Biotech Ascendis Pharma represents a highly liquid, $16 billion to $17 billion market capitalization biotechnology firm exhibiting robust technical and fundamental characteristics. The stock is constructing a double-bottom base on its weekly chart following multiple consecutive up weeks. Metric / Attribute\tCompany Specification Market Capitalization\t$16 Billion – $17 Billion (High Liquidity) Core Proprietary Technology\tTransCon (Sustained-release drug delivery platform) Primary Commercial Focus\tPediatric Growth Hormone Deficiencies & Oncology Institutional Sponsorship\tHigh-quality mutual fund index and growth fund ownership Chart Structure\tDouble-bottom base structure; holding tight near highs Ascendis utilizes its proprietary TransCon (Transient Conjugation) technology platform to extend the active duration of therapeutic molecules in the human body. The company generates consistent top-line revenue growth and established annual profitability, setting it apart from speculative clinical-stage biotechs. TG Therapeutics (TGTX): Orderly Pullback to Moving Average Support TG Therapeutics features exceptional relative strength, supported by commercial momentum behind its flagship multiple sclerosis treatment, Briumvi. Briumvi, an oral therapeutic for adults with relapsing forms of multiple sclerosis, is approaching $1 billion in annualized commercial revenue. Following a high-volume earnings breakout, TGTX has executed a low-volume, orderly pullback to test its 10-day moving average line. If broader market weakness persists, analysts are monitoring for a potential test of its 21-day moving average line, which aligns with its prior base breakout buy point, offering an alternate low-risk entry opportunity."
+          }
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Catalyst Analysis: Nvidia Earnings & Executive Leadership Shift",
+        "kind": "strategy",
+        "items": []
+      },
+      {
+        "number": 5,
+        "title": "Portfolio Execution, Risk Management & Technical Rules",
+        "kind": "strategy",
+        "items": []
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-16T20:00:00+00:00",
     "header": "Monday, November 16, 2026's Report",
     "headline": "Market Breakdown & Equity Risk Management Report.",
