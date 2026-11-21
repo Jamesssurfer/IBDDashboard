@@ -1,5 +1,63 @@
 [
   {
+    "timestamp": "2026-11-20T20:00:00+00:00",
+    "header": "Friday, November 20, 2026's Report",
+    "headline": "Market Breakdown & Technical Analysis: Navigating Index Violations, AI Liquidity Drains, and Capital Preservation Protocols.",
+    "summary": "Market Breakdown & Technical Analysis: Navigating Index Violations, AI Liquidity Drains, and Capital Preservation Protocols.",
+    "indexes": [],
+    "macro": [],
+    "sectors": [],
+    "stocks": [],
+    "strategy": [
+      {
+        "title": "",
+        "text": "Avoiding Over-Extended Shorts: Initiating short positions after a 10.0% weekly index collapse exposes traders to violent counter-trend short-covering rallies. As traders observe, the heart is already out of the watermelon at these levels. Shorting Resistance, Not Weakness: Institutional shorting rules articulated by David Ryan and Mark Minervini mandate executing short trades on weak, low-volume rallies into declining moving average resistance lines (such as 21-day or 50-day lines), rather than selling short on deep panic days. Profit Taking Discipline: Professional short positions must be covered into severe downside panic spikes to lock in gains. Portfolio managers like Mike noted taking off SPY short positions to lock in an 8R profit rather than holding greedily for lower targets. Market Trend-Change Checklist To safely transition capital from cash back into equities during a market turnaround, traders must follow a structured technical checklist: 1. Day 1 Rally Attempt: Benchmark index must establish a definitive low and close positive off session lows. 2. Low Preservation: Subsequent sessions must hold above the Day 1 low without undercutting the floor. 3. Follow-Through Day: On Day 4 or later of the rally attempt, a major index must surge significantly (typically 1.5% or more) on higher volume than the prior session. 4. Progressive Exposure: Deploy small pilot positions (such as 0.25% to 0.5% risk) only on high-RS leaders breaking out of proper bases. 5. Pyramiding Capital: Add further capital only after initial pilot trades demonstrate immediate open profit traction."
+      }
+    ],
+    "sections": [
+      {
+        "number": 1,
+        "title": "Major Index Performance & Technical Action",
+        "kind": "indexes",
+        "items": []
+      },
+      {
+        "number": 2,
+        "title": "Macroeconomic Sentiment, Volatility & Market Psychology",
+        "kind": "macro",
+        "items": []
+      },
+      {
+        "number": 3,
+        "title": "Technology Leadership Breakdown & IPO Dynamics",
+        "kind": "other",
+        "items": [
+          {
+            "title": "",
+            "text": "The 12% Cycle Rule: Market research demonstrates that only approximately 12% of leading stocks during one bull market cycle retain their market leadership in the subsequent cycle. While Nvidia previously demonstrated rare multi-cycle leadership, massive fundamental and technical breakdowns significantly lower the probability of immediate outperformance. The 2000 Cisco Precedent: Cisco Systems served as the indispensable infrastructure leader of the 1990s Internet boom. Following its 2000 peak, Cisco took 25 years to reclaim its historical high of $82, despite remaining a profitable, widely used technology enterprise. Holding darlings through 50%+ drawdowns risks severe long-term capital impairment. Anthropic IPO Liquidity Absorption The market's structural downside reversal coincided precisely with the high-profile public debut of Anthropic. Similar to historical concerns surrounding massive offerings like SpaceX, record-breaking megacap IPOs can absorb substantial market liquidity, draining buying power from established equities during vulnerable market conditions. From a technical risk standpoint, trading brand-new IPOs during broad market corrections is inherently unmanageable due to the absence of historical price data, overhead supply levels, and established moving average support lines."
+          }
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Individual Stock Technical Setups & Relative Strength Analysis",
+        "kind": "stocks",
+        "items": []
+      },
+      {
+        "number": 5,
+        "title": "Systematic Risk Control, Shorting Protocols & Trend Change Framework",
+        "kind": "strategy",
+        "items": [
+          {
+            "title": "",
+            "text": "Avoiding Over-Extended Shorts: Initiating short positions after a 10.0% weekly index collapse exposes traders to violent counter-trend short-covering rallies. As traders observe, the heart is already out of the watermelon at these levels. Shorting Resistance, Not Weakness: Institutional shorting rules articulated by David Ryan and Mark Minervini mandate executing short trades on weak, low-volume rallies into declining moving average resistance lines (such as 21-day or 50-day lines), rather than selling short on deep panic days. Profit Taking Discipline: Professional short positions must be covered into severe downside panic spikes to lock in gains. Portfolio managers like Mike noted taking off SPY short positions to lock in an 8R profit rather than holding greedily for lower targets. Market Trend-Change Checklist To safely transition capital from cash back into equities during a market turnaround, traders must follow a structured technical checklist: 1. Day 1 Rally Attempt: Benchmark index must establish a definitive low and close positive off session lows. 2. Low Preservation: Subsequent sessions must hold above the Day 1 low without undercutting the floor. 3. Follow-Through Day: On Day 4 or later of the rally attempt, a major index must surge significantly (typically 1.5% or more) on higher volume than the prior session. 4. Progressive Exposure: Deploy small pilot positions (such as 0.25% to 0.5% risk) only on high-RS leaders breaking out of proper bases. 5. Pyramiding Capital: Add further capital only after initial pilot trades demonstrate immediate open profit traction."
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-19T20:00:00+00:00",
     "header": "Thursday, November 19, 2026's Report",
     "headline": "In-Depth Market & Technical Analysis Report: Index Support Breaches, AI Liquidity Drains, and Defensive Positioning.",
