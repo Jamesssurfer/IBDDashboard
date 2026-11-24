@@ -1091,11 +1091,6 @@
     "summary": "The equity markets experienced widespread technical damage on Tuesday, November 17th, as major benchmark indexes undercut critical short-term support levels and tested long-term moving averages. A severe sell-off in enterprise software, anchored by a multi-percentage drop in Salesforce, pulled the Dow Jones Industrial Average beneath its long-term trendline, while the S&P 500 and NASDAQ Composite registered critical tests of key structural levels. Despite index-level distribution and negative market breadth across major exchanges, distinct pockets of institutional relative strength surfaced in specialized workforce management software and profitable biotechnology firms.",
     "indexes": [
       {
-        "name": "Index note",
-        "pct": "-0.75%",
-        "action": "Major equity indexes suffered coordinated downside pressure during the session, with institutional distribution pushing multiple benchmarks below key technical trendlines. While late-session short-covering allowed technology benchmarks to close off their intraday lows, market breadth remained heavily skewed toward decliners. Index / ETF\tDaily Return (%)\tTechnical Status\tKey Support / Level Tested NASDAQ Composite\t-0.75%\tBelow 200-day SMA\tHeld 24,000 round-number breakout floor."
-      },
-      {
         "name": "S&P 500 (SPY)",
         "pct": "-1.60%",
         "action": "1.00%+\tClosed at 200-day SMA\tIntraday breach; held 200-day at close Dow Jones Industrial Average\t-1.60%\tBelow 200-day SMA\tClosed at 57,611 vs 57,771 200-day line Russell 2000 (Small Caps)\t-1.50%\tBelow 200-day SMA\tFresh lows to early Oct; 50/200 cross."

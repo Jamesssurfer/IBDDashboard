@@ -7,11 +7,6 @@
       "summary": "As analyzed by Investor's Business Daily market strategists Alyssa Corum and Justin Nielsen, equity markets experienced severe technical damage as major benchmarks turned tail and closed near their absolute daily lows. The market's inability to sustain upside traction following a recent follow-through day signal has triggered a formal shift to a defensive posture. All major indexes closed in the lowest quartile—and for several, the lower tenth—of their daily price ranges, confirming heavy institutional selling pressure throughout the session.",
       "indexes": [
         {
-          "name": "Index note",
-          "pct": "-2.5%",
-          "action": "Index / Benchmark\tDaily Change\tKey Moving Average & Technical Levels\tTechnical Status & Market Action NASDAQ Composite\t-2.5%\tBreached prior FTD low; below 21-day & 50-day lines\tHeavy distribution; opened lower and trended downward all session."
-        },
-        {
           "name": "NASDAQ 100 (QQQ)",
           "pct": "2.7%",
           "action": "2.7%\tTurned away at declining 21-day moving average\tUnderperformed broader composite; leading tech names faced intense pressure."
@@ -1800,6 +1795,14 @@
         {
           "title": "Execution",
           "text": "Immediately back out of failed early entries. If a breakout equity decisively breaks below its underlying support ceiling—such as Lumentum falling back below the 1,000 level—close the position immediately to contain capital losses."
+        },
+        {
+          "title": "Tactical Rule",
+          "text": "Actively adjust portfolio risk exposure ahead of high-volatility binary events, specifically corporate earnings releases and critical macroeconomic data points."
+        },
+        {
+          "title": "Execution",
+          "text": "Audit all portfolio holdings ahead of the upcoming earnings cycle (including reports from major financial institutions and key tech leaders like Taiwan Semiconductor). Trim extended, unprofitable positions and take partial profits on rapidly extended momentum holdings to insulate total equity against unexpected gap-downs."
         }
       ],
       "sections": [
@@ -1987,8 +1990,15 @@
             },
             {
               "title": "Execution",
-              "text": "Focus capital exclusively on equities trading near all-time highs with multi-quarter triple-digit or quadruple-digit fundamental growth (e.g., LITE, MU), while strictly avoiding laggards trading near their 200-day moving averages (e.g., GLW, EWQ). 4. Pre-Earnings Portfolio Defense."
-            },
+              "text": "Focus capital exclusively on equities trading near all-time highs with multi-quarter triple-digit or quadruple-digit fundamental growth (e.g., LITE, MU), while strictly avoiding laggards trading near their 200-day moving averages (e.g., GLW, EWQ)."
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "title": "Pre-Earnings Portfolio Defense",
+          "kind": "strategy",
+          "items": [
             {
               "title": "Tactical Rule",
               "text": "Actively adjust portfolio risk exposure ahead of high-volatility binary events, specifically corporate earnings releases and critical macroeconomic data points."
