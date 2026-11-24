@@ -1,5 +1,86 @@
 [
   {
+    "timestamp": "2026-11-23T20:00:00+00:00",
+    "header": "Monday, November 23, 2026's Report",
+    "headline": "Market Breakdown & Technical Analysis: Navigating Oversold Snapbacks, Historical Bounce Precedents, and Leadership Rotations.",
+    "summary": "Market Breakdown & Technical Analysis: Navigating Oversold Snapbacks, Historical Bounce Precedents, and Leadership Rotations.",
+    "indexes": [],
+    "macro": [
+      {
+        "title": "",
+        "text": "Linear Regression Channels & Mean Reversion: A statistical linear regression analysis anchored to the October 6 peak establishes the trendline \"home base\" (the center line of best fit). On Monday's session, the S&P 500 failed to reach its linear regression home base, signaling underlying relative weakness. Conversely, the NASDAQ Composite snapped back to touch its one-standard-deviation lower channel boundary, executing a classic statistical mean-reversion trade out of oversold territory. 50% Retracement Resistance & Overhead Lines in the Sand: Both the S&P 500 and NASDAQ Composite remain trapped beneath critical 50% retracement thresholds derived from recent swing highs to lows. For the NASDAQ Composite, the 24,442 level represents a vital overhead \"line in the sand\" that must be reclaimed to signal genuine structural recovery. Fibonacci Short-Term Moving Average Ribbons: A ribbon of short-term Fibonacci moving averages (3-day, 5-day, 8-day, 13-day, 21-day, and 34-day) shows an initial U-turn curve off extreme lows. However, the moving averages remain inverted rather than expanded in proper bullish alignment (where the 3-day line resides above the 5-day, 5-day above 8-day, and so forth). The 200-Day Moving Average Baseline: The 200-day simple moving average represents the ultimate structural boundary separating secular bull markets from severe institutional drawdowns. Historical market cycles—including 1907, 1929, 1973–1974, 1987, 2000–2002, and 2007–2008—demonstrate that prolonged bear markets occur beneath the 200-day line. When equity benchmarks trade below their 200-day SMA, capital protection mandates assuming downside risk until benchmarks reclaim and hold above this line."
+      }
+    ],
+    "sectors": [
+      {
+        "name": "",
+        "tickers": [],
+        "pct": "",
+        "action": "Technical Health: Trapped in a broad weekly downtrend beneath intermediate moving average lines. Base-Building Requirement: Lacks any proper institutional buy pattern or actionable base setup. Historical precedents from 2000 (including Cisco Systems, Microsoft, and Amazon) show that major tech leaders often require quarters or years of base building before regaining sustained upside momentum. Strategy: Sidelined until a proper, lower-risk base pattern establishes a formal buy point. Relative Strength (RS) Line Exit Framework (\"Grateful Dead Signal\") To avoid holding declining leaders throughout 70%+ structural drawdowns, institutional methodology utilizes a strict moving average overlay on the Relative Strength (RS) line: 1. Indicator Construction: Plot three smoothing moving averages directly on the stock's Relative Strength line (applicable on daily, weekly, or monthly timeframes). 2. Execution Trigger: When the blue RS line breaks decisively below its third (slowest) moving average, it triggers the formal exit signal (\"Grateful Dead signal\"). 3. Portfolio Action: Immediately harvest remaining profits or cut losses, reallocating capital to cash or emerging leaders whose RS lines trade cleanly above their moving averages."
+      }
+    ],
+    "stocks": [],
+    "strategy": [
+      {
+        "title": "",
+        "text": "Timing Window: Can occur no earlier than Day 4 of a rally attempt. Day 1 was established on Monday, November 23; Day 0 (the rally low established on Friday, November 20) represents the absolute line in the sand that must not be undercut. Price & Volume Requirements: Requires an index gain of 1.25% or greater on the NASDAQ Composite or S&P 500, accompanied by total session volume heavier than the prior session. Holiday Session Nuance: Day 4 of the current rally attempt falls on Black Friday (a shortened trading session following Thanksgiving). Achieving higher total volume on a short session is statistically improbable unless distorted by penny stock volume. Therefore, an advance on Black Friday may represent an \"FTD in spirit,\" but institutional confirmation will likely require a traditional FTD during the following trading week. Failure Management: Over 50% of historical Follow-Through Days ultimately fail. A close below the low of the FTD session immediately invalidates the buy signal and mandates raising cash exposure. Three-Phase Trend Change Checklist To complement Follow-Through Day rules, institutional traders utilize a three-phase Trend Change Checklist: 1. Closing Price Above Moving Average: Must achieve a daily close above the target line (21-day, 50-day, or 200-day). 2. Intraday Low Above Moving Average: Daily low must remain above the moving average while closing positive on the session. 3. Three-Day Confirmation Rule: Must maintain daily lows above the moving average while closing positive for 3 consecutive sessions. Execution Strategy & Cash Management 1. Maintain Cash Posture During Day 1 Bounces: Active traders should remain 100% in cash or held long-term positions during initial explosive snapback days, avoiding the temptation to chase momentum without trend confirmation. 2. Build and Merge Sector Watchlists: Screen the database for equities holding above their 50-day and 200-day moving averages with daily volume exceeding $20 million. Group focus lists by industry sector to identify emerging accumulation clusters. 3. Monitor Relative Strength Divergences: Focus capital exclusively on equities whose RS lines make new high ground ahead of broad market index recoveries."
+      }
+    ],
+    "sections": [
+      {
+        "number": 1,
+        "title": "Broad Market Index Performance & Day 1 Rally Dynamics",
+        "kind": "indexes",
+        "items": []
+      },
+      {
+        "number": 2,
+        "title": "Macroeconomic Catalysts, Federal Reserve Policy & Intermarket Indicators",
+        "kind": "macro",
+        "items": [
+          {
+            "title": "",
+            "text": "Linear Regression Channels & Mean Reversion: A statistical linear regression analysis anchored to the October 6 peak establishes the trendline \"home base\" (the center line of best fit). On Monday's session, the S&P 500 failed to reach its linear regression home base, signaling underlying relative weakness. Conversely, the NASDAQ Composite snapped back to touch its one-standard-deviation lower channel boundary, executing a classic statistical mean-reversion trade out of oversold territory. 50% Retracement Resistance & Overhead Lines in the Sand: Both the S&P 500 and NASDAQ Composite remain trapped beneath critical 50% retracement thresholds derived from recent swing highs to lows. For the NASDAQ Composite, the 24,442 level represents a vital overhead \"line in the sand\" that must be reclaimed to signal genuine structural recovery. Fibonacci Short-Term Moving Average Ribbons: A ribbon of short-term Fibonacci moving averages (3-day, 5-day, 8-day, 13-day, 21-day, and 34-day) shows an initial U-turn curve off extreme lows. However, the moving averages remain inverted rather than expanded in proper bullish alignment (where the 3-day line resides above the 5-day, 5-day above 8-day, and so forth). The 200-Day Moving Average Baseline: The 200-day simple moving average represents the ultimate structural boundary separating secular bull markets from severe institutional drawdowns. Historical market cycles—including 1907, 1929, 1973–1974, 1987, 2000–2002, and 2007–2008—demonstrate that prolonged bear markets occur beneath the 200-day line. When equity benchmarks trade below their 200-day SMA, capital protection mandates assuming downside risk until benchmarks reclaim and hold above this line."
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Historical Precedents & Market Rebound Case Studies",
+        "kind": "other",
+        "items": []
+      },
+      {
+        "number": 4,
+        "title": "Model-Book Leadership Deceleration & Sector Rotations",
+        "kind": "sectors",
+        "items": [
+          {
+            "title": "",
+            "text": "Technical Health: Trapped in a broad weekly downtrend beneath intermediate moving average lines. Base-Building Requirement: Lacks any proper institutional buy pattern or actionable base setup. Historical precedents from 2000 (including Cisco Systems, Microsoft, and Amazon) show that major tech leaders often require quarters or years of base building before regaining sustained upside momentum. Strategy: Sidelined until a proper, lower-risk base pattern establishes a formal buy point. Relative Strength (RS) Line Exit Framework (\"Grateful Dead Signal\") To avoid holding declining leaders throughout 70%+ structural drawdowns, institutional methodology utilizes a strict moving average overlay on the Relative Strength (RS) line: 1. Indicator Construction: Plot three smoothing moving averages directly on the stock's Relative Strength line (applicable on daily, weekly, or monthly timeframes). 2. Execution Trigger: When the blue RS line breaks decisively below its third (slowest) moving average, it triggers the formal exit signal (\"Grateful Dead signal\"). 3. Portfolio Action: Immediately harvest remaining profits or cut losses, reallocating capital to cash or emerging leaders whose RS lines trade cleanly above their moving averages."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "title": "Individual Growth Stock Technical Setups & Actionable Patterns",
+        "kind": "stocks",
+        "items": []
+      },
+      {
+        "number": 6,
+        "title": "Systematic Risk Management & Portfolio Execution Rules",
+        "kind": "strategy",
+        "items": [
+          {
+            "title": "",
+            "text": "Timing Window: Can occur no earlier than Day 4 of a rally attempt. Day 1 was established on Monday, November 23; Day 0 (the rally low established on Friday, November 20) represents the absolute line in the sand that must not be undercut. Price & Volume Requirements: Requires an index gain of 1.25% or greater on the NASDAQ Composite or S&P 500, accompanied by total session volume heavier than the prior session. Holiday Session Nuance: Day 4 of the current rally attempt falls on Black Friday (a shortened trading session following Thanksgiving). Achieving higher total volume on a short session is statistically improbable unless distorted by penny stock volume. Therefore, an advance on Black Friday may represent an \"FTD in spirit,\" but institutional confirmation will likely require a traditional FTD during the following trading week. Failure Management: Over 50% of historical Follow-Through Days ultimately fail. A close below the low of the FTD session immediately invalidates the buy signal and mandates raising cash exposure. Three-Phase Trend Change Checklist To complement Follow-Through Day rules, institutional traders utilize a three-phase Trend Change Checklist: 1. Closing Price Above Moving Average: Must achieve a daily close above the target line (21-day, 50-day, or 200-day). 2. Intraday Low Above Moving Average: Daily low must remain above the moving average while closing positive on the session. 3. Three-Day Confirmation Rule: Must maintain daily lows above the moving average while closing positive for 3 consecutive sessions. Execution Strategy & Cash Management 1. Maintain Cash Posture During Day 1 Bounces: Active traders should remain 100% in cash or held long-term positions during initial explosive snapback days, avoiding the temptation to chase momentum without trend confirmation. 2. Build and Merge Sector Watchlists: Screen the database for equities holding above their 50-day and 200-day moving averages with daily volume exceeding $20 million. Group focus lists by industry sector to identify emerging accumulation clusters. 3. Monitor Relative Strength Divergences: Focus capital exclusively on equities whose RS lines make new high ground ahead of broad market index recoveries."
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-20T20:00:00+00:00",
     "header": "Friday, November 20, 2026's Report",
     "headline": "Market Breakdown & Technical Analysis: Navigating Index Violations, AI Liquidity Drains, and Capital Preservation Protocols.",
@@ -329,78 +410,6 @@
       {
         "number": 5,
         "title": "Portfolio Execution, Risk Management & Technical Rules",
-        "kind": "strategy",
-        "items": []
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-11-16T20:00:00+00:00",
-    "header": "Monday, November 16, 2026's Report",
-    "headline": "Market Breakdown & Equity Risk Management Report.",
-    "summary": "Market Breakdown & Equity Risk Management Report.",
-    "indexes": [],
-    "macro": [
-      {
-        "title": "",
-        "text": "10-Year Treasury Yield (TNX) & Small-Cap Drag: The 10-year Treasury yield remains a persistent headwind for small-cap equities. The Russell 2000 has remained locked in a multi-month downtrend since August, failing to generate sustained upside momentum whenever yields spike or remain elevated. Crude Oil & Transportation Action: Crude oil plunged 3.8% on the session. Lower energy costs provided minor support to transport and leisure equities. The U.S. Global Jets ETF (JETS) managed a modest positive close alongside utilities and select lodging plays, supported by earnings strength in international travel names such as Atour (HTHT). However, strategists caution against chasing travel equities, as capital could rapidly rotate out of leisure names if technology leadership re-emerges. Bitcoin as a Macro Sentiment Tell: Bitcoin dropped 5.5% in a swift downside move. Rather than reflecting crypto-specific headlines, the sell-off serves as a broader bellwether for institutional \"risk-off\" liquidation, confirming that capital is fleeing speculative assets across the board. Defensive Sector Instability: Institutional rotation into defensive havens proved short-lived. The Consumer Staples ETF (XLP), which initially traded higher, succumbed to broad market selling pressure and closed well off its session highs, demonstrating that even traditional safe-haven sectors offer limited shelter during heavy index distribution. Semiconductor & AI Ecosystem Friction: Technology indexes were heavily dragged down by ongoing distribution across semiconductor capital equipment and the broader artificial intelligence hardware ecosystem ahead of Nvidia's quarterly earnings release."
-      }
-    ],
-    "sectors": [],
-    "stocks": [
-      {
-        "ticker": "ELV",
-        "tickers": [
-          "ELV",
-          "APN",
-          "SEZL",
-          "BNPL",
-          "ATR"
-        ],
-        "company": "",
-        "pct": "+2.0%",
-        "action": "Fundamental & Demographic Drivers: Although recent quarterly earnings reflect spotty operational performance (including a quarterly net loss), institutional buying is supported by defensive demographic trends in Medicare and managed care for an aging U.S. population. Peer managed-care names like Elevance Health (ELV) are displaying similar technical holding power. Trading Strategy: Managed-care stocks rarely exhibit explosive price moves. Given elevated general market risk, investors targeting Humana should utilize smaller position sizing (2% to 3% portfolio allocation) or enforce strict stop-loss rules to protect portfolio equity. Appian (APN) — Enterprise Software & Workflow Automation Appian advanced 2.0% following a favorable quarterly earnings reaction, bucking broader software weakness. Shares pushed up toward major overhead chart resistance established by prior swing highs. Fundamental Growth & AI Exposure: Appian benefits from institutional adoption of its cloud software subscriptions, digital workflow automation, and enterprise AI tools. Execution & Profit-Taking Protocol: The stock's rapid post-earnings advance triggered a 20% to 25% profit benchmark from its base breakout. Strategists emphasize that the classic \"8-week hold rule\"—developed by IBD founder William O'Neal for high-momentum leaders in powerful bull markets—must be suspended during hostile market conditions. Investors holding Appian should secure partial or full profits at the 20% to 25% gain threshold rather than risking a round-trip sell-off. Sezzle (SEZL) — Specialty Credit & Financial Technology Sezzle gained 4.7% on the session, clearing near-term consolidation highs on the heels of a positive earnings report. The stock remains positioned comfortably above its 21-day, 50-day, and 40-week moving average lines. Business Model & Group Action: Operates in the high-growth buy-now-pay-later (BNPL) and digital credit-building segment, participating in broad payment sector strength alongside industry leaders like Visa. High ATR Risk Management: Sezzle features a high Average True Range (ATR), moving over 7% on an average trading day. Because high-ATR stocks can trigger standard 7% to 8% stop-loss limits through routine daily volatility, position sizing must be scaled down significantly to prevent premature shakeouts while maintaining strict overall portfolio risk control."
-      }
-    ],
-    "strategy": [],
-    "sections": [
-      {
-        "number": 1,
-        "title": "Broad Market Index Breakdown & Technical Failure",
-        "kind": "indexes",
-        "items": []
-      },
-      {
-        "number": 2,
-        "title": "Macroeconomic Pressures, Sector Rotations & Risk-Off Signals",
-        "kind": "macro",
-        "items": [
-          {
-            "title": "",
-            "text": "10-Year Treasury Yield (TNX) & Small-Cap Drag: The 10-year Treasury yield remains a persistent headwind for small-cap equities. The Russell 2000 has remained locked in a multi-month downtrend since August, failing to generate sustained upside momentum whenever yields spike or remain elevated. Crude Oil & Transportation Action: Crude oil plunged 3.8% on the session. Lower energy costs provided minor support to transport and leisure equities. The U.S. Global Jets ETF (JETS) managed a modest positive close alongside utilities and select lodging plays, supported by earnings strength in international travel names such as Atour (HTHT). However, strategists caution against chasing travel equities, as capital could rapidly rotate out of leisure names if technology leadership re-emerges. Bitcoin as a Macro Sentiment Tell: Bitcoin dropped 5.5% in a swift downside move. Rather than reflecting crypto-specific headlines, the sell-off serves as a broader bellwether for institutional \"risk-off\" liquidation, confirming that capital is fleeing speculative assets across the board. Defensive Sector Instability: Institutional rotation into defensive havens proved short-lived. The Consumer Staples ETF (XLP), which initially traded higher, succumbed to broad market selling pressure and closed well off its session highs, demonstrating that even traditional safe-haven sectors offer limited shelter during heavy index distribution. Semiconductor & AI Ecosystem Friction: Technology indexes were heavily dragged down by ongoing distribution across semiconductor capital equipment and the broader artificial intelligence hardware ecosystem ahead of Nvidia's quarterly earnings release."
-          }
-        ]
-      },
-      {
-        "number": 3,
-        "title": "Individual Stock Technical Setups & Fundamental Characteristics",
-        "kind": "stocks",
-        "items": [
-          {
-            "title": "",
-            "text": "Fundamental & Demographic Drivers: Although recent quarterly earnings reflect spotty operational performance (including a quarterly net loss), institutional buying is supported by defensive demographic trends in Medicare and managed care for an aging U.S. population. Peer managed-care names like Elevance Health (ELV) are displaying similar technical holding power. Trading Strategy: Managed-care stocks rarely exhibit explosive price moves. Given elevated general market risk, investors targeting Humana should utilize smaller position sizing (2% to 3% portfolio allocation) or enforce strict stop-loss rules to protect portfolio equity. Appian (APN) — Enterprise Software & Workflow Automation Appian advanced 2.0% following a favorable quarterly earnings reaction, bucking broader software weakness. Shares pushed up toward major overhead chart resistance established by prior swing highs. Fundamental Growth & AI Exposure: Appian benefits from institutional adoption of its cloud software subscriptions, digital workflow automation, and enterprise AI tools. Execution & Profit-Taking Protocol: The stock's rapid post-earnings advance triggered a 20% to 25% profit benchmark from its base breakout. Strategists emphasize that the classic \"8-week hold rule\"—developed by IBD founder William O'Neal for high-momentum leaders in powerful bull markets—must be suspended during hostile market conditions. Investors holding Appian should secure partial or full profits at the 20% to 25% gain threshold rather than risking a round-trip sell-off. Sezzle (SEZL) — Specialty Credit & Financial Technology Sezzle gained 4.7% on the session, clearing near-term consolidation highs on the heels of a positive earnings report. The stock remains positioned comfortably above its 21-day, 50-day, and 40-week moving average lines. Business Model & Group Action: Operates in the high-growth buy-now-pay-later (BNPL) and digital credit-building segment, participating in broad payment sector strength alongside industry leaders like Visa. High ATR Risk Management: Sezzle features a high Average True Range (ATR), moving over 7% on an average trading day. Because high-ATR stocks can trigger standard 7% to 8% stop-loss limits through routine daily volatility, position sizing must be scaled down significantly to prevent premature shakeouts while maintaining strict overall portfolio risk control."
-          }
-        ]
-      },
-      {
-        "number": 4,
-        "title": "Market Environment Assessment & Tactical Risk Management",
-        "kind": "strategy",
-        "items": []
-      },
-      {
-        "number": 5,
-        "title": "Portfolio Positioning & Execution Protocol",
         "kind": "strategy",
         "items": []
       }

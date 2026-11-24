@@ -1,6 +1,78 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-11-16T20:00:00+00:00",
+      "header": "Monday, November 16, 2026's Report",
+      "headline": "Market Breakdown & Equity Risk Management Report.",
+      "summary": "Market Breakdown & Equity Risk Management Report.",
+      "indexes": [],
+      "macro": [
+        {
+          "title": "",
+          "text": "10-Year Treasury Yield (TNX) & Small-Cap Drag: The 10-year Treasury yield remains a persistent headwind for small-cap equities. The Russell 2000 has remained locked in a multi-month downtrend since August, failing to generate sustained upside momentum whenever yields spike or remain elevated. Crude Oil & Transportation Action: Crude oil plunged 3.8% on the session. Lower energy costs provided minor support to transport and leisure equities. The U.S. Global Jets ETF (JETS) managed a modest positive close alongside utilities and select lodging plays, supported by earnings strength in international travel names such as Atour (HTHT). However, strategists caution against chasing travel equities, as capital could rapidly rotate out of leisure names if technology leadership re-emerges. Bitcoin as a Macro Sentiment Tell: Bitcoin dropped 5.5% in a swift downside move. Rather than reflecting crypto-specific headlines, the sell-off serves as a broader bellwether for institutional \"risk-off\" liquidation, confirming that capital is fleeing speculative assets across the board. Defensive Sector Instability: Institutional rotation into defensive havens proved short-lived. The Consumer Staples ETF (XLP), which initially traded higher, succumbed to broad market selling pressure and closed well off its session highs, demonstrating that even traditional safe-haven sectors offer limited shelter during heavy index distribution. Semiconductor & AI Ecosystem Friction: Technology indexes were heavily dragged down by ongoing distribution across semiconductor capital equipment and the broader artificial intelligence hardware ecosystem ahead of Nvidia's quarterly earnings release."
+        }
+      ],
+      "sectors": [],
+      "stocks": [
+        {
+          "ticker": "ELV",
+          "tickers": [
+            "ELV",
+            "APN",
+            "SEZL",
+            "BNPL",
+            "ATR"
+          ],
+          "company": "",
+          "pct": "+2.0%",
+          "action": "Fundamental & Demographic Drivers: Although recent quarterly earnings reflect spotty operational performance (including a quarterly net loss), institutional buying is supported by defensive demographic trends in Medicare and managed care for an aging U.S. population. Peer managed-care names like Elevance Health (ELV) are displaying similar technical holding power. Trading Strategy: Managed-care stocks rarely exhibit explosive price moves. Given elevated general market risk, investors targeting Humana should utilize smaller position sizing (2% to 3% portfolio allocation) or enforce strict stop-loss rules to protect portfolio equity. Appian (APN) — Enterprise Software & Workflow Automation Appian advanced 2.0% following a favorable quarterly earnings reaction, bucking broader software weakness. Shares pushed up toward major overhead chart resistance established by prior swing highs. Fundamental Growth & AI Exposure: Appian benefits from institutional adoption of its cloud software subscriptions, digital workflow automation, and enterprise AI tools. Execution & Profit-Taking Protocol: The stock's rapid post-earnings advance triggered a 20% to 25% profit benchmark from its base breakout. Strategists emphasize that the classic \"8-week hold rule\"—developed by IBD founder William O'Neal for high-momentum leaders in powerful bull markets—must be suspended during hostile market conditions. Investors holding Appian should secure partial or full profits at the 20% to 25% gain threshold rather than risking a round-trip sell-off. Sezzle (SEZL) — Specialty Credit & Financial Technology Sezzle gained 4.7% on the session, clearing near-term consolidation highs on the heels of a positive earnings report. The stock remains positioned comfortably above its 21-day, 50-day, and 40-week moving average lines. Business Model & Group Action: Operates in the high-growth buy-now-pay-later (BNPL) and digital credit-building segment, participating in broad payment sector strength alongside industry leaders like Visa. High ATR Risk Management: Sezzle features a high Average True Range (ATR), moving over 7% on an average trading day. Because high-ATR stocks can trigger standard 7% to 8% stop-loss limits through routine daily volatility, position sizing must be scaled down significantly to prevent premature shakeouts while maintaining strict overall portfolio risk control."
+        }
+      ],
+      "strategy": [],
+      "sections": [
+        {
+          "number": 1,
+          "title": "Broad Market Index Breakdown & Technical Failure",
+          "kind": "indexes",
+          "items": []
+        },
+        {
+          "number": 2,
+          "title": "Macroeconomic Pressures, Sector Rotations & Risk-Off Signals",
+          "kind": "macro",
+          "items": [
+            {
+              "title": "",
+              "text": "10-Year Treasury Yield (TNX) & Small-Cap Drag: The 10-year Treasury yield remains a persistent headwind for small-cap equities. The Russell 2000 has remained locked in a multi-month downtrend since August, failing to generate sustained upside momentum whenever yields spike or remain elevated. Crude Oil & Transportation Action: Crude oil plunged 3.8% on the session. Lower energy costs provided minor support to transport and leisure equities. The U.S. Global Jets ETF (JETS) managed a modest positive close alongside utilities and select lodging plays, supported by earnings strength in international travel names such as Atour (HTHT). However, strategists caution against chasing travel equities, as capital could rapidly rotate out of leisure names if technology leadership re-emerges. Bitcoin as a Macro Sentiment Tell: Bitcoin dropped 5.5% in a swift downside move. Rather than reflecting crypto-specific headlines, the sell-off serves as a broader bellwether for institutional \"risk-off\" liquidation, confirming that capital is fleeing speculative assets across the board. Defensive Sector Instability: Institutional rotation into defensive havens proved short-lived. The Consumer Staples ETF (XLP), which initially traded higher, succumbed to broad market selling pressure and closed well off its session highs, demonstrating that even traditional safe-haven sectors offer limited shelter during heavy index distribution. Semiconductor & AI Ecosystem Friction: Technology indexes were heavily dragged down by ongoing distribution across semiconductor capital equipment and the broader artificial intelligence hardware ecosystem ahead of Nvidia's quarterly earnings release."
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "title": "Individual Stock Technical Setups & Fundamental Characteristics",
+          "kind": "stocks",
+          "items": [
+            {
+              "title": "",
+              "text": "Fundamental & Demographic Drivers: Although recent quarterly earnings reflect spotty operational performance (including a quarterly net loss), institutional buying is supported by defensive demographic trends in Medicare and managed care for an aging U.S. population. Peer managed-care names like Elevance Health (ELV) are displaying similar technical holding power. Trading Strategy: Managed-care stocks rarely exhibit explosive price moves. Given elevated general market risk, investors targeting Humana should utilize smaller position sizing (2% to 3% portfolio allocation) or enforce strict stop-loss rules to protect portfolio equity. Appian (APN) — Enterprise Software & Workflow Automation Appian advanced 2.0% following a favorable quarterly earnings reaction, bucking broader software weakness. Shares pushed up toward major overhead chart resistance established by prior swing highs. Fundamental Growth & AI Exposure: Appian benefits from institutional adoption of its cloud software subscriptions, digital workflow automation, and enterprise AI tools. Execution & Profit-Taking Protocol: The stock's rapid post-earnings advance triggered a 20% to 25% profit benchmark from its base breakout. Strategists emphasize that the classic \"8-week hold rule\"—developed by IBD founder William O'Neal for high-momentum leaders in powerful bull markets—must be suspended during hostile market conditions. Investors holding Appian should secure partial or full profits at the 20% to 25% gain threshold rather than risking a round-trip sell-off. Sezzle (SEZL) — Specialty Credit & Financial Technology Sezzle gained 4.7% on the session, clearing near-term consolidation highs on the heels of a positive earnings report. The stock remains positioned comfortably above its 21-day, 50-day, and 40-week moving average lines. Business Model & Group Action: Operates in the high-growth buy-now-pay-later (BNPL) and digital credit-building segment, participating in broad payment sector strength alongside industry leaders like Visa. High ATR Risk Management: Sezzle features a high Average True Range (ATR), moving over 7% on an average trading day. Because high-ATR stocks can trigger standard 7% to 8% stop-loss limits through routine daily volatility, position sizing must be scaled down significantly to prevent premature shakeouts while maintaining strict overall portfolio risk control."
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "title": "Market Environment Assessment & Tactical Risk Management",
+          "kind": "strategy",
+          "items": []
+        },
+        {
+          "number": 5,
+          "title": "Portfolio Positioning & Execution Protocol",
+          "kind": "strategy",
+          "items": []
+        }
+      ]
+    },
+    {
       "timestamp": "2026-11-13T20:00:00+00:00",
       "header": "Friday, November 13, 2026's Report",
       "headline": "### 1. Broad Market Index Performance & Technical Context.",
@@ -1069,7 +1141,9 @@
           ]
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-11-09T20:00:00+00:00",
       "header": "Monday, November 9, 2026's Report",
@@ -1349,9 +1423,7 @@
           ]
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-11-06T20:00:00+00:00",
       "header": "Friday, November 6, 2026's Report",
