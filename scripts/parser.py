@@ -1,16 +1,21 @@
 # scripts/parser.py — IBD (Investor's Business Daily) Daily Market Report
 #
 # Converts ONE raw narrative report into the structured dict logger.py needs.
-# Best-effort extraction for the style in IBDDaily.txt:
-#   - Date lines: "2 October 2026", "1st October 2026", "30 September 2026"
-#   - Numbered ### sections (Index, Macro, Sectors, Stocks, Strategy)
-#   - Bullet lines with **Bold Title**: prose
-#   - Stock tickers in (TICKER) form
+# Supports BOTH formats:
+#   OLD (e.g. 14 / 13 Nov style):
+#     - Date lines: "2 October 2026", "1st October 2026", "30 September 2026"
+#     - Numbered ### **N. Title** sections
+#     - Bullet lines with **Bold Title**: prose
+#   NEW (post-mid-Nov style):
+#     - Same date lines
+#     - Plain numbered top-level sections: "1. Broad Market ..."
+#     - Mix of * bullets, Company (TICKER) paragraphs, and markdown/TSV tables
+#     - Sub-bullets and prose under stock headings
 #
 # Multiple stories separated by a line containing only "===".
 
 import re
-from datetime import datetime, timezone
+from datetime import datetime
 
 MONTHS = {
     "january": 1, "february": 2, "march": 3, "april": 4, "may": 5, "june": 6,
@@ -84,7 +89,7 @@ def _find_header_and_date(text):
 
 
 def _opening_blurb(text):
-    """Text between date and first ### heading (often an intro sentence)."""
+    """Text between date and first section heading (### or plain numbered)."""
     body = text
     # Drop date line
     body = re.sub(
@@ -94,16 +99,21 @@ def _opening_blurb(text):
         count=1,
     )
     body = body.strip()
-    m = re.search(r'\n###\s+', body)
+    # Stop at first ### (anywhere, including start) or top-level numbered section
+    m = re.search(r'(?:^|\n)(?:###\s+|\d+\.\s+[A-Z])', body)
     if m:
-        body = body[:m.start()]
+        body = body[:m.start()].strip()
     body = re.sub(r'^---+\s*', '', body, flags=re.MULTILINE).strip()
+    # Also drop a leading report title line that is not a full sentence
     paragraphs = [p.strip() for p in re.split(r'\n\s*\n', body) if p.strip() and p.strip() != '---']
     if not paragraphs:
         return ""
-    # Skip pure boilerplate like "Here is a detailed..."
     for p in paragraphs:
+        # Skip pure boilerplate / short titles
         if len(p) > 40 and not p.lower().startswith("here is a detailed"):
+            # Skip if it looks like a report title (no period, short-ish)
+            if len(p) < 140 and not re.search(r'[.!?]', p) and p[0].isupper():
+                continue
             return _strip_refs(p)
         if len(p) > 80:
             return _strip_refs(p)
@@ -125,9 +135,10 @@ def _headline_from_blurb(blurb):
 
 
 def _parse_bullets(section_body):
-    """Parse * **Title**: text  bullets into {title, text} list."""
+    """Parse * **Title**: text  / * Title: text / plain continuation into {title, text} list.
+    Also treats lines that look like 'Company (TICKER) — ...' as titled items.
+    """
     items = []
-    # Split on bullet starts
     lines = section_body.split('\n')
     current_title = None
     current_parts = []
@@ -144,11 +155,13 @@ def _parse_bullets(section_body):
         stripped = line.strip()
         if not stripped or stripped == '---':
             continue
+
         # Numbered sub-items under a bullet (e.g. Power Trend criteria)
         if re.match(r'^\d+\.\s+', stripped) and current_title is not None:
             current_parts.append(stripped)
             continue
-        # New bullet
+
+        # New bullet (* or -)
         if stripped.startswith('*') or stripped.startswith('-'):
             content = re.sub(r'^[-*]\s*', '', stripped)
             # **Title**: rest   or  **Title** rest
@@ -160,17 +173,49 @@ def _parse_bullets(section_body):
                 if rest:
                     current_parts.append(rest)
             else:
-                # Continuation or untitled bullet
-                if current_title is not None:
-                    current_parts.append(content)
-                else:
+                # Title: rest  (no bold)
+                m2 = re.match(r'^([^:]{2,60}?):\s+(.*)$', content)
+                if m2 and not content.lower().startswith(('http', 'www')):
                     flush()
-                    current_title = ""
-                    current_parts.append(content)
+                    current_title = m2.group(1).strip()
+                    rest = m2.group(2).strip()
+                    if rest:
+                        current_parts.append(rest)
+                else:
+                    # Continuation or untitled bullet
+                    if current_title is not None:
+                        current_parts.append(content)
+                    else:
+                        flush()
+                        current_title = ""
+                        current_parts.append(content)
+            continue
+
+        # Company (TICKER) — description   or   Company (TICKER)
+        m_co = re.match(
+            r'^([A-Z][A-Za-z0-9\s&\.\-\']+?)\s*\(([A-Z]{1,5}(?:\s*/\s*[A-Z]{1,5})?)\)\s*(?:—|-|:)?\s*(.*)$',
+            stripped,
+        )
+        if m_co and len(m_co.group(1).split()) <= 6:
+            flush()
+            company = m_co.group(1).strip()
+            ticker = m_co.group(2).strip()
+            rest = m_co.group(3).strip()
+            current_title = f"{company} ({ticker})"
+            if rest:
+                current_parts.append(rest)
+            continue
+
+        # Continuation line
+        if current_title is not None or current_parts:
+            current_parts.append(stripped)
         else:
-            # Continuation line
-            if current_title is not None or current_parts:
+            # Orphan prose → treat as untitled item if substantial
+            if len(stripped) > 40:
+                flush()
+                current_title = ""
                 current_parts.append(stripped)
+
     flush()
     return items
 
@@ -179,7 +224,8 @@ def _parse_bullets(section_body):
 _TICKER_STOP = {
     "RS", "EPS", "ETF", "ADR", "CEO", "CFO", "IPO", "GDP", "CPI", "PCE",
     "FOMC", "FED", "USD", "JPY", "EUR", "AI", "IT", "US", "UK", "EU",
-    "PMI", "YOY", "QOQ", "ATM", "OTC", "SEC", "FDA", "MOU",
+    "PMI", "YOY", "QOQ", "ATM", "OTC", "SEC", "FDA", "MOU", "ATR",
+    "SMA", "EMA", "VIX", "FTD", "IBD",
 }
 
 
@@ -203,9 +249,13 @@ def _extract_tickers(title, text, title_only=False):
 
 
 def _pct_from_text(text):
-    # Prefer explicit move phrases: "Advanced 4.5%", "surged 10%", "+0.7%"
+    # Prefer explicit move phrases: "Advanced 4.5%", "surged 10%", "+0.7%", "falling 1.2%"
+    verb_pat = (
+        r'(?:advanced|surged|gained|rose|jumped|fell|falling|dropped|declined|lost|up|down|'
+        r'plunged|tumbled|slipped|rebounded|climbed|declining|dropping|gaining|rising)'
+    )
     m = re.search(
-        r'(?:advanced|surged|gained|rose|jumped|fell|dropped|declined|lost|up|down)\s+'
+        verb_pat + r'\s+'
         r'([+\-]?\d{1,3}(?:,\d{3})*\.?\d*)\s*%',
         text or '',
         re.IGNORECASE,
@@ -213,14 +263,10 @@ def _pct_from_text(text):
     if m:
         val = m.group(1).replace(',', '')
         # Infer sign from verb if missing
-        verb = re.search(
-            r'(advanced|surged|gained|rose|jumped|fell|dropped|declined|lost|up|down)',
-            text or '',
-            re.IGNORECASE,
-        )
+        verb = re.search(verb_pat, text or '', re.IGNORECASE)
         if verb and not val.startswith(('+', '-')):
-            v = verb.group(1).lower()
-            if v in ('fell', 'dropped', 'declined', 'lost', 'down'):
+            v = verb.group(0).lower()
+            if any(neg in v for neg in ('fell', 'fall', 'drop', 'declin', 'lost', 'down', 'plung', 'tumbl', 'slip')):
                 val = '-' + val
             else:
                 val = '+' + val
@@ -228,39 +274,210 @@ def _pct_from_text(text):
     m = re.search(r'([+\-]\d+\.?\d*)\s*%', text or '')
     if m:
         return m.group(1) + '%'
+    # Avoid grabbing "50% retracement" style — only take a lone percentage if it looks like a daily change
+    # (preceded by space/pipe and not followed by a word like retracement/level)
+    m = re.search(
+        r'(?:^|[\s\|])([+\-]?\d{1,3}\.?\d*)\s*%(?!\s*(?:retracement|level|fib|of\b|midpoint))',
+        text or '',
+        re.IGNORECASE,
+    )
+    if m:
+        return m.group(1) + '%'
     return ""
 
 
 def _classify_section(title):
     t = (title or '').lower()
-    if any(k in t for k in ('index', 'technical level', 'technical structure', 'technical divergence', 'broad market')):
+    if any(k in t for k in (
+        'index', 'technical level', 'technical structure', 'technical divergence',
+        'broad market', 'benchmark', 'market structure', 'index performance',
+        'index breakdown', 'index dynamics', 'technical failure', 'support levels',
+        'rally dynamics', 'day 1 rally',
+    )):
         return 'indexes'
-    if any(k in t for k in ('macro', 'intermarket', 'rate expectation', 'fed expectation', 'inflation')):
+    if any(k in t for k in (
+        'macro', 'intermarket', 'rate expectation', 'fed expectation', 'inflation',
+        'treasury', 'yield', 'catalyst', 'economic data', 'monetary', 'liquidity',
+        'volatility', 'sentiment', 'fomc',
+    )):
         return 'macro'
-    if any(k in t for k in ('sector', 'etf')):
+    if any(k in t for k in (
+        'sector', 'etf', 'rotation', 'thematic', 'industry group',
+    )):
         return 'sectors'
-    if any(k in t for k in ('stock', 'breakout', 'setup', 'leading stock', 'featured')):
+    if any(k in t for k in (
+        'stock', 'breakout', 'setup', 'leading stock', 'featured', 'equity',
+        'individual', 'growth stock', 'watchlist', 'model-book', 'leadership',
+    )):
         return 'stocks'
-    if any(k in t for k in ('strategy', 'portfolio', 'risk', 'execution', 'weekend', 'catalyst')):
+    if any(k in t for k in (
+        'strategy', 'portfolio', 'risk', 'execution', 'weekend', 'catalyst',
+        'positioning', 'capital preservation', 'risk management', 'tactical',
+        'protocol', 'checklist', 'trend change', 'follow-through',
+    )):
         return 'strategy'
     return 'other'
 
 
+def _parse_table_rows(body):
+    """Best-effort parse of simple TSV / pipe / markdown tables into list of dicts
+    using the header row as keys (lower-cased, simplified).
+    """
+    rows = []
+    lines = [ln.strip() for ln in body.split('\n') if ln.strip()]
+    header = None
+    for ln in lines:
+        # Skip pure separator lines
+        if re.match(r'^[\|\-\s:]+$', ln):
+            continue
+        # Detect header-ish line containing "Index" or "ETF" or "Ticker" etc.
+        cells = re.split(r'\t|\s{2,}|\s*\|\s*', ln)
+        cells = [c.strip() for c in cells if c.strip()]
+        if not cells or len(cells) < 2:
+            continue
+        joined = ' '.join(cells).lower()
+        if header is None:
+            # Heuristic: first multi-cell line that looks like a header
+            if any(k in joined for k in (
+                'index', 'benchmark', 'etf', 'ticker', 'name', 'daily',
+                'return', 'change', 'performance', 'session return',
+            )):
+                header = [re.sub(r'[^a-z0-9]+', '_', c.lower()).strip('_') for c in cells]
+                continue
+            # Otherwise treat as data under generic keys (e.g. "NASDAQ Composite	-2.5%	...")
+            name = cells[0]
+            # Skip if name itself looks like a header fragment
+            if any(k in name.lower() for k in ('index /', 'benchmark', 'daily change', 'ticker')):
+                header = [re.sub(r'[^a-z0-9]+', '_', c.lower()).strip('_') for c in cells]
+                continue
+            pct = ""
+            action = ' | '.join(cells[1:])
+            for c in cells[1:]:
+                p = _pct_from_text(c)
+                if p:
+                    pct = p
+                    break
+            rows.append({"name": name, "pct": pct, "action": _strip_refs(action)})
+            continue
+        # Data row under known header
+        d = {}
+        for i, h in enumerate(header):
+            if i < len(cells):
+                d[h] = cells[i]
+        name = (
+            d.get('index_benchmark') or d.get('index') or d.get('benchmark')
+            or d.get('etf_ticker_name') or d.get('etf') or d.get('name')
+            or d.get('stock_name_ticker') or d.get('equity_benchmark')
+            or cells[0]
+        )
+        pct = ""
+        for k, v in d.items():
+            if any(x in k for x in ('change', 'return', 'performance', 'daily')) or '%' in (v or ''):
+                pct = _pct_from_text(v) or (v.strip() if re.search(r'[\d.]+\s*%', v or '') else "")
+                if pct:
+                    break
+        action_parts = []
+        for k, v in d.items():
+            if k in ('index_benchmark', 'index', 'benchmark', 'name', 'etf', 'etf_ticker_name') or not v:
+                continue
+            action_parts.append(f"{k.replace('_', ' ')}: {v}")
+        action = ' | '.join(action_parts) if action_parts else ' | '.join(cells[1:])
+        rows.append({"name": name, "pct": pct, "action": _strip_refs(action)})
+    return rows
+
+
 def _parse_sections(text):
+    """Find sections from either ### headings or plain top-level numbered headings."""
     sections = []
-    pattern = re.compile(
+
+    # Prefer ### style when present
+    hash_pattern = re.compile(
         r'###\s*\*?\*?(?:(?:Step\s+)?(\d+)[:.]?\s*)?(.+?)\*?\*?\s*\n',
         re.MULTILINE,
     )
-    matches = list(pattern.finditer(text))
-    for idx, m in enumerate(matches):
-        number = int(m.group(1)) if m.group(1) else idx + 1
-        title = m.group(2).strip().strip('*').strip()
-        start = m.end()
-        end = matches[idx + 1].start() if idx + 1 < len(matches) else len(text)
+    hash_matches = list(hash_pattern.finditer(text))
+    if hash_matches:
+        for idx, m in enumerate(hash_matches):
+            number = int(m.group(1)) if m.group(1) else idx + 1
+            title = m.group(2).strip().strip('*').strip()
+            start = m.end()
+            end = hash_matches[idx + 1].start() if idx + 1 < len(hash_matches) else len(text)
+            body = text[start:end].strip()
+            body = re.sub(r'\n---+\s*$', '', body).strip()
+            items = _parse_bullets(body)
+            # Also try table extraction and merge if bullets empty
+            if not items:
+                table_rows = _parse_table_rows(body)
+                for tr in table_rows:
+                    items.append({"title": tr.get("name", ""), "text": tr.get("action", "")})
+            sections.append({
+                "number": number,
+                "title": title,
+                "kind": _classify_section(title),
+                "items": items,
+            })
+        return sections
+
+    # NEW format: plain numbered top-level sections
+    # Match lines that look like "1. Title Here" (title starts with capital, reasonable length)
+    num_pattern = re.compile(
+        r'^(\d+)\.\s+([A-Z][^\n]{8,120}?)\s*$',
+        re.MULTILINE,
+    )
+    candidates = list(num_pattern.finditer(text))
+    # Keep only those that appear to be top-level (sequential-ish, not deeply nested list items)
+    top = []
+    seen_nums = set()
+    for m in candidates:
+        num = int(m.group(1))
+        title = m.group(2).strip()
+        # Skip obvious sub-list items that are long sentences
+        if title.endswith(':') and len(title) > 60:
+            continue
+        if num in seen_nums and num > 3:
+            # later repeats of small numbers are often sub-lists
+            continue
+        # Prefer first occurrence of each number in ascending order
+        if top and num <= top[-1][0] and num != 1:
+            # possible sub-list; skip unless it looks like a real section title
+            if not any(k in title.lower() for k in (
+                'market', 'index', 'sector', 'stock', 'portfolio', 'risk',
+                'strategy', 'macro', 'equity', 'technical', 'individual', 'leadership',
+            )):
+                continue
+        top.append((num, title, m.start(), m.end()))
+        seen_nums.add(num)
+
+    if not top:
+        # Fallback: treat whole body as one big "other" section
+        body = re.sub(r'^.*?\d{4}\s*\n', '', text, count=1).strip()
+        items = _parse_bullets(body)
+        if not items:
+            table_rows = _parse_table_rows(body)
+            for tr in table_rows:
+                items.append({"title": tr.get("name", ""), "text": tr.get("action", "")})
+        return [{
+            "number": 1,
+            "title": "Market Report",
+            "kind": "other",
+            "items": items,
+        }]
+
+    for idx, (number, title, _start, end_header) in enumerate(top):
+        start = end_header
+        end = top[idx + 1][2] if idx + 1 < len(top) else len(text)
         body = text[start:end].strip()
         body = re.sub(r'\n---+\s*$', '', body).strip()
         items = _parse_bullets(body)
+        # Supplement with table rows when present
+        table_rows = _parse_table_rows(body)
+        if table_rows:
+            # Prefer table rows for index/sector sections; merge carefully
+            existing_titles = {it["title"].lower() for it in items if it["title"]}
+            for tr in table_rows:
+                nm = tr.get("name", "")
+                if nm.lower() not in existing_titles:
+                    items.append({"title": nm, "text": (tr.get("pct", "") + " " + tr.get("action", "")).strip()})
         sections.append({
             "number": number,
             "title": title,
@@ -272,16 +489,37 @@ def _parse_sections(text):
 
 def _build_indexes(sections):
     rows = []
+    seen = set()
     for sec in sections:
         if sec['kind'] != 'indexes':
             continue
         for item in sec['items']:
             title = item['title']
             text = item['text']
-            # Skip pure analysis bullets without an index name feel
-            pct = _pct_from_text(text)
+            pct = _pct_from_text(text) or _pct_from_text(title)
+            # Clean name: drop trailing pct if present
+            name = re.sub(r'\s*[+\-]?\d+\.?\d*\s*%\s*$', '', title or "").strip()
+            if not name:
+                # Try to pull a leading index name from the action text
+                m = re.match(
+                    r'^((?:NASDAQ|S&P|Dow|Russell|Equal-Weight|NYSE|New York)[^:|\n]{0,40}?)(?:\s*[|\t:]|\s{2,}|$)',
+                    text or '',
+                    re.IGNORECASE,
+                )
+                if m:
+                    name = m.group(1).strip()
+                else:
+                    # Skip pure prose / header leftovers
+                    if not pct and len(text or '') > 80:
+                        continue
+                    name = "Index note"
+            # Dedup by name
+            key = name.lower()
+            if key in seen:
+                continue
+            seen.add(key)
             rows.append({
-                "name": title or "Index note",
+                "name": name,
                 "pct": pct,
                 "action": text,
             })
@@ -313,7 +551,7 @@ def _build_sectors(sections):
             rows.append({
                 "name": title,
                 "tickers": tickers,
-                "pct": _pct_from_text(text),
+                "pct": _pct_from_text(text) or _pct_from_text(title),
                 "action": text,
             })
     return rows
@@ -321,7 +559,9 @@ def _build_sectors(sections):
 
 def _build_stocks(sections):
     """Build stock rows. Nested sub-bullets (Technical Action, Fundamentals)
-    without their own ticker are merged into the parent stock's action."""
+    without their own ticker are merged into the parent stock's action.
+    Works for both old * **Title**: style and new 'Company (TICKER) — ...' style.
+    """
     rows = []
     for sec in sections:
         if sec['kind'] != 'stocks':
@@ -336,7 +576,9 @@ def _build_stocks(sections):
                 if current:
                     rows.append(current)
                 company = re.sub(r'\s*\([^)]*\)\s*$', '', title).strip() if title else ""
-                pct = _pct_from_text(text)
+                # Also strip trailing " — desc"
+                company = re.sub(r'\s*[—\-:].*$', '', company).strip()
+                pct = _pct_from_text(text) or _pct_from_text(title)
                 current = {
                     "ticker": tickers[0],
                     "tickers": tickers,
@@ -345,9 +587,13 @@ def _build_stocks(sections):
                     "action": text,
                 }
             elif current is not None:
-                # Sub-bullet under current stock
+                # Sub-bullet under current stock (skip pure empty titles that are just prose)
                 label = title.strip() if title else ""
-                chunk = f"{label}: {text}" if label else text
+                # Avoid treating long sentence titles as labels
+                if label and len(label) > 60 and not re.search(r'\([A-Z]{1,5}\)', label):
+                    chunk = f"{label} {text}".strip()
+                else:
+                    chunk = f"{label}: {text}" if label else text
                 if current["action"]:
                     current["action"] = f"{current['action']} | {chunk}"
                 else:
@@ -355,14 +601,17 @@ def _build_stocks(sections):
                 if not current["pct"]:
                     current["pct"] = _pct_from_text(text)
             else:
-                # Orphan bullet with no parent — keep if it has a body ticker
+                # Orphan bullet with no parent — keep only if it has a real ticker
                 body_tickers = _extract_tickers(title, text, title_only=False)
+                if not body_tickers:
+                    continue
                 company = re.sub(r'\s*\([^)]*\)\s*$', '', title).strip() if title else ""
+                company = re.sub(r'\s*[—\-:].*$', '', company).strip()
                 rows.append({
-                    "ticker": body_tickers[0] if body_tickers else "",
+                    "ticker": body_tickers[0],
                     "tickers": body_tickers,
                     "company": company,
-                    "pct": _pct_from_text(text),
+                    "pct": _pct_from_text(text) or _pct_from_text(title),
                     "action": text,
                 })
         if current:
