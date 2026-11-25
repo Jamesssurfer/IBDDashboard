@@ -1,5 +1,354 @@
 [
   {
+    "timestamp": "2026-11-24T20:00:00+00:00",
+    "header": "Tuesday, November 24, 2026's Report",
+    "headline": "The equity markets exhibited extreme intraday volatility and sharp sector divergence on Day 2 of a new market rally attempt.",
+    "summary": "The equity markets exhibited extreme intraday volatility and sharp sector divergence on Day 2 of a new market rally attempt. A violent reversal in artificial intelligence hardware leaders pulled down technology-heavy benchmarks, contrasting with notable strength across blue-chip industrials, small caps, retail, and biotechnology equities.",
+    "indexes": [
+      {
+        "name": "S&P 500 (SPY)",
+        "pct": "+0.8%",
+        "action": "0.5%\tBelow 21-day and 200-day moving averages\tUnder pressure; below prior rally low Dow Jones Industrial Average\t+0.8% to +0.9%\tBelow 200-day moving average line\tReclaimed 50,000 level; positive blue-chip breadth."
+      },
+      {
+        "name": "Russell 2000 (IWM)",
+        "pct": "+0.6%",
+        "action": "+0.6% to +0.7%\tBelow key short- and long-term moving averages\tWeak technical stance; lagging long-term structure."
+      },
+      {
+        "name": "Equal-Weight S&P 500 (RSP)",
+        "pct": "+0.5%",
+        "action": "+0.5%\tReclaimed 200-day moving average line\tPositive underlying breadth; outperforming S&P 500 Institutional market timing rules require specific criteria to validate a trend change: 1. Rally Attempt Preservation: The current rally attempt remains valid as long as the NASDAQ Composite and S&P 500 hold above their recent low established during Friday's session. 2. Follow-Through Day (FTD) Confirmation: A formal market turn requires a Follow-Through Day—defined as a sharp index gain accompanied by a noticeable pickup in trading volume or dollar volume—occurring on Day 4 or later of the rally attempt. 3. Reclaiming the 21-Day Moving Average Line: Historical research conducted by senior market strategist Mike Webster identifies the 21-day exponential moving average as a critical intermediate trend threshold. The 21-day line represents a technical sweet spot—faster than the 50-day or 200-day lines, yet broad enough to filter out day-to-day noise. The NASDAQ Composite has failed to close above its 21-day moving average since breaking beneath it during the initial downturn. 4. Gradual Capital Deployment: Previous follow-through day attempts in recent weeks failed to sustain upside momentum. Consequently, institutional risk management dictates a gradual scaling of position sizes rather than aggressive capital commitment upon the first buying signal."
+      },
+      {
+        "name": "NASDAQ Composite",
+        "pct": "-1.5%",
+        "action": "-1.5% benchmark index etf: NASDAQ Composite | daily percentage return: -1.5% | key technical moving average status: Below 10-day, 21-day, 50-day, and 200-day lines | rally status technical condition: Day 2 of Rally Attempt; holding above Friday low."
+      },
+      {
+        "name": "Dow Jones Industrial Average",
+        "pct": "+0.8%",
+        "action": "+0.8% benchmark index etf: Dow Jones Industrial Average | daily percentage return: +0.8% to +0.9% | key technical moving average status: Below 200-day moving average line | rally status technical condition: Reclaimed 50,000 level; positive blue-chip breadth."
+      }
+    ],
+    "macro": [
+      {
+        "title": "",
+        "text": "Underneath the surface of equity price action, broader credit and macroeconomic indicators signal persistent institutional anxiety across the technology infrastructure ecosystem. Credit Default Swaps & Neocloud Debt Strain."
+      },
+      {
+        "title": "Hyperscaler Credit Default Swaps",
+        "text": "Credit default swaps (CDS)—representing insurance costs against corporate debt defaults—for major technology hyperscalers have surged to record highs. While institutional credit markets do not project immediate insolvency for mega-cap firms like Microsoft, the escalating cost of credit default swaps reflects mounting financial strain associated with massive capital expenditure commitments."
+      },
+      {
+        "title": "Neocloud Bond Liquidations",
+        "text": "Bond prices for specialized neocloud infrastructure providers, including CoreWeave, have fallen to record lows. The depreciation in neocloud debt highlights growing investor nervousness regarding high-leverage debt financing models for specialized computing clusters."
+      },
+      {
+        "title": "Supply Chain Dependency Risk",
+        "text": "Institutional anxiety is compounding across interconnected technology supply chains. A lack of confidence in one counterparty's ability to fulfill capital commitments triggers cascading solvency concerns across hardware suppliers, software partners, and data center operators. Political & Regulatory Headwinds."
+      },
+      {
+        "title": "Congressional Hearings on Artificial Intelligence",
+        "text": "Upcoming Congressional hearings focusing on Nvidia and broader AI infrastructure spending introduce heightened regulatory and political policy uncertainty."
+      },
+      {
+        "title": "Anticipated Chip Sector Earnings",
+        "text": "Impending quarterly reports from key memory and semiconductor producers, such as Micron, arrive at a critical juncture following steep price declines across the memory chip sector."
+      },
+      {
+        "title": "Volatility Gauge (VIX)",
+        "text": "Analysis."
+      },
+      {
+        "title": "The CBOE Volatility Index (VIX)",
+        "text": "experienced a sharp spike during Friday's session, reaching its highest weekly level since April 2025. Although the VIX eased somewhat during Tuesday's trading, it remains at elevated levels. Institutional methodology, including principles articulated by hedge fund manager Jim Roppel, establishes that a VIX reading above 18 typically signals a closed buying window for growth equities. While major market bottoms occasionally coincide with elevated volatility levels during a confirmed Follow-Through Day, primary reliance must remain strictly on index price action and individual stock technical setups rather than isolated volatility readings."
+      }
+    ],
+    "sectors": [
+      {
+        "name": "",
+        "tickers": [],
+        "pct": "",
+        "action": "Sector performance revealed a dramatic divergence between damaged technology hardware groups and expanding non-technology leadership. Sector / Group\tPerformance Metric\tTechnical & Fundamental Condition."
+      },
+      {
+        "name": "Semiconductor ETF (SMH)",
+        "tickers": [
+          "SMH"
+        ],
+        "pct": "7.0%",
+        "action": "7.0% Crash\tSeverely damaged technical structure across chipmakers."
+      },
+      {
+        "name": "Nvidia (NVDA)",
+        "tickers": [
+          "NVDA"
+        ],
+        "pct": "6.0%",
+        "action": "6.0% Drop\tSurrendered prior gains after surging 30%+ on Monday."
+      },
+      {
+        "name": "Anthropic (ANTH)",
+        "tickers": [
+          "ANTH"
+        ],
+        "pct": "6.5%",
+        "action": "6.5% Drop\tTrading below its Initial Public Offering (IPO) price."
+      },
+      {
+        "name": "Biotech ETF (XBI)",
+        "tickers": [
+          "XBI"
+        ],
+        "pct": "+6.6%",
+        "action": "+6.6% Surge\tOutperformance driven by M&A buyout activity and takeover buzz."
+      },
+      {
+        "name": "Biotech ETF (IBB)",
+        "tickers": [
+          "IBB"
+        ],
+        "pct": "+5.0%",
+        "action": "+5.0%+ Advance\tInstitutional capital rotation into profitable and revenue-generating medical names."
+      },
+      {
+        "name": "Retail ETF (XRT)",
+        "tickers": [
+          "XRT"
+        ],
+        "pct": "+2.3%",
+        "action": "+2.3% Gain\tResilient performance in discount retail and consumer setups."
+      },
+      {
+        "name": "The VanEck Semiconductor ETF (SMH)",
+        "tickers": [
+          "SMH"
+        ],
+        "pct": "-6.5%",
+        "action": "crashed 7.0% on Tuesday, marking severe structural breakdown across chipmakers. Nvidia, which surged over 30% in the prior session, surrendered nearly 6.0% to lead technology downside. Similarly, Anthropic dropped 6.5%, falling beneath its initial public offering price. Resilient quarterly earnings from companies like Hewlett Packard Enterprise (HPE) and Analog Devices (ADI) failed to stem selling pressure; HPE suffered immediate downside liquidations following conservative forward guidance. Conversely, speculative and growth capital rotated aggressively into healthcare and retail equities:."
+      },
+      {
+        "name": "Biotech Sector Rally (XBI / IBB)",
+        "tickers": [
+          "XBI",
+          "IBB"
+        ],
+        "pct": "+6.6%",
+        "action": "The SPDR S&P Biotech ETF (XBI) surged 6.6%, while the iShares Biotechnology ETF (IBB) gained over 5.0%. The advance was propelled by merger-and-acquisition buyout activity, creating takeover speculation across the group. Investors seeking high-growth speculative opportunities rotated away from depressed crypto and AI assets into profitable and clinical-stage biotechnology firms possessing revenue acceleration."
+      },
+      {
+        "name": "Retail Group Recovery (XRT)",
+        "tickers": [
+          "XRT"
+        ],
+        "pct": "+2.3%",
+        "action": "The SPDR S&P Retail ETF (XRT) advanced 2.3%, supported by fundamental growth in discount retail and orderly technical pullbacks across consumer names."
+      },
+      {
+        "name": "Financial Sub-Group Strength",
+        "tickers": [],
+        "pct": "",
+        "action": "While traditional banking stocks struggled, specialized financial segments—including digital payment processors, property and casualty insurers, and exchange operators like NASDAQ Inc.—exhibited robust relative strength."
+      }
+    ],
+    "stocks": [
+      {
+        "ticker": "TGT",
+        "tickers": [
+          "TGT"
+        ],
+        "company": "Target Corporation",
+        "pct": "+4.7%",
+        "action": "1. Technical Action: Advanced 4.7% on the session, expanding a recent breakout out of a cup-with-handle base. The stock is trading near the upper boundary of its technical buy zone, with its Relative Strength (RS) line reaching new high ground. 2. Fundamentals: Delivering strong quarterly top- and bottom-line growth, supported in part by favorable year-over-year earnings comparisons. 3. Execution Strategy: High on institutional watchlists due to outperformance during market pullbacks, though position sizing should account for daily volatility across retail equities."
+      },
+      {
+        "ticker": "ETON",
+        "tickers": [
+          "ETON"
+        ],
+        "company": "Eton Pharmaceuticals",
+        "pct": "+6.0%",
+        "action": "1. Technical Action: Surged 6.0% on heavy volume, clearing a trendline entry out of a high-handle consolidation and decisively crossing its pivot point above 66. The stock was added to the IBD Leaderboard model portfolio. 2. Fundamentals & Setup: Operates as a profitable commercial-stage biotechnology producer, generating accelerating quarterly revenue and EPS growth. 3. Technical Behavior: Following a sharp post-earnings surge, the stock executed an orderly pullback that held above its 21-day moving average line before launching its current breakout. Its Relative Strength line forged new highs ahead of price."
+      },
+      {
+        "ticker": "TENB",
+        "tickers": [
+          "TENB"
+        ],
+        "company": "Tenable Holdings",
+        "pct": "",
+        "action": "1. Technical Action: Bounced firmly off its 10-week moving average line and cleared a short-term handle downtrend. Unlike peer cybersecurity equities that broken beneath their 50-day lines, Tenable held key moving average support. 2. Fundamentals & Group Context: Positioned within the cybersecurity software sector, which faces upcoming earnings reports from peers including Rubrik, Okta, and SentinelOne. 3. Execution Strategy: Actionable as a bounce off 10-week moving average support. Investors should monitor peer earnings for potential sector-wide sentiment shifts."
+      }
+    ],
+    "strategy": [],
+    "sections": [
+      {
+        "number": 1,
+        "title": "Broad Market Index Performance & Rally Attempt Mechanics",
+        "kind": "indexes",
+        "items": [
+          {
+            "title": "",
+            "text": "The major U.S. stock indexes displayed split price action. The technology-heavy NASDAQ Composite led market declines, dropping 1.5% following an explosive 6.5% advance in the prior session. Despite the setback, the NASDAQ remains on Day 2 of an official rally attempt, provided it holds above the intraday low established during Friday's half-day trading session. The index continues to trade in a structurally compromised position, sitting below its 10-day, 21-day, 50-day, and 200-day moving average lines, while operating entirely within the boundaries of the prior week's high-volatility price range. The market-cap-weighted S&P 500 slipped 0.5%, remaining well below its prior rally lows, its 200-day moving average, and its 21-day moving average line. In contrast, non-technology benchmarks demonstrated positive market breadth. The Dow Jones Industrial Average rose between 0.8% and 0.9%, successfully reclaiming the 50,000 psychological level, though it remains below its 200-day line. The small-cap Russell 2000 advanced 0.6% to 0.7%, while the Equal-Weight S&P 500 ETF (RSP) gained 0.5%. The outperformance of the equal-weighted S&P 500 relative to the cap-weighted benchmark confirms that the average stock held up significantly better than mega-cap technology names. RSP successfully reclaimed its 200-day moving average line following a technical breach on Friday. Benchmark Index / ETF\tDaily Percentage Return\tKey Technical Moving Average Status\tRally Status / Technical Condition NASDAQ Composite\t-1.5%\tBelow 10-day, 21-day, 50-day, and 200-day lines\tDay 2 of Rally Attempt; holding above Friday low."
+          },
+          {
+            "title": "S&P 500 (SPY)",
+            "text": "0.5%\tBelow 21-day and 200-day moving averages\tUnder pressure; below prior rally low Dow Jones Industrial Average\t+0.8% to +0.9%\tBelow 200-day moving average line\tReclaimed 50,000 level; positive blue-chip breadth."
+          },
+          {
+            "title": "Russell 2000 (IWM)",
+            "text": "+0.6% to +0.7%\tBelow key short- and long-term moving averages\tWeak technical stance; lagging long-term structure."
+          },
+          {
+            "title": "Equal-Weight S&P 500 (RSP)",
+            "text": "+0.5%\tReclaimed 200-day moving average line\tPositive underlying breadth; outperforming S&P 500 Institutional market timing rules require specific criteria to validate a trend change: 1. Rally Attempt Preservation: The current rally attempt remains valid as long as the NASDAQ Composite and S&P 500 hold above their recent low established during Friday's session. 2. Follow-Through Day (FTD) Confirmation: A formal market turn requires a Follow-Through Day—defined as a sharp index gain accompanied by a noticeable pickup in trading volume or dollar volume—occurring on Day 4 or later of the rally attempt. 3. Reclaiming the 21-Day Moving Average Line: Historical research conducted by senior market strategist Mike Webster identifies the 21-day exponential moving average as a critical intermediate trend threshold. The 21-day line represents a technical sweet spot—faster than the 50-day or 200-day lines, yet broad enough to filter out day-to-day noise. The NASDAQ Composite has failed to close above its 21-day moving average since breaking beneath it during the initial downturn. 4. Gradual Capital Deployment: Previous follow-through day attempts in recent weeks failed to sustain upside momentum. Consequently, institutional risk management dictates a gradual scaling of position sizes rather than aggressive capital commitment upon the first buying signal."
+          },
+          {
+            "title": "NASDAQ Composite",
+            "text": "-1.5% benchmark index etf: NASDAQ Composite | daily percentage return: -1.5% | key technical moving average status: Below 10-day, 21-day, 50-day, and 200-day lines | rally status technical condition: Day 2 of Rally Attempt; holding above Friday low."
+          },
+          {
+            "title": "Dow Jones Industrial Average",
+            "text": "+0.8% benchmark index etf: Dow Jones Industrial Average | daily percentage return: +0.8% to +0.9% | key technical moving average status: Below 200-day moving average line | rally status technical condition: Reclaimed 50,000 level; positive blue-chip breadth."
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Macroeconomic Stress, Credit Default Swaps & Volatility Dynamics",
+        "kind": "macro",
+        "items": [
+          {
+            "title": "",
+            "text": "Underneath the surface of equity price action, broader credit and macroeconomic indicators signal persistent institutional anxiety across the technology infrastructure ecosystem. Credit Default Swaps & Neocloud Debt Strain."
+          },
+          {
+            "title": "Hyperscaler Credit Default Swaps",
+            "text": "Credit default swaps (CDS)—representing insurance costs against corporate debt defaults—for major technology hyperscalers have surged to record highs. While institutional credit markets do not project immediate insolvency for mega-cap firms like Microsoft, the escalating cost of credit default swaps reflects mounting financial strain associated with massive capital expenditure commitments."
+          },
+          {
+            "title": "Neocloud Bond Liquidations",
+            "text": "Bond prices for specialized neocloud infrastructure providers, including CoreWeave, have fallen to record lows. The depreciation in neocloud debt highlights growing investor nervousness regarding high-leverage debt financing models for specialized computing clusters."
+          },
+          {
+            "title": "Supply Chain Dependency Risk",
+            "text": "Institutional anxiety is compounding across interconnected technology supply chains. A lack of confidence in one counterparty's ability to fulfill capital commitments triggers cascading solvency concerns across hardware suppliers, software partners, and data center operators. Political & Regulatory Headwinds."
+          },
+          {
+            "title": "Congressional Hearings on Artificial Intelligence",
+            "text": "Upcoming Congressional hearings focusing on Nvidia and broader AI infrastructure spending introduce heightened regulatory and political policy uncertainty."
+          },
+          {
+            "title": "Anticipated Chip Sector Earnings",
+            "text": "Impending quarterly reports from key memory and semiconductor producers, such as Micron, arrive at a critical juncture following steep price declines across the memory chip sector."
+          },
+          {
+            "title": "Volatility Gauge (VIX)",
+            "text": "Analysis."
+          },
+          {
+            "title": "The CBOE Volatility Index (VIX)",
+            "text": "experienced a sharp spike during Friday's session, reaching its highest weekly level since April 2025. Although the VIX eased somewhat during Tuesday's trading, it remains at elevated levels. Institutional methodology, including principles articulated by hedge fund manager Jim Roppel, establishes that a VIX reading above 18 typically signals a closed buying window for growth equities. While major market bottoms occasionally coincide with elevated volatility levels during a confirmed Follow-Through Day, primary reliance must remain strictly on index price action and individual stock technical setups rather than isolated volatility readings."
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Sector Rotations: AI Semiconductor Collapse vs. Biotech & Retail Surge",
+        "kind": "sectors",
+        "items": [
+          {
+            "title": "",
+            "text": "Sector performance revealed a dramatic divergence between damaged technology hardware groups and expanding non-technology leadership. Sector / Group\tPerformance Metric\tTechnical & Fundamental Condition."
+          },
+          {
+            "title": "Semiconductor ETF (SMH)",
+            "text": "7.0% Crash\tSeverely damaged technical structure across chipmakers."
+          },
+          {
+            "title": "Nvidia (NVDA)",
+            "text": "6.0% Drop\tSurrendered prior gains after surging 30%+ on Monday."
+          },
+          {
+            "title": "Anthropic (ANTH)",
+            "text": "6.5% Drop\tTrading below its Initial Public Offering (IPO) price."
+          },
+          {
+            "title": "Biotech ETF (XBI)",
+            "text": "+6.6% Surge\tOutperformance driven by M&A buyout activity and takeover buzz."
+          },
+          {
+            "title": "Biotech ETF (IBB)",
+            "text": "+5.0%+ Advance\tInstitutional capital rotation into profitable and revenue-generating medical names."
+          },
+          {
+            "title": "Retail ETF (XRT)",
+            "text": "+2.3% Gain\tResilient performance in discount retail and consumer setups."
+          },
+          {
+            "title": "The VanEck Semiconductor ETF (SMH)",
+            "text": "crashed 7.0% on Tuesday, marking severe structural breakdown across chipmakers. Nvidia, which surged over 30% in the prior session, surrendered nearly 6.0% to lead technology downside. Similarly, Anthropic dropped 6.5%, falling beneath its initial public offering price. Resilient quarterly earnings from companies like Hewlett Packard Enterprise (HPE) and Analog Devices (ADI) failed to stem selling pressure; HPE suffered immediate downside liquidations following conservative forward guidance. Conversely, speculative and growth capital rotated aggressively into healthcare and retail equities:."
+          },
+          {
+            "title": "Biotech Sector Rally (XBI / IBB)",
+            "text": "The SPDR S&P Biotech ETF (XBI) surged 6.6%, while the iShares Biotechnology ETF (IBB) gained over 5.0%. The advance was propelled by merger-and-acquisition buyout activity, creating takeover speculation across the group. Investors seeking high-growth speculative opportunities rotated away from depressed crypto and AI assets into profitable and clinical-stage biotechnology firms possessing revenue acceleration."
+          },
+          {
+            "title": "Retail Group Recovery (XRT)",
+            "text": "The SPDR S&P Retail ETF (XRT) advanced 2.3%, supported by fundamental growth in discount retail and orderly technical pullbacks across consumer names."
+          },
+          {
+            "title": "Financial Sub-Group Strength",
+            "text": "While traditional banking stocks struggled, specialized financial segments—including digital payment processors, property and casualty insurers, and exchange operators like NASDAQ Inc.—exhibited robust relative strength."
+          }
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Actionable Stock Technical Setups & Fundamental Growth",
+        "kind": "stocks",
+        "items": [
+          {
+            "title": "",
+            "text": "Amid broad market turbulence, select equities in retail, pharmaceuticals, and cybersecurity demonstrate superior relative strength, orderly chart construction, and strong fundamental growth."
+          },
+          {
+            "title": "Target Corporation (TGT)",
+            "text": "1. Technical Action: Advanced 4.7% on the session, expanding a recent breakout out of a cup-with-handle base. The stock is trading near the upper boundary of its technical buy zone, with its Relative Strength (RS) line reaching new high ground. 2. Fundamentals: Delivering strong quarterly top- and bottom-line growth, supported in part by favorable year-over-year earnings comparisons. 3. Execution Strategy: High on institutional watchlists due to outperformance during market pullbacks, though position sizing should account for daily volatility across retail equities."
+          },
+          {
+            "title": "Eton Pharmaceuticals (ETON)",
+            "text": "1. Technical Action: Surged 6.0% on heavy volume, clearing a trendline entry out of a high-handle consolidation and decisively crossing its pivot point above 66. The stock was added to the IBD Leaderboard model portfolio. 2. Fundamentals & Setup: Operates as a profitable commercial-stage biotechnology producer, generating accelerating quarterly revenue and EPS growth. 3. Technical Behavior: Following a sharp post-earnings surge, the stock executed an orderly pullback that held above its 21-day moving average line before launching its current breakout. Its Relative Strength line forged new highs ahead of price."
+          },
+          {
+            "title": "Tenable Holdings (TENB)",
+            "text": "1. Technical Action: Bounced firmly off its 10-week moving average line and cleared a short-term handle downtrend. Unlike peer cybersecurity equities that broken beneath their 50-day lines, Tenable held key moving average support. 2. Fundamentals & Group Context: Positioned within the cybersecurity software sector, which faces upcoming earnings reports from peers including Rubrik, Okta, and SentinelOne. 3. Execution Strategy: Actionable as a bounce off 10-week moving average support. Investors should monitor peer earnings for potential sector-wide sentiment shifts."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "title": "Technical Breakdown Warnings & Post-Earnings Reversals",
+        "kind": "other",
+        "items": [
+          {
+            "title": "",
+            "text": "Evaluating severe chart breakdowns in high-profile technology and retail names underscores the necessity of adhering strictly to technical sell rules over fundamental narratives."
+          },
+          {
+            "title": "Dell Technologies (DELL)",
+            "text": "Model Case of Technical Breakdown Dell Technologies provides a classic case study in technical risk management. In extended trading, Dell rose 3.0% after handily beating quarterly earnings expectations and raising forward guidance. However, the stock had previously plummeted over 10.0% in sympathy with HPE's disappointing guidance and remains down approximately 50.0% from its high over a six-week span. Despite stellar current earnings, technical indicators generated clear sell signals well before fundamental metrics deteriorated: 1. Initial Moving Average Breach: A breach below the short-term 21-day exponential moving average line provided the first warning to trim position size. 2. Key Support Breakdown: A decisive break below the 50-day moving average line confirmed institutional distribution. 3. Failed Reclaiming Attempt: A failed rally attempt that got turned away at the downward-sloping 50-day line served as an explicit exit signal before the stock suffered a cumulative 50.0% drawdown over six weeks."
+          },
+          {
+            "title": "Urban Outfitters (URBN)",
+            "text": "vs. Abercrombie & Fitch (ANF) Divergence Retail earnings highlighted severe intra-group divergence. While Abercrombie & Fitch delivered strong quarterly results, Urban Outfitters reported inline earnings but suffered a 10.0% post-close collapse due to weak forward outlooks. This sharp divergence reinforces the requirement to evaluate individual stock chart health rather than assuming uniform sector performance. Institutional Risk Management Protocol 1. Never Trade Ahead of Confirmation: Avoid guessing market bottoms or buying initial intraday bounces in damaged sectors. Wait for a confirmed Follow-Through Day and an index retake of the 21-day moving average line. 2. Enforce Incremental Position Scaling: Enter new positions in small increments (e.g., pilot positions of 2% to 3%) only after individual stock setups prove profitable. 3. Execute Timely Stop Losses: Treat breaches of key moving averages (21-day, 50-day, or 10-week lines) as absolute sell rules, insulating capital against catastrophic drawdowns."
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-23T20:00:00+00:00",
     "header": "Monday, November 23, 2026's Report",
     "headline": "Analytical synthesis of market metrics, index technical structures, historical recovery precedents, and risk execution rules based on the Investor's Business Daily market update.",
