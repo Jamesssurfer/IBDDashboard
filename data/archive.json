@@ -1,6 +1,294 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-11-18T20:00:00+00:00",
+      "header": "Wednesday, November 18, 2026's Report",
+      "headline": "As presented in the Investor's Business Daily market breakdown, equity markets delivered a highly bifurcated session characterized by a technical Day 1 rally attempt in the technology benchmark alongside severe distribution across health insurers and industrial blue chips.",
+      "summary": "As presented in the Investor's Business Daily market breakdown, equity markets delivered a highly bifurcated session characterized by a technical Day 1 rally attempt in the technology benchmark alongside severe distribution across health insurers and industrial blue chips. While mega-cap AI headwinds and monetary policy commentary generated intra-session volatility, selective institutional accumulation emerged across retail breakouts, cyber security software plays, and specialized biotechnology names.",
+      "indexes": [
+        {
+          "name": "NASDAQ Composite",
+          "pct": "+0.4%",
+          "action": "Advanced 0.4%, closing in the upper half of its intraday range to record Day 1 of a new rally attempt. Despite persistent technology sector selling, the Composite managed to halt a multi-day losing streak, establishing a provisional technical floor for bullish market participants to monitor for potential follow-through action."
+        },
+        {
+          "name": "Dow Jones Industrial Average",
+          "pct": "1.1%",
+          "action": "Experienced the heaviest selling among major benchmarks, plunging 1.1% to close solidly beneath its 200-day moving average line. The index was severely weighed down by broad liquidation across large-cap healthcare insurers following regulatory policy developments."
+        },
+        {
+          "name": "S&P 500",
+          "pct": "-0.25%",
+          "action": "Closed down 0.25%, continuing to test technical support directly at its 200-day moving average line. The index remains locked in a critical test of long-term trend support, actively searching for its own Day 1 rally attempt signal."
+        },
+        {
+          "name": "Russell 2000 (Small Caps)",
+          "pct": "0.4%",
+          "action": "Added 0.4%, matching the NASDAQ's percentage gain but remaining constrained near multi-month lows as higher interest rate expectations cap small-cap valuation multiples."
+        }
+      ],
+      "macro": [
+        {
+          "title": "",
+          "text": "Intermarket dynamics were heavily shaped by shifting interest rate expectations, commodity price declines, and high-profile capital market events."
+        },
+        {
+          "title": "Treasury Yield Dynamics",
+          "text": "The 10-year Treasury yield pulled back to test technical support around its 50-day moving average line, hovering near 5.07%. The pullback provided temporary relief to growth equity multiples following the release of the Federal Reserve's latest meeting minutes."
+        },
+        {
+          "title": "Federal Reserve Policy Friction",
+          "text": "Market volatility spiked following pre-market television comments from Federal Reserve Governor Christopher Waller, who floated the possibility of a 50 basis point interest rate hike at the upcoming December Federal Open Market Committee (FOMC) meeting in response to persistent consumer inflation metrics. While futures markets continue to price a 25 basis point rate increase as the primary baseline, Waller's hawkish comments triggered an immediate pullback in equity futures prior to the opening bell."
+        },
+        {
+          "title": "Crude Oil Breakdown",
+          "text": "Crude oil prices dropped precipitously, breaking below $83 per barrel with a daily decline of nearly 4%. The United States Oil Fund (USO) dropped almost 3%, reflecting mounting economic growth concerns while offering prospective fuel cost relief to retail and transportation sectors."
+        },
+        {
+          "title": "Anthropic IPO Pricing",
+          "text": "The highly anticipated initial public offering of AI lab Anthropic saw underwriters raise expected pricing from an initial $70–$78 range up to $83 per share due to intense institutional demand. Tech giants Amazon and Alphabet, which hold a combined 30% equity stake in Anthropic, benefited from positive strategic positioning ahead of the listing."
+        }
+      ],
+      "sectors": [
+        {
+          "name": "",
+          "tickers": [],
+          "pct": "",
+          "action": "Sector performance reflected intense institutional rotation out of policy-impacted healthcare providers and into retail discretionary and cybersecurity software equities."
+        },
+        {
+          "name": "Retail Discretionary (XRT)",
+          "tickers": [
+            "XRT"
+          ],
+          "pct": "2.3%",
+          "action": "Outperformed the broad market with a 2.3% advance, driven by strong quarterly earnings results and expanding customer foot traffic across discount and department store operators."
+        },
+        {
+          "name": "Healthcare Breakdown (XLV)",
+          "tickers": [
+            "XLV"
+          ],
+          "pct": "2%",
+          "action": "The Health Care Select Sector SPDR Fund dropped over 2%, executing a sharp technical breakdown below its 21-day moving average line. Selling was driven by a government regulatory initiative to curtail Medicare insurance fraud, triggering sharp losses in UnitedHealth Group (UNH, down another 10%), Cigna (CI), Centene (CNC), and Humana (HUM)."
+        },
+        {
+          "name": "Cybersecurity Software (BUG / HACK)",
+          "tickers": [
+            "BUG",
+            "HACK"
+          ],
+          "pct": "8%",
+          "action": "Cybersecurity ETFs staged an explosive session ahead of Palo Alto Networks' earnings report. The Global X Cybersecurity ETF (BUG) surged nearly 8%, while the ETFMG Prime Cyber Security ETF (HACK) tested its 50-day moving average line behind broad strength in enterprise security vendors such as NetSkope and SailPoint."
+        },
+        {
+          "name": "Consumer Discretionary (XLY)",
+          "tickers": [
+            "XLY"
+          ],
+          "pct": "+1.8%",
+          "action": "Rose 1.8%, supported by Amazon's relative technical strength as shares constructed the right side of a consolidation pattern near actionable entry points."
+        }
+      ],
+      "stocks": [
+        {
+          "ticker": "TGT",
+          "tickers": [
+            "TGT"
+          ],
+          "company": "",
+          "pct": "",
+          "action": "Institutional accumulation produced actionable chart patterns across retail, specialized biotechnology, and asset management equities, while semiconductor leadership faced earnings news digestion. Target (TGT):."
+        },
+        {
+          "ticker": "RYTM",
+          "tickers": [
+            "RYTM"
+          ],
+          "company": "Fundamentals",
+          "pct": "49%",
+          "action": "Delivered Q3 bottom-line earnings growth of 49% alongside accelerating top-line revenue growth of 7%. Under its executive leadership, Target expanded capital expenditures to refurbish stores, optimize supply chains, and introduce expanded product lines priced under $5 to boost store traffic and same-store sales. Rhythm Pharmaceuticals (RYTM):."
+        },
+        {
+          "ticker": "AMG",
+          "tickers": [
+            "AMG"
+          ],
+          "company": "Fundamentals & Ownership",
+          "pct": "",
+          "action": "Revenue-stage biotechnology company marketing an FDA-approved treatment for rare genetic forms of obesity. Supported by expanding institutional fund sponsorship across top-tier fund families, including Fidelity Growth Series, Lord Abbett Developing Growth, and T. Rowe Price New Horizons. Affiliated Managers Group (AMG):."
+        },
+        {
+          "ticker": "NVDA",
+          "tickers": [
+            "NVDA"
+          ],
+          "company": "Fundamentals & Business Model",
+          "pct": "",
+          "action": "High-ranking asset management firm within the Investment Management group holding a top-tier Composite Rating of 97. Operates by acquiring equity stakes in specialized boutique investment houses and sharing in partner revenue streams. Nvidia (NVDA):."
+        }
+      ],
+      "strategy": [
+        {
+          "title": "Rally Attempt Execution Rules",
+          "text": "With the NASDAQ Composite registering Day 1 of a rally attempt, investors must refrain from aggressive buying until a confirmed Follow-Through Day (FTD) occurs on Day 4 or later via a major index gain on higher volume."
+        },
+        {
+          "title": "Navigating Earnings Breakouts",
+          "text": "In choppy market environments, breakouts that close off session highs (such as Target's 50% closing range) require strict adherence to standard 7% to 8% stop-loss rules and initial position limits of 2% to 3% portfolio risk."
+        },
+        {
+          "title": "Focusing on Relative Strength",
+          "text": "Prioritize capital allocation toward industry groups displaying independent relative strength—such as retail software, cyber security, and asset management—while avoiding damaged technology names trading beneath falling moving average lines."
+        }
+      ],
+      "sections": [
+        {
+          "number": 1,
+          "title": "Broad Market Index Performance & Technical Action",
+          "kind": "indexes",
+          "items": [
+            {
+              "title": "",
+              "text": "The major equity benchmarks displayed divergent technical action, with technology indexes fighting off early selling pressure while blue-chip indexes suffered technical breakdowns across key moving average levels."
+            },
+            {
+              "title": "NASDAQ Composite",
+              "text": "Advanced 0.4%, closing in the upper half of its intraday range to record Day 1 of a new rally attempt. Despite persistent technology sector selling, the Composite managed to halt a multi-day losing streak, establishing a provisional technical floor for bullish market participants to monitor for potential follow-through action."
+            },
+            {
+              "title": "Dow Jones Industrial Average",
+              "text": "Experienced the heaviest selling among major benchmarks, plunging 1.1% to close solidly beneath its 200-day moving average line. The index was severely weighed down by broad liquidation across large-cap healthcare insurers following regulatory policy developments."
+            },
+            {
+              "title": "S&P 500",
+              "text": "Closed down 0.25%, continuing to test technical support directly at its 200-day moving average line. The index remains locked in a critical test of long-term trend support, actively searching for its own Day 1 rally attempt signal."
+            },
+            {
+              "title": "Russell 2000 (Small Caps)",
+              "text": "Added 0.4%, matching the NASDAQ's percentage gain but remaining constrained near multi-month lows as higher interest rate expectations cap small-cap valuation multiples."
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "title": "Macroeconomic Drivers, Treasury Yields & Fed Rate Policy",
+          "kind": "macro",
+          "items": [
+            {
+              "title": "",
+              "text": "Intermarket dynamics were heavily shaped by shifting interest rate expectations, commodity price declines, and high-profile capital market events."
+            },
+            {
+              "title": "Treasury Yield Dynamics",
+              "text": "The 10-year Treasury yield pulled back to test technical support around its 50-day moving average line, hovering near 5.07%. The pullback provided temporary relief to growth equity multiples following the release of the Federal Reserve's latest meeting minutes."
+            },
+            {
+              "title": "Federal Reserve Policy Friction",
+              "text": "Market volatility spiked following pre-market television comments from Federal Reserve Governor Christopher Waller, who floated the possibility of a 50 basis point interest rate hike at the upcoming December Federal Open Market Committee (FOMC) meeting in response to persistent consumer inflation metrics. While futures markets continue to price a 25 basis point rate increase as the primary baseline, Waller's hawkish comments triggered an immediate pullback in equity futures prior to the opening bell."
+            },
+            {
+              "title": "Crude Oil Breakdown",
+              "text": "Crude oil prices dropped precipitously, breaking below $83 per barrel with a daily decline of nearly 4%. The United States Oil Fund (USO) dropped almost 3%, reflecting mounting economic growth concerns while offering prospective fuel cost relief to retail and transportation sectors."
+            },
+            {
+              "title": "Anthropic IPO Pricing",
+              "text": "The highly anticipated initial public offering of AI lab Anthropic saw underwriters raise expected pricing from an initial $70–$78 range up to $83 per share due to intense institutional demand. Tech giants Amazon and Alphabet, which hold a combined 30% equity stake in Anthropic, benefited from positive strategic positioning ahead of the listing."
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "title": "Sector & ETF Dynamics",
+          "kind": "sectors",
+          "items": [
+            {
+              "title": "",
+              "text": "Sector performance reflected intense institutional rotation out of policy-impacted healthcare providers and into retail discretionary and cybersecurity software equities."
+            },
+            {
+              "title": "Retail Discretionary (XRT)",
+              "text": "Outperformed the broad market with a 2.3% advance, driven by strong quarterly earnings results and expanding customer foot traffic across discount and department store operators."
+            },
+            {
+              "title": "Healthcare Breakdown (XLV)",
+              "text": "The Health Care Select Sector SPDR Fund dropped over 2%, executing a sharp technical breakdown below its 21-day moving average line. Selling was driven by a government regulatory initiative to curtail Medicare insurance fraud, triggering sharp losses in UnitedHealth Group (UNH, down another 10%), Cigna (CI), Centene (CNC), and Humana (HUM)."
+            },
+            {
+              "title": "Cybersecurity Software (BUG / HACK)",
+              "text": "Cybersecurity ETFs staged an explosive session ahead of Palo Alto Networks' earnings report. The Global X Cybersecurity ETF (BUG) surged nearly 8%, while the ETFMG Prime Cyber Security ETF (HACK) tested its 50-day moving average line behind broad strength in enterprise security vendors such as NetSkope and SailPoint."
+            },
+            {
+              "title": "Consumer Discretionary (XLY)",
+              "text": "Rose 1.8%, supported by Amazon's relative technical strength as shares constructed the right side of a consolidation pattern near actionable entry points."
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "title": "Featured Individual Stock Technical Setups & Fundamentals",
+          "kind": "stocks",
+          "items": [
+            {
+              "title": "",
+              "text": "Institutional accumulation produced actionable chart patterns across retail, specialized biotechnology, and asset management equities, while semiconductor leadership faced earnings news digestion. Target (TGT):."
+            },
+            {
+              "title": "Technical Action",
+              "text": "Completed a breakout from a classic cup-with-handle base, surging 4.0% on elevated volume and triggering an IBD Relative Strength \"blue dot\" indicator. Sellers trimmed gains into the close, leaving the stock at the 50% midpoint of its daily trading range."
+            },
+            {
+              "title": "Fundamentals",
+              "text": "Delivered Q3 bottom-line earnings growth of 49% alongside accelerating top-line revenue growth of 7%. Under its executive leadership, Target expanded capital expenditures to refurbish stores, optimize supply chains, and introduce expanded product lines priced under $5 to boost store traffic and same-store sales. Rhythm Pharmaceuticals (RYTM):."
+            },
+            {
+              "title": "Technical Action",
+              "text": "Advanced 2.0% on the session following a strong weekly upside reversal, climbing up the right side of a multi-month consolidation pattern near the $119 price level."
+            },
+            {
+              "title": "Fundamentals & Ownership",
+              "text": "Revenue-stage biotechnology company marketing an FDA-approved treatment for rare genetic forms of obesity. Supported by expanding institutional fund sponsorship across top-tier fund families, including Fidelity Growth Series, Lord Abbett Developing Growth, and T. Rowe Price New Horizons. Affiliated Managers Group (AMG):."
+            },
+            {
+              "title": "Technical Action",
+              "text": "Rebound back into an actionable buy zone above its 50-day moving average line, accompanied by a Relative Strength line pushing into new 52-week high ground."
+            },
+            {
+              "title": "Fundamentals & Business Model",
+              "text": "High-ranking asset management firm within the Investment Management group holding a top-tier Composite Rating of 97. Operates by acquiring equity stakes in specialized boutique investment houses and sharing in partner revenue streams. Nvidia (NVDA):."
+            },
+            {
+              "title": "Technical Action",
+              "text": "Reversed early gains to finish down nearly 3% after testing overhead resistance near the $160 level."
+            },
+            {
+              "title": "Fundamentals & Regulatory Developments",
+              "text": "Reported Q3 results featuring 100% year-over-year revenue and earnings doubling, while raising fiscal 2028 top-line growth guidance to 75% (above consensus expectations of 70%). However, sentiment was dampened by an SEC investigation launch and board confirmation that a CEO search is underway following Jensen Huang's transition to Board Chair."
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "title": "Risk Management & Portfolio Strategy",
+          "kind": "strategy",
+          "items": [
+            {
+              "title": "Rally Attempt Execution Rules",
+              "text": "With the NASDAQ Composite registering Day 1 of a rally attempt, investors must refrain from aggressive buying until a confirmed Follow-Through Day (FTD) occurs on Day 4 or later via a major index gain on higher volume."
+            },
+            {
+              "title": "Navigating Earnings Breakouts",
+              "text": "In choppy market environments, breakouts that close off session highs (such as Target's 50% closing range) require strict adherence to standard 7% to 8% stop-loss rules and initial position limits of 2% to 3% portfolio risk."
+            },
+            {
+              "title": "Focusing on Relative Strength",
+              "text": "Prioritize capital allocation toward industry groups displaying independent relative strength—such as retail software, cyber security, and asset management—while avoiding damaged technology names trading beneath falling moving average lines."
+            }
+          ]
+        }
+      ]
+    },
+    {
       "timestamp": "2026-11-17T20:00:00+00:00",
       "header": "Tuesday, November 17, 2026's Report",
       "headline": "The equity markets experienced widespread technical damage on Tuesday, November 17th, as major benchmark indexes undercut critical short-term support levels and tested long-term moving averages.",
@@ -1154,7 +1442,9 @@
           ]
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-11-11T20:00:00+00:00",
       "header": "Wednesday, November 11, 2026's Report",
@@ -1397,9 +1687,7 @@
           ]
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-11-10T20:00:00+00:00",
       "header": "Tuesday, November 10, 2026's Report",
@@ -4583,7 +4871,9 @@
           ]
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-10-26T20:00:00+00:00",
       "header": "Monday, October 26, 2026's Report",
@@ -4842,9 +5132,7 @@
           ]
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-10-23T20:00:00+00:00",
       "header": "Friday, October 23, 2026's Report",
