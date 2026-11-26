@@ -1,5 +1,406 @@
 [
   {
+    "timestamp": "2026-11-25T20:00:00+00:00",
+    "header": "Wednesday, November 25, 2026's Report",
+    "headline": "Trading on Thanksgiving Eve delivered a high-volatility, intraday reversal across benchmark indexes, reflecting intense shifts in institutional sentiment.",
+    "summary": "Trading on Thanksgiving Eve delivered a high-volatility, intraday reversal across benchmark indexes, reflecting intense shifts in institutional sentiment. While broad technology and semiconductor benchmarks continue to digest overhead structural damage within ongoing market pullbacks, cyclical sectors, financial services, equal-weighted indexes, and select growth leaders exhibited constructive underlying support. Institutional investors must evaluate current market conditions through strict technical parameters, distinguishing between volatile short-covering bounces and validated trend reversals.",
+    "indexes": [
+      {
+        "name": "Equal-Weight S&P 500 (RSP)",
+        "pct": "",
+        "action": "Positive Outside Day\tReclaimed 50-day SMA; facing resistance at 21-day SMA\tNever undercut 200-day line; Relative Strength (RS) line trending near high ground The technical contrast between the market-cap-weighted S&P 500 and the Equal-Weight S&P 500 (RSP) highlights significant internal market bifurcation. While mega-cap technology drag continues to weigh on the cap-weighted indexes, the RSP completed a positive outside day upside reversal, closing firmly back above its 50-day moving average line. Unlike the market-cap benchmarks, the equal-weight index held above its 200-day moving average line without undercutting prior lows, reflecting healthy participation across industrial, financial, and consumer groups outside of mega-cap technology."
+      },
+      {
+        "name": "NASDAQ Composite",
+        "pct": "-0.6%",
+        "action": "-0.6% daily percentage change: -0.6% | intraday price action: Faded steep early losses into a late-session comeback | key moving average technical levels: Trading within prior week's range; resistance at 21-day line, Nov 19 reversal bar, and 25,000 level."
+      },
+      {
+        "name": "S&P 500",
+        "pct": "-0.25%",
+        "action": "-0.25% daily percentage change: -0.25% | intraday price action: Closed slightly lower after recovering off morning lows | key moving average technical levels: Support at 7,200 level; overhead 200-day line and Nov 19 high converge around 7,400."
+      },
+      {
+        "name": "Dow Jones Industrial Average",
+        "pct": "+0.3%",
+        "action": "+0.3% daily percentage change: +0.3% | intraday price action: Outside day upside reversal closing near session highs | key moving average technical levels: Reclaimed short-term moving average support; outperforming tech benchmarks."
+      },
+      {
+        "name": "Russell 2000 (Small Caps)",
+        "pct": "+0.7%",
+        "action": "+0.7% daily percentage change: +0.7% | intraday price action: Bullish outside day upside reversal | key moving average technical levels: Demonstrating short-term breadth expansion; holding above recent lows."
+      }
+    ],
+    "macro": [
+      {
+        "title": "",
+        "text": "Intraday market sentiment was influenced by an interplay of private market valuation signals, shifts in government bond yields, and trade policy announcements. Market participants digested several macro and micro drivers during the shortened pre-holiday trading week:."
+      },
+      {
+        "title": "Artificial Intelligence Sentiment & Private Market Signals",
+        "text": "Intraday trading momentum shifted constructively following a mid-session recovery in secondary market sentiment surrounding Anthropic. Institutional strategists noted that stabilization in prominent AI market leaders provided a proxy for broader risk appetite, helping curb early-morning panic selling across technology equities."
+      },
+      {
+        "title": "10-Year Treasury Yield (TNX) Breakdown",
+        "text": "The 10-year Treasury yield extended its recent pullback, forming a technical structure resembling a reverse cup-with-handle pattern. Easing interest rate pressures provided immediate tailwinds for rate-sensitive equity groups."
+      },
+      {
+        "title": "Housing & Construction Outperformance",
+        "text": "Declining Treasury yields catalyzed buying across housing and construction equities. The SPDR S&P Homebuilders ETF (XHB) advanced 2.4% on the session, anchored by a technical base breakout in Home Depot (HD) from a bottoming pattern."
+      },
+      {
+        "title": "Trade Policy & Tariff Absorption",
+        "text": "Equity markets demonstrated resilience following formal announcements regarding trade tariffs. Consumer discretionary and retail groups absorbed tariff updates without triggering secondary selling, indicating that near-term trade friction had been largely priced into valuations."
+      }
+    ],
+    "sectors": [
+      {
+        "name": "",
+        "tickers": [],
+        "pct": "",
+        "action": "Sector-level performance continues to diverge dramatically. Technology and memory chip equipment remain under severe structural pressure, whereas medical, financial, retail, and biotech groups are constructing actionable bases. Sector ETF\tDaily Performance\tTechnical Structure & Group Outlook."
+      },
+      {
+        "name": "Semiconductor ETF (SMH)",
+        "tickers": [
+          "SMH"
+        ],
+        "pct": "1.1%",
+        "action": "1.1%\tUndercut prior intraday low; severe memory chip damage despite Nvidia weekly gains."
+      },
+      {
+        "name": "Biotech ETF (XBI)",
+        "tickers": [
+          "XBI"
+        ],
+        "pct": "-0.1%",
+        "action": "Flat (-0.1%)\tBase building near highs; broad sector setup with low single-stock risk."
+      },
+      {
+        "name": "Retail ETF (XRT)",
+        "tickers": [
+          "XRT"
+        ],
+        "pct": "0.1%",
+        "action": "0.1%\tHolding 50-day SMA; resilient chart pattern despite tariff announcements."
+      },
+      {
+        "name": "Financials ETF (XLF)",
+        "tickers": [
+          "XLF"
+        ],
+        "pct": "+0.7%",
+        "action": "+0.7%\tStrong momentum in payments, exchanges, and insurance."
+      },
+      {
+        "name": "Homebuilders ETF (XHB)",
+        "tickers": [
+          "XHB"
+        ],
+        "pct": "+2.4%",
+        "action": "+2.4%\tRate-cut proxy rally; anchored by Home Depot bottoming base breakout."
+      },
+      {
+        "name": "Semiconductor ETF (SMH)",
+        "tickers": [
+          "SMH"
+        ],
+        "pct": "",
+        "action": "Downtrend."
+      },
+      {
+        "name": "The VanEck Semiconductor ETF (SMH)",
+        "tickers": [
+          "SMH"
+        ],
+        "pct": "-1.1%",
+        "action": "fell 1.1% on the session, undercutting its prior intraday low to remain on technical life support beneath all major moving averages. Despite Nvidia—the ETF's largest weighting—holding a weekly gain of approximately 20%, widespread distribution across memory chip producers and equipment suppliers continued to drag the sector lower. The semiconductor group operates in a deep technical deficit, requiring substantial base-building before establishing a sustainable floor."
+      },
+      {
+        "name": "SPDR S&P Biotech ETF (XBI)",
+        "tickers": [
+          "XBI"
+        ],
+        "pct": "",
+        "action": "Setup The XBI Biotech ETF finished virtually flat, holding its short-term consolidation structure near upper range levels. The ETF presents a clean, low-single-stock-risk vehicle for institutional exposure, displaying relative stability during broad market pullbacks and positioning for potential breakout action should market conditions improve."
+      },
+      {
+        "name": "Financials (XLF)",
+        "tickers": [
+          "XLF"
+        ],
+        "pct": "+0.7%",
+        "action": "and Retail (XRT) Resilience Financials advanced 0.7%, driven by expansion across electronic payment processors, insurance underwriters, and financial exchanges, even as traditional banking names lagged. Concurrently, the SPDR S&P Retail ETF (XRT) held support directly at its 50-day moving average line, maintaining a multi-week consolidation pattern that mirrors the constructive trajectory of the equal-weighted S&P 500."
+      }
+    ],
+    "stocks": [
+      {
+        "ticker": "CHYM",
+        "tickers": [
+          "CHYM"
+        ],
+        "company": "Chime Financial",
+        "pct": "",
+        "action": "Operating within the specialty enterprise financial software group, Chime Financial is constructing the right side of a cup-with-handle base. The stock has reclaimed its 21-day exponential moving average and found firm technical support at its 50-day simple moving average line. Chime Financial displays a prominent Relative Strength (RS) line \"blue dot,\" highlighting multi-month outperformance relative to the S&P 500. Fundamentally, the company is transitioning into sustained annual profitability, with institutional consensus projecting robust double-digit top- and bottom-line expansion into the next fiscal year. The stock was formally added to the IBD Leaderboard watch list."
+      },
+      {
+        "ticker": "CDNA",
+        "tickers": [
+          "CDNA"
+        ],
+        "company": "CareDx",
+        "pct": "200%",
+        "action": "CareDx, a leader in the medical services and diagnostic testing group, completed an orderly pullback to its 10-week moving average (50-day SMA) following a 200%+ price advance over the preceding 26 weeks. | Technical Pattern: Testing initial support at the 10-week moving average line following an extended run. | Fundamental Momentum: Exceptional recent quarterly revenue and earnings growth, driven by expansion in organ transplant diagnostic testing. | Risk Considerations: CareDx carries a 7% Average True Range (ATR), reflecting elevated daily volatility. While long-term annual estimates indicate potential earnings variance next year, near-term technical support at the 10-week line offers an early entry setup for disciplined position traders."
+      },
+      {
+        "ticker": "ETN",
+        "tickers": [
+          "ETN"
+        ],
+        "company": "Eaton Pharmaceuticals",
+        "pct": "8%",
+        "action": "Eaton Pharmaceuticals demonstrated extreme intraday volatility, plunging 8% to 9% shortly after Wednesday's open to test its 21-day moving average line before mounting a rapid intraday recovery. While the stock's underlying fundamental growth and group strength remain intact, such violent intraday swings illustrate the heightened execution risks present in current market conditions."
+      },
+      {
+        "ticker": "JROG",
+        "tickers": [
+          "JROG"
+        ],
+        "company": "JFrog",
+        "pct": "0.25%",
+        "action": "JFrog, an enterprise software provider, staged a positive upside reversal to close higher by 0.25%, finding strict technical support at its 50-day moving average line."
+      },
+      {
+        "ticker": "JROG",
+        "tickers": [
+          "JROG"
+        ],
+        "company": "JFrog",
+        "pct": "9.5%",
+        "action": "Key Technical & Fundamental Metrics. | Price Action: Intraday upside reversal supported directly at the 50-day simple moving average. | Relative Strength: RS Line holding at all-time high ground relative to the benchmark index. | Fundamental Growth: Accelerating quarterly top-line revenue growth over consecutive quarters. | Volatility Metric: 21-Day Average True Range (ATR) of 9.5%. | Strategic View: High-RS watchlist leader requiring base digestion after a sharp downside reversal bar. JFrog's Relative Strength line sits at high ground, driven by accelerating quarterly sales and earnings growth. However, with a 21-day ATR of 9.5%, JFrog exhibits extreme daily price variance. Following a sharp weekly downside reversal bar, institutional investors should allow the stock to digest recent gains and construct a proper handle or secondary base before committing capital."
+      }
+    ],
+    "strategy": [
+      {
+        "title": "",
+        "text": "Navigating a market locked in a rally attempt within a broader downtrend requires strict adherence to institutional risk protocols. Aggressive capital deployment prior to structural market confirmation exposes portfolios to severe whipsaw losses."
+      },
+      {
+        "title": "Follow-Through Day (FTD)",
+        "text": "Qualification Requirements A valid Follow-Through Day requires a gain of 1.0% or greater on higher volume than the prior session on either the NASDAQ Composite or S&P 500, occurring on Day 4 or later of an official rally attempt."
+      },
+      {
+        "title": "Tentative Nature of Early Signals",
+        "text": "Should a Follow-Through Day materialize during Friday's shortened session or early next week, investors must treat it as an initial signal to deploy pilot capital (\"dip the toe in the water\") rather than an aggressive \"all-in\" buy regime."
+      },
+      {
+        "title": "Technical Quality Constraints",
+        "text": "An FTD generated below key moving average lines (such as the 200-day SMA or 21-day EMA) or beneath prior pivot lows carries a higher failure rate than a breakout out of a power base."
+      },
+      {
+        "title": "Risk Guardrails",
+        "text": "The absolute low of the Follow-Through Day session serves as the immediate stop-loss line in the sand. A close below the FTD low invalidates the rally attempt and mandates an immediate return to cash. Portfolio Exposure & Volatility-Adjusted Position Sizing In high-ATR market environments (where individual growth stocks feature 7% to 10% daily price swings), traditional position sizing must be scaled back significantly: 1. Pilot Sizing: Limit initial position sizes to 2% to 3% of total portfolio capital (or half-positions) to prevent capital erosion during intraday whipsaws. 2. ATR-Based Stop Placement: Account for wider stock-specific volatility bands (e.g., JROG's 9.5% ATR) by setting logical stop losses beneath weekly moving average support rather than tight intraday stops that invite shakeouts. 3. Patience for Base Maturation: Focus exclusively on equities maintaining RS lines near high ground (such as CHYM, CDNA, and JROG), allowing V-shaped intraday swings to settle into proper, multi-week consolidation patterns before expanding exposure."
+      }
+    ],
+    "sections": [
+      {
+        "number": 1,
+        "title": "Major Index Intraday Reversals and Technical Thresholds",
+        "kind": "indexes",
+        "items": [
+          {
+            "title": "",
+            "text": "The Wednesday pre-holiday session featured wide intraday price swings, opening with steep early-morning selling before experiencing broad intraday buying interest. Despite the intraday recovery, the benchmark indexes remain locked within a broader rally attempt following recent multi-week distribution, operating beneath critical overhead moving averages and within the trading ranges established during the sharp mid-November downside moves. Index Benchmark\tDaily Percentage Change\tIntraday Price Action\tKey Moving Average & Technical Levels NASDAQ Composite\t-0.6%\tFaded steep early losses into a late-session comeback\tTrading within prior week's range; resistance at 21-day line, Nov 19 reversal bar, and 25,000 level S&P 500\t-0.25%\tClosed slightly lower after recovering off morning lows\tSupport at 7,200 level; overhead 200-day line and Nov 19 high converge around 7,400 Dow Jones Industrial Average\t+0.3%\tOutside day upside reversal closing near session highs\tReclaimed short-term moving average support; outperforming tech benchmarks Russell 2000 (Small Caps)\t+0.7%\tBullish outside day upside reversal\tDemonstrating short-term breadth expansion; holding above recent lows."
+          },
+          {
+            "title": "Equal-Weight S&P 500 (RSP)",
+            "text": "Positive Outside Day\tReclaimed 50-day SMA; facing resistance at 21-day SMA\tNever undercut 200-day line; Relative Strength (RS) line trending near high ground The technical contrast between the market-cap-weighted S&P 500 and the Equal-Weight S&P 500 (RSP) highlights significant internal market bifurcation. While mega-cap technology drag continues to weigh on the cap-weighted indexes, the RSP completed a positive outside day upside reversal, closing firmly back above its 50-day moving average line. Unlike the market-cap benchmarks, the equal-weight index held above its 200-day moving average line without undercutting prior lows, reflecting healthy participation across industrial, financial, and consumer groups outside of mega-cap technology."
+          },
+          {
+            "title": "NASDAQ Composite",
+            "text": "-0.6% daily percentage change: -0.6% | intraday price action: Faded steep early losses into a late-session comeback | key moving average technical levels: Trading within prior week's range; resistance at 21-day line, Nov 19 reversal bar, and 25,000 level."
+          },
+          {
+            "title": "S&P 500",
+            "text": "-0.25% daily percentage change: -0.25% | intraday price action: Closed slightly lower after recovering off morning lows | key moving average technical levels: Support at 7,200 level; overhead 200-day line and Nov 19 high converge around 7,400."
+          },
+          {
+            "title": "Dow Jones Industrial Average",
+            "text": "+0.3% daily percentage change: +0.3% | intraday price action: Outside day upside reversal closing near session highs | key moving average technical levels: Reclaimed short-term moving average support; outperforming tech benchmarks."
+          },
+          {
+            "title": "Russell 2000 (Small Caps)",
+            "text": "+0.7% daily percentage change: +0.7% | intraday price action: Bullish outside day upside reversal | key moving average technical levels: Demonstrating short-term breadth expansion; holding above recent lows."
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Macroeconomic Catalysts, Treasury Yield Pullbacks, and Tariff Digestion",
+        "kind": "macro",
+        "items": [
+          {
+            "title": "",
+            "text": "Intraday market sentiment was influenced by an interplay of private market valuation signals, shifts in government bond yields, and trade policy announcements. Market participants digested several macro and micro drivers during the shortened pre-holiday trading week:."
+          },
+          {
+            "title": "Artificial Intelligence Sentiment & Private Market Signals",
+            "text": "Intraday trading momentum shifted constructively following a mid-session recovery in secondary market sentiment surrounding Anthropic. Institutional strategists noted that stabilization in prominent AI market leaders provided a proxy for broader risk appetite, helping curb early-morning panic selling across technology equities."
+          },
+          {
+            "title": "10-Year Treasury Yield (TNX) Breakdown",
+            "text": "The 10-year Treasury yield extended its recent pullback, forming a technical structure resembling a reverse cup-with-handle pattern. Easing interest rate pressures provided immediate tailwinds for rate-sensitive equity groups."
+          },
+          {
+            "title": "Housing & Construction Outperformance",
+            "text": "Declining Treasury yields catalyzed buying across housing and construction equities. The SPDR S&P Homebuilders ETF (XHB) advanced 2.4% on the session, anchored by a technical base breakout in Home Depot (HD) from a bottoming pattern."
+          },
+          {
+            "title": "Trade Policy & Tariff Absorption",
+            "text": "Equity markets demonstrated resilience following formal announcements regarding trade tariffs. Consumer discretionary and retail groups absorbed tariff updates without triggering secondary selling, indicating that near-term trade friction had been largely priced into valuations."
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Sector ETF Rotations: Semiconductor Vulnerability vs. Defensive & Cyclical Strength",
+        "kind": "sectors",
+        "items": [
+          {
+            "title": "",
+            "text": "Sector-level performance continues to diverge dramatically. Technology and memory chip equipment remain under severe structural pressure, whereas medical, financial, retail, and biotech groups are constructing actionable bases. Sector ETF\tDaily Performance\tTechnical Structure & Group Outlook."
+          },
+          {
+            "title": "Semiconductor ETF (SMH)",
+            "text": "1.1%\tUndercut prior intraday low; severe memory chip damage despite Nvidia weekly gains."
+          },
+          {
+            "title": "Biotech ETF (XBI)",
+            "text": "Flat (-0.1%)\tBase building near highs; broad sector setup with low single-stock risk."
+          },
+          {
+            "title": "Retail ETF (XRT)",
+            "text": "0.1%\tHolding 50-day SMA; resilient chart pattern despite tariff announcements."
+          },
+          {
+            "title": "Financials ETF (XLF)",
+            "text": "+0.7%\tStrong momentum in payments, exchanges, and insurance."
+          },
+          {
+            "title": "Homebuilders ETF (XHB)",
+            "text": "+2.4%\tRate-cut proxy rally; anchored by Home Depot bottoming base breakout."
+          },
+          {
+            "title": "Semiconductor ETF (SMH)",
+            "text": "Downtrend."
+          },
+          {
+            "title": "The VanEck Semiconductor ETF (SMH)",
+            "text": "fell 1.1% on the session, undercutting its prior intraday low to remain on technical life support beneath all major moving averages. Despite Nvidia—the ETF's largest weighting—holding a weekly gain of approximately 20%, widespread distribution across memory chip producers and equipment suppliers continued to drag the sector lower. The semiconductor group operates in a deep technical deficit, requiring substantial base-building before establishing a sustainable floor."
+          },
+          {
+            "title": "SPDR S&P Biotech ETF (XBI)",
+            "text": "Setup The XBI Biotech ETF finished virtually flat, holding its short-term consolidation structure near upper range levels. The ETF presents a clean, low-single-stock-risk vehicle for institutional exposure, displaying relative stability during broad market pullbacks and positioning for potential breakout action should market conditions improve."
+          },
+          {
+            "title": "Financials (XLF)",
+            "text": "and Retail (XRT) Resilience Financials advanced 0.7%, driven by expansion across electronic payment processors, insurance underwriters, and financial exchanges, even as traditional banking names lagged. Concurrently, the SPDR S&P Retail ETF (XRT) held support directly at its 50-day moving average line, maintaining a multi-week consolidation pattern that mirrors the constructive trajectory of the equal-weighted S&P 500."
+          }
+        ]
+      },
+      {
+        "number": 4,
+        "title": "High-Relative-Strength Individual Stock Setups & Growth Metrics",
+        "kind": "stocks",
+        "items": [
+          {
+            "title": "",
+            "text": "Despite broad market volatility, select individual growth companies with accelerating fundamental metrics are forming proper technical bases. Institutional watchlists should focus strictly on equities exhibiting top-tier relative strength lines and clear support at key moving average guardrails."
+          },
+          {
+            "title": "Chime Financial (CHYM)",
+            "text": "Operating within the specialty enterprise financial software group, Chime Financial is constructing the right side of a cup-with-handle base. The stock has reclaimed its 21-day exponential moving average and found firm technical support at its 50-day simple moving average line. Chime Financial displays a prominent Relative Strength (RS) line \"blue dot,\" highlighting multi-month outperformance relative to the S&P 500. Fundamentally, the company is transitioning into sustained annual profitability, with institutional consensus projecting robust double-digit top- and bottom-line expansion into the next fiscal year. The stock was formally added to the IBD Leaderboard watch list."
+          },
+          {
+            "title": "CareDx (CDNA)",
+            "text": "CareDx, a leader in the medical services and diagnostic testing group, completed an orderly pullback to its 10-week moving average (50-day SMA) following a 200%+ price advance over the preceding 26 weeks."
+          },
+          {
+            "title": "Technical Pattern",
+            "text": "Testing initial support at the 10-week moving average line following an extended run."
+          },
+          {
+            "title": "Fundamental Momentum",
+            "text": "Exceptional recent quarterly revenue and earnings growth, driven by expansion in organ transplant diagnostic testing."
+          },
+          {
+            "title": "Risk Considerations",
+            "text": "CareDx carries a 7% Average True Range (ATR), reflecting elevated daily volatility. While long-term annual estimates indicate potential earnings variance next year, near-term technical support at the 10-week line offers an early entry setup for disciplined position traders."
+          },
+          {
+            "title": "Eaton Pharmaceuticals (ETN)",
+            "text": "Eaton Pharmaceuticals demonstrated extreme intraday volatility, plunging 8% to 9% shortly after Wednesday's open to test its 21-day moving average line before mounting a rapid intraday recovery. While the stock's underlying fundamental growth and group strength remain intact, such violent intraday swings illustrate the heightened execution risks present in current market conditions."
+          },
+          {
+            "title": "JFrog (JROG)",
+            "text": "JFrog, an enterprise software provider, staged a positive upside reversal to close higher by 0.25%, finding strict technical support at its 50-day moving average line."
+          },
+          {
+            "title": "JFrog (JROG)",
+            "text": "Key Technical & Fundamental Metrics."
+          },
+          {
+            "title": "Price Action",
+            "text": "Intraday upside reversal supported directly at the 50-day simple moving average."
+          },
+          {
+            "title": "Relative Strength",
+            "text": "RS Line holding at all-time high ground relative to the benchmark index."
+          },
+          {
+            "title": "Fundamental Growth",
+            "text": "Accelerating quarterly top-line revenue growth over consecutive quarters."
+          },
+          {
+            "title": "Volatility Metric",
+            "text": "21-Day Average True Range (ATR) of 9.5%."
+          },
+          {
+            "title": "Strategic View",
+            "text": "High-RS watchlist leader requiring base digestion after a sharp downside reversal bar. JFrog's Relative Strength line sits at high ground, driven by accelerating quarterly sales and earnings growth. However, with a 21-day ATR of 9.5%, JFrog exhibits extreme daily price variance. Following a sharp weekly downside reversal bar, institutional investors should allow the stock to digest recent gains and construct a proper handle or secondary base before committing capital."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "title": "Follow-Through Day Mechanics, ATR-Calibrated Sizing, and Risk Execution Rules",
+        "kind": "strategy",
+        "items": [
+          {
+            "title": "",
+            "text": "Navigating a market locked in a rally attempt within a broader downtrend requires strict adherence to institutional risk protocols. Aggressive capital deployment prior to structural market confirmation exposes portfolios to severe whipsaw losses."
+          },
+          {
+            "title": "Follow-Through Day (FTD)",
+            "text": "Qualification Requirements A valid Follow-Through Day requires a gain of 1.0% or greater on higher volume than the prior session on either the NASDAQ Composite or S&P 500, occurring on Day 4 or later of an official rally attempt."
+          },
+          {
+            "title": "Tentative Nature of Early Signals",
+            "text": "Should a Follow-Through Day materialize during Friday's shortened session or early next week, investors must treat it as an initial signal to deploy pilot capital (\"dip the toe in the water\") rather than an aggressive \"all-in\" buy regime."
+          },
+          {
+            "title": "Technical Quality Constraints",
+            "text": "An FTD generated below key moving average lines (such as the 200-day SMA or 21-day EMA) or beneath prior pivot lows carries a higher failure rate than a breakout out of a power base."
+          },
+          {
+            "title": "Risk Guardrails",
+            "text": "The absolute low of the Follow-Through Day session serves as the immediate stop-loss line in the sand. A close below the FTD low invalidates the rally attempt and mandates an immediate return to cash. Portfolio Exposure & Volatility-Adjusted Position Sizing In high-ATR market environments (where individual growth stocks feature 7% to 10% daily price swings), traditional position sizing must be scaled back significantly: 1. Pilot Sizing: Limit initial position sizes to 2% to 3% of total portfolio capital (or half-positions) to prevent capital erosion during intraday whipsaws. 2. ATR-Based Stop Placement: Account for wider stock-specific volatility bands (e.g., JROG's 9.5% ATR) by setting logical stop losses beneath weekly moving average support rather than tight intraday stops that invite shakeouts. 3. Patience for Base Maturation: Focus exclusively on equities maintaining RS lines near high ground (such as CHYM, CDNA, and JROG), allowing V-shaped intraday swings to settle into proper, multi-week consolidation patterns before expanding exposure."
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-24T20:00:00+00:00",
     "header": "Tuesday, November 24, 2026's Report",
     "headline": "The equity markets exhibited extreme intraday volatility and sharp sector divergence on Day 2 of a new market rally attempt.",
