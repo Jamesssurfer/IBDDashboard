@@ -1,6 +1,334 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-11-20T20:00:00+00:00",
+      "header": "Friday, November 20, 2026's Report",
+      "headline": "The equity market experienced severe structural damage on Friday, November 20th, characterized by broad-based distribution across major benchmarks, the collapse of key mega-cap market leaders, and widespread breaches of foundational moving average support lines.",
+      "summary": "The equity market experienced severe structural damage on Friday, November 20th, characterized by broad-based distribution across major benchmarks, the collapse of key mega-cap market leaders, and widespread breaches of foundational moving average support lines. A multi-week deterioration culminated in an index-wide sell-off that forced all major benchmarks into deep technical corrections.",
+      "indexes": [
+        {
+          "name": "Index note",
+          "pct": "+10.0%",
+          "action": "Broad-based equity indexes suffered catastrophic declines during Friday's session, extending a severe multi-week market correction and invalidating prior technical support levels across all major asset classes. Benchmark Technical Violations The NASDAQ Composite led the downward spiral, tumbling 5.3% on Friday to finish near session lows after attempting a brief, failed stabilization in the opening 30 minutes of trading. For the week, the NASDAQ lost 10.0%, marking its worst single-week performance since March 2020 and pushing the benchmark into an official 20% bear market correction from its recent highs. From a technical structure standpoint, Chief Content Officer Chris Gessel highlighted on IBD Live that the NASDAQ's 21-day exponential moving average (EMA) completed a major bearish crossover below its 200-day simple moving average (SMA), underscoring systemic structural damage. The S&P 500 Index dropped 3.7% on the session, capping an 8.6% weekly decline—its sharpest weekly drop since April 2025. This move followed a decisive Thursday breach of its 200-day moving average line and an undercut of key psychological support at the 7,000 round number, as well as the prior January–February breakout floor. Meanwhile, the Dow Jones Industrial Average fell 1.9% on Friday, recording its worst weekly drop since March 2020. Index / ETF\tDaily Change\tWeekly Change\tCritical Technical Status NASDAQ Composite\t-5.3%\t-10.0%\t21-day EMA crossed below 200-day SMA; -20% from highs."
+        },
+        {
+          "name": "S&P 500 (SPY)",
+          "pct": "-8.6%",
+          "action": "3.7%\t-8.6%\tUndercut 200-day SMA & 7,000 psychological support."
+        },
+        {
+          "name": "Dow Jones (DIA)",
+          "pct": "1.9%",
+          "action": "1.9%\tSevere Drawdown\tWorst weekly decline since March 2020."
+        },
+        {
+          "name": "Equal-Weight S&P 500 (RSP)",
+          "pct": "",
+          "action": "Outperforming\tResilient\tOutperforming market-cap weighted index; positive session Structural Divergence & Market Breadth Prior to Friday's broad-based liquidation, market breadth exhibited significant divergence. During the summer months from June through August, the S&P 500 achieved near-record highs while the NASDAQ Composite faltered. Subsequently, the Equal-Weighted S&P 500 ETF (RSP) forged new highs while both market-cap weighted indexes deteriorated, demonstrating that the average stock remained resilient while mega-cap technology dragged down cap-weighted benchmarks. However, Friday's price action represented a complete market wash-out where defensive rotation failed to absorb institutional liquidation. Aside from minor gains in Consumer Staples (XLP) and the Equal-Weight S&P 500 (RSP), virtually all sectors succumbed to liquidation. Technical analysis confirms that when moving averages are stacked in improper alignment—with short-term lines falling beneath long-term baselines—attempting to isolate counter-trend leaders carries asymmetric downside risk."
+        },
+        {
+          "name": "NASDAQ Composite",
+          "pct": "-5.3%",
+          "action": "-5.3% index etf: NASDAQ Composite | daily change: -5.3% | weekly change: -10.0% | critical technical status: 21-day EMA crossed below 200-day SMA; -20% from highs."
+        }
+      ],
+      "macro": [
+        {
+          "title": "",
+          "text": "Intermarket indicators and psychological sentiment metrics indicate an extreme shift into institutional fear, requiring active market participants to separate emotional impulses from disciplined execution."
+        },
+        {
+          "title": "Volatility Index (VIX)",
+          "text": "Multi-Year Spikes."
+        },
+        {
+          "title": "The CBOE Volatility Index (VIX)",
+          "text": "surged to multi-year highs on both weekly and monthly timeframes, reaching levels last observed during major tariff-related market disruptions and the initial early-year market bottoms. While sharp spikes in the VIX historically coincide with potential market bottoms by reflecting peak investor panic, institutional risk rules treat volatility metrics strictly as secondary indicators. Historical precedents, such as the 2008 financial crisis, demonstrate that volatility can maintain elevated spikes through prolonged, multi-stage index liquidations. Therefore, high VIX readings establish an environment suitable for monitoring bottoming patterns, but primary buy signals must originate directly from price and volume action on index charts. As Senior Market Strategist Mike Webster noted during historical market studies, observing how the market handles magnetic tests of the 200-day moving average provides the primary signal, while sentiment acts as context. \"At the end of the day, sentiment metrics are secondary. We want to look at the market itself—that is our fish. The charts display mass psychology, supply, and demand on parade.\" Cognitive Framing & The \"Stocks on Sale\" Fallacy During severe market corrections, retail commentary often invokes value-oriented paradigms, such as Warren Buffett's maxim regarding purchasing \"discounted\" equities. Technical risk management draws a sharp distinction between long-term dollar-cost averaging in broadly diversified growth funds and disciplined individual stock selection: 1. Individual Equity Risk vs. Fund Diversification: Purchasing individual growth stocks on weakness exposes capital to severe single-stock drawdown risk, as broken market leaders often fail to recover during subsequent market cycles. 2. Stop-Loss Execution: Individual growth stock trading relies on strict 7% to 8% stop-loss thresholds to protect capital. In contrast, dollar-cost averaging in index funds or diversified mutual funds operates without tight stop-loss rules, requiring a multi-year investment horizon and absolute risk tolerance for deep paper losses. 3. Neuroscience of Execution: Citing author Lee Freeman-Shor (The Art of Execution), behavioral neuroscience shows that market panic triggers the amygdala (the brain's fear center), leading to impulsive decision-making, such as transforming failed short-term trades into involuntary \"buy-and-hold\" positions. Systemic risk management relies on pre-planned exit rules and breathwork to engage the prefrontal cortex for deliberate executive decision-making."
+        }
+      ],
+      "sectors": [],
+      "stocks": [
+        {
+          "ticker": "NVDA",
+          "tickers": [
+            "NVDA"
+          ],
+          "company": "Nvidia",
+          "pct": "14.0%",
+          "action": "the central engine of the semiconductor and artificial intelligence narrative—suffered an unprecedented collapse, plunging 14.0% on Friday, 23.0% for the week, and 39.0% month-to-date. The stock was battered by a convergence of negative catalysts, including an SEC accounting investigation, the abrupt departure of co-founder Jensen Huang, post-midterm election AI regulatory jitters, and growing skepticism regarding data center capital expenditure returns and debt financing."
+        },
+        {
+          "ticker": "NVDA",
+          "tickers": [
+            "NVDA"
+          ],
+          "company": "Timeline Period\tNvidia",
+          "pct": "-14.0%",
+          "action": "Return\tPrimary Market Catalysts Friday Single Session\t-14.0%\tSEC accounting investigation announcement Weekly Total\t-23.0%\tPost-CEO exit liquidation & chip sector sell-off Month-to-Date\t-39.0%\tData center debt fears & post-midterm AI regulatory jitters Historical analysis provides critical perspective on broken market darlings:. | The 12% Cycle Rule: Market research demonstrates that only approximately 12% of leading stocks during one bull market cycle retain their market leadership in the subsequent cycle. While Nvidia previously demonstrated rare multi-cycle leadership, massive fundamental and technical breakdowns significantly lower the probability of immediate outperformance. | The 2000 Cisco Precedent: Cisco Systems served as the indispensable infrastructure leader of the 1990s Internet boom. Following its 2000 peak, Cisco took 25 years to reclaim its historical high of $82, despite remaining a profitable, widely used technology enterprise. Holding darlings through 50%+ drawdowns risks severe long-term capital impairment. Anthropic IPO Liquidity Absorption The market's structural downside reversal coincided precisely with the high-profile public debut of Anthropic. Similar to historical concerns surrounding massive offerings like SpaceX, record-breaking megacap IPOs can absorb substantial market liquidity, draining buying power from established equities during vulnerable market conditions. From a technical risk standpoint, trading brand-new IPOs during broad market corrections is inherently unmanageable due to the absence of historical price data, overhead supply levels, and established moving average support lines. | Friday Single Session: -14.0% timeline period: Friday Single Session | nvidia nvda return: -14.0% | primary market catalysts: SEC accounting investigation announcement. | Weekly Total: -23.0% timeline period: Weekly Total | nvidia nvda return: -23.0% | primary market catalysts: Post-CEO exit liquidation & chip sector sell-off. | Month-to-Date: -39.0% timeline period: Month-to-Date | nvidia nvda return: -39.0% | primary market catalysts: Data center debt fears & post-midterm AI regulatory jitters."
+        },
+        {
+          "ticker": "AAPL",
+          "tickers": [
+            "AAPL"
+          ],
+          "company": "Apple Inc.",
+          "pct": "",
+          "action": "Mega-Cap Tech\tHeld 50-day SMA\tRS line at highs; testing $340–$345 support floor."
+        },
+        {
+          "ticker": "PLMR",
+          "tickers": [
+            "PLMR"
+          ],
+          "company": "Palomar Holdings",
+          "pct": "+4.4%",
+          "action": "Insurance (KIE)\t+4.4% Breakout\tHigh RS spike; vulnerable to capital rotation upon market low."
+        },
+        {
+          "ticker": "IP",
+          "tickers": [
+            "IP"
+          ],
+          "company": "Interparfums Inc.",
+          "pct": "",
+          "action": "Cosmetics / Personal Care\tStrong RS Bounce\tDefensive growth play; defined risk at Thursday/Friday low."
+        },
+        {
+          "ticker": "AAPL",
+          "tickers": [
+            "AAPL"
+          ],
+          "company": "Apple Inc.",
+          "pct": "",
+          "action": "Apple demonstrated exceptional relative strength compared to its mega-cap technology peers. While the broader NASDAQ broke its 200-day line, Apple held technical support directly at its 50-day moving average line around the $340–$345 zone, coinciding with its prior peak resistance levels at $344.57 and $345.34. Apple's Relative Strength line surged toward new highs, reflecting institutional capital seeking shelter in consumer-tech cash flows."
+        },
+        {
+          "ticker": "PLMR",
+          "tickers": [
+            "PLMR"
+          ],
+          "company": "Palomar Holdings",
+          "pct": "",
+          "action": "& Insurance Group (KIE)."
+        },
+        {
+          "ticker": "PLMR",
+          "tickers": [
+            "PLMR"
+          ],
+          "company": "Palomar Holdings",
+          "pct": "+4.4%",
+          "action": "surged 4.4% on Friday, achieving a new breakout as its Relative Strength line spiked. Operating within the property and casualty insurance group, Palomar benefited from defensive capital flows into the Insurance ETF (KIE). However, technical discipline dictates caution: defensive leadership in insurance and staples often experiences rapid capital outflows when broad market indexes finally form a floor and capital rotates back into high-beta growth."
+        },
+        {
+          "ticker": "IP",
+          "tickers": [
+            "IP"
+          ],
+          "company": "Interparfums Inc.",
+          "pct": "",
+          "action": ""
+        },
+        {
+          "ticker": "IP",
+          "tickers": [
+            "IP"
+          ],
+          "company": "Interparfums",
+          "pct": "0.25%",
+          "action": "displayed notable relative strength within the cosmetics and personal care industry group. The stock established an actionable technical floor, allowing swing traders to define strict risk parameters using Thursday's or Friday's low as a hard stop-loss. Position sizing in such setups must be restricted to minimal pilot allocations, such as 0.25% total portfolio risk."
+        }
+      ],
+      "strategy": [
+        {
+          "title": "",
+          "text": "Navigating severe market liquidations requires strict adherence to institutional risk control mechanisms, defensive cash management, and structured trend-change execution. Defensive Cash Positioning & Capital Preservation The primary objective during severe market corrections is preserving portfolio equity and mental capital, as emphasized by market veteran Kathy Donnelly. Stepping aside to a 100% cash position eliminates compounding drawdowns, allowing traders to approach the next market uptrend from an elevated portfolio baseline. \"When index moving average lines are broken and living beneath resistance, the market displays its warning colors. Staying in cash avoids participating in severe down-drafts and preserves capital for the next bull phase.\" Shorting Rules & Asymmetric Risk While shorting growth stocks into market declines can generate profits, shorting late in an extended downside move carries extreme risk:."
+        },
+        {
+          "title": "Avoiding Over-Extended Shorts",
+          "text": "Initiating short positions after a 10.0% weekly index collapse exposes traders to violent counter-trend short-covering rallies. As traders observe, the heart is already out of the watermelon at these levels."
+        },
+        {
+          "title": "Shorting Resistance, Not Weakness",
+          "text": "Institutional shorting rules articulated by David Ryan and Mark Minervini mandate executing short trades on weak, low-volume rallies into declining moving average resistance lines (such as 21-day or 50-day lines), rather than selling short on deep panic days."
+        },
+        {
+          "title": "Profit Taking Discipline",
+          "text": "Professional short positions must be covered into severe downside panic spikes to lock in gains. Portfolio managers like Mike noted taking off SPY short positions to lock in an 8R profit rather than holding greedily for lower targets. Market Trend-Change Checklist To safely transition capital from cash back into equities during a market turnaround, traders must follow a structured technical checklist:."
+        }
+      ],
+      "sections": [
+        {
+          "number": 1,
+          "title": "Major Index Performance & Technical Action",
+          "kind": "indexes",
+          "items": [
+            {
+              "title": "",
+              "text": "Broad-based equity indexes suffered catastrophic declines during Friday's session, extending a severe multi-week market correction and invalidating prior technical support levels across all major asset classes. Benchmark Technical Violations The NASDAQ Composite led the downward spiral, tumbling 5.3% on Friday to finish near session lows after attempting a brief, failed stabilization in the opening 30 minutes of trading. For the week, the NASDAQ lost 10.0%, marking its worst single-week performance since March 2020 and pushing the benchmark into an official 20% bear market correction from its recent highs. From a technical structure standpoint, Chief Content Officer Chris Gessel highlighted on IBD Live that the NASDAQ's 21-day exponential moving average (EMA) completed a major bearish crossover below its 200-day simple moving average (SMA), underscoring systemic structural damage. The S&P 500 Index dropped 3.7% on the session, capping an 8.6% weekly decline—its sharpest weekly drop since April 2025. This move followed a decisive Thursday breach of its 200-day moving average line and an undercut of key psychological support at the 7,000 round number, as well as the prior January–February breakout floor. Meanwhile, the Dow Jones Industrial Average fell 1.9% on Friday, recording its worst weekly drop since March 2020. Index / ETF\tDaily Change\tWeekly Change\tCritical Technical Status NASDAQ Composite\t-5.3%\t-10.0%\t21-day EMA crossed below 200-day SMA; -20% from highs."
+            },
+            {
+              "title": "S&P 500 (SPY)",
+              "text": "3.7%\t-8.6%\tUndercut 200-day SMA & 7,000 psychological support."
+            },
+            {
+              "title": "Dow Jones (DIA)",
+              "text": "1.9%\tSevere Drawdown\tWorst weekly decline since March 2020."
+            },
+            {
+              "title": "Equal-Weight S&P 500 (RSP)",
+              "text": "Outperforming\tResilient\tOutperforming market-cap weighted index; positive session Structural Divergence & Market Breadth Prior to Friday's broad-based liquidation, market breadth exhibited significant divergence. During the summer months from June through August, the S&P 500 achieved near-record highs while the NASDAQ Composite faltered. Subsequently, the Equal-Weighted S&P 500 ETF (RSP) forged new highs while both market-cap weighted indexes deteriorated, demonstrating that the average stock remained resilient while mega-cap technology dragged down cap-weighted benchmarks. However, Friday's price action represented a complete market wash-out where defensive rotation failed to absorb institutional liquidation. Aside from minor gains in Consumer Staples (XLP) and the Equal-Weight S&P 500 (RSP), virtually all sectors succumbed to liquidation. Technical analysis confirms that when moving averages are stacked in improper alignment—with short-term lines falling beneath long-term baselines—attempting to isolate counter-trend leaders carries asymmetric downside risk."
+            },
+            {
+              "title": "NASDAQ Composite",
+              "text": "-5.3% index etf: NASDAQ Composite | daily change: -5.3% | weekly change: -10.0% | critical technical status: 21-day EMA crossed below 200-day SMA; -20% from highs."
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "title": "Macroeconomic Sentiment, Volatility & Market Psychology",
+          "kind": "macro",
+          "items": [
+            {
+              "title": "",
+              "text": "Intermarket indicators and psychological sentiment metrics indicate an extreme shift into institutional fear, requiring active market participants to separate emotional impulses from disciplined execution."
+            },
+            {
+              "title": "Volatility Index (VIX)",
+              "text": "Multi-Year Spikes."
+            },
+            {
+              "title": "The CBOE Volatility Index (VIX)",
+              "text": "surged to multi-year highs on both weekly and monthly timeframes, reaching levels last observed during major tariff-related market disruptions and the initial early-year market bottoms. While sharp spikes in the VIX historically coincide with potential market bottoms by reflecting peak investor panic, institutional risk rules treat volatility metrics strictly as secondary indicators. Historical precedents, such as the 2008 financial crisis, demonstrate that volatility can maintain elevated spikes through prolonged, multi-stage index liquidations. Therefore, high VIX readings establish an environment suitable for monitoring bottoming patterns, but primary buy signals must originate directly from price and volume action on index charts. As Senior Market Strategist Mike Webster noted during historical market studies, observing how the market handles magnetic tests of the 200-day moving average provides the primary signal, while sentiment acts as context. \"At the end of the day, sentiment metrics are secondary. We want to look at the market itself—that is our fish. The charts display mass psychology, supply, and demand on parade.\" Cognitive Framing & The \"Stocks on Sale\" Fallacy During severe market corrections, retail commentary often invokes value-oriented paradigms, such as Warren Buffett's maxim regarding purchasing \"discounted\" equities. Technical risk management draws a sharp distinction between long-term dollar-cost averaging in broadly diversified growth funds and disciplined individual stock selection: 1. Individual Equity Risk vs. Fund Diversification: Purchasing individual growth stocks on weakness exposes capital to severe single-stock drawdown risk, as broken market leaders often fail to recover during subsequent market cycles. 2. Stop-Loss Execution: Individual growth stock trading relies on strict 7% to 8% stop-loss thresholds to protect capital. In contrast, dollar-cost averaging in index funds or diversified mutual funds operates without tight stop-loss rules, requiring a multi-year investment horizon and absolute risk tolerance for deep paper losses. 3. Neuroscience of Execution: Citing author Lee Freeman-Shor (The Art of Execution), behavioral neuroscience shows that market panic triggers the amygdala (the brain's fear center), leading to impulsive decision-making, such as transforming failed short-term trades into involuntary \"buy-and-hold\" positions. Systemic risk management relies on pre-planned exit rules and breathwork to engage the prefrontal cortex for deliberate executive decision-making."
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "title": "Technology Leadership Breakdown & IPO Dynamics",
+          "kind": "stocks",
+          "items": [
+            {
+              "title": "",
+              "text": "The market collapse was exacerbated by an accelerating breakdown in institutional AI darlings and liquidity disruption surrounding high-profile initial public offerings. Nvidia's Structural Collapse & The Cisco Analogy."
+            },
+            {
+              "title": "Nvidia (NVDA)",
+              "text": "the central engine of the semiconductor and artificial intelligence narrative—suffered an unprecedented collapse, plunging 14.0% on Friday, 23.0% for the week, and 39.0% month-to-date. The stock was battered by a convergence of negative catalysts, including an SEC accounting investigation, the abrupt departure of co-founder Jensen Huang, post-midterm election AI regulatory jitters, and growing skepticism regarding data center capital expenditure returns and debt financing."
+            },
+            {
+              "title": "Timeline Period\tNvidia (NVDA)",
+              "text": "Return\tPrimary Market Catalysts Friday Single Session\t-14.0%\tSEC accounting investigation announcement Weekly Total\t-23.0%\tPost-CEO exit liquidation & chip sector sell-off Month-to-Date\t-39.0%\tData center debt fears & post-midterm AI regulatory jitters Historical analysis provides critical perspective on broken market darlings:."
+            },
+            {
+              "title": "The 12% Cycle Rule",
+              "text": "Market research demonstrates that only approximately 12% of leading stocks during one bull market cycle retain their market leadership in the subsequent cycle. While Nvidia previously demonstrated rare multi-cycle leadership, massive fundamental and technical breakdowns significantly lower the probability of immediate outperformance."
+            },
+            {
+              "title": "The 2000 Cisco Precedent",
+              "text": "Cisco Systems served as the indispensable infrastructure leader of the 1990s Internet boom. Following its 2000 peak, Cisco took 25 years to reclaim its historical high of $82, despite remaining a profitable, widely used technology enterprise. Holding darlings through 50%+ drawdowns risks severe long-term capital impairment. Anthropic IPO Liquidity Absorption The market's structural downside reversal coincided precisely with the high-profile public debut of Anthropic. Similar to historical concerns surrounding massive offerings like SpaceX, record-breaking megacap IPOs can absorb substantial market liquidity, draining buying power from established equities during vulnerable market conditions. From a technical risk standpoint, trading brand-new IPOs during broad market corrections is inherently unmanageable due to the absence of historical price data, overhead supply levels, and established moving average support lines."
+            },
+            {
+              "title": "Friday Single Session",
+              "text": "-14.0% timeline period: Friday Single Session | nvidia nvda return: -14.0% | primary market catalysts: SEC accounting investigation announcement."
+            },
+            {
+              "title": "Weekly Total",
+              "text": "-23.0% timeline period: Weekly Total | nvidia nvda return: -23.0% | primary market catalysts: Post-CEO exit liquidation & chip sector sell-off."
+            },
+            {
+              "title": "Month-to-Date",
+              "text": "-39.0% timeline period: Month-to-Date | nvidia nvda return: -39.0% | primary market catalysts: Data center debt fears & post-midterm AI regulatory jitters."
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "title": "Individual Stock Technical Setups & Relative Strength Analysis",
+          "kind": "stocks",
+          "items": [
+            {
+              "title": "",
+              "text": "Despite widespread market destruction, select equities exhibited relative strength, offering critical case studies for watchlist construction once broad market stabilization occurs. Stock Name (Ticker)\tIndustry Group\tPrice Action\tTechnical Assessment & Risk Parameters."
+            },
+            {
+              "title": "Apple Inc. (AAPL)",
+              "text": "Mega-Cap Tech\tHeld 50-day SMA\tRS line at highs; testing $340–$345 support floor."
+            },
+            {
+              "title": "Palomar Holdings (PLMR)",
+              "text": "Insurance (KIE)\t+4.4% Breakout\tHigh RS spike; vulnerable to capital rotation upon market low."
+            },
+            {
+              "title": "Interparfums Inc. (IP)",
+              "text": "Cosmetics / Personal Care\tStrong RS Bounce\tDefensive growth play; defined risk at Thursday/Friday low."
+            },
+            {
+              "title": "Apple Inc. (AAPL)",
+              "text": "Apple demonstrated exceptional relative strength compared to its mega-cap technology peers. While the broader NASDAQ broke its 200-day line, Apple held technical support directly at its 50-day moving average line around the $340–$345 zone, coinciding with its prior peak resistance levels at $344.57 and $345.34. Apple's Relative Strength line surged toward new highs, reflecting institutional capital seeking shelter in consumer-tech cash flows."
+            },
+            {
+              "title": "Palomar Holdings (PLMR)",
+              "text": "& Insurance Group (KIE)."
+            },
+            {
+              "title": "Palomar Holdings (PLMR)",
+              "text": "surged 4.4% on Friday, achieving a new breakout as its Relative Strength line spiked. Operating within the property and casualty insurance group, Palomar benefited from defensive capital flows into the Insurance ETF (KIE). However, technical discipline dictates caution: defensive leadership in insurance and staples often experiences rapid capital outflows when broad market indexes finally form a floor and capital rotates back into high-beta growth."
+            },
+            {
+              "title": "Interparfums Inc. (IP)",
+              "text": ""
+            },
+            {
+              "title": "Interparfums (IP)",
+              "text": "displayed notable relative strength within the cosmetics and personal care industry group. The stock established an actionable technical floor, allowing swing traders to define strict risk parameters using Thursday's or Friday's low as a hard stop-loss. Position sizing in such setups must be restricted to minimal pilot allocations, such as 0.25% total portfolio risk."
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "title": "Systematic Risk Control, Shorting Protocols & Trend Change Framework",
+          "kind": "strategy",
+          "items": [
+            {
+              "title": "",
+              "text": "Navigating severe market liquidations requires strict adherence to institutional risk control mechanisms, defensive cash management, and structured trend-change execution. Defensive Cash Positioning & Capital Preservation The primary objective during severe market corrections is preserving portfolio equity and mental capital, as emphasized by market veteran Kathy Donnelly. Stepping aside to a 100% cash position eliminates compounding drawdowns, allowing traders to approach the next market uptrend from an elevated portfolio baseline. \"When index moving average lines are broken and living beneath resistance, the market displays its warning colors. Staying in cash avoids participating in severe down-drafts and preserves capital for the next bull phase.\" Shorting Rules & Asymmetric Risk While shorting growth stocks into market declines can generate profits, shorting late in an extended downside move carries extreme risk:."
+            },
+            {
+              "title": "Avoiding Over-Extended Shorts",
+              "text": "Initiating short positions after a 10.0% weekly index collapse exposes traders to violent counter-trend short-covering rallies. As traders observe, the heart is already out of the watermelon at these levels."
+            },
+            {
+              "title": "Shorting Resistance, Not Weakness",
+              "text": "Institutional shorting rules articulated by David Ryan and Mark Minervini mandate executing short trades on weak, low-volume rallies into declining moving average resistance lines (such as 21-day or 50-day lines), rather than selling short on deep panic days."
+            },
+            {
+              "title": "Profit Taking Discipline",
+              "text": "Professional short positions must be covered into severe downside panic spikes to lock in gains. Portfolio managers like Mike noted taking off SPY short positions to lock in an 8R profit rather than holding greedily for lower targets. Market Trend-Change Checklist To safely transition capital from cash back into equities during a market turnaround, traders must follow a structured technical checklist:."
+            }
+          ]
+        },
+        {
+          "number": 1,
+          "title": "Day 1 Rally Attempt: Benchmark index must establish a definitive low and close positive off session lows.",
+          "kind": "indexes",
+          "items": []
+        },
+        {
+          "number": 2,
+          "title": "Low Preservation: Subsequent sessions must hold above the Day 1 low without undercutting the floor.",
+          "kind": "other",
+          "items": [
+            {
+              "title": "",
+              "text": "3. Follow-Through Day: On Day 4 or later of the rally attempt, a major index must surge significantly (typically 1.5% or more) on higher volume than the prior session. 4. Progressive Exposure: Deploy small pilot positions (such as 0.25% to 0.5% risk) only on high-RS leaders breaking out of proper bases. 5. Pyramiding Capital: Add further capital only after initial pilot trades demonstrate immediate open profit traction."
+            }
+          ]
+        }
+      ]
+    },
+    {
       "timestamp": "2026-11-19T20:00:00+00:00",
       "header": "Thursday, November 19, 2026's Report",
       "headline": "Understanding market action during major structural transitions requires analyzing technical price levels, sector rotation, and macroeconomic liquidity flows.",
@@ -1237,7 +1565,9 @@
           ]
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-11-13T20:00:00+00:00",
       "header": "Friday, November 13, 2026's Report",
@@ -1554,9 +1884,7 @@
           ]
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-11-12T20:00:00+00:00",
       "header": "Thursday, November 12, 2026's Report",
@@ -4689,7 +5017,9 @@
           ]
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-10-28T20:00:00+00:00",
       "header": "Wednesday, October 28, 2026's Report",
@@ -4995,9 +5325,7 @@
           ]
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-10-27T20:00:00+00:00",
       "header": "Tuesday, October 27, 2026's Report",
