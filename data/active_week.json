@@ -1,5 +1,294 @@
 [
   {
+    "timestamp": "2026-11-27T20:00:00+00:00",
+    "header": "Friday, November 27, 2026's Report",
+    "headline": "The shortened post-Thanksgiving trading session on November 27, 2026, delivered a decisive upside reaction across major U.S. equity benchmarks, marked by a surge in growth indices following a multi-week technical correction.",
+    "summary": "The shortened post-Thanksgiving trading session on November 27, 2026, delivered a decisive upside reaction across major U.S. equity benchmarks, marked by a surge in growth indices following a multi-week technical correction. According to analysis from Investor's Business Daily host Justin Nielsen and senior market strategist Mike Webster, the session produced a Follow-Through Day (FTD) \"in spirit\" on Day 4 of a new rally attempt. While price action comfortably cleared standard follow-through thresholds, the shortened trading schedule creates distinct volume distortion that requires disciplined risk controls as broad market indexes contend with key moving average resistance.",
+    "indexes": [
+      {
+        "name": "NASDAQ Composite",
+        "pct": "+2.3%",
+        "action": "Advanced 2.3%, easily exceeding the standard 1.25% price hurdle required for a follow-through day confirmation. However, the index remains beneath its 21-day moving average line and its critical 200-day moving average line, leaving substantial technical damage to repair."
+      },
+      {
+        "name": "S&P 500",
+        "pct": "+1.6%",
+        "action": "Rose 1.6%, regaining short-term ground while attempting to stabilize following a severe mid-November drawdown."
+      },
+      {
+        "name": "Dow Jones Industrial Average",
+        "pct": "+1.2%",
+        "action": "Rebounded 1.2%, supported by broader blue-chip participation."
+      },
+      {
+        "name": "Russell 2000 (Small Caps)",
+        "pct": "+1.7%",
+        "action": "Surged 1.7%, reflecting improved short-term risk appetite across small-cap equities. Despite the strong single-day price gains, the technical structure of the NASDAQ Composite reflects ongoing resistance. Key overhead technical milestones that must be cleared to confirm a durable trend change include:."
+      }
+    ],
+    "macro": [],
+    "sectors": [
+      {
+        "name": "",
+        "tickers": [],
+        "pct": "",
+        "action": "Market breadth displays significant divergence between market-cap-weighted technology benchmarks and broader, equal-weighted equity structures."
+      },
+      {
+        "name": "Equal-Weight S&P 500 (RSP)",
+        "tickers": [
+          "RSP"
+        ],
+        "pct": "",
+        "action": "Exhibits superior technical health compared to the cap-weighted S&P 500 and NASDAQ Composite. RSP holds above its 200-day moving average line and successfully reclaimed its 21-day and 50-day moving average lines, with daily lows closing above short-term moving averages."
+      },
+      {
+        "name": "NYSE Composite",
+        "tickers": [],
+        "pct": "",
+        "action": "Outperforms the NASDAQ Composite but remains structurally weaker than RSP, having briefly undercut its 200-day moving average line before reclaiming short-term support."
+      },
+      {
+        "name": "Homebuilding ETFs (ITB & XHB)",
+        "tickers": [],
+        "pct": "",
+        "action": "Under active monitoring as prospective rotational targets. While currently trading beneath their 200-day moving average lines due to rate volatility, lower Treasury yields could catalyze base breakouts above key resistance levels (e.g., $110 on XHB)."
+      },
+      {
+        "name": "Semiconductor ETF (SMH)",
+        "tickers": [
+          "SMH"
+        ],
+        "pct": "4%",
+        "action": "Advanced over 4% during the session but remains in a severely damaged chart pattern, acting as a primary short-covering vehicle rather than displaying true institutional accumulation."
+      }
+    ],
+    "stocks": [
+      {
+        "ticker": "FIGS",
+        "tickers": [
+          "FIGS"
+        ],
+        "company": "FIGS Inc.",
+        "pct": "+8%",
+        "action": "Technical Action: Surged 8% on the session, demonstrating remarkable relative strength. While QQQ made lower low patterns during the November pullback, FIGS maintained a higher low relative to its prior month low of $19.44. | Fundamental & Sector Positioning: Represents a hybrid play across healthcare personnel apparel (scrubs) and retail consumer demand, showing strong institutional accumulation independent of technology sector weakness."
+      },
+      {
+        "ticker": "CROX",
+        "tickers": [
+          "CROX"
+        ],
+        "company": "Crocs Inc.",
+        "pct": "+1.2%",
+        "action": "Technical Action: Advanced 1.2%, forming a tight daily consolidation pattern near its 21-day moving average line. | Setup & Risk Control: Non-AI retail and medical footwear play exhibiting positive divergence. The stock provides an actionable starter entry with risk strictly defined at yesterday's low near the 21-day moving average."
+      },
+      {
+        "ticker": "NTSK",
+        "tickers": [
+          "NTSK"
+        ],
+        "company": "Netskope Inc.",
+        "pct": "32.7%",
+        "action": "Technical Action: Ranked as one of the strongest technical charts in cybersecurity, holding an accelerating Relative Strength (RS) line near all-time highs despite trading 32.7% above its 50-day moving average line. | Monthly Base Structure: Forms a large cup pattern on monthly charts following its initial post-IPO decline. | Earnings Risk Management: Reports quarterly earnings on December 2. Due to elevated volatility and potential downside gaps, analysts advise keeping position sizes small (1% to 3% exposure) if holding through the release."
+      }
+    ],
+    "strategy": [
+      {
+        "title": "",
+        "text": "Evaluating the validity of the November 27 price surge requires examining the specific structural mechanics of holiday follow-through days alongside historical market precedents. Follow-Through Day Volume Distortion & Rules A textbook Follow-Through Day requires two core criteria: a price gain exceeding 1.25% and total trading volume higher than the preceding session. Because November 27 was a half-day session, comparing total daily volume to Wednesday's full trading day represents an unequal comparison. Intraday hourly volume tracking also contains structural gaps due to typical front-loaded and end-of-day volume concentration (forming a \"U-shaped\" volume curve). Consequently, analysts classify the session as a Follow-Through Day in Spirit. While volume data is inconclusive, the price thrust on Day 4 of the rally attempt mandates a psychological shift from defensive posture to cautious optimism. To manage risk given the recent failure of a prior follow-through day underneath the 200-day line, portfolio managers establish Wednesday's close (or session low) as the absolute line in the sand. Any position added on the follow-through day must be protected by this benchmark level. Furthermore, traders monitor for subsequent follow-through days over the next 21 trading sessions—strong up days matching follow-through criteria that historically increase the statistical probability of a sustained bull advance. Historical Precedent Year\tTechnical Setup & Context\tPost-FTD Price Behavior & Key Rules November 2012\tHalf-day FTD after Thanksgiving occurring beneath the 200-day moving average line.\tHeld strictly above the line in the sand (Wednesday's close) despite multi-week consolidation chop, eventually launching a major bull advance once the daily low trended above the 21-day line. 1994–1995\tSevere Federal Reserve rate-hiking cycle (75 bps hike in Nov 1994) with indexes struggling under 200-day resistance.\tRepeatedly failed at the 200-day line until daily lows held above the 200-day moving average for three consecutive sessions, initiating the powerful 1995 advance."
+      },
+      {
+        "title": "Historical Precedent Year",
+        "text": "Technical Setup & Context | Post-FTD Price Behavior & Key Rules."
+      },
+      {
+        "title": "1994–1995",
+        "text": "november 2012: 1994–1995 | half day ftd after thanksgiving occurring beneath the 200 day moving average line: Severe Federal Reserve rate-hiking cycle (75 bps hike in Nov 1994) with indexes struggling under 200-day resistance. | held strictly above the line in the sand wednesday s close despite multi week consolidation chop eventually launching a major bull advance once the daily low trended above the 21 day line: Repeatedly failed at the 200-day line until daily lows held above the 200-day moving average for three consecutive sessions, initiating the powerful 1995 advance."
+      },
+      {
+        "title": "",
+        "text": "Navigating a follow-through day underneath a declining 200-day moving average requires strict risk management protocols to prevent capital destruction in choppy market environments. Technical Risk Management Checklist:."
+      }
+    ],
+    "sections": [
+      {
+        "number": 1,
+        "title": "Broad Market Index Performance & Technical Structure",
+        "kind": "indexes",
+        "items": [
+          {
+            "title": "",
+            "text": "Major equity indexes staged a robust rebound during the holiday-shortened half-day session, recovering a substantial portion of the downside experienced earlier in the trading week."
+          },
+          {
+            "title": "NASDAQ Composite",
+            "text": "Advanced 2.3%, easily exceeding the standard 1.25% price hurdle required for a follow-through day confirmation. However, the index remains beneath its 21-day moving average line and its critical 200-day moving average line, leaving substantial technical damage to repair."
+          },
+          {
+            "title": "S&P 500",
+            "text": "Rose 1.6%, regaining short-term ground while attempting to stabilize following a severe mid-November drawdown."
+          },
+          {
+            "title": "Dow Jones Industrial Average",
+            "text": "Rebounded 1.2%, supported by broader blue-chip participation."
+          },
+          {
+            "title": "Russell 2000 (Small Caps)",
+            "text": "Surged 1.7%, reflecting improved short-term risk appetite across small-cap equities. Despite the strong single-day price gains, the technical structure of the NASDAQ Composite reflects ongoing resistance. Key overhead technical milestones that must be cleared to confirm a durable trend change include:."
+          }
+        ]
+      },
+      {
+        "number": 1,
+        "title": "Monday's High: Reclaiming the intraday peak from the Day 1 rally attempt on November 23.",
+        "kind": "indexes",
+        "items": [
+          {
+            "title": "",
+            "text": "2. 21-Day Moving Average Line: Overcoming short-term moving average resistance. 3. 200-Day Moving Average Line: Reestablishing price action above the long-term trendline. Under the established Webby Trend Checklist, confirming a true technical recovery requires a daily low remaining above the 200-day line for three consecutive trading sessions accompanied by positive daily closes."
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Market Precedents & Follow-Through Day Mechanics",
+        "kind": "strategy",
+        "items": [
+          {
+            "title": "",
+            "text": "Evaluating the validity of the November 27 price surge requires examining the specific structural mechanics of holiday follow-through days alongside historical market precedents. Follow-Through Day Volume Distortion & Rules A textbook Follow-Through Day requires two core criteria: a price gain exceeding 1.25% and total trading volume higher than the preceding session. Because November 27 was a half-day session, comparing total daily volume to Wednesday's full trading day represents an unequal comparison. Intraday hourly volume tracking also contains structural gaps due to typical front-loaded and end-of-day volume concentration (forming a \"U-shaped\" volume curve). Consequently, analysts classify the session as a Follow-Through Day in Spirit. While volume data is inconclusive, the price thrust on Day 4 of the rally attempt mandates a psychological shift from defensive posture to cautious optimism. To manage risk given the recent failure of a prior follow-through day underneath the 200-day line, portfolio managers establish Wednesday's close (or session low) as the absolute line in the sand. Any position added on the follow-through day must be protected by this benchmark level. Furthermore, traders monitor for subsequent follow-through days over the next 21 trading sessions—strong up days matching follow-through criteria that historically increase the statistical probability of a sustained bull advance. Historical Precedent Year\tTechnical Setup & Context\tPost-FTD Price Behavior & Key Rules November 2012\tHalf-day FTD after Thanksgiving occurring beneath the 200-day moving average line.\tHeld strictly above the line in the sand (Wednesday's close) despite multi-week consolidation chop, eventually launching a major bull advance once the daily low trended above the 21-day line. 1994–1995\tSevere Federal Reserve rate-hiking cycle (75 bps hike in Nov 1994) with indexes struggling under 200-day resistance.\tRepeatedly failed at the 200-day line until daily lows held above the 200-day moving average for three consecutive sessions, initiating the powerful 1995 advance."
+          },
+          {
+            "title": "Historical Precedent Year",
+            "text": "Technical Setup & Context | Post-FTD Price Behavior & Key Rules."
+          },
+          {
+            "title": "1994–1995",
+            "text": "november 2012: 1994–1995 | half day ftd after thanksgiving occurring beneath the 200 day moving average line: Severe Federal Reserve rate-hiking cycle (75 bps hike in Nov 1994) with indexes struggling under 200-day resistance. | held strictly above the line in the sand wednesday s close despite multi week consolidation chop eventually launching a major bull advance once the daily low trended above the 21 day line: Repeatedly failed at the 200-day line until daily lows held above the 200-day moving average for three consecutive sessions, initiating the powerful 1995 advance."
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Sector ETF Dynamics & Breadth Indicators",
+        "kind": "sectors",
+        "items": [
+          {
+            "title": "",
+            "text": "Market breadth displays significant divergence between market-cap-weighted technology benchmarks and broader, equal-weighted equity structures."
+          },
+          {
+            "title": "Equal-Weight S&P 500 (RSP)",
+            "text": "Exhibits superior technical health compared to the cap-weighted S&P 500 and NASDAQ Composite. RSP holds above its 200-day moving average line and successfully reclaimed its 21-day and 50-day moving average lines, with daily lows closing above short-term moving averages."
+          },
+          {
+            "title": "NYSE Composite",
+            "text": "Outperforms the NASDAQ Composite but remains structurally weaker than RSP, having briefly undercut its 200-day moving average line before reclaiming short-term support."
+          },
+          {
+            "title": "Homebuilding ETFs (ITB & XHB)",
+            "text": "Under active monitoring as prospective rotational targets. While currently trading beneath their 200-day moving average lines due to rate volatility, lower Treasury yields could catalyze base breakouts above key resistance levels (e.g., $110 on XHB)."
+          },
+          {
+            "title": "Semiconductor ETF (SMH)",
+            "text": "Advanced over 4% during the session but remains in a severely damaged chart pattern, acting as a primary short-covering vehicle rather than displaying true institutional accumulation."
+          }
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Featured Individual Stock Setups & Relative Strength Divergence",
+        "kind": "stocks",
+        "items": [
+          {
+            "title": "",
+            "text": "Identifying market leadership during a tentative rally attempt requires screening for stocks exhibiting positive divergence—holding higher lows while major indexes undercut prior technical support levels."
+          },
+          {
+            "title": "FIGS Inc. (FIGS)",
+            "text": ""
+          },
+          {
+            "title": "Technical Action",
+            "text": "Surged 8% on the session, demonstrating remarkable relative strength. While QQQ made lower low patterns during the November pullback, FIGS maintained a higher low relative to its prior month low of $19.44."
+          },
+          {
+            "title": "Fundamental & Sector Positioning",
+            "text": "Represents a hybrid play across healthcare personnel apparel (scrubs) and retail consumer demand, showing strong institutional accumulation independent of technology sector weakness."
+          },
+          {
+            "title": "Crocs Inc. (CROX)",
+            "text": ""
+          },
+          {
+            "title": "Technical Action",
+            "text": "Advanced 1.2%, forming a tight daily consolidation pattern near its 21-day moving average line."
+          },
+          {
+            "title": "Setup & Risk Control",
+            "text": "Non-AI retail and medical footwear play exhibiting positive divergence. The stock provides an actionable starter entry with risk strictly defined at yesterday's low near the 21-day moving average."
+          },
+          {
+            "title": "Netskope Inc. (NTSK)",
+            "text": ""
+          },
+          {
+            "title": "Technical Action",
+            "text": "Ranked as one of the strongest technical charts in cybersecurity, holding an accelerating Relative Strength (RS) line near all-time highs despite trading 32.7% above its 50-day moving average line."
+          },
+          {
+            "title": "Monthly Base Structure",
+            "text": "Forms a large cup pattern on monthly charts following its initial post-IPO decline."
+          },
+          {
+            "title": "Earnings Risk Management",
+            "text": "Reports quarterly earnings on December 2. Due to elevated volatility and potential downside gaps, analysts advise keeping position sizes small (1% to 3% exposure) if holding through the release."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "title": "Portfolio Strategy & Risk Management Rules",
+        "kind": "strategy",
+        "items": [
+          {
+            "title": "",
+            "text": "Navigating a follow-through day underneath a declining 200-day moving average requires strict risk management protocols to prevent capital destruction in choppy market environments. Technical Risk Management Checklist:."
+          }
+        ]
+      },
+      {
+        "number": 1,
+        "title": "Establish Line in the Sand: Set explicit stop-loss levels at Wednesday's close or session low.",
+        "kind": "other",
+        "items": []
+      },
+      {
+        "number": 2,
+        "title": "Incremental Exposure: Deploy starter positions (1% to 3% sizing) rather than aggressive full-position sizes.",
+        "kind": "other",
+        "items": []
+      },
+      {
+        "number": 3,
+        "title": "Enforce RS Line Exit Rules: Prune dead weight using Relative Strength line moving average breakdowns.",
+        "kind": "other",
+        "items": []
+      },
+      {
+        "number": 4,
+        "title": "Overcome Inertia: Execute 6% partial sales to break emotional freeze when trades round-trip.",
+        "kind": "other",
+        "items": [
+          {
+            "title": "",
+            "text": "1. Mindset Shift with Disciplined Sizing: A follow-through day requires shifting to an optimistic bias, but capital should be deployed incrementally via starter positions (e.g., ETF exposure or small equity lots) rather than aggressive leverage. 2. Pruning Dead-Weight Holdings: Investors holding damaged technology leadership (e.g., SanDisk, Micron, Nvidia) should utilize post-FTD bounces to exit positions rather than hoping for immediate full recoveries. Monitoring Relative Strength line moving averages provides an objective exit signal before pullbacks breach major moving averages. 3. The 6% Rule for Emotional Inertia: When frozen by unrealized losses or indecision, selling a modest 6% fraction of a position breaks psychological inertia, restores objectivity, and frees capital for fresh merchandise. 4. Tracking Webby RSI & Bob Marley Indicators: Monitor Webby RSI (lows relative to the 21-day EMA in ATRs) for a \"wall of blue\" confirming low stability, while tracking the Bob Marley Off-High indicator (which reached extreme levels of ~9 ATRs on RSP during the correction) to ensure risk margins remain intact."
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-25T20:00:00+00:00",
     "header": "Wednesday, November 25, 2026's Report",
     "headline": "Trading on Thanksgiving Eve delivered a high-volatility, intraday reversal across benchmark indexes, reflecting intense shifts in institutional sentiment.",
